@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
 **Last Updated:** 2026-05-17
-**Total Sessions:** 13
-**Total Files:** 79 (session logs) + raw/ history
+**Total Sessions:** 14
+**Total Files:** 83 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-05-17 | 04      | Opus-4.7 | Personal info scaffolding (.personal/darren@neese.us/) | ✅ Complete |
 | 2026-05-17 | 03      | Opus-4.7 | Sunday sermon — Jonah 3–4 → Lam 3 → John 10        | ✅ Complete |
 | 2026-05-17 | 02      | Opus-4.7 | Oswald Chambers teacher agent + snake_case skills  | ✅ Complete |
 | 2026-05-17 | 01      | Opus-4.7 | GSD update 1.42.2 → 1.42.3                         | ✅ Complete |
@@ -59,6 +60,7 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-05-17 | Opus-4.7 | Personal info scaffolding under `.personal/darren@neese.us/` — profile, reading-plan, prayer-list (tracked) + contacts (gitignored `private/` per `.personal/README.md` convention); `.gitignore` updated for per-user opt-in |
 | 2026-05-17 | Opus-4.7 | 7th teacher agent (Oswald Chambers) + `_new_teacher_agent` meta-skill; rename of all 12 custom skills from `_kebab-case` → `_snake_case`; convention docs rewritten |
 | 2026-05-17 | Opus-4.7 | `/gsd-update` patch bump 1.42.2 → 1.42.3 (global Claude install); stale `gsd-sdk` shim flagged |
 | 2026-05-09 | Opus-4.7 | MemPalace 3.3.4 installed via uv; SessionStart/Stop/PreCompact hooks; `.mcp.json` server; README "Memory & Retrieval" section; absolute-path fix for Git Bash hooks |
@@ -76,6 +78,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
+| 2026-05-17 | Personal info scaffolding (.personal/darren@neese.us/) | 4     |
 | 2026-05-17 | Sunday sermon — Jonah 3–4 → Lam 3 → John 10        | 10    |
 | 2026-05-17 | Oswald Chambers teacher agent + snake_case skills  | 6     |
 | 2026-05-17 | GSD update 1.42.2 → 1.42.3                         | 2     |
@@ -100,14 +103,21 @@
 
 | Metric                | Value              |
 |-----------------------|--------------------|
-| Total sessions        | 13                 |
+| Total sessions        | 14                 |
 | Models used           | Opus-4.5, Opus-4.7 |
-| Files created (total) | ~115               |
+| Files created (total) | ~119               |
 | Most active month     | May 2026           |
 
 ---
 
 ## Complete File Listing
+
+### 2026-05-17-04-personal-info-scaffolding/
+
+- [Opus-4.7--00.md](./2026-05-17-04-personal-info-scaffolding/Opus-4.7--00.md) — Main documentation
+- [Opus-4.7--01.md](./2026-05-17-04-personal-info-scaffolding/Opus-4.7--01.md) — Exchange 1: Initial request + clarifying question
+- [Opus-4.7--02.md](./2026-05-17-04-personal-info-scaffolding/Opus-4.7--02.md) — Exchange 2: User answers + scaffold 4 files + gitignore update
+- [Opus-4.7--03.md](./2026-05-17-04-personal-info-scaffolding/Opus-4.7--03.md) — Exchange 3: Wrap up per AI-Chats Protocol v3.2
 
 ### 2026-05-17-03-jonah-john10-sermon-study/
 
