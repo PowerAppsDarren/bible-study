@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
-**Last Updated:** 2026-05-17
-**Total Sessions:** 14
-**Total Files:** 83 (session logs) + raw/ history
+**Last Updated:** 2026-05-18
+**Total Sessions:** 15
+**Total Files:** 87 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-05-18 | 01      | Opus-4.7 | Isaiah 8 devotional (v19 mediums) + Euphrates news check (v7) | ✅ Complete |
 | 2026-05-17 | 04      | Opus-4.7 | Personal info scaffolding (.personal/darren@neese.us/) | ✅ Complete |
 | 2026-05-17 | 03      | Opus-4.7 | Sunday sermon — Jonah 3–4 → Lam 3 → John 10        | ✅ Complete |
 | 2026-05-17 | 02      | Opus-4.7 | Oswald Chambers teacher agent + snake_case skills  | ✅ Complete |
@@ -40,6 +41,7 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-05-18 | Opus-4.7 | Isaiah 8 deep devotional — Maher-Shalal-Hash-Baz, Shiloah vs Euphrates, Immanuel, qesher/fear of the Lord, stone of stumbling, **v19 anchor** on `ʼov`/`yiddeʻoni`/"chirp and mutter," torah & teʻudah, Watchers/Enoch; paired with live 2026-05-18 Euphrates drying news check + Isaiah 8 ↔ Rev 16:12 symmetry |
 | 2026-05-17 | Opus-4.7 | Live sermon walk — Jonah 3:1–4:4 (revival prophet didn't want), Lamentations 3:1–18 (the bottom of the Bible), John 10:7–17 (the Gate / abundant life), 3 reflection-question prompts (roped together, too small, too stubborn / Acts 9) |
 
 ### 🏗️ Template Architecture
@@ -78,6 +80,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
+| 2026-05-18 | Isaiah 8 devotional + Euphrates news check        | 4     |
 | 2026-05-17 | Personal info scaffolding (.personal/darren@neese.us/) | 4     |
 | 2026-05-17 | Sunday sermon — Jonah 3–4 → Lam 3 → John 10        | 10    |
 | 2026-05-17 | Oswald Chambers teacher agent + snake_case skills  | 6     |
@@ -103,14 +106,21 @@
 
 | Metric                | Value              |
 |-----------------------|--------------------|
-| Total sessions        | 14                 |
+| Total sessions        | 15                 |
 | Models used           | Opus-4.5, Opus-4.7 |
-| Files created (total) | ~119               |
+| Files created (total) | ~123               |
 | Most active month     | May 2026           |
 
 ---
 
 ## Complete File Listing
+
+### 2026-05-18-01-isaiah-8-and-euphrates/
+
+- [Opus-4.7--00.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--00.md) — Main documentation
+- [Opus-4.7--01.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--01.md) — Exchange 1: Isaiah 8 chapter request + clarifying question
+- [Opus-4.7--02.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--02.md) — Exchange 2: v19 anchor — full Isaiah 8 devotional
+- [Opus-4.7--03.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--03.md) — Exchange 3: Euphrates v7 real-time news check + Rev 16:12 symmetry
 
 ### 2026-05-17-04-personal-info-scaffolding/
 
