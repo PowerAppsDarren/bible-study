@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
-**Last Updated:** 2026-05-18
-**Total Sessions:** 15
-**Total Files:** 87 (session logs) + raw/ history
+**Last Updated:** 2026-05-19
+**Total Sessions:** 16
+**Total Files:** 90 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-05-19 | 01      | Opus-4.6 | AI-Chats session logging (protocol invocation)     | ✅ Complete |
 | 2026-05-18 | 01      | Opus-4.7 | Isaiah 8 devotional (v19 mediums) + Euphrates news check (v7) | ✅ Complete |
 | 2026-05-17 | 04      | Opus-4.7 | Personal info scaffolding (.personal/darren@neese.us/) | ✅ Complete |
 | 2026-05-17 | 03      | Opus-4.7 | Sunday sermon — Jonah 3–4 → Lam 3 → John 10        | ✅ Complete |
@@ -71,6 +72,7 @@
 | 2026-05-09 | Opus-4.7 | 6 teacher-voice agents + `_deep-bible-study-devotional` skill registered under `.claude/` |
 | 2026-05-09 | Opus-4.7 | CLAUDE.md initialization + 7 research agents under `.claude/agents/` |
 | 2026-05-09 | Opus-4.7 | VS Code terminal theming (#171717 / pure green / Cascadia 600), Node.js LTS install, GSD v1.41.1 global install |
+| 2026-05-19 | Opus-4.6 | First Opus 4.6 session — `/_ai_chats` protocol invocation and session logging |
 
 ---
 
@@ -80,7 +82,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
-| 2026-05-18 | Isaiah 8 devotional + Euphrates news check        | 4     |
+| 2026-05-18 | Isaiah 8 devotional + Euphrates news check        | 5     |
 | 2026-05-17 | Personal info scaffolding (.personal/darren@neese.us/) | 4     |
 | 2026-05-17 | Sunday sermon — Jonah 3–4 → Lam 3 → John 10        | 10    |
 | 2026-05-17 | Oswald Chambers teacher agent + snake_case skills  | 6     |
@@ -91,6 +93,12 @@
 | 2026-05-09 | Teacher-voice agents + deep-bible-study skill      | 2     |
 | 2026-05-09 | CLAUDE.md initialization & 7-agent research team   | 6     |
 | 2026-05-09 | VS Code terminal theming + GSD global install      | 9     |
+
+### Opus-4.6
+
+| Date       | Topic                                              | Files |
+|------------|----------------------------------------------------|-------|
+| 2026-05-19 | AI-Chats session logging (protocol invocation)     | 2     |
 
 ### Opus-4.5
 
@@ -106,14 +114,19 @@
 
 | Metric                | Value              |
 |-----------------------|--------------------|
-| Total sessions        | 15                 |
-| Models used           | Opus-4.5, Opus-4.7 |
-| Files created (total) | ~123               |
+| Total sessions        | 16                 |
+| Models used           | Opus-4.5, Opus-4.6, Opus-4.7 |
+| Files created (total) | ~126               |
 | Most active month     | May 2026           |
 
 ---
 
 ## Complete File Listing
+
+### 2026-05-19-01-ai-chats-session-logging/
+
+- [Opus-4.6--00.md](./2026-05-19-01-ai-chats-session-logging/Opus-4.6--00.md) — Main documentation
+- [Opus-4.6--01.md](./2026-05-19-01-ai-chats-session-logging/Opus-4.6--01.md) — Exchange 1: /_ai_chats invocation and logging
 
 ### 2026-05-18-01-isaiah-8-and-euphrates/
 
@@ -121,6 +134,7 @@
 - [Opus-4.7--01.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--01.md) — Exchange 1: Isaiah 8 chapter request + clarifying question
 - [Opus-4.7--02.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--02.md) — Exchange 2: v19 anchor — full Isaiah 8 devotional
 - [Opus-4.7--03.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--03.md) — Exchange 3: Euphrates v7 real-time news check + Rev 16:12 symmetry
+- [Opus-4.7--04.md](./2026-05-18-01-isaiah-8-and-euphrates/Opus-4.7--04.md) — Exchange 4: Commit the session log (`dd3d550`)
 
 ### 2026-05-17-04-personal-info-scaffolding/
 

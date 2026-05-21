@@ -5,7 +5,7 @@
 - **Topic:** Deep devotional walk through Isaiah 8 anchored to v19 (mediums/necromancers), followed by a live news check on Euphrates drying status (v7) as of 2026-05-18
 - **Tool:** Claude Code
 - **Project:** bible-study
-- **Exchange Count:** 3
+- **Exchange Count:** 4
 
 ## 💡 Conversation Summary
 
@@ -33,6 +33,10 @@ User followed up wanting the Euphrates (Isaiah 8:7) cross-checked against real-t
 - Pairing a devotional chapter (Isaiah 8) with a same-session current-events check (Euphrates 2026) is a natural extension when the chapter has a named geographic / prophetic referent. The Isaiah 8 ↔ Revelation 16 symmetry is the load-bearing insight from the news check; worth remembering for future Euphrates-touching chapters.
 - Verbatim exchange capture is straightforward when the devotional is the main output — the body of `--01.md` is just the devotional itself.
 
+## ✅ Session Log Committed
+
+Session log committed as **`dd3d550`** — `docs(ai-chats): log session 01 — Isaiah 8 devotional + Euphrates news check` (5 files, 346 insertions). Not yet pushed to `origin/main`. `maps/` left untracked (unrelated to this session).
+
 ## ⏭️ Next Steps
 
 - **Isaiah 9 — "Unto Us a Child Is Born"** is teed up. The chapter-division pivot from 8:22 darkness → 9:1 great light is the natural hook.
@@ -44,3 +48,4 @@ User followed up wanting the Euphrates (Isaiah 8:7) cross-checked against real-t
 - [01 — Isaiah 8 chapter request + clarifying question for anchor verse](./Opus-4.7--01.md)
 - [02 — v19 selected as anchor; full Isaiah 8 devotional generated](./Opus-4.7--02.md)
 - [03 — Euphrates v7 real-time news check (2026-05-18) + Rev 16:12 symmetry](./Opus-4.7--03.md)
+- [04 — Commit the session log (`dd3d550`)](./Opus-4.7--04.md)
