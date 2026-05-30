@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-05-30
 **Total Sessions:** 18
-**Total Files:** 98 (session logs) + raw/ history
+**Total Files:** 99 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -86,7 +86,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
-| 2026-05-30 | Isaiah 9 devotional + Isaiah 1–9 refresher         | 6     |
+| 2026-05-30 | Isaiah 9 devotional + Isaiah 1–9 refresher         | 7     |
 
 ### Opus-4.7
 
@@ -127,7 +127,7 @@
 |-----------------------|--------------------|
 | Total sessions        | 18                 |
 | Models used           | Opus-4.5, Opus-4.6, Opus-4.7, Opus-4.8 |
-| Files created (total) | ~134               |
+| Files created (total) | ~135               |
 | Most active month     | May 2026           |
 
 ---
@@ -147,6 +147,7 @@
 - [Opus-4.8--03.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--03.md) — Exchange 3: stray input "vmuser313115"
 - [Opus-4.8--04.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--04.md) — Exchange 4: "nm..." acknowledgment
 - [Opus-4.8--05.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--05.md) — Exchange 5: names of Christ (Isaiah 9:6) bullet list
+- [Opus-4.8--06.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--06.md) — Exchange 6: Wrap up per AI-Chats Protocol v3.2
 
 ### 2026-05-19-01-ai-chats-session-logging/
 

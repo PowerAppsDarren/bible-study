@@ -5,7 +5,7 @@
 - **Topic:** Deep devotional study of Isaiah 9 (Child-King throne-names), a one-bullet-per-chapter refresher of Isaiah 1–9, and a focused bullet list of the names of Christ in 9:6
 - **Tool:** Claude Code
 - **Project:** bible-study
-- **Exchange Count:** 5
+- **Exchange Count:** 6
 
 ## 💡 Conversation Summary
 
@@ -48,3 +48,4 @@ No files were created or modified in the shared repo during this session — it 
 - [03 — stray input "vmuser313115"](./Opus-4.8--03.md)
 - [04 — "nm..." acknowledgment](./Opus-4.8--04.md)
 - [05 — names of Christ (Isaiah 9:6) bullet list](./Opus-4.8--05.md)
+- [06 — Wrap up per AI-Chats Protocol v3.2](./Opus-4.8--06.md)
