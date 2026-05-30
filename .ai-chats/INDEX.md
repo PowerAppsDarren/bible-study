@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
-**Last Updated:** 2026-05-19
-**Total Sessions:** 16
-**Total Files:** 90 (session logs) + raw/ history
+**Last Updated:** 2026-05-30
+**Total Sessions:** 18
+**Total Files:** 98 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,8 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-05-30 | 02      | Opus-4.6 | Angels, worship, and the imago Dei -- Satan's refusal tradition | ✅ Complete |
+| 2026-05-30 | 01      | Opus-4.8 | Isaiah 9 devotional (Child-King throne-names) + Isaiah 1–9 refresher | ✅ Complete |
 | 2026-05-19 | 01      | Opus-4.6 | AI-Chats session logging (protocol invocation)     | ✅ Complete |
 | 2026-05-18 | 01      | Opus-4.7 | Isaiah 8 devotional (v19 mediums) + Euphrates news check (v7) | ✅ Complete |
 | 2026-05-17 | 04      | Opus-4.7 | Personal info scaffolding (.personal/darren@neese.us/) | ✅ Complete |
@@ -42,6 +44,8 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-05-30 | Opus-4.6 | Theological vibe session -- did God command angels to worship Adam (imago Dei)? Life of Adam and Eve, Quran parallels, 2 Enoch, Hebrews 1-2, Genesis 1:26-27; Satan's refusal as origin of his fall and hatred of humanity |
+| 2026-05-30 | Opus-4.8 | Isaiah 9 deep devotional — darkness→light hinge (8:22 → 9:2 "Nevertheless"), Galilee of the Gentiles → Matt 4:13-16, Child *born* / Son *given* (two verbs), the four throne-names with Hebrew (*Pele' Yo'etz*, *El Gibbor* = same phrase as 10:21, *Avi-'ad*, *Sar Shalom*), 9:7 "no end" → Luke 1:32-33, the fourfold "His hand is stretched out still" refrain (9:12/17/21/10:4), Cahn's "bricks have fallen" (9:10) modern application; plus a one-bullet-per-chapter Isaiah 1–9 refresher and a focused names-of-Christ (9:6) bullet list |
 | 2026-05-18 | Opus-4.7 | Isaiah 8 deep devotional — Maher-Shalal-Hash-Baz, Shiloah vs Euphrates, Immanuel, qesher/fear of the Lord, stone of stumbling, **v19 anchor** on `ʼov`/`yiddeʻoni`/"chirp and mutter," torah & teʻudah, Watchers/Enoch; paired with live 2026-05-18 Euphrates drying news check + Isaiah 8 ↔ Rev 16:12 symmetry |
 | 2026-05-17 | Opus-4.7 | Live sermon walk — Jonah 3:1–4:4 (revival prophet didn't want), Lamentations 3:1–18 (the bottom of the Bible), John 10:7–17 (the Gate / abundant life), 3 reflection-question prompts (roped together, too small, too stubborn / Acts 9) |
 
@@ -78,6 +82,12 @@
 
 ## Sessions by Model
 
+### Opus-4.8
+
+| Date       | Topic                                              | Files |
+|------------|----------------------------------------------------|-------|
+| 2026-05-30 | Isaiah 9 devotional + Isaiah 1–9 refresher         | 6     |
+
 ### Opus-4.7
 
 | Date       | Topic                                              | Files |
@@ -98,6 +108,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
+| 2026-05-30 | Angels, worship, and the imago Dei                 | 2     |
 | 2026-05-19 | AI-Chats session logging (protocol invocation)     | 2     |
 
 ### Opus-4.5
@@ -114,14 +125,28 @@
 
 | Metric                | Value              |
 |-----------------------|--------------------|
-| Total sessions        | 16                 |
-| Models used           | Opus-4.5, Opus-4.6, Opus-4.7 |
-| Files created (total) | ~126               |
+| Total sessions        | 18                 |
+| Models used           | Opus-4.5, Opus-4.6, Opus-4.7, Opus-4.8 |
+| Files created (total) | ~134               |
 | Most active month     | May 2026           |
 
 ---
 
 ## Complete File Listing
+
+### 2026-05-30-02-angels-worship-imago-dei/
+
+- [Opus-4.6--00.md](./2026-05-30-02-angels-worship-imago-dei/Opus-4.6--00.md) — Main documentation
+- [Opus-4.6--01.md](./2026-05-30-02-angels-worship-imago-dei/Opus-4.6--01.md) — Exchange 1: Angels, worship, and the imago Dei
+
+### 2026-05-30-01-isaiah-9-devotional/
+
+- [Opus-4.8--00.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--00.md) — Main documentation
+- [Opus-4.8--01.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--01.md) — Exchange 1: Isaiah 9 request (ultrathink) + full devotional
+- [Opus-4.8--02.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--02.md) — Exchange 2: "a little lost" — Isaiah 1–9 one-bullet refresher
+- [Opus-4.8--03.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--03.md) — Exchange 3: stray input "vmuser313115"
+- [Opus-4.8--04.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--04.md) — Exchange 4: "nm..." acknowledgment
+- [Opus-4.8--05.md](./2026-05-30-01-isaiah-9-devotional/Opus-4.8--05.md) — Exchange 5: names of Christ (Isaiah 9:6) bullet list
 
 ### 2026-05-19-01-ai-chats-session-logging/
 
