@@ -68,7 +68,8 @@ Three, in increasing weight. Default to **inline**; offer the others.
 
 3. **Standalone HTML study sheet** — a self-contained `.html` file that opens in any browser by double-click, no tooling. Use when the user asks for HTML, wants something printable/shareable, or wants several diagrams on one scrollable page (a one-page visual study sheet — e.g., a chapter's timeline + theme mindmap + chiasm together). Build from `references/html-template.html`:
    - Fill `{{TITLE}}`, `{{SOURCE}}`, `{{DATE}}`; add one `<section>` per diagram (`<h2>` title, `<pre class="mermaid">` source, `.notice` caption).
-   - Mermaid loads from CDN (needs internet on first open); for offline, vendor `mermaid.esm.min.mjs` beside the file and swap the import URL. Note this to the user.
+   - **Rendering must be bulletproof** (the #1 failure is a sheet of raw text): the template uses the **classic UMD** Mermaid via a normal `<script src>` — never an ESM `import` / `<script type="module">`, which fails to load over `file://` on locked-down machines. It loads a **vendored `./mermaid.min.js` first** (fully offline), falling back to the CDN only if absent. Vendor it once into the output folder: `Invoke-WebRequest https://cdn.jsdelivr.net/npm/mermaid@10.9.3/dist/mermaid.min.js -OutFile mermaid.min.js`.
+   - Put diagram source **flush-left** inside `<pre class="mermaid">`, and **quote any node label containing punctuation** (`A["Awareness: hear it"]`) — an unquoted colon or paren is a parse error and the diagram won't draw. Validate non-trivial diagrams with the Mermaid MCP before shipping.
    - Save to `.personal/<email>/visuals/<topic>.html` by default (HTML is a generated artifact, not reference text — keep it out of the shared markdown layer unless it's a deliberate handout). Surface it with the file-send capability and/or offer to open it.
    - Same rules apply: verse references only, never copyrighted full-translation text in the page.
 
