@@ -1,0 +1,66 @@
+<!doctype html>
+<!--
+  _visualize_this — standalone HTML study sheet.
+  Self-contained: double-click to open in any browser. Mermaid loads from CDN
+  (needs internet on first open). For offline use, download mermaid into the
+  same folder and swap the import URL for "./mermaid.esm.min.mjs".
+
+  To reuse: edit the <title>, the <header>, and the <section> blocks. Add one
+  <section> per diagram. Put Mermaid source inside <pre class="mermaid">.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    max-width: 60rem; margin: 2rem auto; padding: 0 1.25rem;
+    color: #1a1a1a; background: #fff;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { color: #e6e6e6; background: #15171a; }
+    .source { color: #9aa0a6; }
+    .notice { color: #b9c0c7; }
+    section { border-color: #2a2e33; }
+  }
+  header { border-bottom: 2px solid currentColor; padding-bottom: .75rem; margin-bottom: 1.5rem; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+  .source { font-size: .85rem; color: #666; }
+  section { border: 1px solid #e2e2e2; border-radius: 10px; padding: 1rem 1.25rem; margin: 1.5rem 0; }
+  h2 { font-size: 1.15rem; margin: 0 0 .75rem; }
+  .mermaid { text-align: center; }
+  .notice { font-size: .9rem; color: #555; margin-top: .75rem; font-style: italic; }
+  footer { margin-top: 2rem; font-size: .8rem; color: #888; }
+  @media print {
+    body { max-width: none; margin: 0; }
+    section { break-inside: avoid; border-color: #ccc; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>{{TITLE}}</h1>
+    <div class="source">{{SOURCE}} · generated {{DATE}}</div>
+  </header>
+
+  <!-- One <section> per diagram. Duplicate as needed. -->
+  <section>
+    <h2>{{DIAGRAM_TITLE}}</h2>
+    <pre class="mermaid">
+{{MERMAID_SOURCE}}
+    </pre>
+    <p class="notice">What to notice: {{CAPTION}}</p>
+  </section>
+
+  <footer>Anchored to Scripture. Diagram illuminates; the text authorizes.</footer>
+
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    const dark = matchMedia('(prefers-color-scheme: dark)').matches;
+    mermaid.initialize({ startOnLoad: true, theme: dark ? 'dark' : 'default', securityLevel: 'loose' });
+  </script>
+</body>
+</html>

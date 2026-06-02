@@ -45,6 +45,12 @@ A coherent system for chapter-by-chapter, group-anchored Bible study. Skills com
 | `_chapter_readme_fill` | Converting a stub `# Read Me` chapter README into reference-quality shared content |
 | `_new_teacher_agent` | Scaffolding a new `teacher-<name>.md` subagent and updating `TEACHERS.md` + `CLAUDE.md` so the agent registry stays coherent |
 
+### Assimilation skills (visual — either layer)
+
+| Skill | Use when | Output |
+|---|---|---|
+| `_visualize_this` | Any information needs to become a diagram for fast assimilation — chapter structure, a teacher's framework, cross-refs, a chronology, an argument, a chiasm | Mermaid-in-markdown (renders on GitHub / VS Code / Obsidian) or an indented text diagram; inline by default, saveable to a shared `*/` folder or `.personal/<email>/` |
+
 ## How skills compose
 
 A typical group-week workflow:
