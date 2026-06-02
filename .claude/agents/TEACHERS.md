@@ -1,8 +1,8 @@
-# Bible Teacher Agents — Seven Voices for Deep Study
+# Bible Teacher Agents — Eight Voices for Deep Study
 
-A collection of seven Claude Code subagents, each modeled after a distinct Bible teacher's methodology and emphases. Drop these into your `.claude/agents/` directory and invoke them by name when you want a chapter taught through a specific lens.
+A collection of eight Claude Code subagents, each modeled after a distinct Bible teacher's methodology and emphases. Drop these into your `.claude/agents/` directory and invoke them by name when you want a chapter taught through a specific lens.
 
-## The seven agents
+## The eight agents
 
 | File | Agent name | Lens | Best for |
 |---|---|---|---|
@@ -13,6 +13,7 @@ A collection of seven Claude Code subagents, each modeled after a distinct Bible
 | `teacher-john-bevere.md` | `teacher-john-bevere` | Fear of the Lord, Day of the Lord, tribulation vs wrath, cost of discipleship | 1-2 Thessalonians, 2 Peter, Olivet Discourse, eschatology with hope |
 | `teacher-bill-creasy.md` | `teacher-bill-creasy` | Bible as unified literary work, genre awareness, geography, narrative arc | Historical narratives, wisdom literature, anything in Israel's geography |
 | `teacher-oswald-chambers.md` | `teacher-oswald-chambers` | Abandonment to Jesus, Cross-centered devotion, sanctification as union with Christ, obedience over feelings | Gospel call passages, Romans 6–8, Galatians, Philippians 3, devotional / interior texts |
+| `teacher-jamie-winship.md` | `teacher-jamie-winship` | True identity in Christ, false self vs. God-given name, fear as the root of all conflict, hearing God's voice, the lie-for-truth exchange | Renaming/calling narratives, "fear not" passages, Sermon on the Mount, Romans 8, identity and freedom texts |
 
 ## Installation
 
@@ -49,6 +50,8 @@ For a single chapter study, consider invoking one agent at a time depending on w
 - **Joel 2** → Jonathan Cahn (Day of the Lord, Hebrew calendar) + John Bevere (wrath vs tribulation)
 - **Revelation 4** → John Barnett (chronological exposition) + Chuck Missler (typology and design)
 - **Acts 17** → Bill Creasy (geography of Athens, literary parallels) + Perry Stone (spiritual warfare)
+- **Genesis 32** (Jacob wrestles, renamed Israel) → Jamie Winship (false self / God-given name) + Oswald Chambers (the interior surrender)
+- **Judges 6** (Gideon, "mighty man of valor") → Jamie Winship (identity God speaks vs. fear) + Perry Stone (Hebrew word work)
 
 You can also chain them: have one agent do the verse-by-verse pass, then a second add the prophetic-pattern lens, then a third bring the literary perspective.
 

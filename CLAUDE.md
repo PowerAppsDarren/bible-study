@@ -76,6 +76,7 @@ Two tiers of subagents are committed under `.claude/agents/` and load automatica
 - `teacher-john-bevere` — fear of the Lord, Day of the Lord, wrath vs tribulation
 - `teacher-bill-creasy` — Bible as unified literary work, genre, geography
 - `teacher-oswald-chambers` — abandonment to Jesus, Cross-centered devotion, sanctification as union with Christ
+- `teacher-jamie-winship` — true identity in Christ, false self vs. God-given name, fear as the root of conflict, hearing God's voice
 
 The teacher-voice agents pair with the `_deep_bible_study_devotional` skill in `.claude/skills/`, which provides the devotional output structure.
 
