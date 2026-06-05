@@ -127,3 +127,7 @@ htmlcov/
 # MemPalace per-project files (issue #185)
 mempalace.yaml
 entities.json
+
+# Obsidian per-user, volatile layout state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
