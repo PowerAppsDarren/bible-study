@@ -1,0 +1,10 @@
+{
+  "_comment": "Per-repo config for the _visualize_this skill. Governs where generated visuals are stored in THIS repo. Edit to taste.",
+  "visualsDir": "visuals",
+  "canvasFile": "visuals/Visuals.canvas",
+  "personalVisualsDir": ".personal/{email}/visuals",
+  "defaultLayer": "shared",
+  "defaultFormat": "md",
+  "saveByDefault": true,
+  "appendToCanvas": false
+}

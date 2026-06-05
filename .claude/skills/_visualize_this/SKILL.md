@@ -25,7 +25,23 @@ Read `CLAUDE.md` first. Output follows the two-layer model:
 - **Shared** (`scripture/<NN-Book>/<Book>-<NN>/`, `topics/`, `words/`, `people/`, `places/`, `resources/`): only when the diagram is factual, reference-quality *structure* — a chapter's chiasm, a book's argument flow, a covenant comparison. Embed it in a `README.md` section or a sibling file (e.g., `structure.md`). Use verse **references** only — never bake extended copyrighted-translation text into a diagram or a rendered image.
 - **Personal** (`.personal/<user-email>/visuals/<topic>.md`): study-assimilation diagrams — yours to keep. This is the default destination when the intent is "help *me* absorb this."
 
-Default behavior is **render inline**; only write a file when the user wants it saved.
+Default behavior is governed by the per-repo config below; absent one, render inline and save only on request.
+
+## Configuration (per repo)
+
+Before choosing a destination, read the repo-local config at `.claude/_visualize_this.json`. When present, it governs placement:
+
+| Key | Meaning |
+|---|---|
+| `visualsDir` | Shared visuals home, repo-relative (e.g. `visuals`) |
+| `canvasFile` | Obsidian Canvas index to append diagrams to (e.g. `visuals/Visuals.canvas`) |
+| `personalVisualsDir` | Personal-layer home; `{email}` → the user's email |
+| `defaultLayer` | `shared` or `personal` — default destination |
+| `defaultFormat` | `md` (Mermaid renders in Obsidian / GitHub) or `html` (standalone sheet) |
+| `saveByDefault` | If `true`, persist every generated visual instead of inline-only |
+| `appendToCanvas` | If `true`, also add the diagram as a node in `canvasFile` |
+
+This repo's config sets `saveByDefault: true`, `defaultFormat: md`, `defaultLayer: shared` → save each diagram as a Markdown note in `visuals/` (Obsidian renders it); personal/devotional visuals still go to `personalVisualsDir`. **Absent a config:** render inline; save to `.personal/<email>/visuals/` only when asked. Never invent a location when a config is present.
 
 ## Workflow
 

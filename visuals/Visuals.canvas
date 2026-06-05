@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"abiding","type":"text","text":"## Abiding with Jesus — the four A's\n*Source: Jamie Winship*\n\n```mermaid\nflowchart TD\n  A[\"Fix attention on Jesus\"] --> B[\"Ask Him a question\"]\n  B --> C[\"Wait and listen\"]\n  C --> D[\"Awareness: hear what is true\"]\n  D --> E[\"Annunciation: declare it\"]\n  E --> F[\"Action: obey it\"]\n  F -. the commitment to stay with .-> A\n```","x":-40,"y":40,"width":600,"height":400,"color":"4"},
+		{"id":"fear","type":"text","text":"## Why we need it — fear → conflict, reversed\n*Source: Jamie Winship*\n\n```mermaid\nflowchart TD\n  A[\"False view of God\"] --> B[\"Fear\"]\n  B --> C[\"False identity\"]\n  C --> D[\"Conflict\"]\n  E[\"True identity in Christ\"] -->|dissolves| F[\"Fearless love and peace\"]\n  D -. Jesus reverses .-> E\n```","x":920,"y":40,"width":600,"height":400,"color":"1"},
+		{"id":"howto","type":"text","text":"### Add a visual\n1. Ask for **/_visualize_this** on any note or topic.\n2. A Mermaid diagram gets generated.\n3. It lands as a text node here (or as its own note).\n\nMermaid renders natively in Obsidian — in notes **and** in canvas nodes. No plugin needed beyond core Canvas.","x":320,"y":600,"width":760,"height":300,"color":"5"},
+		{"id":"title","type":"text","text":"# 🎨 Visuals Board\n\nA home for diagrams and visual maps. Drop a Mermaid code block into any text node and Obsidian renders it live — here on the canvas and in notes. Fed by the `/_visualize_this` skill.\n\n*Created 2026-06-05.*","x":400,"y":-360,"width":600,"height":240,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"fear","fromSide":"left","toNode":"abiding","toSide":"right","label":"the answer to"}
+	]
+}
