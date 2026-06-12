@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
-**Last Updated:** 2026-05-30
-**Total Sessions:** 18
-**Total Files:** 99 (session logs) + raw/ history
+**Last Updated:** 2026-06-12
+**Total Sessions:** 19
+**Total Files:** 126 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-06-12 | 01      | Opus-4.8 | Jamie Winship agent + `_visualize_this` skill (Mermaid/HTML/Canvas) + Obsidian wiring + terminal lineHeight | ✅ Complete |
 | 2026-05-30 | 02      | Opus-4.6 | Angels, worship, and the imago Dei -- Satan's refusal tradition | ✅ Complete |
 | 2026-05-30 | 01      | Opus-4.8 | Isaiah 9 devotional (Child-King throne-names) + Isaiah 1–9 refresher | ✅ Complete |
 | 2026-05-19 | 01      | Opus-4.6 | AI-Chats session logging (protocol invocation)     | ✅ Complete |
@@ -67,6 +68,7 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-06-12 | Opus-4.8 | 8th teacher agent (Jamie Winship) + `resources/teachers/<slug>/` library convention; built `_visualize_this` skill (shape→diagram rubric, Mermaid-in-markdown, standalone HTML sheet with vendored UMD Mermaid, per-repo `.claude/_visualize_this.json` config), installed in repo + global; Obsidian vault-as-repo wiring (`visuals/` home, Canvas moved in, `.obsidian/` shared, `workspace.json` → `.personal/<email>/` hardlink + relink script); VS Code terminal `lineHeight` 1.2→1.6 |
 | 2026-05-17 | Opus-4.7 | Personal info scaffolding under `.personal/darren@neese.us/` — profile, reading-plan, prayer-list (tracked) + contacts (gitignored `private/` per `.personal/README.md` convention); `.gitignore` updated for per-user opt-in |
 | 2026-05-17 | Opus-4.7 | 7th teacher agent (Oswald Chambers) + `_new_teacher_agent` meta-skill; rename of all 12 custom skills from `_kebab-case` → `_snake_case`; convention docs rewritten |
 | 2026-05-17 | Opus-4.7 | `/gsd-update` patch bump 1.42.2 → 1.42.3 (global Claude install); stale `gsd-sdk` shim flagged |
@@ -86,6 +88,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
+| 2026-06-12 | Jamie Winship agent + `_visualize_this` skill + Obsidian wiring | 27 |
 | 2026-05-30 | Isaiah 9 devotional + Isaiah 1–9 refresher         | 7     |
 
 ### Opus-4.7
@@ -125,14 +128,44 @@
 
 | Metric                | Value              |
 |-----------------------|--------------------|
-| Total sessions        | 18                 |
+| Total sessions        | 19                 |
 | Models used           | Opus-4.5, Opus-4.6, Opus-4.7, Opus-4.8 |
-| Files created (total) | ~135               |
+| Files created (total) | ~162               |
 | Most active month     | May 2026           |
 
 ---
 
 ## Complete File Listing
+
+### 2026-06-12-01-jamie-winship-and-visualize-skill/
+
+- [Opus-4.8--00.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--00.md) — Main documentation
+- [Opus-4.8--01.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--01.md) — Exchange 1: Is Jamie Winship a teacher agent?
+- [Opus-4.8--02.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--02.md) — Exchange 2: Create the Jamie Winship agent
+- [Opus-4.8--03.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--03.md) — Exchange 3: What Winship content is online?
+- [Opus-4.8--04.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--04.md) — Exchange 4: Build the library + per-teacher best practices
+- [Opus-4.8--05.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--05.md) — Exchange 5: Commit (c37c48d)
+- [Opus-4.8--06.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--06.md) — Exchange 6: Create the `_visualize_this` skill (ultrathink)
+- [Opus-4.8--07.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--07.md) — Exchange 7: tl;dr
+- [Opus-4.8--08.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--08.md) — Exchange 8: Add HTML output mode
+- [Opus-4.8--09.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--09.md) — Exchange 9: Make it local + global; commit + push (ff02b07)
+- [Opus-4.8--10.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--10.md) — Exchange 10: HTML doesn't render; fix it (def402a)
+- [Opus-4.8--11.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--11.md) — Exchange 11: Find my Obsidian vault
+- [Opus-4.8--12.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--12.md) — Exchange 12: Create a canvas there
+- [Opus-4.8--13.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--13.md) — Exchange 13: Actually I pointed Obsidian at this repo
+- [Opus-4.8--14.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--14.md) — Exchange 14: Where are the visuals stored?
+- [Opus-4.8--15.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--15.md) — Exchange 15: Per-repo config + move the canvas in
+- [Opus-4.8--16.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--16.md) — Exchange 16: tl;dr ("you overwhelm me")
+- [Opus-4.8--17.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--17.md) — Exchange 17: Include .obsidian in git; sync all (7d42f6c)
+- [Opus-4.8--18.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--18.md) — Exchange 18: gitignore workspace.json (b0751b2)
+- [Opus-4.8--19.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--19.md) — Exchange 19: Will tab layouts persist across workstations?
+- [Opus-4.8--20.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--20.md) — Exchange 20: Store workspace.json in personal folder?
+- [Opus-4.8--21.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--21.md) — Exchange 21: Set it up under .personal (5f71763)
+- [Opus-4.8--22.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--22.md) — Exchange 22: Make terminal text taller, not wider
+- [Opus-4.8--23.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--23.md) — Exchange 23: Modify global VS Code settings
+- [Opus-4.8--24.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--24.md) — Exchange 24: Make it 1.6
+- [Opus-4.8--25.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--25.md) — Exchange 25: No difference; diagnose
+- [Opus-4.8--26.md](./2026-06-12-01-jamie-winship-and-visualize-skill/Opus-4.8--26.md) — Exchange 26: Wrap up per AI-Chats Protocol v3.2
 
 ### 2026-05-30-02-angels-worship-imago-dei/
 
