@@ -23,7 +23,7 @@ Read `CLAUDE.md` first. The repo's multi-user paradigm:
 
 - `.personal/<user-email>/` — each user's space (e.g., `.personal/darren@neese.us/`, `.personal/sarah@church.org/`).
 - Folders are committed and shared via git pull.
-- Each user organizes their own folder freely; common conventions: `.personal/<email>/<book>/<book-chapter>/notes.md`, `.personal/<email>/topics/<theme>.md`, `.personal/<email>/journal/YYYY-MM-DD.md`.
+- Each user organizes their own folder freely; common conventions: `.personal/<email>/scripture/<book>/<book-chapter>/notes.md` (older notes may sit at `.personal/<email>/<book>/...` without the `scripture/` level — scan both), `.personal/<email>/topics/<theme>.md`, `.personal/<email>/journal/YYYY-MM-DD.md`.
 
 ## Workflow
 

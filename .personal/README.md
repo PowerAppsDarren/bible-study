@@ -14,15 +14,17 @@ Every user has a folder named by their **email address**:
 └── ...
 ```
 
-Inside your own folder, organize however you like. A common convention mirrors the repo's `scripture/` layout for easy navigation:
+Inside your own folder, organize however you like. The recommended convention mirrors the repo root layout for easy navigation — book studies nest under a `scripture/` subfolder (so 66 book folders don't pile up at your root), and raw inputs that fed a study go in a `sources/` folder inside the book:
 
 ```
 .personal/<your-email>/
 ├── journal/
 │   └── YYYY-MM-DD.md
-├── 01-Genesis/
-│   └── Genesis-01/
-│       └── notes.md
+├── scripture/               ← book studies, mirroring the repo's scripture/ layout
+│   └── 01-Genesis/
+│       ├── Genesis-01/
+│       │   └── notes.md
+│       └── sources/         ← raw inputs: transcripts, chat exports, scans
 ├── topics/
 │   └── prayer.md
 ├── words/

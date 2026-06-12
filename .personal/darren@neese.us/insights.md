@@ -22,4 +22,4 @@ One-line truths I want to keep close. Each entry: the line, where it came from, 
 - Spotting counterfeit "spiritual experiences" — did it produce holy fear, or just good feelings?
 - Discipling others — don't rush past the collapse to the assignment.
 
-**Linked study:** [Isaiah 6 devotional](23-Isaiah/Isaiah-06/notes.md)
+**Linked study:** [Isaiah 6 devotional](scripture/23-Isaiah/Isaiah-06/notes.md)

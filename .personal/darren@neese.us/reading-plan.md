@@ -8,7 +8,7 @@ description: My walk through the 66 books — current location, pace, and per-bo
 ## Current location
 
 - **Currently in:** Isaiah
-- **Last completed:** Isaiah 6 *(2026-05-14)* — see [Isaiah 6 notes](23-Isaiah/Isaiah-06/notes.md) and the "[[insights|collapse, then commission]]" entry it produced
+- **Last completed:** Isaiah 6 *(2026-05-14)* — see [Isaiah 6 notes](scripture/23-Isaiah/Isaiah-06/notes.md) and the "[[insights|collapse, then commission]]" entry it produced
 - **Pace target:** [to fill in — e.g., "one chapter per day", "one deep study per week", "no fixed pace"]
 - **Order strategy:** [to fill in — e.g., "canonical order", "OT/NT alternating", "thematic clusters", "wherever the Spirit leads"]
 

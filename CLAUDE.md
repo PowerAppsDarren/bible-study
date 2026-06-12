@@ -32,7 +32,7 @@ The stub content folders each contain a one-line `# Read Me` placeholder. The 12
 The repo is designed for small-group / church use. Two layers:
 
 - **Shared layer** — everything outside `.personal/` (`scripture/`, `topics/`, `words/`, `people/`, `places/`, `theology/`, etc.). Factual reference material that benefits everyone, changed via PR.
-- **Shared-personal layer** — `.personal/<user-email>/`: each user has a folder named by their email address (e.g., `.personal/darren@neese.us/`). Personal reflections, journals, prayer notes, teaching prep. The folder is **intentionally tracked in git** (not gitignored). Members share by pushing; privacy is by convention. See `.personal/README.md`.
+- **Shared-personal layer** — `.personal/<user-email>/`: each user has a folder named by their email address (e.g., `.personal/darren@neese.us/`). Personal reflections, journals, prayer notes, teaching prep. The folder is **intentionally tracked in git** (not gitignored). Members share by pushing; privacy is by convention. See `.personal/README.md`. Inside a user's folder, book studies nest under `scripture/` (e.g., `.personal/<email>/scripture/23-Isaiah/Isaiah-06/notes.md`, raw inputs in `scripture/<book>/sources/`), mirroring the repo root layout.
 
 `CONTRIBUTING.md` rule: fact = shared; *your thought* = `.personal/<your-email>/`. Never write inside another user's email folder — that space is read-only by convention.
 

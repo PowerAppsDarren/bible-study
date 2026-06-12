@@ -1,6 +1,6 @@
 ---
 name: _personal_reflection
-description: Scaffold a personal reflection / journal entry on a Bible passage, chapter, or theme in the user's `.personal/<email>/` folder. Use when the user says "journal about [chapter]", "I want to reflect on [passage]", "help me write what this means to me", "personal reflection on [verse]", "what's stirring in me from [chapter]", or wants devotional / reflective output that is explicitly *theirs* and explicitly *personal* (not shared reference material). Output goes to `.personal/<user-email>/journal/` or `.personal/<user-email>/<book>/<chapter>/notes.md` — never the shared layer.
+description: Scaffold a personal reflection / journal entry on a Bible passage, chapter, or theme in the user's `.personal/<email>/` folder. Use when the user says "journal about [chapter]", "I want to reflect on [passage]", "help me write what this means to me", "personal reflection on [verse]", "what's stirring in me from [chapter]", or wants devotional / reflective output that is explicitly *theirs* and explicitly *personal* (not shared reference material). Output goes to `.personal/<user-email>/journal/` or `.personal/<user-email>/scripture/<book>/<chapter>/notes.md` — never the shared layer.
 ---
 
 # Personal Reflection
@@ -23,7 +23,7 @@ This is the *opposite* of `_chapter_readme_fill`, which produces factual referen
 Read `CLAUDE.md` first. Output destinations (always under the user's email folder):
 
 - `.personal/<user-email>/journal/YYYY-MM-DD.md` — dated journal entry.
-- `.personal/<user-email>/<book-folder>/<book>-<chapter>/notes.md` — chapter-anchored reflection (mirrors the `scripture/` layout for easy navigation).
+- `.personal/<user-email>/scripture/<book-folder>/<book>-<chapter>/notes.md` — chapter-anchored reflection (book folders nest under `scripture/`, mirroring the repo root layout).
 - `.personal/<user-email>/topics/<theme>.md` — reflection on a cross-cutting theme.
 
 Filename and folder convention is up to the user; default to one of the above.
