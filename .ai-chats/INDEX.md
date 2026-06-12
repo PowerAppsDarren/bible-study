@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
 **Last Updated:** 2026-06-12
-**Total Sessions:** 19
-**Total Files:** 126 (session logs) + raw/ history
+**Total Sessions:** 20
+**Total Files:** 132 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-06-12 | 02      | Fable-5  | Isaiah 10 devotional (unjust lawmakers anchor) + visual HTML render + new global `_output_as_html` skill | ✅ Complete |
 | 2026-06-12 | 01      | Opus-4.8 | Jamie Winship agent + `_visualize_this` skill (Mermaid/HTML/Canvas) + Obsidian wiring + terminal lineHeight | ✅ Complete |
 | 2026-05-30 | 02      | Opus-4.6 | Angels, worship, and the imago Dei -- Satan's refusal tradition | ✅ Complete |
 | 2026-05-30 | 01      | Opus-4.8 | Isaiah 9 devotional (Child-King throne-names) + Isaiah 1–9 refresher | ✅ Complete |
@@ -45,6 +46,7 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-06-12 | Fable-5  | Isaiah 10 deep devotional — "When Evil Gets Codified": the fourth woe aimed at legislators (10:1-2 anchor), Hebrew word studies (*chaqaq* counterfeit-Sinai engraving, *aven* sorrow-producing nothingness, *gazal* robbery-by-gavel), the practiced→legalized→celebrated staircase + Romans 1:32 / Molech parallel to 2026 America, Assyria the boasting axe (10:15, Missler), *She'ar-Yashuv* remnant → El Gibbor (10:21 ↔ 9:6), yoke destroyed "because of the anointing" (10:27), the Aiath→Nob march halted (Creasy geography; Isa 37:36); rendered as a designed HTML page in the personal layer |
 | 2026-05-30 | Opus-4.6 | Theological vibe session -- did God command angels to worship Adam (imago Dei)? Life of Adam and Eve, Quran parallels, 2 Enoch, Hebrews 1-2, Genesis 1:26-27; Satan's refusal as origin of his fall and hatred of humanity |
 | 2026-05-30 | Opus-4.8 | Isaiah 9 deep devotional — darkness→light hinge (8:22 → 9:2 "Nevertheless"), Galilee of the Gentiles → Matt 4:13-16, Child *born* / Son *given* (two verbs), the four throne-names with Hebrew (*Pele' Yo'etz*, *El Gibbor* = same phrase as 10:21, *Avi-'ad*, *Sar Shalom*), 9:7 "no end" → Luke 1:32-33, the fourfold "His hand is stretched out still" refrain (9:12/17/21/10:4), Cahn's "bricks have fallen" (9:10) modern application; plus a one-bullet-per-chapter Isaiah 1–9 refresher and a focused names-of-Christ (9:6) bullet list |
 | 2026-05-18 | Opus-4.7 | Isaiah 8 deep devotional — Maher-Shalal-Hash-Baz, Shiloah vs Euphrates, Immanuel, qesher/fear of the Lord, stone of stumbling, **v19 anchor** on `ʼov`/`yiddeʻoni`/"chirp and mutter," torah & teʻudah, Watchers/Enoch; paired with live 2026-05-18 Euphrates drying news check + Isaiah 8 ↔ Rev 16:12 symmetry |
@@ -68,6 +70,7 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-06-12 | Fable-5  | New **global** skill `_output_as_html` (`~/.claude/skills/`) — re-renders prior conversation content as a polished self-contained HTML page (full content preserved, content-appropriate save location, SendUserFile delivery); born from the Isaiah 10 "TUI is hard to read" request |
 | 2026-06-12 | Opus-4.8 | 8th teacher agent (Jamie Winship) + `resources/teachers/<slug>/` library convention; built `_visualize_this` skill (shape→diagram rubric, Mermaid-in-markdown, standalone HTML sheet with vendored UMD Mermaid, per-repo `.claude/_visualize_this.json` config), installed in repo + global; Obsidian vault-as-repo wiring (`visuals/` home, Canvas moved in, `.obsidian/` shared, `workspace.json` → `.personal/<email>/` hardlink + relink script); VS Code terminal `lineHeight` 1.2→1.6 |
 | 2026-05-17 | Opus-4.7 | Personal info scaffolding under `.personal/darren@neese.us/` — profile, reading-plan, prayer-list (tracked) + contacts (gitignored `private/` per `.personal/README.md` convention); `.gitignore` updated for per-user opt-in |
 | 2026-05-17 | Opus-4.7 | 7th teacher agent (Oswald Chambers) + `_new_teacher_agent` meta-skill; rename of all 12 custom skills from `_kebab-case` → `_snake_case`; convention docs rewritten |
@@ -83,6 +86,12 @@
 ---
 
 ## Sessions by Model
+
+### Fable-5
+
+| Date       | Topic                                              | Files |
+|------------|----------------------------------------------------|-------|
+| 2026-06-12 | Isaiah 10 devotional + HTML render + `_output_as_html` skill | 6 |
 
 ### Opus-4.8
 
@@ -128,14 +137,23 @@
 
 | Metric                | Value              |
 |-----------------------|--------------------|
-| Total sessions        | 19                 |
-| Models used           | Opus-4.5, Opus-4.6, Opus-4.7, Opus-4.8 |
-| Files created (total) | ~162               |
+| Total sessions        | 20                 |
+| Models used           | Opus-4.5, Opus-4.6, Opus-4.7, Opus-4.8, Fable-5 |
+| Files created (total) | ~168               |
 | Most active month     | May 2026           |
 
 ---
 
 ## Complete File Listing
+
+### 2026-06-12-02-isaiah-10-devotional-html/
+
+- [Fable-5--00.md](./2026-06-12-02-isaiah-10-devotional-html/Fable-5--00.md) — Main documentation
+- [Fable-5--01.md](./2026-06-12-02-isaiah-10-devotional-html/Fable-5--01.md) — Exchange 1: Isaiah 10 request + clarifying question
+- [Fable-5--02.md](./2026-06-12-02-isaiah-10-devotional-html/Fable-5--02.md) — Exchange 2: Lawmakers/2026 anchor → full devotional
+- [Fable-5--03.md](./2026-06-12-02-isaiah-10-devotional-html/Fable-5--03.md) — Exchange 3: Output as visual HTML
+- [Fable-5--04.md](./2026-06-12-02-isaiah-10-devotional-html/Fable-5--04.md) — Exchange 4: Create the `/_output_as_html` skill
+- [Fable-5--05.md](./2026-06-12-02-isaiah-10-devotional-html/Fable-5--05.md) — Exchange 5: Wrap up per AI-Chats Protocol v3.2
 
 ### 2026-06-12-01-jamie-winship-and-visualize-skill/
 
