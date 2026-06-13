@@ -6,26 +6,26 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A markdown-only Bible study scaffold. **There is no build system, no tests, no lint, no package manifest.** Every "file" is a `README.md` in a folder. Don't look for `npm`/`pip`/`make` commands — they don't exist. Tasks here are content edits, folder reorganization, and documentation.
 
-## Layout on disk vs. layout in the docs — read this first
+## Layout on disk — canonical
 
-The published docs (`README.md`, `STRUCTURE.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `README-TEMPLATE.md`) consistently describe a layout rooted at `books-of-bible/` and `topics-of-study/`. **The filesystem does not match.** A refactor (commit `55df16f` and `02835da`) reorganized the repo to:
+A refactor (commits `55df16f` and `02835da`) established this top-level layout, and the published docs (`README.md`, `STRUCTURE.md`, `CONTRIBUTING.md`, `CHANGELOG.md`) were reconciled to match it. **Disk is canonical.**
 
 ```
-scripture/        # the 66 books (docs call this "books-of-bible/")
-topics/           # cross-cutting themes (docs call this "topics-of-study/")
+scripture/        # the 66 books (formerly "books-of-bible/" in older docs)
+topics/           # cross-cutting themes (formerly "topics-of-study/")
 commentary/       # stub
 people/           # stub
 places/           # stub
 resources/        # stub
 theology/         # stub
 words/            # stub (Hebrew/Greek word studies)
-.personal/        # private notes (see two-layer model below)
+.personal/        # per-user notes, tracked in git (see two-layer model below)
 .ai-chats/        # AI session logs (see protocol below)
 ```
 
-The stub content folders each contain a one-line `# Read Me` placeholder. The 12-folder vision behind this layout is in `____bible-study-top-level-folders.md` (and its byte-identical duplicate `repo-planning.md`) — note that disk uses shorter names (`words/` not `word-studies/`, `topics/` not `topics-of-study/`) and is missing several folders from that vision (`_home/`, `timeline/`, `context/`, `teaching/`, `templates/`).
+The stub content folders each contain a one-line `# Read Me` placeholder. The 12-folder *vision* behind this layout is in `____bible-study-top-level-folders.md` (and its byte-identical duplicate `repo-planning.md`, plus `docs/top-level-folders.md`) — those are aspirational planning docs and deliberately retain the original long names (`word-studies/`, `topics-of-study/`) and folders not on disk (`_home/`, `timeline/`, `context/`, `teaching/`, `templates/`). Don't treat them as describing the current layout, and don't rewrite them to match disk — they're a record of the original plan.
 
-**Before "fixing" the inconsistency in either direction, ask the user which side is canonical.** Don't silently rewrite the docs to match disk, and don't move folders to match the docs. Both are plausible intents.
+**The earlier docs-vs-disk inconsistency has been resolved** (the published docs now use `scripture/` and `topics/`). The only files that still reference the old `books-of-bible/` / `topics-of-study/` names are: the planning/vision docs above (intentional), `.ai-chats/` session logs (verbatim history — never rewrite), and `graphify-out/` (generated; regenerate, don't hand-edit).
 
 ## Two-layer model: shared vs. shared-personal (multi-user)
 
@@ -36,13 +36,11 @@ The repo is designed for small-group / church use. Two layers:
 
 `CONTRIBUTING.md` rule: fact = shared; *your thought* = `.personal/<your-email>/`. Never write inside another user's email folder — that space is read-only by convention.
 
-**Two stale claims in older docs:**
-- `README.md`, `CONTRIBUTING.md`, and `CHANGELOG.md` 1.2.0 still describe `.personal/` as "gitignored, never pushed" — that's the old single-user paradigm. The multi-user paradigm above supersedes it. The `.gitignore` correctly does NOT exclude `.personal/`.
-- The published structure docs still describe `books-of-bible/` and `topics-of-study/` (see "Layout on disk vs. layout in the docs" above).
+**Historical-record exception:** the `CHANGELOG.md` 1.2.0 entry still describes `.personal/` as gitignored and the layout as `books-of-bible/`. That's an accurate record of what those releases shipped — left intact on purpose. The current state (multi-user `.personal/`, `scripture/`/`topics/`) is captured in the CHANGELOG `[Unreleased]` section. The `.gitignore` correctly does NOT exclude `.personal/`.
 
 ## Naming conventions
 
-- **Book folders:** `NN-BookName`, zero-padded — `01-Genesis`, `46-1-Corinthians`, `66-Revelation`. Full list in `STRUCTURE.md` (uses old `books-of-bible/` paths but the `NN-BookName` names are correct).
+- **Book folders:** `NN-BookName`, zero-padded — `01-Genesis`, `46-1-Corinthians`, `66-Revelation`. Full list in `STRUCTURE.md`.
 - **Chapter folders:** `BookName-NN`, zero-padded — `Genesis-01`, `Psalms-119`, `Revelation-22`.
 - **Every folder has exactly one `README.md`.** Additional files (images, attachments) may sit alongside.
 - **Counts to preserve:** 66 books, 1,189 chapter folders.

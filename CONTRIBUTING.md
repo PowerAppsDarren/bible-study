@@ -60,9 +60,9 @@ Because your folder is committed and pushed, **git is your backup** — every pu
 
 Everything outside `.personal/` is shared. This includes:
 
-- **Book-level READMEs** (`books-of-bible/NN-BookName/README.md`) — overview, author, date, themes
-- **Chapter-level READMEs** (`books-of-bible/NN-BookName/BookName-NN/README.md`) — shared summaries, key verses, cross-references
-- **Topics of study** (`topics-of-study/`) — cross-cutting themes
+- **Book-level READMEs** (`scripture/NN-BookName/README.md`) — overview, author, date, themes
+- **Chapter-level READMEs** (`scripture/NN-BookName/BookName-NN/README.md`) — shared summaries, key verses, cross-references
+- **Topics of study** (`topics/`) — cross-cutting themes
 - **Root documentation** — README, STRUCTURE, CONTRIBUTING, etc.
 
 Shared content should be **factual, reference-quality, and beneficial to everyone**. Think of it as building a shared study Bible — the notes in the margins that any reader would find useful.
@@ -158,13 +158,13 @@ These are pre-filled in the template. Expand them with factual reference materia
 
 ## Topics of Study
 
-The `topics-of-study/` directory is for cross-cutting themes — topics that span multiple books and chapters. To add a topic:
+The `topics/` directory is for cross-cutting themes — topics that span multiple books and chapters. To add a topic:
 
-1. Create a subfolder: `topics-of-study/prayer/`
+1. Create a subfolder: `topics/prayer/`
 2. Add a `README.md` with shared reference content.
-3. Link back to relevant chapter folders in `books-of-bible/`.
+3. Link back to relevant chapter folders in `scripture/`.
 
-For personal topical notes, use `.personal/topics-of-study/` instead.
+For personal topical notes, use `.personal/<your-email>/topics/` instead.
 
 ---
 

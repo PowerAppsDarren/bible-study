@@ -5,8 +5,8 @@ This repo contains a scaffolded study template for all 66 books of the Protestan
 ## Layout
 
 ```
-bible-structure/
-├── books-of-bible/          # All 66 books, numbered 01–66 (SHARED)
+bible-study/
+├── scripture/               # All 66 books, numbered 01–66 (SHARED)
 │   ├── 01-Genesis/
 │   │   ├── Genesis-01/
 │   │   │   └── README.md    # Chapter-level shared reference notes
@@ -15,11 +15,12 @@ bible-structure/
 │   │   └── ...
 │   ├── 02-Exodus/
 │   └── ...
-├── topics-of-study/         # Cross-cutting themes and topical studies (SHARED)
+├── topics/                  # Cross-cutting themes and topical studies (SHARED)
 │   └── README.md
-├── .personal/               # YOUR private notes — gitignored, never pushed
-│   ├── books-of-bible/      #   (recommended: mirror the repo structure)
-│   └── topics-of-study/
+├── .personal/               # Per-user notes — tracked in git, shared by convention
+│   └── <your-email>/        #   (recommended: mirror the repo; books under scripture/)
+│       ├── scripture/
+│       └── topics/
 ├── README.md                # Project overview
 ├── README-TEMPLATE.md       # Template for chapter-level READMEs
 ├── STRUCTURE.md             # This file
@@ -30,9 +31,10 @@ bible-structure/
 └── .gitignore
 ```
 
-> **Shared vs. Personal:** Everything outside `.personal/` is shared reference material
-> pushed to git. The `.personal/` folder is gitignored and stays on your local machine.
-> See [README.md](README.md#shared-vs-personal--how-this-repo-works) and
+> **Shared vs. Personal:** Everything outside `.personal/` is shared reference material,
+> curated and pushed via pull request. The `.personal/<your-email>/` folders are also
+> tracked in git — shared by convention, not gitignored. See
+> [README.md](README.md#shared-vs-personal--how-this-repo-works) and
 > [CONTRIBUTING.md](CONTRIBUTING.md#the-two-layer-model) for details.
 
 ## Old Testament (39 Books)
@@ -166,7 +168,7 @@ bible-structure/
 
 ## Topics of Study
 
-The `topics-of-study/` directory is reserved for cross-cutting themes that span multiple books and chapters. Examples include:
+The `topics/` directory is reserved for cross-cutting themes that span multiple books and chapters. Examples include:
 
 - Prayer
 - Faith
@@ -174,4 +176,4 @@ The `topics-of-study/` directory is reserved for cross-cutting themes that span 
 - The covenants
 - Character studies (Abraham, David, Paul, etc.)
 
-Create a subfolder for each topic and link back to the relevant chapter folders throughout `books-of-bible/`.
+Create a subfolder for each topic and link back to the relevant chapter folders throughout `scripture/`.

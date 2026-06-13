@@ -10,8 +10,8 @@ This repo is designed for **group use**. It has two layers:
 
 | Layer | Location | Pushed to Git? | Who edits it? |
 |-------|----------|----------------|---------------|
-| **Shared** | Everything *outside* `.personal/` | Yes | The group, via pull requests |
-| **Personal** | `.personal/` | **No — never** | You, locally |
+| **Shared** | Everything *outside* `.personal/` | Yes — curated, must clear the integration gate | The group, via pull requests |
+| **Personal** | `.personal/<your-email>/` | **Yes — by convention** | You (your own email folder only) |
 
 ### Shared content (the repo itself)
 
@@ -21,36 +21,35 @@ The shared layer contains **reference material that is the same for everyone**: 
 
 ### Personal content (`.personal/`)
 
-Your private study notes live in `.personal/` at the root of your local clone. This folder is **gitignored** — it will never be committed or pushed, so your notes stay on your machine.
+Your study notes live in `.personal/<your-email>/` — a folder named by your email address (e.g., `.personal/darren@neese.us/`). Unlike the old single-user model, this folder **is tracked in git**: when you commit and push, the group can pull and read your notes. Privacy is by convention — if you don't want something shared, don't commit it. Never write inside another contributor's email folder; that space is read-only by convention.
 
-The recommended structure mirrors the repo:
+The recommended structure mirrors the repo — book studies nest under `scripture/`, with raw inputs (transcripts, chat exports, scans) in a `sources/` folder:
 
 ```
-.personal/
-├── books-of-bible/
-│   ├── 01-Genesis/
-│   │   ├── Genesis-01/
-│   │   │   └── notes.md
-│   │   └── Genesis-02/
-│   │       └── notes.md
-│   └── ...
-└── topics-of-study/
-    └── prayer/
-        └── notes.md
+.personal/<your-email>/
+├── journal/
+│   └── YYYY-MM-DD.md
+├── scripture/
+│   └── 01-Genesis/
+│       ├── Genesis-01/
+│       │   └── notes.md
+│       └── sources/
+└── topics/
+    └── prayer.md
 ```
 
-This makes it easy to find your notes — they sit in the same path as the shared content, just under `.personal/`. But this is a recommendation, not a requirement. Organize `.personal/` however works best for you.
+This makes it easy to find your notes — they sit in the same path as the shared content, just under `.personal/<your-email>/`. But this is a recommendation, not a requirement. Organize your own folder however works best for you.
 
-**To get started:** create the `.personal/` folder in your local clone and start writing.
+**To get started:** create your `.personal/<your-email>/` folder in your local clone and start writing.
 
 ---
 
 ## What's Inside
 
-- **66 books** organized in canonical order (`books-of-bible/`)
+- **66 books** organized in canonical order (`scripture/`)
 - **1,189 chapter folders**, each with its own `README.md` for shared reference notes
 - **Book-level overviews** with author, date, and key themes for every book
-- **Topics directory** (`topics-of-study/`) for cross-cutting themes and topical studies
+- **Topics directory** (`topics/`) for cross-cutting themes and topical studies
 - **Chapter template** ([README-TEMPLATE.md](README-TEMPLATE.md)) with sections for key verses, summary, notes, cross references, and questions
 
 ## Quick Start
