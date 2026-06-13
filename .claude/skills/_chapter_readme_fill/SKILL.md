@@ -32,8 +32,9 @@ The template structure is in `/README-TEMPLATE.md` at the repo root: heading `# 
 2. **Delegate the close reading to the `exegete` agent** — single-passage exposition, literary structure, key verses, summary, notes.
 3. **Delegate the cross-reference selection to the `cross-references` agent** — choose 4–10 of the most theologically significant cross-refs (not exhaustive; that's the **_cross_reference_map** skill's job).
 4. **Pull `historian` or `geographer`** if the chapter's interpretation hinges on background.
-5. **Assemble** in the template structure.
-6. **Save** to the chapter README path.
+5. **Run every candidate line through the Shared-Layer Integration Gate** (see `CLAUDE.md` → "Shared-layer integration gate"). Each line must pass all six tests — factual / margin-worthy / durable / sourceable / non-sectarian / license-clean. Drop anything that only restates the verse or carries personal-layer voice. **Apply the chapter-promotion rule:** if the study didn't yield enough gate-passing substance for a genuine five-section set, don't manufacture thin sections to fill the template — leave the stub or deposit the one good item elsewhere, and say so.
+6. **Assemble** the gate-passing material in the template structure.
+7. **Save** to the chapter README path.
 
 ## Output structure (matches `README-TEMPLATE.md`)
 
@@ -65,6 +66,7 @@ The template structure is in `/README-TEMPLATE.md` at the repo root: heading `# 
 
 ## Discipline
 
+- **The Shared-Layer Integration Gate is the bar.** Every line must clear all six tests in `CLAUDE.md` → "Shared-layer integration gate." When in doubt, leave it out — the personal layer is lossless, the shared layer is curated.
 - **Factual, reference-quality.** This is the shared note that everyone in the group sees. Devotional flourishes go in `.personal/<email>/`.
 - **No denominational corner-painting.** Where the chapter is read differently in different traditions (Romans 9 election, Hebrews 6 perseverance, baptism passages, eucharist passages), name the traditions and move on.
 - **No extended copyrighted-translation quotes.** Use KJV / ASV / WEB or paraphrase, ≤25 words at a time.

@@ -53,6 +53,28 @@ Defined in `README-TEMPLATE.md`: `# [Book] [Chapter]` heading, then sections **K
 
 When filling chapter content: factual, reference-quality, study-Bible-margin tone. `CONTRIBUTING.md` explicitly excludes denominational/doctrinal commentary and content from copyrighted translations from the shared layer.
 
+## Shared-layer integration gate
+
+**This is the standard for what earns a place in the shared layer. It exists to keep `scripture/`, `topics/`, `words/`, etc. valuable and uncluttered — an honest stub beats a padded margin.** When a study (devotional, reflection, word study) produces material, route it *study once, deposit twice*:
+
+- **Personal half** — reflection, application, teacher-voice, what stirred *you*, speculative connections → `.personal/<email>/scripture/...`. The personal layer is lossless; everything is welcome there.
+- **Factual half** — what the text *says, means, and connects to* → the shared chapter/topic README, **but only the lines that clear the gate below.** The shared layer is curated, not a dumping ground.
+
+A candidate line is admitted to the shared layer only if it passes **all six**:
+
+1. **Factual, not personal** — a verifiable claim about the text, language, history, or structure; not your reflection or application. (*"`chaqaq` means to inscribe/decree"* passes; *"this convicted me about my own decrees"* does not.)
+2. **Margin-worthy** — it tells the reader something the verse alone doesn't (a word meaning, a structure, a background fact, a connection). If it only restates the verse in other words, it's clutter — cut it.
+3. **Durable** — true regardless of who reads it or when. Not tied to a moment, a sermon, or your circumstances.
+4. **Sourceable** — grounded in the text or in mainstream scholarship you could cite. Where scholarship genuinely disagrees (Job's date, Daniel's date, the Pastorals' authorship), name the views; don't pick a side or assert it as settled.
+5. **Non-sectarian** — no denominational corner-painting on contested passages (election, perseverance, baptism, eucharist, end-times schemes). Name the traditions, move on.
+6. **License-clean** — no extended copyrighted-translation text. KJV / ASV / WEB or paraphrase, ≤25 words at a stretch.
+
+**Fail any one → it stays in the personal layer, or gets reworked until it passes. When in doubt, leave it out.**
+
+**Chapter-promotion rule:** fill a stub chapter README only when the study yielded enough gate-passing substance for a genuine Key Verses / Summary / Notes / Cross References / Questions set. Don't manufacture four thin sections around one good cross-reference to make a chapter "look complete" — leave the stub, or add the single good item to a chapter that's already rich. The default state of a chapter README is empty; content earns its way in.
+
+`_chapter_readme_fill` is the skill that applies this gate; `CONTRIBUTING.md` carries the human-facing summary. Both defer to this section as the source of truth.
+
 ## Specialized agents
 
 Two tiers of subagents are committed under `.claude/agents/` and load automatically. Use them via the Agent tool when work matches their specialization.

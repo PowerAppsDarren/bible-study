@@ -10,10 +10,10 @@ This repo separates **shared reference material** from **personal study notes**.
 
 | What | Where | Shared? | Examples |
 |------|-------|---------|----------|
-| Reference material | `books-of-bible/`, `topics-of-study/`, root docs | **Yes** — pushed to git | Book overviews, people, places, timelines, cross-references |
-| Personal notes | `.personal/` | **No** — gitignored, stays local | Your reflections, prayers, questions, sermon notes |
+| Reference material | `scripture/`, `topics/`, root docs | **Yes** — curated, must clear the integration gate | Book overviews, people, places, timelines, cross-references |
+| Personal notes | `.personal/<your-email>/` | **Yes** — tracked in git, shared by convention | Your reflections, prayers, questions, sermon notes |
 
-**Rule of thumb:** if it's a fact that's the same for everyone, it belongs in the shared repo. If it's *your* thought, reflection, or personal study note, it belongs in `.personal/`.
+**Rule of thumb:** if it's a fact that's the same for everyone *and it clears the [integration gate](#the-shared-layer-integration-gate)*, it belongs in the shared repo. If it's *your* thought, reflection, or personal study note, it belongs in `.personal/<your-email>/`. Both layers are committed to git — the difference is that the shared layer is curated and the personal layer is lossless.
 
 See the [README](README.md#shared-vs-personal--how-this-repo-works) for a fuller explanation.
 
@@ -27,37 +27,32 @@ See the [README](README.md#shared-vs-personal--how-this-repo-works) for a fuller
 
 That's it. The structure is already in place — just use it.
 
-## Your Personal Notes (`.personal/`)
+## Your Personal Notes (`.personal/<your-email>/`)
 
-The `.personal/` folder is **gitignored** — nothing inside it will ever be committed or pushed. Your notes stay on your machine.
+Each contributor has a folder named by their email address (e.g., `.personal/darren@neese.us/`). This folder **is tracked in git** — when you commit and push, the rest of the group can pull and read your notes. Privacy is by convention: if you don't want something shared, don't commit it (or keep it in a `private/` subfolder). Never write inside another contributor's email folder — that space is read-only by convention.
 
 ### Recommended structure
 
-Mirror the repo layout so your notes are easy to find:
+Mirror the repo layout so your notes are easy to find — book studies nest under `scripture/`, with raw inputs (transcripts, chat exports, scans) in a `sources/` folder:
 
 ```
-.personal/
-├── books-of-bible/
-│   ├── 01-Genesis/
-│   │   ├── Genesis-01/
-│   │   │   └── notes.md
-│   │   └── Genesis-02/
-│   │       └── notes.md
-│   └── ...
-└── topics-of-study/
-    └── prayer/
-        └── notes.md
+.personal/<your-email>/
+├── journal/
+│   └── YYYY-MM-DD.md
+├── scripture/
+│   └── 01-Genesis/
+│       ├── Genesis-01/
+│       │   └── notes.md
+│       └── sources/
+└── topics/
+    └── prayer.md
 ```
 
-This is a recommendation, not a requirement. Organize `.personal/` however works best for you — flat files, nested folders, or any other structure.
+This is a recommendation, not a requirement. Organize your own folder however works best for you — flat files, nested folders, or any other structure. See [`.personal/README.md`](.personal/README.md) for the full convention.
 
 ### Backing up your personal notes
 
-Since `.personal/` is gitignored, **you are responsible for backing up your own notes.** Options include:
-
-- A separate private git repo that tracks only `.personal/`
-- Cloud sync (OneDrive, Dropbox, Google Drive, etc.)
-- Manual backups to an external drive
+Because your folder is committed and pushed, **git is your backup** — every push to the group remote preserves your notes off-machine. For extra redundancy you can still add cloud sync (OneDrive, Dropbox, etc.) or a second remote, but it isn't required the way it was under the old gitignored single-user model.
 
 ---
 
@@ -82,10 +77,31 @@ Shared content should be **factual, reference-quality, and beneficial to everyon
 
 ### What does NOT belong in the shared repo
 
-- Personal reflections, prayers, or journal entries (put these in `.personal/`)
+- Personal reflections, prayers, or journal entries (put these in `.personal/<your-email>/`)
 - Denominational or doctrinal commentary
 - Content from copyrighted Bible translations
 - Anything that is opinion rather than widely-accepted biblical scholarship
+
+---
+
+## The Shared-Layer Integration Gate
+
+The shared layer is **curated, not a dumping ground.** Factual content alone isn't enough — a line can be perfectly true and still be clutter if it just restates the verse. Before a line goes into a shared README, it must clear all six tests:
+
+1. **Factual, not personal** — a verifiable claim about the text, language, history, or structure; not your reflection or application.
+2. **Margin-worthy** — it tells the reader something the verse alone doesn't (a word meaning, a structure, a background fact, a connection). If it only restates the verse, cut it.
+3. **Durable** — true regardless of who reads it or when; not tied to a moment, a sermon, or your circumstances.
+4. **Sourceable** — grounded in the text or mainstream scholarship you could cite. Where scholarship genuinely disagrees, name the views; don't pick a side.
+5. **Non-sectarian** — no denominational corner-painting on contested passages. Name the traditions and move on.
+6. **License-clean** — no extended copyrighted-translation text; KJV / ASV / WEB or paraphrase, ≤25 words at a stretch.
+
+**Fail any one → it stays in your `.personal/<your-email>/` folder.** When in doubt, leave it out: the personal layer is lossless, the shared layer is curated.
+
+**Study once, deposit twice.** A single study naturally produces both kinds of material — route each half to its home. The factual residue (word studies, structure, cross-refs, background) goes to the shared README; the reflection, application, and teacher-voice stay personal.
+
+**Don't pad to look complete.** Fill a stub chapter README only when the study yielded enough gate-passing substance for a genuine Key Verses / Summary / Notes / Cross References / Questions set. One good cross-reference doesn't justify manufacturing four thin sections around it — leave the stub. An honest empty margin beats a padded one. The default state of a chapter README is empty; content earns its way in.
+
+> The authoritative, always-current version of this gate lives in [`CLAUDE.md`](CLAUDE.md#shared-layer-integration-gate). This summary defers to it.
 
 ---
 
