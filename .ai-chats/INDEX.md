@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
-**Last Updated:** 2026-06-12
-**Total Sessions:** 20
-**Total Files:** 132 (session logs) + raw/ history
+**Last Updated:** 2026-06-13
+**Total Sessions:** 21
+**Total Files:** 136 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-06-13 | 01      | Fable-5  | `.personal/` restructure (book studies under `scripture/`, raw inputs → `sources/`) + Shared-Layer Integration Gate (six-test value standard) + docs-to-disk reconciliation (`scripture/`/`topics/`) | ✅ Complete |
 | 2026-06-12 | 02      | Fable-5  | Isaiah 10 devotional (unjust lawmakers anchor) + visual HTML render + new global `_output_as_html` skill | ✅ Complete |
 | 2026-06-12 | 01      | Opus-4.8 | Jamie Winship agent + `_visualize_this` skill (Mermaid/HTML/Canvas) + Obsidian wiring + terminal lineHeight | ✅ Complete |
 | 2026-05-30 | 02      | Opus-4.6 | Angels, worship, and the imago Dei -- Satan's refusal tradition | ✅ Complete |
@@ -56,6 +57,7 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-06-13 | Fable-5  | `.personal/` restructured to nest book studies under `scripture/` (raw inputs in per-book `sources/`); **Shared-Layer Integration Gate** added — a six-test value standard (factual / margin-worthy / durable / sourceable / non-sectarian / license-clean) + "study once, deposit twice" routing + chapter-promotion rule, codified in CLAUDE.md and enforced by `_chapter_readme_fill`; published docs reconciled to the on-disk layout (`scripture/`/`topics/`, multi-user `.personal/`) with disk declared canonical |
 | 2026-01-31 | Opus-4.5 | Template completion — 72 files, shared/personal two-layer model      |
 | 2026-01-31 | Opus-4.5 | Full template transformation — 28 tasks, 6 phases                    |
 
