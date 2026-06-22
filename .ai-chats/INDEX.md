@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
-**Last Updated:** 2026-06-13
-**Total Sessions:** 21
-**Total Files:** 136 (session logs) + raw/ history
+**Last Updated:** 2026-06-22
+**Total Sessions:** 22
+**Total Files:** 140 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-06-22 | 01      | Opus-4.8 | Isaiah 11 devotional ("The Branch the Axe Couldn't Touch" — netzer/sevenfold Spirit) + new `_email_study_guide` skill (email-safe HTML via Mailgun) + sent study to Special Mom addresses | ✅ Complete |
 | 2026-06-13 | 01      | Fable-5  | `.personal/` restructure (book studies under `scripture/`, raw inputs → `sources/`) + Shared-Layer Integration Gate (six-test value standard) + docs-to-disk reconciliation (`scripture/`/`topics/`) | ✅ Complete |
 | 2026-06-12 | 02      | Fable-5  | Isaiah 10 devotional (unjust lawmakers anchor) + visual HTML render + new global `_output_as_html` skill | ✅ Complete |
 | 2026-06-12 | 01      | Opus-4.8 | Jamie Winship agent + `_visualize_this` skill (Mermaid/HTML/Canvas) + Obsidian wiring + terminal lineHeight | ✅ Complete |

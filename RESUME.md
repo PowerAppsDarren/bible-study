@@ -4,17 +4,19 @@ Rolling 7-day session log. Add `<!-- pin -->` to any entry to keep it permanentl
 
 ---
 
-## 2026-06-13 — Personal-layer restructure + Integration Gate + docs reconciliation (Fable-5)
+## 2026-06-22 — Isaiah 11 devotional + `_email_study_guide` skill + email delivery (Opus-4.8)
 
 **Accomplished:**
-- Restructured `.personal/darren@neese.us/` — book studies now nest under `scripture/` (mirroring repo root); loose `Isaiah/` raw material folded into `scripture/23-Isaiah/sources/`; audio transcript re-encoded UTF-16→UTF-8. Convention codified in `.personal/README.md`, `_personal_reflection`, `_compare_notes`, `CLAUDE.md`. *(`7eadf4c`)*
-- Created the **Shared-Layer Integration Gate** — six-test value standard (factual / margin-worthy / durable / sourceable / non-sectarian / license-clean) + "study once, deposit twice" + chapter-promotion rule. Authoritative in `CLAUDE.md`, enforced by `_chapter_readme_fill`, summarized in `CONTRIBUTING.md`. *(`33b9472`)*
-- Reconciled published docs to on-disk layout — `books-of-bible/`→`scripture/`, `topics-of-study/`→`topics/`; finished migrating stale gitignored `.personal/` language to multi-user model; CHANGELOG `[Unreleased]`; CLAUDE.md declares disk canonical. *(`e091bc2`)*
+- Generated the **Isaiah 11** devotional `devotional.html` — *"The Branch the Axe Couldn't Touch"* — in the established dark-gold style (featured 11:1–2: the *choter/geza/netzer* Branch + sevenfold-Spirit menorah; peaceable kingdom; Eden-reversal serpent; *nes* banner; second-Exodus highway; Missler/Cahn/Creasy/Perry Stone; hook to Isaiah 12). At `.personal/darren@neese.us/scripture/23-Isaiah/Isaiah-11/devotional.html`.
+- Created new project skill **`_email_study_guide`** — re-renders a `devotional.html` into email-safe HTML (table layout, inline styles, parchment theme, web-safe fonts), sends via the **Mailgun HTTP API** (not SMTP — secret is API-key-based), attaches the full browser version, CCs darren@spl.tech, archives the send. Registered in `CLAUDE.md` + `.claude/skills/README.md`.
+- Built `Isaiah-11/email.html` and **sent the study** to nicole@specialmom.app + darren@specialmom.app (CC darren@spl.tech), full dark version attached. Two sends (build + skill execution): Mailgun ids `…130717…` and `…131540…`, both HTTP 200.
 
-**Files changed:** `.personal/` tree (moves + README + sources), `_personal_reflection`, `_compare_notes`, `_chapter_readme_fill`, `CLAUDE.md`, `CONTRIBUTING.md`, `README.md`, `STRUCTURE.md`, `CHANGELOG.md`, plus `.ai-chats/2026-06-13-01-*` and this file.
+**Files changed:** `.personal/darren@neese.us/scripture/23-Isaiah/Isaiah-11/{devotional.html,email.html}` (personal layer), `.claude/skills/_email_study_guide/SKILL.md`, `CLAUDE.md`, `.claude/skills/README.md`, `.ai-chats/2026-06-22-01-*`, this file.
 
-**Branches:** only `main` — no feature branches to clean, nothing to merge.
+**Branches:** only `main` — nothing to clean.
 
 **Not done / next:**
-- Backfill `scripture/` chapter READMEs for Isaiah 1–10 via `_chapter_readme_fill` through the new gate (deferred by design).
-- Dedup the overlapping planning docs (`repo-planning.md`, `docs/top-level-folders.md`, `____bible-study-top-level-folders.md`).
+- Isaiah 12 next chapter (the song of the redeemed — "wells of salvation," *Yeshua*).
+- Optional: promote Isaiah 11 gate-passing facts (netzer/Nazareth, sevenfold-Spirit→Revelation, Romans 15:12) to shared `scripture/23-Isaiah/Isaiah-11/README.md`.
+- Duplicate-send today was benign (two copies); consider a re-send guard in `_email_study_guide` if it becomes routine.
+- (Carried) Backfill `scripture/` chapter READMEs for Isaiah 1–10 through the Integration Gate; dedup overlapping planning docs (`repo-planning.md`, `docs/top-level-folders.md`, `____bible-study-top-level-folders.md`).

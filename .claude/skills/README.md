@@ -51,11 +51,17 @@ A coherent system for chapter-by-chapter, group-anchored Bible study. Skills com
 |---|---|---|
 | `_visualize_this` | Any information needs to become a diagram for fast assimilation — chapter structure, a teacher's framework, cross-refs, a chronology, an argument, a chiasm | Mermaid-in-markdown (renders on GitHub / VS Code / Obsidian) or an indented text diagram; inline by default, saveable to a shared `*/` folder or `.personal/<email>/` |
 
+### Delivery skills (send a study out)
+
+| Skill | Use when | Output |
+|---|---|---|
+| `_email_study_guide` | A generated study guide needs to go to people by email | An email-safe HTML rendition (`email.html`, table layout + inline styles + parchment theme — survives Gmail/Outlook) sent via Mailgun with the full browser `devotional.html` attached; CCs `darren@spl.tech`; archived under `~/.skills/_send_email/` |
+
 ## How skills compose
 
 A typical group-week workflow:
 
-1. **Leader prep** — `_deep_bible_study_devotional` for the chapter (overnight if it's a heavy passage), then `_group_discussion_prep` for the meeting.
+1. **Leader prep** — `_deep_bible_study_devotional` for the chapter (overnight if it's a heavy passage), then `_group_discussion_prep` for the meeting. Send the finished study to the group with `_email_study_guide`.
 2. **Member personal study** — `_personal_reflection` and `_prayer_from_passage` for individual journals; ad-hoc `_word_study`, `_character_study`, or `_place_study` when the chapter raises a specific question.
 3. **Mid-week deepening** — `_topic_trace` or `_cross_reference_map` when the group's discussion surfaces a thread worth chasing.
 4. **End of week** — `_compare_notes` to see what the group has written across `.personal/*/`; insights from this often seed the next week's `_chapter_readme_fill` work to make the shared layer richer.

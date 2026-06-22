@@ -112,6 +112,7 @@ A coordinated battery of skills under `.claude/skills/` covers the four phases o
 - **Personal:** `_personal_reflection`, `_prayer_from_passage` (write to `.personal/<email>/` only)
 - **Maintenance:** `_chapter_readme_fill` (writes to shared `scripture/`), `_new_teacher_agent` (scaffolds a teacher agent + updates the registries)
 - **Assimilation (visual):** `_visualize_this` (turns any content into a Mermaid/text diagram; inline by default, saveable to either layer)
+- **Delivery:** `_email_study_guide` (re-renders a generated `devotional.html` as email-safe HTML — table layout, inline styles, parchment theme — and sends it to a group via Mailgun, attaching the full browser version; writes `email.html` beside the source in the personal layer)
 
 See `.claude/skills/README.md` for how skills compose with each other and with the agents. Skills enforce the two-layer discipline: shared output goes to top-level folders; personal output stays inside the user's email folder.
 
