@@ -29,6 +29,14 @@ A second tier of agents teaches a chapter through the methodology and emphases o
 
 These pair with the `_deep_bible_study_devotional` skill (in `.claude/skills/`), which provides the devotional output structure. The agents are the voices; the skill is the format. Output from teacher-voice agents is devotional in tone and generally belongs in `.personal/`, not the shared repo.
 
+### Design / production agent
+
+A third tier turns a finished study into its visual form. Output is devotional and lands in `.personal/`, not the shared repo.
+
+| Agent | Use when |
+|-------|----------|
+| `devotional-designer` | A chapter study needs to become a polished, standalone HTML page in "The Branch" look — filling the devotional template, or restyling an existing page. Pairs with the `_branch_devotional_design` skill (the design system) and the teacher-voice agents (the voice). |
+
 Each agent reads `CLAUDE.md` at the repo root for project conventions before producing output.
 
 ## Shared discipline

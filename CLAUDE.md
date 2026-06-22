@@ -75,7 +75,7 @@ A candidate line is admitted to the shared layer only if it passes **all six**:
 
 ## Specialized agents
 
-Two tiers of subagents are committed under `.claude/agents/` and load automatically. Use them via the Agent tool when work matches their specialization.
+Three tiers of subagents are committed under `.claude/agents/` and load automatically. Use them via the Agent tool when work matches their specialization.
 
 **Research / theology agents** (output for the shared repo):
 
@@ -98,6 +98,10 @@ Two tiers of subagents are committed under `.claude/agents/` and load automatica
 - `teacher-oswald-chambers` — abandonment to Jesus, Cross-centered devotion, sanctification as union with Christ
 - `teacher-jamie-winship` — true identity in Christ, false self vs. God-given name, fear as the root of conflict, hearing God's voice
 
+**Design agent** (builds the HTML study page; output for `.personal/`):
+
+- `devotional-designer` — fills and iterates the devotional HTML pages in "The Branch" design system. Pairs with the `_branch_devotional_design` skill (the look + tokens + template) and the teacher-voice agents (the voice). Produces a self-contained `devotional.html` in the user's personal layer.
+
 The teacher-voice agents pair with the `_deep_bible_study_devotional` skill in `.claude/skills/`, which provides the devotional output structure.
 
 See `.claude/agents/README.md` for how the agents divide labor and `.claude/agents/TEACHERS.md` for teacher-pairing suggestions. Each agent is told to read this CLAUDE.md before producing output, so updates here propagate.
@@ -112,6 +116,7 @@ A coordinated battery of skills under `.claude/skills/` covers the four phases o
 - **Personal:** `_personal_reflection`, `_prayer_from_passage` (write to `.personal/<email>/` only)
 - **Maintenance:** `_chapter_readme_fill` (writes to shared `scripture/`), `_new_teacher_agent` (scaffolds a teacher agent + updates the registries)
 - **Assimilation (visual):** `_visualize_this` (turns any content into a Mermaid/text diagram; inline by default, saveable to either layer)
+- **Design (visual look):** `_branch_devotional_design` ("The Branch" — the warm "scriptorium" design system for devotional HTML pages: color/type/spacing tokens, a voice + visual guide, a ready-to-fill template, and a worked Isaiah 11 example; the `devotional-designer` agent fills it)
 - **Delivery:** `_email_study_guide` (re-renders a generated `devotional.html` as email-safe HTML — table layout, inline styles, parchment theme — and sends it to a group via Mailgun, attaching the full browser version; writes `email.html` beside the source in the personal layer)
 
 See `.claude/skills/README.md` for how skills compose with each other and with the agents. Skills enforce the two-layer discipline: shared output goes to top-level folders; personal output stays inside the user's email folder.
