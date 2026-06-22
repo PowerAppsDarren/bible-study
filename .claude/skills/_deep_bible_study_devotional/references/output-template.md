@@ -2,6 +2,8 @@
 
 This is the complete blueprint of the devotional output, with all section variants and their typical contents. Use as needed when SKILL.md leaves a question.
 
+> **Visual rendering:** this file is the *prose / section* blueprint. For the **HTML look** — the warm "scriptorium" page these sections render into — use the **`_branch_devotional_design`** skill (and its **`devotional-designer`** agent): `devotional-template.html` (the page to fill), `readme.md` (the visual + voice rules), and `example-isaiah-11.html` (a complete worked page).
+
 ## Skeleton
 
 ```

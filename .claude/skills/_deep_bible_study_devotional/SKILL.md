@@ -7,6 +7,17 @@ description: Generate deep, scholarly-yet-warm devotional Bible studies for chap
 
 Generate a deep, warm, scholarly devotional study for a single Bible chapter (or two short chapters) in the established voice and structure that follows. The devotional should feel like sitting under a beloved Bible teacher who knows the original languages, sees the whole canonical story, and connects every chapter to the believer's daily life and the larger spiritual battle.
 
+## Visual output — The Branch design system
+
+When the study is delivered as an HTML page (the usual form for a saved or emailed devotional), render it in **"The Branch"** — the repo's devotional design system, a warm lamplit "scriptorium" look derived from the original Isaiah 11 study. It lives in its own skill, **`_branch_devotional_design`**, and the **`devotional-designer`** agent builds the pages. Delegate the page build to that agent, or fill the template yourself from these files (in `.claude/skills/_branch_devotional_design/`):
+
+- **`devotional-template.html`** — the standalone, browser-native page to duplicate per chapter. Copy it, delete the guide banner, and replace every `[bracketed]` placeholder. **Start here for any HTML devotional.**
+- **`readme.md`** — the voice + visual fundamentals (tone, person, emoji rules, accent meanings, component usage). Read this before filling.
+- **`example-isaiah-11.html`** — the template filled with a complete study; the reference for how the components carry real content.
+- **`tokens/*.css`** + **`styles.css`** — the canonical color/type/spacing tokens. The template mirrors these literal values inline so each finished study is one portable file (no runtime stylesheet).
+
+Keep **accent colors meaningful, not decorative**: gold = the divine / default, olive = life & growth & peace, ember = judgment / fire / warning, sky = the nations / water / hope. One featured verse per study. Save the finished page in the study's personal folder (`.personal/<email>/scripture/<NN-Book>/<Book-NN>/`); `_email_study_guide` then re-renders it as an email-safe version from the same palette.
+
 ## When to use this skill
 
 Trigger this skill whenever the user:
@@ -198,6 +209,9 @@ The trusted teachers (Missler, Stone, Cahn, Barnett, Bevere) are respected preci
 
 ## When to read the references
 
+For the HTML look, tokens, and ready-to-fill page → the `_branch_devotional_design` skill (and its `devotional-designer` agent)
+For the visual + voice fundamentals → `_branch_devotional_design` skill → `readme.md`
+For a complete worked HTML study → `_branch_devotional_design` skill → `example-isaiah-11.html`
 For full structural template with all section variants → `references/output-template.md`
 For trusted teacher profiles and how to cite each → `references/trusted-teachers.md`
 For handling conspiracy/drift gently → `references/pushback-patterns.md`

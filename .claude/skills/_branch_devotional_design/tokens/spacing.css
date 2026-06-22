@@ -1,0 +1,46 @@
+/* ============================================================
+   SPACING, RADIUS, BORDERS, SHADOWS, MOTION
+   "The Branch" devotional study system
+   The page breathes: long-form reading wants air. Sections are
+   separated by a wide rhythm; cards are calm rectangles with hairline
+   borders and soft radii. No heavy drop-shadows — depth comes from
+   layered warm grounds and low-alpha glows, like lamplight.
+   ============================================================ */
+:root{
+  /* --- Spacing scale (4px base) --- */
+  --space-1:   4px;
+  --space-2:   8px;
+  --space-3:   12px;
+  --space-4:   16px;
+  --space-5:   22px;
+  --space-6:   30px;
+  --space-7:   44px;
+  --space-8:   64px;
+  --space-9:   80px;    /* rhythm between major sections */
+
+  /* --- Content measure --- */
+  --measure:        860px;   /* max reading column           */
+  --measure-narrow: 640px;   /* hooks, callouts, teasers     */
+
+  /* --- Radii --- */
+  --r-sm:   12px;   /* lamps, pairs, inset chips  */
+  --r-md:   16px;   /* standard cards             */
+  --r-lg:   20px;   /* featured / closing slabs   */
+  --r-pill: 999px;  /* labels, badges             */
+
+  /* --- Borders --- */
+  --bw:        1px;
+  --bw-accent: 3px;   /* verse left-bar, card top-bar */
+
+  /* --- Glows (lamplight, not drop shadow) --- */
+  --glow-olive: radial-gradient(ellipse 80% 60% at 50% -10%, rgba(134,162,99,.20), transparent 60%);
+  --glow-gold:  radial-gradient(ellipse 60% 50% at 50% 110%, rgba(216,175,82,.10), transparent 60%);
+
+  /* --- Soft elevation (used sparingly, e.g. hover lift) --- */
+  --shadow-card:  0 1px 0 rgba(255,255,255,.02) inset, 0 12px 30px -18px rgba(0,0,0,.7);
+
+  /* --- Motion --- */
+  --ease:       cubic-bezier(.22,.61,.36,1);
+  --dur-quick:  140ms;
+  --dur-base:   240ms;
+}

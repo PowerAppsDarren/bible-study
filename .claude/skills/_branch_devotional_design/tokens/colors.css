@@ -1,0 +1,48 @@
+/* ============================================================
+   COLORS — "The Branch" devotional study system
+   A warm, low-light scriptorium palette: deep ember-black grounds,
+   parchment inks, and four scripture accents (gold, olive, ember, sky).
+   Accents are tuned in OKLCH to a shared lightness/chroma band so they
+   feel like one family lit by the same lamp.
+   ============================================================ */
+:root{
+  /* --- Grounds (warm near-blacks, layered) --- */
+  --bg:           #100d0a;   /* page ground            */
+  --bg-2:         #15110c;   /* raised ground / hero    */
+  --panel:        #1a150f;   /* card surface            */
+  --panel-2:      #211a12;   /* inset / nested surface  */
+
+  /* --- Lines / hairlines --- */
+  --line:         #2e2620;   /* standard hairline       */
+  --line-soft:    #241d16;   /* faint divider           */
+
+  /* --- Inks (parchment) --- */
+  --ink-strong:   #f6efe0;   /* headings, emphasis      */
+  --ink:          #ece4d5;   /* body copy               */
+  --ink-dim:      #c6baa6;   /* secondary / captions    */
+  --ink-faint:    #a3917b;   /* labels, footnotes       */
+
+  /* --- Scripture accents (one lamp, four flames) --- */
+  --gold:         #d8af52;   /* primary — the Branch / Spirit   oklch(.78 .115 82) */
+  --gold-deep:    #b8923a;   /* gold pressed / borders          */
+  --olive:        #86a263;   /* life, growth, peace             oklch(.71 .085 132) */
+  --ember:        #cf5a3e;   /* judgment, fire, warning         oklch(.65 .145 38) */
+  --sky:          #6fa6c6;   /* the nations, water, hope        oklch(.71 .075 235) */
+
+  /* --- Accent washes (low-alpha fills behind glows + verse bars) --- */
+  --gold-wash:    rgba(216,175,82,.10);
+  --olive-wash:   rgba(134,162,99,.12);
+  --ember-wash:   rgba(207,90,62,.10);
+  --sky-wash:     rgba(111,166,198,.10);
+
+  /* --- Semantic aliases --- */
+  --text-body:        var(--ink);
+  --text-heading:     var(--ink-strong);
+  --text-muted:       var(--ink-dim);
+  --text-label:       var(--gold);
+  --surface-page:     var(--bg);
+  --surface-card:     var(--panel);
+  --surface-inset:    var(--panel-2);
+  --border-hairline:  var(--line);
+  --accent-primary:   var(--gold);
+}

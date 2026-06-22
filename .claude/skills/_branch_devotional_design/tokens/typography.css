@@ -1,0 +1,40 @@
+/* ============================================================
+   TYPOGRAPHY — "The Branch" devotional study system
+   Three voices:
+   · Cormorant Garamond — the scribe. Display headings + scripture
+     (large, often italic). High contrast, generous, reverent.
+   · Inter — the teacher. Body, labels, UI. Clear and modern so the
+     long-form commentary stays effortless to read.
+   · Noto Serif Hebrew — the source text. The original word, set RTL,
+     usually in gold.
+   ============================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&family=Noto+Serif+Hebrew:wght@400;500;600;700&display=swap');
+
+:root{
+  /* --- Families --- */
+  --font-serif:   'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans:    'Inter', system-ui, -apple-system, sans-serif;
+  --font-hebrew:  'Noto Serif Hebrew', 'Cormorant Garamond', serif;
+
+  /* --- Type scale (fluid where it earns it) --- */
+  --fs-display:   clamp(46px, 7vw, 80px);   /* hero / chapter title (serif 700)     */
+  --fs-h2:        clamp(30px, 4vw, 40px);   /* section heading (serif 700)          */
+  --fs-h3:        24px;                      /* card / pillar title (serif 600/700)  */
+  --fs-lead:      clamp(20px, 3vw, 28px);   /* hero subtitle (serif italic)         */
+  --fs-verse:     22px;                      /* verse blockquote (serif italic)      */
+  --fs-body:      17.5px;                    /* commentary (sans 400)                */
+  --fs-small:     14.5px;                    /* card body, footnotes (sans)          */
+  --fs-label:     12.5px;                    /* kickers / refs (sans 600, tracked)   */
+  --fs-heb:       38px;                       /* Hebrew word display                  */
+  --fs-heb-lead:  clamp(28px, 5vw, 44px);   /* featured Hebrew line                  */
+
+  /* --- Line heights --- */
+  --lh-tight:     1.08;   /* display          */
+  --lh-snug:      1.18;   /* headings         */
+  --lh-verse:     1.6;    /* scripture        */
+  --lh-body:      1.78;   /* commentary       */
+
+  /* --- Tracking --- */
+  --tracking-label: 0.28em;  /* kickers, all-caps refs */
+  --tracking-wide:  0.16em;  /* sub-labels             */
+}

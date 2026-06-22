@@ -1,0 +1,8 @@
+/* ============================================================
+   "The Branch" — Devotional Study Design System
+   Global entry point. Consumers link THIS file.
+   Keep this file to @import lines only.
+   ============================================================ */
+@import url('./tokens/colors.css');
+@import url('./tokens/typography.css');
+@import url('./tokens/spacing.css');
