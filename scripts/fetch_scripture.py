@@ -319,7 +319,8 @@ def render(data: dict, abbr_upper: str) -> str:
     ]
     for v in data["verses"]:
         text = re.sub(r"\s+$", "", v["text"]).strip()
-        lines.append(f"**{v['verse']}** {text}")
+        # Per-verse anchor so README links like WEB.md#v3 jump to the verse.
+        lines.append(f'<a id="v{v["verse"]}"></a>**{v["verse"]}** {text}')
         lines.append("")
     return "\n".join(lines)
 
