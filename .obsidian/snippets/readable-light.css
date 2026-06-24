@@ -1,0 +1,31 @@
+/* readable-light.css
+   Fixes washed-out light-gray editor text on white in light mode.
+   Forces dark, high-contrast text in the Markdown editor + reading view.
+   Toggle off any time in Settings → Appearance → CSS snippets. */
+
+.theme-light {
+  /* Core text colors Obsidian + most themes (incl. Prism) read from */
+  --text-normal:   #1f2328;  /* body text — near-black, easy on the eyes */
+  --text-muted:    #4a5057;  /* secondary text */
+  --text-faint:    #6b7178;  /* faint UI text */
+  --text-on-accent:#ffffff;
+
+  /* Headings, bold, links — keep them crisp */
+  --h1-color: #14181c;
+  --h2-color: #14181c;
+  --h3-color: #14181c;
+  --h4-color: #14181c;
+  --h5-color: #14181c;
+  --h6-color: #14181c;
+  --bold-color: #14181c;
+}
+
+/* Belt-and-suspenders: force the live-preview / source editor text itself,
+   in case the theme paints the editor lines directly instead of via vars. */
+.theme-light .markdown-source-view,
+.theme-light .cm-editor,
+.theme-light .cm-line,
+.theme-light .markdown-preview-view,
+.theme-light .markdown-rendered {
+  color: #1f2328;
+}

@@ -1,4 +1,7 @@
 {
   "cssTheme": "Prism",
-  "accentColor": "#4d70ff"
+  "accentColor": "#4d70ff",
+  "enabledCssSnippets": [
+    "readable-light"
+  ]
 }
