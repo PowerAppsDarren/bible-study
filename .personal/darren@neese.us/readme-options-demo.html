@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter README — structure options (Psalm 1, BBE)</title>
+<style>
+  :root{
+    --parch:#f6f0e2; --parch2:#fbf7ec; --card:#fffdf7;
+    --ink:#2b2218; --muted:#8a7d68; --line:#e3d8c0;
+    --gold:#a9791c; --gold-d:#8a6212; --olive:#6b7d3a; --ember:#b4541f; --sky:#3f7a99;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--parch); color:var(--ink);
+    font:16px/1.55 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    padding:32px 20px 80px;
+  }
+  .wrap{max-width:1280px;margin:0 auto}
+  h1{font:600 28px/1.2 Georgia,serif;margin:0 0 6px}
+  .sub{color:var(--muted);margin:0 0 28px;max-width:780px}
+  .sub b{color:var(--gold-d)}
+  h2{font:600 21px/1.2 Georgia,serif;margin:40px 0 4px;border-bottom:2px solid var(--line);padding-bottom:8px}
+  h2 .q{color:var(--muted);font:400 14px/1 -apple-system,sans-serif;display:block;margin-top:6px}
+
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:18px}
+  @media(max-width:980px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    box-shadow:0 1px 0 #fff inset,0 2px 8px rgba(60,45,20,.06);overflow:hidden;display:flex;flex-direction:column}
+  .card.rec{border-color:var(--gold);box-shadow:0 0 0 2px rgba(169,121,28,.18),0 2px 8px rgba(60,45,20,.08)}
+  .card.out{opacity:.62}
+  .chead{padding:14px 16px;border-bottom:1px solid var(--line);background:linear-gradient(#fbf6ea,#f7f0df)}
+  .badge{display:inline-block;font:600 11px/1 -apple-system,sans-serif;letter-spacing:.06em;text-transform:uppercase;
+    color:#fff;background:var(--muted);padding:5px 9px;border-radius:999px}
+  .badge.rec{background:var(--gold)}
+  .badge.out{background:var(--ember)}
+  .chead h3{margin:10px 0 2px;font:600 17px/1.2 Georgia,serif}
+  .tag{color:var(--muted);font-size:13px;margin:0}
+  .cbody{padding:16px;flex:1;background:var(--parch2)}
+  .cfoot{padding:11px 16px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted)}
+  .cfoot b{color:var(--olive)}
+  .cfoot .con b{color:var(--ember)}
+
+  .md{font-size:14px}
+  .md .vh{font:600 13px/1 Georgia,serif;color:var(--muted);margin:0 0 8px}
+  table.v{border-collapse:collapse;width:100%;font-size:13.5px;background:#fff;border:1px solid var(--line)}
+  table.v th,table.v td{border:1px solid var(--line);padding:7px 9px;vertical-align:top;text-align:left}
+  table.v th{background:#f3ead6;font:600 12px/1.2 -apple-system,sans-serif;color:#5b4f3a}
+  table.v td.num{width:34px;text-align:center;font-weight:600;color:var(--gold-d)}
+  .scrip{font-family:Georgia,serif;color:#332a1d}
+  a.vlink{color:var(--gold-d);text-decoration:none;border-bottom:1px dotted var(--gold)}
+  a.vlink:hover{background:#f7eccf}
+  .cmp{font-size:12px;color:var(--muted)}
+  .cmp a{color:var(--sky);text-decoration:none;border-bottom:1px dotted var(--sky)}
+  .cmp a:hover{background:#eaf2f6}
+
+  .prose p{margin:0 0 13px}
+  .prose .vn{font-weight:700;color:var(--gold-d);font-family:Georgia,serif}
+  .prose .scrip{font-size:14.5px;line-height:1.5}
+  .prose .cmp{display:block;margin-top:3px}
+
+  .note{background:#fff;border:1px dashed var(--line);border-radius:10px;padding:14px 16px;margin-top:14px;font-size:14px}
+  .key{display:flex;gap:18px;flex-wrap:wrap;margin:6px 0 0;font-size:12.5px;color:var(--muted)}
+  .key span{display:inline-flex;align-items:center;gap:6px}
+  .dot{width:10px;height:10px;border-radius:50%;display:inline-block}
+  pre{background:#fff;border:1px solid var(--line);border-radius:10px;padding:13px 15px;overflow:auto;
+    font:12.5px/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:#3a3022}
+  .small{font-size:13px;color:var(--muted)}
+  .pin{background:#fbf1d8;border:1px solid var(--gold);border-radius:10px;padding:12px 15px;margin:0 0 6px;font-size:14px}
+  .pin b{color:var(--gold-d)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>Chapter README — structure options</h1>
+  <p class="sub">Rendered with the real <b>Psalm 1</b> text in <b>BBE (Bible in Basic English)</b> — now our default version,
+  so it's the text shown in every README. The other versions (WEB · KJV · ASV) become the compare-links. Pick the layout; links are illustrative.</p>
+
+  <div class="pin"><b>Decision needed:</b> A or B? (C is shown only to rule it out — it displays no text, and you said the README should <i>show</i> BBE.)</div>
+
+  <h2>1 · How the verse list reads
+    <span class="q">The big one — this fills most of every chapter page (×1,189).</span>
+  </h2>
+
+  <div class="grid">
+
+    <!-- OPTION A -->
+    <div class="card rec">
+      <div class="chead">
+        <span class="badge rec">Recommended · A</span>
+        <h3>Readable table + links</h3>
+        <p class="tag">Read the chapter <i>and</i> jump to any version.</p>
+      </div>
+      <div class="cbody">
+        <div class="md">
+          <p class="vh">Verses (6)</p>
+          <table class="v">
+            <tr><th>#</th><th>Bible in Basic English</th><th>Compare</th></tr>
+            <tr><td class="num"><a class="vlink" href="#">1</a></td><td class="scrip">Happy is the man who does not go in the company of sinners, or take his place in the way of evil-doers, or in the seat of those who do not give honour to the Lord.</td><td class="cmp"><a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></td></tr>
+            <tr><td class="num"><a class="vlink" href="#">2</a></td><td class="scrip">But whose delight is in the law of the Lord, and whose mind is on his law day and night.</td><td class="cmp"><a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></td></tr>
+            <tr><td class="num"><a class="vlink" href="#">3</a></td><td class="scrip">He will be like a tree planted by the rivers of water, which gives its fruit at the right time, whose leaves will ever be green; and he will do well in all his undertakings.</td><td class="cmp"><a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></td></tr>
+            <tr><td class="num"><a class="vlink" href="#">4</a></td><td class="scrip">The evil-doers are not so; but are like the dust from the grain, which the wind takes away.</td><td class="cmp"><a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></td></tr>
+            <tr><td class="num"><a class="vlink" href="#">5</a></td><td class="scrip">For this cause there will be no mercy for sinners when they are judged, and the evil-doers will have no place among the upright,</td><td class="cmp"><a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></td></tr>
+            <tr><td class="num"><a class="vlink" href="#">6</a></td><td class="scrip">Because the Lord sees the way of the upright, but the end of the sinner is destruction.</td><td class="cmp"><a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></td></tr>
+          </table>
+        </div>
+      </div>
+      <div class="cfoot">
+        <b>Best for:</b> open the folder, read the chapter in BBE, one tap to compare any verse.
+        <div class="con"><b>Trade-off:</b> README repeats the BBE text (auto-generated, zero upkeep — just bigger files).</div>
+      </div>
+    </div>
+
+    <!-- OPTION B -->
+    <div class="card">
+      <div class="chead">
+        <span class="badge">B</span>
+        <h3>Readable prose + links</h3>
+        <p class="tag">Reads like an open Bible, not a grid.</p>
+      </div>
+      <div class="cbody">
+        <div class="md prose">
+          <p class="vh">Verses (6)</p>
+          <p><span class="vn"><a class="vlink" href="#">1</a></span> <span class="scrip">Happy is the man who does not go in the company of sinners, or take his place in the way of evil-doers, or in the seat of those who do not give honour to the Lord.</span><span class="cmp">compare · <a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></span></p>
+          <p><span class="vn"><a class="vlink" href="#">2</a></span> <span class="scrip">But whose delight is in the law of the Lord, and whose mind is on his law day and night.</span><span class="cmp">compare · <a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></span></p>
+          <p><span class="vn"><a class="vlink" href="#">3</a></span> <span class="scrip">He will be like a tree planted by the rivers of water, which gives its fruit at the right time, whose leaves will ever be green; and he will do well in all his undertakings.</span><span class="cmp">compare · <a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></span></p>
+          <p><span class="vn"><a class="vlink" href="#">4</a></span> <span class="scrip">The evil-doers are not so; but are like the dust from the grain, which the wind takes away.</span><span class="cmp">compare · <a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></span></p>
+          <p><span class="vn"><a class="vlink" href="#">5</a></span> <span class="scrip">For this cause there will be no mercy for sinners when they are judged, and the evil-doers will have no place among the upright,</span><span class="cmp">compare · <a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></span></p>
+          <p><span class="vn"><a class="vlink" href="#">6</a></span> <span class="scrip">Because the Lord sees the way of the upright, but the end of the sinner is destruction.</span><span class="cmp">compare · <a href="#">WEB</a> · <a href="#">KJV</a> · <a href="#">ASV</a></span></p>
+        </div>
+      </div>
+      <div class="cfoot">
+        <b>Best for:</b> devotional reading flow; feels like scripture, not a spreadsheet.
+        <div class="con"><b>Trade-off:</b> compare-links are less tidy than columns; a touch busier per verse.</div>
+      </div>
+    </div>
+
+    <!-- OPTION C -->
+    <div class="card out">
+      <div class="chead">
+        <span class="badge out">Ruled out · C</span>
+        <h3>Link grid (no text)</h3>
+        <p class="tag">Shows no BBE text — fails your ask.</p>
+      </div>
+      <div class="cbody">
+        <div class="md">
+          <p class="vh">Verses (6)</p>
+          <table class="v">
+            <tr><th>#</th><th>BBE</th><th>WEB</th><th>KJV</th><th>ASV</th></tr>
+            <tr><td class="num">1</td><td><a href="#">BBE</a></td><td><a href="#">WEB</a></td><td><a href="#">KJV</a></td><td><a href="#">ASV</a></td></tr>
+            <tr><td class="num">2</td><td><a href="#">BBE</a></td><td><a href="#">WEB</a></td><td><a href="#">KJV</a></td><td><a href="#">ASV</a></td></tr>
+            <tr><td class="num">3</td><td><a href="#">BBE</a></td><td><a href="#">WEB</a></td><td><a href="#">KJV</a></td><td><a href="#">ASV</a></td></tr>
+            <tr><td class="num">4</td><td><a href="#">BBE</a></td><td><a href="#">WEB</a></td><td><a href="#">KJV</a></td><td><a href="#">ASV</a></td></tr>
+            <tr><td class="num">5</td><td><a href="#">BBE</a></td><td><a href="#">WEB</a></td><td><a href="#">KJV</a></td><td><a href="#">ASV</a></td></tr>
+            <tr><td class="num">6</td><td><a href="#">BBE</a></td><td><a href="#">WEB</a></td><td><a href="#">KJV</a></td><td><a href="#">ASV</a></td></tr>
+          </table>
+        </div>
+      </div>
+      <div class="cfoot">
+        <span class="con"><b>Why out:</b> you can't read a word without clicking away — the README wouldn't "show" BBE.</span>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="note">
+    <b>Accent-color key:</b>
+    <div class="key">
+      <span><span class="dot" style="background:var(--gold)"></span> gold = BBE (primary) / the divine</span>
+      <span><span class="dot" style="background:var(--sky)"></span> sky = other versions / compare</span>
+      <span><span class="dot" style="background:var(--olive)"></span> olive = life &amp; growth</span>
+      <span><span class="dot" style="background:var(--ember)"></span> ember = warning / judgment</span>
+    </div>
+  </div>
+
+  <h2>2 · Where the study notes live
+    <span class="q">README is the shared/factual layer; personal reflection belongs in .personal/. Which split?</span>
+  </h2>
+  <div class="grid">
+    <div class="card rec">
+      <div class="chead"><span class="badge rec">Recommended</span><h3>Factual sections in README</h3><p class="tag">Reflection points to .personal/</p></div>
+      <div class="cbody"><pre>## Study notes  (factual, shared)
+### Key verses
+### Summary
+### Notes          # factual margin notes
+### Cross references
+### Questions
+
+&lt;!-- Personal reflections →
+     .personal/&lt;you&gt;/ --&gt;</pre></div>
+      <div class="cfoot"><b>Why:</b> matches your two-layer rule; shared page stays factual, reflection stays personal.</div>
+    </div>
+    <div class="card">
+      <div class="chead"><span class="badge">Alt</span><h3>README = index only</h3><p class="tag">Notes move to study.md</p></div>
+      <div class="cbody"><pre>Psalms-001/
+  README.md   # text + nav + index
+  study.md    # factual study notes
+  BBE.md WEB.md KJV.md ASV.md
+  (reflection still in .personal/)</pre></div>
+      <div class="cfoot"><b>Why:</b> cleanest front page. <span class="con"><b>Cost:</b> one more file per chapter.</span></div>
+    </div>
+    <div class="card">
+      <div class="chead"><span class="badge">As-is</span><h3>Keep current 5 sections</h3><p class="tag">No relabeling</p></div>
+      <div class="cbody"><pre>## Key Verses
+## Summary
+## Notes
+&lt;!-- personal observations --&gt;
+## Cross References
+## Questions</pre></div>
+      <div class="cfoot"><span class="con"><b>Note:</b> "Notes = personal" in a shared file conflicts with your gate.</span></div>
+    </div>
+  </div>
+
+  <h2>3 · Scaffolding extras (all auto-generated, free to keep updated)
+    <span class="q">Tick whichever you want on every chapter page.</span>
+  </h2>
+  <div class="note">
+    <p style="margin:0 0 10px"><b>How the top of every README would look with all four on:</b></p>
+<pre>---
+book: Psalms          # metadata header → search &amp; graph can filter on these
+chapter: 1
+genre: wisdom psalm
+verses: 6
+primary: BBE
+versions: [BBE, WEB, KJV, ASV]
+themes: []            # filled later by a real study, never by the sweep
+---
+
+# Psalms 1
+↑ Psalms   ·   Psalm 2 →                      ← prev / next / up nav
+📖 Full text: BBE · WEB · KJV · ASV           ← full-text quick links
+
+&gt; *At a glance* — wisdom psalm · the two ways · vv1-3 upright / 4-6 evil-doers
+                                              ← one-line orientation (placeholder)</pre>
+    <p class="small" style="margin:10px 0 0">The <b>sweep generates the scaffold</b> (nav, the derivable header fields, the BBE verse list);
+    the scholarly bits (<i>themes</i>, <i>at a glance</i>, the study notes) stay empty placeholders until a real study fills them — so we never fake content.</p>
+  </div>
+
+</div>
+</body>
+</html>

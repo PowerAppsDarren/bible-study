@@ -257,7 +257,9 @@ API = "https://api.getbible.net/v2/{translation}/{book}/{chapter}.json"
 USER_AGENT = "Mozilla/5.0 (compatible; bible-study-fetch/1.0; +https://getbible.net)"
 
 # translation abbreviations (lowercase, as the API wants)
-DEFAULT_TRANSLATIONS = ["web", "kjv", "asv", "basicenglish"]
+# BBE (basicenglish) is FIRST because it is the project's primary/default version
+# (Darren's standing instruction) — the others are kept as comparison texts.
+DEFAULT_TRANSLATIONS = ["basicenglish", "web", "kjv", "asv"]
 
 # Nicer, short output filenames for versions whose API abbreviation is long.
 # Anything not listed here just uppercases its API abbreviation (web -> WEB.md).
