@@ -4,28 +4,28 @@
 
 ---
 
-**1** O make a new song to the Lord; let all the earth make melody to the Lord.
+<a id="v1"></a>**1** O make a new song to the Lord; let all the earth make melody to the Lord.
 
-**2** Make songs to the Lord, blessing his name; give the good news of his salvation day by day.
+<a id="v2"></a>**2** Make songs to the Lord, blessing his name; give the good news of his salvation day by day.
 
-**3** Make clear his glory to the nations, and his wonders to all the peoples.
+<a id="v3"></a>**3** Make clear his glory to the nations, and his wonders to all the peoples.
 
-**4** For the Lord is great, and greatly to be praised; he is more to be feared than all other gods.
+<a id="v4"></a>**4** For the Lord is great, and greatly to be praised; he is more to be feared than all other gods.
 
-**5** For all the gods of the nations are false gods; but the Lord made the heavens.
+<a id="v5"></a>**5** For all the gods of the nations are false gods; but the Lord made the heavens.
 
-**6** Honour and glory are before him: strong and fair is his holy place.
+<a id="v6"></a>**6** Honour and glory are before him: strong and fair is his holy place.
 
-**7** Give to the Lord, O you families of the peoples, give to the Lord glory and strength.
+<a id="v7"></a>**7** Give to the Lord, O you families of the peoples, give to the Lord glory and strength.
 
-**8** Give to the Lord the glory of his name; take with you an offering and come into his house.
+<a id="v8"></a>**8** Give to the Lord the glory of his name; take with you an offering and come into his house.
 
-**9** O give worship to the Lord in holy robes; be in fear before him, all the earth.
+<a id="v9"></a>**9** O give worship to the Lord in holy robes; be in fear before him, all the earth.
 
-**10** Say among the nations, The Lord is King; yes, the world is ordered so that it may not be moved; he will be an upright judge of the peoples.
+<a id="v10"></a>**10** Say among the nations, The Lord is King; yes, the world is ordered so that it may not be moved; he will be an upright judge of the peoples.
 
-**11** Let the heavens have joy and the earth be glad; let the sea be thundering with all its waters;
+<a id="v11"></a>**11** Let the heavens have joy and the earth be glad; let the sea be thundering with all its waters;
 
-**12** Let the field be glad, and everything which is in it; yes, let all the trees of the wood be sounding with joy,
+<a id="v12"></a>**12** Let the field be glad, and everything which is in it; yes, let all the trees of the wood be sounding with joy,
 
-**13** Before the Lord, for he is come; he is come to be the judge of the earth; the earth will be judged in righteousness, and the peoples with unchanging faith.
+<a id="v13"></a>**13** Before the Lord, for he is come; he is come to be the judge of the earth; the earth will be judged in righteousness, and the peoples with unchanging faith.

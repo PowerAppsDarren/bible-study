@@ -4,25 +4,25 @@
 
 ---
 
-**1** Blessed is he whose transgression is forgiven, Whose sin is covered.
+<a id="v1"></a>**1** Blessed is he whose transgression is forgiven, Whose sin is covered.
 
-**2** Blessed is the man unto whom Jehovah imputeth not iniquity, And in whose spirit there is no guile.
+<a id="v2"></a>**2** Blessed is the man unto whom Jehovah imputeth not iniquity, And in whose spirit there is no guile.
 
-**3** When I kept silence, my bones wasted away Through my groaning all the day long.
+<a id="v3"></a>**3** When I kept silence, my bones wasted away Through my groaning all the day long.
 
-**4** For day and night thy hand was heavy upon me: My moisture was changed as with the drought of summer. [Selah
+<a id="v4"></a>**4** For day and night thy hand was heavy upon me: My moisture was changed as with the drought of summer. [Selah
 
-**5** I acknowledged my sin unto thee, And mine iniquity did I not hide: I said, I will confess my transgressions unto Jehovah; And thou forgavest the iniquity of my sin. [Selah
+<a id="v5"></a>**5** I acknowledged my sin unto thee, And mine iniquity did I not hide: I said, I will confess my transgressions unto Jehovah; And thou forgavest the iniquity of my sin. [Selah
 
-**6** For this let every one that is godly pray unto thee in a time when thou mayest be found: Surely when the great waters overflow they shall not reach unto him.
+<a id="v6"></a>**6** For this let every one that is godly pray unto thee in a time when thou mayest be found: Surely when the great waters overflow they shall not reach unto him.
 
-**7** Thou art my hiding-place; thou wilt preserve me from trouble; Thou wilt compass me about with songs of deliverance. [Selah
+<a id="v7"></a>**7** Thou art my hiding-place; thou wilt preserve me from trouble; Thou wilt compass me about with songs of deliverance. [Selah
 
-**8** I will instruct thee and teach thee in the way which thou shalt go: I will counsel thee with mine eye upon thee.
+<a id="v8"></a>**8** I will instruct thee and teach thee in the way which thou shalt go: I will counsel thee with mine eye upon thee.
 
-**9** Be ye not as the horse, or as the mule, which have no understanding; Whose trappings must be bit and bridle to hold them in, Elsethey will not come near unto thee.
+<a id="v9"></a>**9** Be ye not as the horse, or as the mule, which have no understanding; Whose trappings must be bit and bridle to hold them in, Elsethey will not come near unto thee.
 
-**10** Many sorrows shall be to the wicked; But he that trusteth in Jehovah, lovingkindness shall compass him about.
+<a id="v10"></a>**10** Many sorrows shall be to the wicked; But he that trusteth in Jehovah, lovingkindness shall compass him about.
 
-**11** Be glad in Jehovah, and rejoice, ye righteous; And shout for joy, all ye that are upright in heart.
+<a id="v11"></a>**11** Be glad in Jehovah, and rejoice, ye righteous; And shout for joy, all ye that are upright in heart.
 

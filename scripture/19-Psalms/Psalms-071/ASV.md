@@ -4,51 +4,51 @@
 
 ---
 
-**1** In thee, O Jehovah, do I take refuge: Let me never be put to shame.
+<a id="v1"></a>**1** In thee, O Jehovah, do I take refuge: Let me never be put to shame.
 
-**2** Deliver me in thy righteousness, and rescue me: Bow down thine ear unto me, and save me.
+<a id="v2"></a>**2** Deliver me in thy righteousness, and rescue me: Bow down thine ear unto me, and save me.
 
-**3** Be thou to me a rock of habitation, whereunto I may continually resort: Thou hast given commandment to save me; For thou art my rock and my fortress.
+<a id="v3"></a>**3** Be thou to me a rock of habitation, whereunto I may continually resort: Thou hast given commandment to save me; For thou art my rock and my fortress.
 
-**4** Rescue me, O my God, out of the hand of the wicked, Out of the hand of the unrighteous and cruel man.
+<a id="v4"></a>**4** Rescue me, O my God, out of the hand of the wicked, Out of the hand of the unrighteous and cruel man.
 
-**5** For thou art my hope, O Lord Jehovah: Thou artmy trust from my youth.
+<a id="v5"></a>**5** For thou art my hope, O Lord Jehovah: Thou artmy trust from my youth.
 
-**6** By thee have I been holden up from the womb; Thou art he that took me out of my mother’s bowels: My praise shall be continually of thee.
+<a id="v6"></a>**6** By thee have I been holden up from the womb; Thou art he that took me out of my mother’s bowels: My praise shall be continually of thee.
 
-**7** I am as a wonder unto many; But thou art my strong refuge.
+<a id="v7"></a>**7** I am as a wonder unto many; But thou art my strong refuge.
 
-**8** My mouth shall be filled with thy praise, And with thy honor all the day.
+<a id="v8"></a>**8** My mouth shall be filled with thy praise, And with thy honor all the day.
 
-**9** Cast me not off in the time of old age; Forsake me not when my strength faileth.
+<a id="v9"></a>**9** Cast me not off in the time of old age; Forsake me not when my strength faileth.
 
-**10** For mine enemies speak concerning me; And they that watch for my soul take counsel together,
+<a id="v10"></a>**10** For mine enemies speak concerning me; And they that watch for my soul take counsel together,
 
-**11** Saying, God hath forsaken him: Pursue and take him; for there is none to deliver.
+<a id="v11"></a>**11** Saying, God hath forsaken him: Pursue and take him; for there is none to deliver.
 
-**12** O God, be not far from me; O my God, make haste to help me.
+<a id="v12"></a>**12** O God, be not far from me; O my God, make haste to help me.
 
-**13** Let them be put to shameandconsumed that are adversaries to my soul; Let them be covered with reproach and dishonor that seek my hurt.
+<a id="v13"></a>**13** Let them be put to shameandconsumed that are adversaries to my soul; Let them be covered with reproach and dishonor that seek my hurt.
 
-**14** But I will hope continually, And will praise thee yet more and more.
+<a id="v14"></a>**14** But I will hope continually, And will praise thee yet more and more.
 
-**15** My mouth shall tell of thy righteousness, Andof thy salvation all the day; For I know not the numbers thereof.
+<a id="v15"></a>**15** My mouth shall tell of thy righteousness, Andof thy salvation all the day; For I know not the numbers thereof.
 
-**16** I will come with the mighty acts of the Lord Jehovah: I will make mention of thy righteousness, even of thine only.
+<a id="v16"></a>**16** I will come with the mighty acts of the Lord Jehovah: I will make mention of thy righteousness, even of thine only.
 
-**17** O God, thou hast taught me from my youth; And hitherto have I declared thy wondrous works.
+<a id="v17"></a>**17** O God, thou hast taught me from my youth; And hitherto have I declared thy wondrous works.
 
-**18** Yea, even when I am old and grayheaded, O God, forsake me not, Until I have declared thy strength unto the next generation, Thy might to every one that is to come.
+<a id="v18"></a>**18** Yea, even when I am old and grayheaded, O God, forsake me not, Until I have declared thy strength unto the next generation, Thy might to every one that is to come.
 
-**19** Thy righteousness also, O God, is very high; Thou who hast done great things, O God, who is like unto thee?
+<a id="v19"></a>**19** Thy righteousness also, O God, is very high; Thou who hast done great things, O God, who is like unto thee?
 
-**20** Thou, who hast showed us many and sore troubles, Wilt quicken us again, And wilt bring us up again from the depths of the earth.
+<a id="v20"></a>**20** Thou, who hast showed us many and sore troubles, Wilt quicken us again, And wilt bring us up again from the depths of the earth.
 
-**21** Increase thou my greatness, And turn again and comfort me.
+<a id="v21"></a>**21** Increase thou my greatness, And turn again and comfort me.
 
-**22** I will also praise thee with the psaltery, Even thy truth, O my God: Unto thee will I sing praises with the harp, O thou Holy One of Israel.
+<a id="v22"></a>**22** I will also praise thee with the psaltery, Even thy truth, O my God: Unto thee will I sing praises with the harp, O thou Holy One of Israel.
 
-**23** My lips shall shout for joy when I sing praises unto thee; And my soul, which thou hast redeemed.
+<a id="v23"></a>**23** My lips shall shout for joy when I sing praises unto thee; And my soul, which thou hast redeemed.
 
-**24** My tongue also shall talk of thy righteousness all the day long; For they are put to shame, for they are confounded, that seek my hurt.
+<a id="v24"></a>**24** My tongue also shall talk of thy righteousness all the day long; For they are put to shame, for they are confounded, that seek my hurt.
 

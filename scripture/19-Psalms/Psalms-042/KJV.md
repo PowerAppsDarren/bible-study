@@ -4,25 +4,25 @@
 
 ---
 
-**1** As the hart panteth after the water brooks, so panteth my soul after thee, O God.
+<a id="v1"></a>**1** As the hart panteth after the water brooks, so panteth my soul after thee, O God.
 
-**2** My soul thirsteth for God, for the living God: when shall I come and appear before God?
+<a id="v2"></a>**2** My soul thirsteth for God, for the living God: when shall I come and appear before God?
 
-**3** My tears have been my meat day and night, while they continually say unto me, Where is thy God?
+<a id="v3"></a>**3** My tears have been my meat day and night, while they continually say unto me, Where is thy God?
 
-**4** When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.
+<a id="v4"></a>**4** When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.
 
-**5** Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.
+<a id="v5"></a>**5** Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.
 
-**6** O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
+<a id="v6"></a>**6** O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
 
-**7** Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.
+<a id="v7"></a>**7** Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.
 
-**8** Yet the Lord will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life.
+<a id="v8"></a>**8** Yet the Lord will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life.
 
-**9** I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?
+<a id="v9"></a>**9** I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?
 
-**10** As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?
+<a id="v10"></a>**10** As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?
 
-**11** Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.
+<a id="v11"></a>**11** Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.
 

@@ -4,147 +4,147 @@
 
 ---
 
-**1** Give ear, O my people, to my law: incline your ears to the words of my mouth.
+<a id="v1"></a>**1** Give ear, O my people, to my law: incline your ears to the words of my mouth.
 
-**2** I will open my mouth in a parable: I will utter dark sayings of old:
+<a id="v2"></a>**2** I will open my mouth in a parable: I will utter dark sayings of old:
 
-**3** Which we have heard and known, and our fathers have told us.
+<a id="v3"></a>**3** Which we have heard and known, and our fathers have told us.
 
-**4** We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.
+<a id="v4"></a>**4** We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.
 
-**5** For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
+<a id="v5"></a>**5** For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
 
-**6** That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+<a id="v6"></a>**6** That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
 
-**7** That they might set their hope in God, and not forget the works of God, but keep his commandments:
+<a id="v7"></a>**7** That they might set their hope in God, and not forget the works of God, but keep his commandments:
 
-**8** And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
+<a id="v8"></a>**8** And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
 
-**9** The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.
+<a id="v9"></a>**9** The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.
 
-**10** They kept not the covenant of God, and refused to walk in his law;
+<a id="v10"></a>**10** They kept not the covenant of God, and refused to walk in his law;
 
-**11** And forgat his works, and his wonders that he had shewed them.
+<a id="v11"></a>**11** And forgat his works, and his wonders that he had shewed them.
 
-**12** Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.
+<a id="v12"></a>**12** Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.
 
-**13** He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.
+<a id="v13"></a>**13** He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.
 
-**14** In the daytime also he led them with a cloud, and all the night with a light of fire.
+<a id="v14"></a>**14** In the daytime also he led them with a cloud, and all the night with a light of fire.
 
-**15** He clave the rocks in the wilderness, and gave them drink as out of the great depths.
+<a id="v15"></a>**15** He clave the rocks in the wilderness, and gave them drink as out of the great depths.
 
-**16** He brought streams also out of the rock, and caused waters to run down like rivers.
+<a id="v16"></a>**16** He brought streams also out of the rock, and caused waters to run down like rivers.
 
-**17** And they sinned yet more against him by provoking the most High in the wilderness.
+<a id="v17"></a>**17** And they sinned yet more against him by provoking the most High in the wilderness.
 
-**18** And they tempted God in their heart by asking meat for their lust.
+<a id="v18"></a>**18** And they tempted God in their heart by asking meat for their lust.
 
-**19** Yea, they spake against God; they said, Can God furnish a table in the wilderness?
+<a id="v19"></a>**19** Yea, they spake against God; they said, Can God furnish a table in the wilderness?
 
-**20** Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
+<a id="v20"></a>**20** Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
 
-**21** Therefore the Lord heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;
+<a id="v21"></a>**21** Therefore the Lord heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;
 
-**22** Because they believed not in God, and trusted not in his salvation:
+<a id="v22"></a>**22** Because they believed not in God, and trusted not in his salvation:
 
-**23** Though he had commanded the clouds from above, and opened the doors of heaven,
+<a id="v23"></a>**23** Though he had commanded the clouds from above, and opened the doors of heaven,
 
-**24** And had rained down manna upon them to eat, and had given them of the corn of heaven.
+<a id="v24"></a>**24** And had rained down manna upon them to eat, and had given them of the corn of heaven.
 
-**25** Man did eat angels’ food: he sent them meat to the full.
+<a id="v25"></a>**25** Man did eat angels’ food: he sent them meat to the full.
 
-**26** He caused an east wind to blow in the heaven: and by his power he brought in the south wind.
+<a id="v26"></a>**26** He caused an east wind to blow in the heaven: and by his power he brought in the south wind.
 
-**27** He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:
+<a id="v27"></a>**27** He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:
 
-**28** And he let it fall in the midst of their camp, round about their habitations.
+<a id="v28"></a>**28** And he let it fall in the midst of their camp, round about their habitations.
 
-**29** So they did eat, and were well filled: for he gave them their own desire;
+<a id="v29"></a>**29** So they did eat, and were well filled: for he gave them their own desire;
 
-**30** They were not estranged from their lust. But while their meat was yet in their mouths,
+<a id="v30"></a>**30** They were not estranged from their lust. But while their meat was yet in their mouths,
 
-**31** The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.
+<a id="v31"></a>**31** The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.
 
-**32** For all this they sinned still, and believed not for his wondrous works.
+<a id="v32"></a>**32** For all this they sinned still, and believed not for his wondrous works.
 
-**33** Therefore their days did he consume in vanity, and their years in trouble.
+<a id="v33"></a>**33** Therefore their days did he consume in vanity, and their years in trouble.
 
-**34** When he slew them, then they sought him: and they returned and enquired early after God.
+<a id="v34"></a>**34** When he slew them, then they sought him: and they returned and enquired early after God.
 
-**35** And they remembered that God was their rock, and the high God their redeemer.
+<a id="v35"></a>**35** And they remembered that God was their rock, and the high God their redeemer.
 
-**36** Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.
+<a id="v36"></a>**36** Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.
 
-**37** For their heart was not right with him, neither were they stedfast in his covenant.
+<a id="v37"></a>**37** For their heart was not right with him, neither were they stedfast in his covenant.
 
-**38** But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.
+<a id="v38"></a>**38** But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.
 
-**39** For he remembered that they were but flesh; a wind that passeth away, and cometh not again.
+<a id="v39"></a>**39** For he remembered that they were but flesh; a wind that passeth away, and cometh not again.
 
-**40** How oft did they provoke him in the wilderness, and grieve him in the desert!
+<a id="v40"></a>**40** How oft did they provoke him in the wilderness, and grieve him in the desert!
 
-**41** Yea, they turned back and tempted God, and limited the Holy One of Israel.
+<a id="v41"></a>**41** Yea, they turned back and tempted God, and limited the Holy One of Israel.
 
-**42** They remembered not his hand, nor the day when he delivered them from the enemy.
+<a id="v42"></a>**42** They remembered not his hand, nor the day when he delivered them from the enemy.
 
-**43** How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
+<a id="v43"></a>**43** How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
 
-**44** And had turned their rivers into blood; and their floods, that they could not drink.
+<a id="v44"></a>**44** And had turned their rivers into blood; and their floods, that they could not drink.
 
-**45** He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.
+<a id="v45"></a>**45** He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.
 
-**46** He gave also their increase unto the caterpiller, and their labour unto the locust.
+<a id="v46"></a>**46** He gave also their increase unto the caterpiller, and their labour unto the locust.
 
-**47** He destroyed their vines with hail, and their sycomore trees with frost.
+<a id="v47"></a>**47** He destroyed their vines with hail, and their sycomore trees with frost.
 
-**48** He gave up their cattle also to the hail, and their flocks to hot thunderbolts.
+<a id="v48"></a>**48** He gave up their cattle also to the hail, and their flocks to hot thunderbolts.
 
-**49** He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.
+<a id="v49"></a>**49** He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.
 
-**50** He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
+<a id="v50"></a>**50** He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
 
-**51** And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:
+<a id="v51"></a>**51** And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:
 
-**52** But made his own people to go forth like sheep, and guided them in the wilderness like a flock.
+<a id="v52"></a>**52** But made his own people to go forth like sheep, and guided them in the wilderness like a flock.
 
-**53** And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.
+<a id="v53"></a>**53** And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.
 
-**54** And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased.
+<a id="v54"></a>**54** And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased.
 
-**55** He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.
+<a id="v55"></a>**55** He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.
 
-**56** Yet they tempted and provoked the most high God, and kept not his testimonies:
+<a id="v56"></a>**56** Yet they tempted and provoked the most high God, and kept not his testimonies:
 
-**57** But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.
+<a id="v57"></a>**57** But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.
 
-**58** For they provoked him to anger with their high places, and moved him to jealousy with their graven images.
+<a id="v58"></a>**58** For they provoked him to anger with their high places, and moved him to jealousy with their graven images.
 
-**59** When God heard this, he was wroth, and greatly abhorred Israel:
+<a id="v59"></a>**59** When God heard this, he was wroth, and greatly abhorred Israel:
 
-**60** So that he forsook the tabernacle of Shiloh, the tent which he placed among men;
+<a id="v60"></a>**60** So that he forsook the tabernacle of Shiloh, the tent which he placed among men;
 
-**61** And delivered his strength into captivity, and his glory into the enemy’s hand.
+<a id="v61"></a>**61** And delivered his strength into captivity, and his glory into the enemy’s hand.
 
-**62** He gave his people over also unto the sword; and was wroth with his inheritance.
+<a id="v62"></a>**62** He gave his people over also unto the sword; and was wroth with his inheritance.
 
-**63** The fire consumed their young men; and their maidens were not given to marriage.
+<a id="v63"></a>**63** The fire consumed their young men; and their maidens were not given to marriage.
 
-**64** Their priests fell by the sword; and their widows made no lamentation.
+<a id="v64"></a>**64** Their priests fell by the sword; and their widows made no lamentation.
 
-**65** Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.
+<a id="v65"></a>**65** Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.
 
-**66** And he smote his enemies in the hinder parts: he put them to a perpetual reproach.
+<a id="v66"></a>**66** And he smote his enemies in the hinder parts: he put them to a perpetual reproach.
 
-**67** Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:
+<a id="v67"></a>**67** Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:
 
-**68** But chose the tribe of Judah, the mount Zion which he loved.
+<a id="v68"></a>**68** But chose the tribe of Judah, the mount Zion which he loved.
 
-**69** And he built his sanctuary like high palaces, like the earth which he hath established for ever.
+<a id="v69"></a>**69** And he built his sanctuary like high palaces, like the earth which he hath established for ever.
 
-**70** He chose David also his servant, and took him from the sheepfolds:
+<a id="v70"></a>**70** He chose David also his servant, and took him from the sheepfolds:
 
-**71** From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.
+<a id="v71"></a>**71** From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.
 
-**72** So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.
+<a id="v72"></a>**72** So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.
 

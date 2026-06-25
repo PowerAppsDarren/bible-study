@@ -4,19 +4,19 @@
 
 ---
 
-**1** Answer me when I call, O God of my righteousness; Thou hast set me at large when I was in distress: Have mercy upon me, and hear my prayer.
+<a id="v1"></a>**1** Answer me when I call, O God of my righteousness; Thou hast set me at large when I was in distress: Have mercy upon me, and hear my prayer.
 
-**2** O ye sons of men, how long shall my glory be turned into dishonor? How longwill ye love vanity, and seek after falsehood? [Selah
+<a id="v2"></a>**2** O ye sons of men, how long shall my glory be turned into dishonor? How longwill ye love vanity, and seek after falsehood? [Selah
 
-**3** But know that Jehovah hath set apart for himself him that is godly: Jehovah will hear when I call unto him.
+<a id="v3"></a>**3** But know that Jehovah hath set apart for himself him that is godly: Jehovah will hear when I call unto him.
 
-**4** Stand in awe, and sin not: Commune with your own heart upon your bed, and be still. [Selah
+<a id="v4"></a>**4** Stand in awe, and sin not: Commune with your own heart upon your bed, and be still. [Selah
 
-**5** Offer the sacrifices of righteousness, And put your trust in Jehovah.
+<a id="v5"></a>**5** Offer the sacrifices of righteousness, And put your trust in Jehovah.
 
-**6** Many there are that say, Who will show us any good? Jehovah, lift thou up the light of thy countenance upon us.
+<a id="v6"></a>**6** Many there are that say, Who will show us any good? Jehovah, lift thou up the light of thy countenance upon us.
 
-**7** Thou hast put gladness in my heart, More thanthey havewhen their grain and their new wine are increased.
+<a id="v7"></a>**7** Thou hast put gladness in my heart, More thanthey havewhen their grain and their new wine are increased.
 
-**8** In peace will I both lay me down and sleep; For thou, Jehovah, alone makest me dwell in safety.
+<a id="v8"></a>**8** In peace will I both lay me down and sleep; For thou, Jehovah, alone makest me dwell in safety.
 

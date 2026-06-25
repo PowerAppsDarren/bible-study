@@ -4,27 +4,27 @@
 
 ---
 
-**1** Why do the heathen rage, and the people imagine a vain thing?
+<a id="v1"></a>**1** Why do the heathen rage, and the people imagine a vain thing?
 
-**2** The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,
+<a id="v2"></a>**2** The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,
 
-**3** Let us break their bands asunder, and cast away their cords from us.
+<a id="v3"></a>**3** Let us break their bands asunder, and cast away their cords from us.
 
-**4** He that sitteth in the heavens shall laugh: the Lord shall have them in derision.
+<a id="v4"></a>**4** He that sitteth in the heavens shall laugh: the Lord shall have them in derision.
 
-**5** Then shall he speak unto them in his wrath, and vex them in his sore displeasure.
+<a id="v5"></a>**5** Then shall he speak unto them in his wrath, and vex them in his sore displeasure.
 
-**6** Yet have I set my king upon my holy hill of Zion.
+<a id="v6"></a>**6** Yet have I set my king upon my holy hill of Zion.
 
-**7** I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.
+<a id="v7"></a>**7** I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.
 
-**8** Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.
+<a id="v8"></a>**8** Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.
 
-**9** Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
+<a id="v9"></a>**9** Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
 
-**10** Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
+<a id="v10"></a>**10** Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
 
-**11** Serve the Lord with fear, and rejoice with trembling.
+<a id="v11"></a>**11** Serve the Lord with fear, and rejoice with trembling.
 
-**12** Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
+<a id="v12"></a>**12** Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
 

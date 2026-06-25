@@ -4,19 +4,19 @@
 
 ---
 
-**1** When Israel went out of Egypt, the house of Jacob from a people of foreign language;
+<a id="v1"></a>**1** When Israel went out of Egypt, the house of Jacob from a people of foreign language;
 
-**2** Judah became his sanctuary, Israel his dominion.
+<a id="v2"></a>**2** Judah became his sanctuary, Israel his dominion.
 
-**3** The sea saw it, and fled. The Jordan was driven back.
+<a id="v3"></a>**3** The sea saw it, and fled. The Jordan was driven back.
 
-**4** The mountains skipped like rams, the little hills like lambs.
+<a id="v4"></a>**4** The mountains skipped like rams, the little hills like lambs.
 
-**5** What was it, you sea, that you fled? You Jordan, that you turned back?
+<a id="v5"></a>**5** What was it, you sea, that you fled? You Jordan, that you turned back?
 
-**6** You mountains, that you skipped like rams; you little hills, like lambs?
+<a id="v6"></a>**6** You mountains, that you skipped like rams; you little hills, like lambs?
 
-**7** Tremble, you earth, at the presence of the Lord, at the presence of the God of Jacob,
+<a id="v7"></a>**7** Tremble, you earth, at the presence of the Lord, at the presence of the God of Jacob,
 
-**8** who turned the rock into a pool of water, the flint into a spring of waters.
+<a id="v8"></a>**8** who turned the rock into a pool of water, the flint into a spring of waters.
 

@@ -4,29 +4,29 @@
 
 ---
 
-**1** Deliver me, O Jehovah, from the evil man; Preserve me from the violent man:
+<a id="v1"></a>**1** Deliver me, O Jehovah, from the evil man; Preserve me from the violent man:
 
-**2** Who devise mischiefs in their heart; Continually do they gather themselves together for war.
+<a id="v2"></a>**2** Who devise mischiefs in their heart; Continually do they gather themselves together for war.
 
-**3** They have sharpened their tongue like a serpent; Adders’ poison is under their lips. [Selah
+<a id="v3"></a>**3** They have sharpened their tongue like a serpent; Adders’ poison is under their lips. [Selah
 
-**4** Keep me, O Jehovah, from the hands of the wicked; Preserve me from the violent man: Who have purposed to thrust aside my steps.
+<a id="v4"></a>**4** Keep me, O Jehovah, from the hands of the wicked; Preserve me from the violent man: Who have purposed to thrust aside my steps.
 
-**5** The proud have hid a snare for me, and cords; They have spread a net by the wayside; They have set gins for me. [Selah
+<a id="v5"></a>**5** The proud have hid a snare for me, and cords; They have spread a net by the wayside; They have set gins for me. [Selah
 
-**6** I said unto Jehovah, Thou art my God: Give ear unto the voice of my supplications, O Jehovah.
+<a id="v6"></a>**6** I said unto Jehovah, Thou art my God: Give ear unto the voice of my supplications, O Jehovah.
 
-**7** O Jehovah the Lord, the strength of my salvation, Thou hast covered my head in the day of battle.
+<a id="v7"></a>**7** O Jehovah the Lord, the strength of my salvation, Thou hast covered my head in the day of battle.
 
-**8** Grant not, O Jehovah, the desires of the wicked; Further not his evil device, lest they exalt themselves. [Selah
+<a id="v8"></a>**8** Grant not, O Jehovah, the desires of the wicked; Further not his evil device, lest they exalt themselves. [Selah
 
-**9** As for the head of those that compass me about, Let the mischief of their own lips cover them.
+<a id="v9"></a>**9** As for the head of those that compass me about, Let the mischief of their own lips cover them.
 
-**10** Let burning coals fall upon them: Let them be cast into the fire, Into deep pits, whence they shall not rise.
+<a id="v10"></a>**10** Let burning coals fall upon them: Let them be cast into the fire, Into deep pits, whence they shall not rise.
 
-**11** An evil speaker shall not be established in the earth: Evil shall hunt the violent man to overthrow him.
+<a id="v11"></a>**11** An evil speaker shall not be established in the earth: Evil shall hunt the violent man to overthrow him.
 
-**12** I know that Jehovah will maintain the cause of the afflicted, And justice for the needy.
+<a id="v12"></a>**12** I know that Jehovah will maintain the cause of the afflicted, And justice for the needy.
 
-**13** Surely the righteous shall give thanks unto thy name: The upright shall dwell in thy presence.
+<a id="v13"></a>**13** Surely the righteous shall give thanks unto thy name: The upright shall dwell in thy presence.
 

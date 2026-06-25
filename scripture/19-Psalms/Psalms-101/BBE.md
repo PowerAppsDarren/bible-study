@@ -4,18 +4,18 @@
 
 ---
 
-**1** I will make a song of mercy and righteousness; to you, O Lord, will I make melody.
+<a id="v1"></a>**1** I will make a song of mercy and righteousness; to you, O Lord, will I make melody.
 
-**2** I will do wisely in the way of righteousness: O when will you come to me? I will be walking in my house with a true heart.
+<a id="v2"></a>**2** I will do wisely in the way of righteousness: O when will you come to me? I will be walking in my house with a true heart.
 
-**3** I will not put any evil thing before my eyes; I am against all turning to one side; I will not have it near me.
+<a id="v3"></a>**3** I will not put any evil thing before my eyes; I am against all turning to one side; I will not have it near me.
 
-**4** The false heart I will send away from me: I will not have an evil-doer for a friend.
+<a id="v4"></a>**4** The false heart I will send away from me: I will not have an evil-doer for a friend.
 
-**5** I will put to death anyone who says evil of his neighbour secretly; the man with a high look and a heart of pride is disgusting to me.
+<a id="v5"></a>**5** I will put to death anyone who says evil of his neighbour secretly; the man with a high look and a heart of pride is disgusting to me.
 
-**6** My eyes will be on those of good faith in the land, so that they may be living in my house; he who is walking in the right way will be my servant.
+<a id="v6"></a>**6** My eyes will be on those of good faith in the land, so that they may be living in my house; he who is walking in the right way will be my servant.
 
-**7** The worker of deceit will not come into my house; the false man will have no place before my eyes.
+<a id="v7"></a>**7** The worker of deceit will not come into my house; the false man will have no place before my eyes.
 
-**8** Morning by morning will I put to death all the sinners in the land, so that all evil-doers may be cut off from Jerusalem.
+<a id="v8"></a>**8** Morning by morning will I put to death all the sinners in the land, so that all evil-doers may be cut off from Jerusalem.

@@ -4,19 +4,19 @@
 
 ---
 
-**1** I will sing of lovingkindness and justice: Unto thee, O Jehovah, will I sing praises.
+<a id="v1"></a>**1** I will sing of lovingkindness and justice: Unto thee, O Jehovah, will I sing praises.
 
-**2** I will behave myself wisely in a perfect way: Oh when wilt thou come unto me? I will walk within my house with a perfect heart.
+<a id="v2"></a>**2** I will behave myself wisely in a perfect way: Oh when wilt thou come unto me? I will walk within my house with a perfect heart.
 
-**3** I will set no base thing before mine eyes: I hate the work of them that turn aside; It shall not cleave unto me.
+<a id="v3"></a>**3** I will set no base thing before mine eyes: I hate the work of them that turn aside; It shall not cleave unto me.
 
-**4** A perverse heart shall depart from me: I will know no evil thing.
+<a id="v4"></a>**4** A perverse heart shall depart from me: I will know no evil thing.
 
-**5** Whoso privily slandereth his neighbor, him will I destroy: Him that hath a high look and a proud heart will I not suffer.
+<a id="v5"></a>**5** Whoso privily slandereth his neighbor, him will I destroy: Him that hath a high look and a proud heart will I not suffer.
 
-**6** Mine eyes shall be upon the faithful of the land, that they may dwell with me: He that walketh in a perfect way, he shall minister unto me.
+<a id="v6"></a>**6** Mine eyes shall be upon the faithful of the land, that they may dwell with me: He that walketh in a perfect way, he shall minister unto me.
 
-**7** He that worketh deceit shall not dwell within my house: He that speaketh falsehood shall not be established before mine eyes.
+<a id="v7"></a>**7** He that worketh deceit shall not dwell within my house: He that speaketh falsehood shall not be established before mine eyes.
 
-**8** Morning by morning will I destroy all the wicked of the land; To cut off all the workers of iniquity from the city of Jehovah.
+<a id="v8"></a>**8** Morning by morning will I destroy all the wicked of the land; To cut off all the workers of iniquity from the city of Jehovah.
 

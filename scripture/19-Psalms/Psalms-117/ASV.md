@@ -4,7 +4,7 @@
 
 ---
 
-**1** O praise Jehovah, all ye nations; Laud him, all ye peoples.
+<a id="v1"></a>**1** O praise Jehovah, all ye nations; Laud him, all ye peoples.
 
-**2** For his lovingkindness is great toward us; And the truth of Jehovahendurethfor ever. Praise ye Jehovah.
+<a id="v2"></a>**2** For his lovingkindness is great toward us; And the truth of Jehovahendurethfor ever. Praise ye Jehovah.
 

@@ -4,23 +4,23 @@
 
 ---
 
-**1** Praise ye the Lord. I will praise the Lord with my whole heart, in the assembly of the upright, and in the congregation.
+<a id="v1"></a>**1** Praise ye the Lord. I will praise the Lord with my whole heart, in the assembly of the upright, and in the congregation.
 
-**2** The works of the Lord are great, sought out of all them that have pleasure therein.
+<a id="v2"></a>**2** The works of the Lord are great, sought out of all them that have pleasure therein.
 
-**3** His work is honourable and glorious: and his righteousness endureth for ever.
+<a id="v3"></a>**3** His work is honourable and glorious: and his righteousness endureth for ever.
 
-**4** He hath made his wonderful works to be remembered: the Lord is gracious and full of compassion.
+<a id="v4"></a>**4** He hath made his wonderful works to be remembered: the Lord is gracious and full of compassion.
 
-**5** He hath given meat unto them that fear him: he will ever be mindful of his covenant.
+<a id="v5"></a>**5** He hath given meat unto them that fear him: he will ever be mindful of his covenant.
 
-**6** He hath shewed his people the power of his works, that he may give them the heritage of the heathen.
+<a id="v6"></a>**6** He hath shewed his people the power of his works, that he may give them the heritage of the heathen.
 
-**7** The works of his hands are verity and judgment; all his commandments are sure.
+<a id="v7"></a>**7** The works of his hands are verity and judgment; all his commandments are sure.
 
-**8** They stand fast for ever and ever, and are done in truth and uprightness.
+<a id="v8"></a>**8** They stand fast for ever and ever, and are done in truth and uprightness.
 
-**9** He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.
+<a id="v9"></a>**9** He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.
 
-**10** The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
+<a id="v10"></a>**10** The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
 

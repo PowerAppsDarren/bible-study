@@ -4,8 +4,8 @@
 
 ---
 
-**1** See how good and how pleasing it is for brothers to be living together in harmony!
+<a id="v1"></a>**1** See how good and how pleasing it is for brothers to be living together in harmony!
 
-**2** It is like oil of great price on the head, flowing down over the face, even Aaron's face: coming down to the edge of his robe;
+<a id="v2"></a>**2** It is like oil of great price on the head, flowing down over the face, even Aaron's face: coming down to the edge of his robe;
 
-**3** Like the dew of Hermon, which comes down on the mountains of Zion: for there the Lord gave orders for the blessing, even life for ever.
+<a id="v3"></a>**3** Like the dew of Hermon, which comes down on the mountains of Zion: for there the Lord gave orders for the blessing, even life for ever.

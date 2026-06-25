@@ -4,43 +4,43 @@
 
 ---
 
-**1** Make a joyful noise unto God, all the earth:
+<a id="v1"></a>**1** Make a joyful noise unto God, all the earth:
 
-**2** Sing forth the glory of his name: Make his praise glorious.
+<a id="v2"></a>**2** Sing forth the glory of his name: Make his praise glorious.
 
-**3** Say unto God, How terrible are thy works! Through the greatness of thy power shall thine enemies submit themselves unto thee.
+<a id="v3"></a>**3** Say unto God, How terrible are thy works! Through the greatness of thy power shall thine enemies submit themselves unto thee.
 
-**4** All the earth shall worship thee, And shall sing unto thee; They shall sing to thy name. [Selah
+<a id="v4"></a>**4** All the earth shall worship thee, And shall sing unto thee; They shall sing to thy name. [Selah
 
-**5** Come, and see the works of God; He is terrible in his doing toward the children of men.
+<a id="v5"></a>**5** Come, and see the works of God; He is terrible in his doing toward the children of men.
 
-**6** He turned the sea into dry land; They went through the river on foot: There did we rejoice in him.
+<a id="v6"></a>**6** He turned the sea into dry land; They went through the river on foot: There did we rejoice in him.
 
-**7** He ruleth by his might for ever; His eyes observe the nations: Let not the rebellious exalt themselves. [Selah
+<a id="v7"></a>**7** He ruleth by his might for ever; His eyes observe the nations: Let not the rebellious exalt themselves. [Selah
 
-**8** Oh bless our God, ye peoples, And make the voice of his praise to be heard;
+<a id="v8"></a>**8** Oh bless our God, ye peoples, And make the voice of his praise to be heard;
 
-**9** Who holdeth our soul in life, And suffereth not our feet to be moved.
+<a id="v9"></a>**9** Who holdeth our soul in life, And suffereth not our feet to be moved.
 
-**10** For thou, O God, hast proved us: Thou hast tried us, as silver is tried.
+<a id="v10"></a>**10** For thou, O God, hast proved us: Thou hast tried us, as silver is tried.
 
-**11** Thou broughtest us into the net; Thou layedst a sore burden upon our loins.
+<a id="v11"></a>**11** Thou broughtest us into the net; Thou layedst a sore burden upon our loins.
 
-**12** Thou didst cause men to ride over our heads; We went through fire and through water; But thou broughtest us out into a wealthy place.
+<a id="v12"></a>**12** Thou didst cause men to ride over our heads; We went through fire and through water; But thou broughtest us out into a wealthy place.
 
-**13** I will come into thy house with burnt-offerings; I will pay thee my vows,
+<a id="v13"></a>**13** I will come into thy house with burnt-offerings; I will pay thee my vows,
 
-**14** Which my lips uttered, And my mouth spake, when I was in distress.
+<a id="v14"></a>**14** Which my lips uttered, And my mouth spake, when I was in distress.
 
-**15** I will offer unto thee burnt-offerings of fatlings, With the incense of rams; I will offer bullocks with goats. [Selah
+<a id="v15"></a>**15** I will offer unto thee burnt-offerings of fatlings, With the incense of rams; I will offer bullocks with goats. [Selah
 
-**16** Come, and hear, all ye that fear God, And I will declare what he hath done for my soul.
+<a id="v16"></a>**16** Come, and hear, all ye that fear God, And I will declare what he hath done for my soul.
 
-**17** I cried unto him with my mouth, And he was extolled with my tongue.
+<a id="v17"></a>**17** I cried unto him with my mouth, And he was extolled with my tongue.
 
-**18** If I regard iniquity in my heart, The Lord will not hear:
+<a id="v18"></a>**18** If I regard iniquity in my heart, The Lord will not hear:
 
-**19** But verily God hath heard; He hath attended to the voice of my prayer.
+<a id="v19"></a>**19** But verily God hath heard; He hath attended to the voice of my prayer.
 
-**20** Blessed be God, Who hath not turned away my prayer, Nor his lovingkindness from me.
+<a id="v20"></a>**20** Blessed be God, Who hath not turned away my prayer, Nor his lovingkindness from me.
 

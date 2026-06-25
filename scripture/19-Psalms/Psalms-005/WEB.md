@@ -4,27 +4,27 @@
 
 ---
 
-**1** Give ear to my words, Yahweh. Consider my meditation.
+<a id="v1"></a>**1** Give ear to my words, Yahweh. Consider my meditation.
 
-**2** Listen to the voice of my cry, my King and my God; for to you do I pray.
+<a id="v2"></a>**2** Listen to the voice of my cry, my King and my God; for to you do I pray.
 
-**3** Yahweh, in the morning you shall hear my voice. In the morning I will lay my requests before you, and will watch expectantly.
+<a id="v3"></a>**3** Yahweh, in the morning you shall hear my voice. In the morning I will lay my requests before you, and will watch expectantly.
 
-**4** For you are not a God who has pleasure in wickedness. Evil can’t live with you.
+<a id="v4"></a>**4** For you are not a God who has pleasure in wickedness. Evil can’t live with you.
 
-**5** The arrogant shall not stand in your sight. You hate all workers of iniquity.
+<a id="v5"></a>**5** The arrogant shall not stand in your sight. You hate all workers of iniquity.
 
-**6** You will destroy those who speak lies. Yahweh abhors the bloodthirsty and deceitful man.
+<a id="v6"></a>**6** You will destroy those who speak lies. Yahweh abhors the bloodthirsty and deceitful man.
 
-**7** But as for me, in the abundance of your loving kindness I will come into your house. I will bow toward your holy temple in reverence of you.
+<a id="v7"></a>**7** But as for me, in the abundance of your loving kindness I will come into your house. I will bow toward your holy temple in reverence of you.
 
-**8** Lead me, Yahweh, in your righteousness because of my enemies. Make your way straight before my face.
+<a id="v8"></a>**8** Lead me, Yahweh, in your righteousness because of my enemies. Make your way straight before my face.
 
-**9** For there is no faithfulness in their mouth. Their heart is destruction. Their throat is an open tomb. They flatter with their tongue.
+<a id="v9"></a>**9** For there is no faithfulness in their mouth. Their heart is destruction. Their throat is an open tomb. They flatter with their tongue.
 
-**10** Hold them guilty, God. Let them fall by their own counsels; Thrust them out in the multitude of their transgressions, for they have rebelled against you.
+<a id="v10"></a>**10** Hold them guilty, God. Let them fall by their own counsels; Thrust them out in the multitude of their transgressions, for they have rebelled against you.
 
-**11** But let all those who take refuge in you rejoice, Let them always shout for joy, because you defend them. Let them also who love your name be joyful in you.
+<a id="v11"></a>**11** But let all those who take refuge in you rejoice, Let them always shout for joy, because you defend them. Let them also who love your name be joyful in you.
 
-**12** For you will bless the righteous. Yahweh, you will surround him with favor as with a shield.
+<a id="v12"></a>**12** For you will bless the righteous. Yahweh, you will surround him with favor as with a shield.
 

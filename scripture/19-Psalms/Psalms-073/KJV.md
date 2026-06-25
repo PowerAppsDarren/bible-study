@@ -4,59 +4,59 @@
 
 ---
 
-**1** Truly God is good to Israel, even to such as are of a clean heart.
+<a id="v1"></a>**1** Truly God is good to Israel, even to such as are of a clean heart.
 
-**2** But as for me, my feet were almost gone; my steps had well nigh slipped.
+<a id="v2"></a>**2** But as for me, my feet were almost gone; my steps had well nigh slipped.
 
-**3** For I was envious at the foolish, when I saw the prosperity of the wicked.
+<a id="v3"></a>**3** For I was envious at the foolish, when I saw the prosperity of the wicked.
 
-**4** For there are no bands in their death: but their strength is firm.
+<a id="v4"></a>**4** For there are no bands in their death: but their strength is firm.
 
-**5** They are not in trouble as other men; neither are they plagued like other men.
+<a id="v5"></a>**5** They are not in trouble as other men; neither are they plagued like other men.
 
-**6** Therefore pride compasseth them about as a chain; violence covereth them as a garment.
+<a id="v6"></a>**6** Therefore pride compasseth them about as a chain; violence covereth them as a garment.
 
-**7** Their eyes stand out with fatness: they have more than heart could wish.
+<a id="v7"></a>**7** Their eyes stand out with fatness: they have more than heart could wish.
 
-**8** They are corrupt, and speak wickedly concerning oppression: they speak loftily.
+<a id="v8"></a>**8** They are corrupt, and speak wickedly concerning oppression: they speak loftily.
 
-**9** They set their mouth against the heavens, and their tongue walketh through the earth.
+<a id="v9"></a>**9** They set their mouth against the heavens, and their tongue walketh through the earth.
 
-**10** Therefore his people return hither: and waters of a full cup are wrung out to them.
+<a id="v10"></a>**10** Therefore his people return hither: and waters of a full cup are wrung out to them.
 
-**11** And they say, How doth God know? and is there knowledge in the most High?
+<a id="v11"></a>**11** And they say, How doth God know? and is there knowledge in the most High?
 
-**12** Behold, these are the ungodly, who prosper in the world; they increase in riches.
+<a id="v12"></a>**12** Behold, these are the ungodly, who prosper in the world; they increase in riches.
 
-**13** Verily I have cleansed my heart in vain, and washed my hands in innocency.
+<a id="v13"></a>**13** Verily I have cleansed my heart in vain, and washed my hands in innocency.
 
-**14** For all the day long have I been plagued, and chastened every morning.
+<a id="v14"></a>**14** For all the day long have I been plagued, and chastened every morning.
 
-**15** If I say, I will speak thus; behold, I should offend against the generation of thy children.
+<a id="v15"></a>**15** If I say, I will speak thus; behold, I should offend against the generation of thy children.
 
-**16** When I thought to know this, it was too painful for me;
+<a id="v16"></a>**16** When I thought to know this, it was too painful for me;
 
-**17** Until I went into the sanctuary of God; then understood I their end.
+<a id="v17"></a>**17** Until I went into the sanctuary of God; then understood I their end.
 
-**18** Surely thou didst set them in slippery places: thou castedst them down into destruction.
+<a id="v18"></a>**18** Surely thou didst set them in slippery places: thou castedst them down into destruction.
 
-**19** How are they brought into desolation, as in a moment! they are utterly consumed with terrors.
+<a id="v19"></a>**19** How are they brought into desolation, as in a moment! they are utterly consumed with terrors.
 
-**20** As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.
+<a id="v20"></a>**20** As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.
 
-**21** Thus my heart was grieved, and I was pricked in my reins.
+<a id="v21"></a>**21** Thus my heart was grieved, and I was pricked in my reins.
 
-**22** So foolish was I, and ignorant: I was as a beast before thee.
+<a id="v22"></a>**22** So foolish was I, and ignorant: I was as a beast before thee.
 
-**23** Nevertheless I am continually with thee: thou hast holden me by my right hand.
+<a id="v23"></a>**23** Nevertheless I am continually with thee: thou hast holden me by my right hand.
 
-**24** Thou shalt guide me with thy counsel, and afterward receive me to glory.
+<a id="v24"></a>**24** Thou shalt guide me with thy counsel, and afterward receive me to glory.
 
-**25** Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.
+<a id="v25"></a>**25** Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.
 
-**26** My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
+<a id="v26"></a>**26** My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
 
-**27** For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
+<a id="v27"></a>**27** For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
 
-**28** But it is good for me to draw near to God: I have put my trust in the Lord God, that I may declare all thy works.
+<a id="v28"></a>**28** But it is good for me to draw near to God: I have put my trust in the Lord God, that I may declare all thy works.
 

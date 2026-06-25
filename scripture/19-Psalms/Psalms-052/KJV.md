@@ -4,21 +4,21 @@
 
 ---
 
-**1** Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
+<a id="v1"></a>**1** Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
 
-**2** Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.
+<a id="v2"></a>**2** Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.
 
-**3** Thou lovest evil more than good; and lying rather than to speak righteousness. Selah.
+<a id="v3"></a>**3** Thou lovest evil more than good; and lying rather than to speak righteousness. Selah.
 
-**4** Thou lovest all devouring words, O thou deceitful tongue.
+<a id="v4"></a>**4** Thou lovest all devouring words, O thou deceitful tongue.
 
-**5** God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah.
+<a id="v5"></a>**5** God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah.
 
-**6** The righteous also shall see, and fear, and shall laugh at him:
+<a id="v6"></a>**6** The righteous also shall see, and fear, and shall laugh at him:
 
-**7** Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.
+<a id="v7"></a>**7** Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.
 
-**8** But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.
+<a id="v8"></a>**8** But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.
 
-**9** I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints.
+<a id="v9"></a>**9** I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints.
 

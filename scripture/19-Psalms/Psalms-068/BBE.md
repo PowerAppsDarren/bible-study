@@ -4,72 +4,72 @@
 
 ---
 
-**1** Let God be seen, and let his haters be put to flight; let those who are against him be turned back before him.
+<a id="v1"></a>**1** Let God be seen, and let his haters be put to flight; let those who are against him be turned back before him.
 
-**2** Let them be like smoke before the driving wind; as wax turning soft before the fire, so let them come to an end before the power of God.
+<a id="v2"></a>**2** Let them be like smoke before the driving wind; as wax turning soft before the fire, so let them come to an end before the power of God.
 
-**3** But let the upright be glad; let them have delight before God; let them be full of joy.
+<a id="v3"></a>**3** But let the upright be glad; let them have delight before God; let them be full of joy.
 
-**4** Make songs to God, make songs of praise to his name; make a way for him who comes through the waste lands; his name is Jah; be glad before him.
+<a id="v4"></a>**4** Make songs to God, make songs of praise to his name; make a way for him who comes through the waste lands; his name is Jah; be glad before him.
 
-**5** A father to those who have no father, a judge of the widows, is God in his holy place.
+<a id="v5"></a>**5** A father to those who have no father, a judge of the widows, is God in his holy place.
 
-**6** Those who are without friends, God puts in families; he makes free those who are in chains; but those who are turned away from him are given a dry land.
+<a id="v6"></a>**6** Those who are without friends, God puts in families; he makes free those who are in chains; but those who are turned away from him are given a dry land.
 
-**7** O God, when you went out before your people, wandering through the waste land; (Selah.)
+<a id="v7"></a>**7** O God, when you went out before your people, wandering through the waste land; (Selah.)
 
-**8** The earth was shaking and the heavens were streaming, because God was present; even Sinai itself was moved before God, the God of Israel.
+<a id="v8"></a>**8** The earth was shaking and the heavens were streaming, because God was present; even Sinai itself was moved before God, the God of Israel.
 
-**9** You, O God, did freely send the rain, giving strength to the weariness of your heritage.
+<a id="v9"></a>**9** You, O God, did freely send the rain, giving strength to the weariness of your heritage.
 
-**10** Those whose resting-place was there, even the poor, were comforted by your good things, O God.
+<a id="v10"></a>**10** Those whose resting-place was there, even the poor, were comforted by your good things, O God.
 
-**11** The Lord gives the word; great is the number of the women who make it public.
+<a id="v11"></a>**11** The Lord gives the word; great is the number of the women who make it public.
 
-**12** Kings of armies quickly go in flight: and the women in the houses make a division of their goods.
+<a id="v12"></a>**12** Kings of armies quickly go in flight: and the women in the houses make a division of their goods.
 
-**13** Will you take your rest among the flocks? like the wings of a dove covered with silver, and its feathers with yellow gold.
+<a id="v13"></a>**13** Will you take your rest among the flocks? like the wings of a dove covered with silver, and its feathers with yellow gold.
 
-**14** When the Most High put the kings to flight, it was as white as snow in Salmon.
+<a id="v14"></a>**14** When the Most High put the kings to flight, it was as white as snow in Salmon.
 
-**15** A hill of God is the hill of Bashan; a hill with high tops is the hill of Bashan.
+<a id="v15"></a>**15** A hill of God is the hill of Bashan; a hill with high tops is the hill of Bashan.
 
-**16** Why are you looking with envy, you high hills, on the hill desired by God as his resting-place? truly, God will make it his house for ever.
+<a id="v16"></a>**16** Why are you looking with envy, you high hills, on the hill desired by God as his resting-place? truly, God will make it his house for ever.
 
-**17** The war-carriage of God is among Israel's thousands; the Lord has come from Sinai to the holy place.
+<a id="v17"></a>**17** The war-carriage of God is among Israel's thousands; the Lord has come from Sinai to the holy place.
 
-**18** You have gone up on high, taking your prisoners with you; you have taken offerings from men; the Lord God has taken his place on the seat of his power.
+<a id="v18"></a>**18** You have gone up on high, taking your prisoners with you; you have taken offerings from men; the Lord God has taken his place on the seat of his power.
 
-**19** Praise be to the Lord, who is our support day by day, even the God of our salvation. (Selah.)
+<a id="v19"></a>**19** Praise be to the Lord, who is our support day by day, even the God of our salvation. (Selah.)
 
-**20** Our God is for us a God of salvation; his are the ways out of death.
+<a id="v20"></a>**20** Our God is for us a God of salvation; his are the ways out of death.
 
-**21** The heads of the haters of God will be crushed; even the head of him who still goes on in his evil ways.
+<a id="v21"></a>**21** The heads of the haters of God will be crushed; even the head of him who still goes on in his evil ways.
 
-**22** The Lord said, I will make them come back from Bashan, and from the deep parts of the sea;
+<a id="v22"></a>**22** The Lord said, I will make them come back from Bashan, and from the deep parts of the sea;
 
-**23** So that your foot may be red with blood, and the tongues of your dogs with the same.
+<a id="v23"></a>**23** So that your foot may be red with blood, and the tongues of your dogs with the same.
 
-**24** We see your going, O God: even the going of my God, my King, into the holy place.
+<a id="v24"></a>**24** We see your going, O God: even the going of my God, my King, into the holy place.
 
-**25** The makers of songs go before, the players of music come after, among the young girls playing on brass instruments.
+<a id="v25"></a>**25** The makers of songs go before, the players of music come after, among the young girls playing on brass instruments.
 
-**26** Give praise to God in the great meeting; even the Lord, you who come from the fountain of Israel.
+<a id="v26"></a>**26** Give praise to God in the great meeting; even the Lord, you who come from the fountain of Israel.
 
-**27** There is little Benjamin ruling them, the chiefs of Judah and their army, the rulers of Zebulun and the rulers of Naphtali.
+<a id="v27"></a>**27** There is little Benjamin ruling them, the chiefs of Judah and their army, the rulers of Zebulun and the rulers of Naphtali.
 
-**28** O God, send out your strength; the strength, O God, with which you have done great things for us,
+<a id="v28"></a>**28** O God, send out your strength; the strength, O God, with which you have done great things for us,
 
-**29** Out of your Temple in Jerusalem.
+<a id="v29"></a>**29** Out of your Temple in Jerusalem.
 
-**30** Say sharp words to the beast among the water-plants, the band of strong ones, with the lords of the peoples, put an end to the people whose delight is in war.
+<a id="v30"></a>**30** Say sharp words to the beast among the water-plants, the band of strong ones, with the lords of the peoples, put an end to the people whose delight is in war.
 
-**31** Kings will give you offerings, they will come out of Egypt; from Pathros will come offerings of silver; Ethiopia will be stretching out her hands to God.
+<a id="v31"></a>**31** Kings will give you offerings, they will come out of Egypt; from Pathros will come offerings of silver; Ethiopia will be stretching out her hands to God.
 
-**32** Make songs to God, you kingdoms of the earth; O make songs of praise to the Lord; (Selah.)
+<a id="v32"></a>**32** Make songs to God, you kingdoms of the earth; O make songs of praise to the Lord; (Selah.)
 
-**33** To him who goes or the clouds of heaven, the heaven which was from earliest times; he sends out his voice of power.
+<a id="v33"></a>**33** To him who goes or the clouds of heaven, the heaven which was from earliest times; he sends out his voice of power.
 
-**34** Make clear that strength is God's: he is lifted up over Israel, and his power is in the clouds.
+<a id="v34"></a>**34** Make clear that strength is God's: he is lifted up over Israel, and his power is in the clouds.
 
-**35** O God, you are to be feared in your holy place: the God of Israel gives strength and power to his people. Praise be to God.
+<a id="v35"></a>**35** O God, you are to be feared in your holy place: the God of Israel gives strength and power to his people. Praise be to God.
