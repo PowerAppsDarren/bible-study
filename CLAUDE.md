@@ -19,7 +19,7 @@ places/           # stub
 resources/        # stub
 theology/         # stub
 words/            # stub (Hebrew/Greek word studies)
-.personal/        # per-user notes, tracked in git (see two-layer model below)
+.personal/        # public kit only (README/setup.sh/_template); each user's folder is their OWN private repo
 .ai-chats/        # AI session logs (see protocol below)
 ```
 
@@ -27,16 +27,16 @@ The stub content folders each contain a one-line `# Read Me` placeholder. The 12
 
 **The earlier docs-vs-disk inconsistency has been resolved** (the published docs now use `scripture/` and `topics/`). The only files that still reference the old `books-of-bible/` / `topics-of-study/` names are: the planning/vision docs above (intentional), `.ai-chats/` session logs (verbatim history — never rewrite), and `graphify-out/` (generated; regenerate, don't hand-edit).
 
-## Two-layer model: shared vs. shared-personal (multi-user)
+## Two-layer model: shared (public) vs. personal (per-user private repos)
 
 The repo is designed for small-group / church use. Two layers:
 
-- **Shared layer** — everything outside `.personal/` (`scripture/`, `topics/`, `words/`, `people/`, `places/`, `theology/`, etc.). Factual reference material that benefits everyone, changed via PR.
-- **Shared-personal layer** — `.personal/<user-email>/`: each user has a folder named by their email address (e.g., `.personal/darren@neese.us/`). Personal reflections, journals, prayer notes, teaching prep. The folder is **intentionally tracked in git** (not gitignored). Members share by pushing; privacy is by convention. See `.personal/README.md`. Inside a user's folder, book studies nest under `scripture/` (e.g., `.personal/<email>/scripture/23-Isaiah/Isaiah-06/notes.md`, raw inputs in `scripture/<book>/sources/`), mirroring the repo root layout.
+- **Shared layer** — everything outside `.personal/` (`scripture/`, `topics/`, `words/`, `people/`, `places/`, `theology/`, etc.). Factual reference material that benefits everyone, lives in this **public** repo, changed via PR.
+- **Personal layer (each user's OWN private repo)** — `.personal/<user-email>/`: each user has a folder named by their email address. Personal reflections, journals, prayer notes, teaching prep. **Each user's folder is its own separate, private git repo** — the public repo's `.personal/.gitignore` ignores every email-named subfolder, so no personal content and **no email address** is ever tracked in the public repo. Users host their own folder wherever they choose (e.g., a private Forgejo), and generate it with `bash .personal/setup.sh`, which copies `.personal/_template/` and `git init`s it. Inside a user's folder, book studies nest under `scripture/` (e.g., `.personal/<email>/scripture/23-Isaiah/Isaiah-06/notes.md`, raw inputs in `scripture/<book>/sources/`), mirroring the repo root layout. The only things the public repo tracks under `.personal/` are the **kit**: `README.md`, `setup.sh`, `_template/`, and `.gitignore`.
 
-`CONTRIBUTING.md` rule: fact = shared; *your thought* = `.personal/<your-email>/`. Never write inside another user's email folder — that space is read-only by convention.
+`CONTRIBUTING.md` rule: fact = shared (PR to the public repo); *your thought* = your own private `.personal/<your-email>/` repo. Never write inside another user's folder — it's not even yours to clone.
 
-**Historical-record exception:** the `CHANGELOG.md` 1.2.0 entry still describes `.personal/` as gitignored and the layout as `books-of-bible/`. That's an accurate record of what those releases shipped — left intact on purpose. The current state (multi-user `.personal/`, `scripture/`/`topics/`) is captured in the CHANGELOG `[Unreleased]` section. The `.gitignore` correctly does NOT exclude `.personal/`.
+**Historical-record exception:** the `CHANGELOG.md` 1.2.0 entry still describes `.personal/` as gitignored and the layout as `books-of-bible/`. That's an accurate record of what those releases shipped — left intact on purpose. The current state is captured in the CHANGELOG `[Unreleased]` section. Note the model has come full circle on tracking: `.personal/.gitignore` now **does** ignore every email-named subfolder again — but for a new reason. It's no longer a single-user gitignore; each folder is now a *separate private repo* so personal notes and emails stay off the public GitHub repo entirely.
 
 ## Naming conventions
 
@@ -151,8 +151,9 @@ When adding a new agent:
 
 ## Things to avoid
 
-- **Never write inside another user's `.personal/<email>/` folder.** Each user owns their own. Other users' folders are read-only by convention.
-- Don't `git add -A` paths outside the user's own email folder unless intentionally PR-ing shared content. The intentional-tracking of `.personal/` makes wildcard adds safer than they were under the old paradigm, but staying scoped is still good hygiene.
+- **Never write inside another user's `.personal/<email>/` folder.** Each user's folder is their own private repo — it isn't yours to edit, and on a fresh clone it won't even be present.
+- Don't `git add -A` from the public repo expecting to capture personal notes — the public repo **ignores** every `.personal/<email>/` folder. Personal content is committed from *within* that folder's own private repo, never from the public repo.
+- **Never commit a real `.personal/<email>/` folder to the public repo.** It would leak personal content and an email address. Only the kit (`README.md`, `setup.sh`, `_template/`, `.gitignore`) belongs there.
 - Don't invent build/test/lint commands. There is no toolchain here.
 - Don't fill chapter content with sermon-style or denominational commentary — that belongs in `.personal/<your-email>/`, not the shared repo.
 - Don't reconcile the docs-vs-disk inconsistency without asking which side is canonical.

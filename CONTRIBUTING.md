@@ -11,9 +11,9 @@ This repo separates **shared reference material** from **personal study notes**.
 | What | Where | Shared? | Examples |
 |------|-------|---------|----------|
 | Reference material | `scripture/`, `topics/`, root docs | **Yes** — curated, must clear the integration gate | Book overviews, people, places, timelines, cross-references |
-| Personal notes | `.personal/<your-email>/` | **Yes** — tracked in git, shared by convention | Your reflections, prayers, questions, sermon notes |
+| Personal notes | `.personal/<your-email>/` | **No** — your own private repo, on your own git | Your reflections, prayers, questions, sermon notes |
 
-**Rule of thumb:** if it's a fact that's the same for everyone *and it clears the [integration gate](#the-shared-layer-integration-gate)*, it belongs in the shared repo. If it's *your* thought, reflection, or personal study note, it belongs in `.personal/<your-email>/`. Both layers are committed to git — the difference is that the shared layer is curated and the personal layer is lossless.
+**Rule of thumb:** if it's a fact that's the same for everyone *and it clears the [integration gate](#the-shared-layer-integration-gate)*, it belongs in the shared repo. If it's *your* thought, reflection, or personal study note, it belongs in `.personal/<your-email>/`. The shared layer is curated and lives in this public repo; your personal layer is lossless and lives in *your own* private repo, which the public repo never tracks.
 
 See the [README](README.md#shared-vs-personal--how-this-repo-works) for a fuller explanation.
 
@@ -21,15 +21,15 @@ See the [README](README.md#shared-vs-personal--how-this-repo-works) for a fuller
 
 ## Getting Started
 
-1. Clone the repo (or your group's fork of it).
-2. Create a `.personal/` folder in the root of your local clone.
-3. Start studying. Use the shared content as reference. Write your personal notes in `.personal/`.
+1. Clone this repo (or your group's fork of it).
+2. Run `bash .personal/setup.sh` — it creates your own private space at `.personal/<your-email>/`, turns it into its own private repo, and optionally links it to your own git host (your private Forgejo, a private GitHub repo, a NAS, or keep it local only).
+3. Start studying. Use the shared content as reference. Write your personal notes in your own folder, and push them to *your* git.
 
-That's it. The structure is already in place — just use it.
+That's it. The public repo ships the kit; your private space is generated on your machine and never pushed here.
 
 ## Your Personal Notes (`.personal/<your-email>/`)
 
-Each contributor has a folder named by their email address (e.g., `.personal/darren@neese.us/`). This folder **is tracked in git** — when you commit and push, the rest of the group can pull and read your notes. Privacy is by convention: if you don't want something shared, don't commit it (or keep it in a `private/` subfolder). Never write inside another contributor's email folder — that space is read-only by convention.
+Each contributor has a folder named by their email address (e.g., `.personal/<your-email>/`). This folder is **its own private git repo** — the public repo is told to ignore it (see [`.personal/.gitignore`](.personal/.gitignore)), so it never lands on GitHub and neither does your email address. You push it wherever you choose: your own private Forgejo, a private GitHub repo, a NAS, or keep it local only. Your notes stay private unless you deliberately share that repo. To contribute the *factual* half of a study back to everyone, open a Pull Request against the shared layer instead — don't try to commit your personal folder here.
 
 ### Recommended structure
 
@@ -52,7 +52,7 @@ This is a recommendation, not a requirement. Organize your own folder however wo
 
 ### Backing up your personal notes
 
-Because your folder is committed and pushed, **git is your backup** — every push to the group remote preserves your notes off-machine. For extra redundancy you can still add cloud sync (OneDrive, Dropbox, etc.) or a second remote, but it isn't required the way it was under the old gitignored single-user model.
+Your folder is its own repo, so **git is your backup** — every push to *your* remote preserves your notes off-machine. Point it at whatever host you trust, and add a second remote or cloud sync (OneDrive, Dropbox, etc.) for extra redundancy if you like.
 
 ---
 
