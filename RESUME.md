@@ -21,6 +21,7 @@ Rolling 7-day session log. Add `<!-- pin -->` to any entry to keep it permanentl
 
 **Not done / next:**
 - **GitDoc uninstalled** ✅ (`vsls-contrib.gitdoc`) — reload VS Code once ("Developer: Reload Window") to evict the still-running copy from memory.
+- **`.personal/` tracking decision OPEN** — commit `4615c17` un-tracked `.personal/darren@neese.us/` via a new `.personal/.gitignore` (`/*/` + `!_template/`); content is safe on disk but now git-ignored, so edits there check into nothing. Decide: (a) init the folder as its **own private repo** (the intended model per `.personal/setup.sh`) + reconcile the now-stale root `.gitignore`/CLAUDE.md "intentionally tracked" wording, or (b) restore public-repo tracking. Past public history still contains personal content (separate scrub if privacy matters).
 - **Word-study concordance** — add a Strong's-tagged Bible so `word_study.py` lists every occurrence.
 - Fill "At a glance" + study notes across chapters via `_chapter_readme_fill` / `linguist` as studies happen.
 - (Carried) Isaiah 12; Isaiah 1–10 README backfill; dedup overlapping planning docs.

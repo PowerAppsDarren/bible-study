@@ -5,7 +5,7 @@
 - **Topic:** Populate the repo with public-domain scripture text + build the tooling, README front-page design, and a Greek/Hebrew word-study engine
 - **Tool:** Claude Code
 - **Project:** bible-study
-- **Exchange Count:** 16 (logged)
+- **Exchange Count:** 18 (logged)
 
 ## 💡 Conversation Summary
 
@@ -85,3 +85,5 @@ A long, multi-day build session that took the repo from "stub READMEs" to a **fu
 - [14 — What is GitDoc and why is it interfering?](./Opus-4.8--14.md)
 - [15 — Uninstall GitDoc](./Opus-4.8--15.md)
 - [16 — Wrap up (continuation)](./Opus-4.8--16.md)
+- [17 — Where do my personal-folder edits get checked into?](./Opus-4.8--17.md)
+- [18 — Wrap up (continuation)](./Opus-4.8--18.md)

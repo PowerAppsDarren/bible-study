@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-06-27
 **Total Sessions:** 27
-**Total Files:** 161 (session logs) + raw/ history
+**Total Files:** 163 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -106,7 +106,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
-| 2026-06-27 | Whole-Bible rollout + scripture tooling + word-study engine | 17 |
+| 2026-06-27 | Whole-Bible rollout + scripture tooling + word-study engine | 19 |
 | 2026-06-12 | Jamie Winship agent + `_visualize_this` skill + Obsidian wiring | 27 |
 | 2026-05-30 | Isaiah 9 devotional + Isaiah 1–9 refresher         | 7     |
 
@@ -175,6 +175,8 @@
 - [Opus-4.8--14.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--14.md) — Exchange 14: What is GitDoc and why is it interfering?
 - [Opus-4.8--15.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--15.md) — Exchange 15: Uninstall GitDoc
 - [Opus-4.8--16.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--16.md) — Exchange 16: Wrap up (continuation)
+- [Opus-4.8--17.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--17.md) — Exchange 17: Where do personal-folder edits get checked into?
+- [Opus-4.8--18.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--18.md) — Exchange 18: Wrap up (continuation)
 
 ### 2026-06-12-02-isaiah-10-devotional-html/
 
