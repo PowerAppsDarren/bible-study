@@ -13,6 +13,10 @@ All notable changes to this project are documented in this file.
 ### Added
 
 - **Shared-Layer Integration Gate** — a six-test quality standard (factual / margin-worthy / durable / sourceable / non-sectarian / license-clean) governing what earns a place in the shared layer, plus the "study once, deposit twice" routing and a chapter-promotion rule. Authoritative version in `CLAUDE.md`; summary in `CONTRIBUTING.md`; enforced by the `_chapter_readme_fill` skill.
+- **Full public-domain scripture text in `scripture/`** — every chapter (all 66 books, 1,189 chapters) now carries four public-domain translations as sibling files (`BBE.md`, `WEB.md`, `KJV.md`, `ASV.md`) with per-verse anchors. **BBE (Bible in Basic English) is the default/primary version.** Source: getbible.net v2.
+- **Chapter README front pages** — each chapter `README.md` is now a generated front page: a YAML metadata header (book / chapter / genre / verses / primary / versions / themes), prev/next/up navigation, full-text links, a BBE-primary verse-index table linking each verse to all available versions, and factual study-notes sections (personal reflection routed to `.personal/`). The auto-generated region is regenerate-safe and never clobbers hand-written notes.
+- **`scripts/` tooling** (content-population utilities, Python stdlib only, cross-platform): `fetch_scripture.py` (getbible fetch, per-verse anchors, `--bulk` whole-translation mode, full 117-translation catalog), `build_readme_index.py` (README front-page generator), and `word_study.py` (Strong's-based Greek/Hebrew word-study engine using public-domain OpenScriptures lexicons → `words/<lang>/`).
+- **`people/biblical-figures/David.md`** — shared-layer character study.
 
 ## [1.2.0] - 2026-01-31
 

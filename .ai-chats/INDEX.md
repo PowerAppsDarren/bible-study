@@ -106,6 +106,7 @@
 
 | Date       | Topic                                              | Files |
 |------------|----------------------------------------------------|-------|
+| 2026-06-27 | Whole-Bible rollout + scripture tooling + word-study engine | 14 |
 | 2026-06-12 | Jamie Winship agent + `_visualize_this` skill + Obsidian wiring | 27 |
 | 2026-05-30 | Isaiah 9 devotional + Isaiah 1–9 refresher         | 7     |
 
@@ -146,7 +147,7 @@
 
 | Metric                | Value              |
 |-----------------------|--------------------|
-| Total sessions        | 20                 |
+| Total sessions        | 27                 |
 | Models used           | Opus-4.5, Opus-4.6, Opus-4.7, Opus-4.8, Fable-5 |
 | Files created (total) | ~168               |
 | Most active month     | May 2026           |
@@ -154,6 +155,23 @@
 ---
 
 ## Complete File Listing
+
+### 2026-06-27-01-whole-bible-scripture-rollout/
+
+- [Opus-4.8--00.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--00.md) — Main documentation
+- [Opus-4.8--01.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--01.md) — Exchange 1: Study Psalm 1
+- [Opus-4.8--02.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--02.md) — Exchange 2: Fill scripture / public domain + pilot Psalm 1
+- [Opus-4.8--03.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--03.md) — Exchange 3: Whole Psalms + scripts folder / API
+- [Opus-4.8--04.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--04.md) — Exchange 4: 117-translation catalog; other versions
+- [Opus-4.8--05.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--05.md) — Exchange 5: Add BBE; README verse-index + per-version links
+- [Opus-4.8--06.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--06.md) — Exchange 6: Track/commit/push (GitDoc surfaces)
+- [Opus-4.8--07.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--07.md) — Exchange 7: Rate-limit risk → bulk; README brainstorm + HTML demo
+- [Opus-4.8--08.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--08.md) — Exchange 8: BBE default; "that's the one to show"
+- [Opus-4.8--09.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--09.md) — Exchange 9: Terminal font 18→24
+- [Opus-4.8--10.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--10.md) — Exchange 10: Greek/Hebrew word study; cost model; Tier 3 drawbacks
+- [Opus-4.8--11.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--11.md) — Exchange 11: Remember all decisions and why
+- [Opus-4.8--12.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--12.md) — Exchange 12: Do A then B then C (GitDoc / word engine / whole Bible)
+- [Opus-4.8--13.md](./2026-06-27-01-whole-bible-scripture-rollout/Opus-4.8--13.md) — Exchange 13: Wrap up per AI-Chats Protocol v3.2
 
 ### 2026-06-12-02-isaiah-10-devotional-html/
 

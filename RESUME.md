@@ -4,6 +4,29 @@ Rolling 7-day session log. Add `<!-- pin -->` to any entry to keep it permanentl
 
 ---
 
+## 2026-06-27 — Whole-Bible scripture rollout + tooling + word-study engine (Opus-4.8) <!-- pin -->
+
+**Accomplished:**
+- **Whole Bible populated:** all 66 books / 1,189 chapters now have **BBE · WEB · KJV · ASV** text (4,756 files) with per-verse `<a id="vN">` anchors. BBE is the **default/primary version** (saved to memory).
+- **Chapter READMEs rebuilt as front pages** (all 1,189): YAML metadata header (book/chapter/genre via 66-book map/verses/primary/versions/themes), prev/next/up nav, full-text links, BBE-primary verse table (compare-links to WEB/KJV/ASV), "At a glance" + factual study-notes scaffold (reflection → `.personal/`).
+- **Three reusable scripts** (`scripts/`, stdlib-only, cross-platform): `fetch_scripture.py` (getbible v2, anchors, `--bulk` whole-translation mode, 117-translation catalog), `build_readme_index.py` (front-page generator, regenerate-safe, preserves notes), `word_study.py` (Strong's/OpenScriptures word-study engine → `words/<lang>/`).
+- **Word-study engine (Tier 2)** seeded esher/towrah/hagah from Psalm 1.
+- **David character study** → `people/biblical-figures/David.md` (biographer agent).
+- **Found + disabled the GitDoc auto-committer** (caused two index.lock collisions).
+- VS Code terminal font 18→24.
+
+**Key commits:** `eb558e9` (Psalms text/anchors/index), `068136b` (Psalms front pages), `a767f2e` (word-study engine), `645a679` (whole-Bible rollout) — all pushed to origin/main.
+
+**Files changed:** `scripts/{fetch_scripture,build_readme_index,word_study}.py` + `scripts/README.md`; `scripture/**/{BBE,WEB,KJV,ASV}.md` (4,756) + `scripture/**/README.md` (1,189); `people/biblical-figures/David.md`; `words/hebrew/{esher,towrah,hagah}.md`; `.personal/darren@neese.us/readme-options-demo.html`; 3 memory files; VS Code user settings (gitdoc + font).
+
+**Not done / next:**
+- **Fully stop GitDoc** — "GitDoc: Disable" / reload VS Code, or uninstall `vsls-contrib.gitdoc` (config disable doesn't stop the live instance).
+- **Word-study concordance** — add a Strong's-tagged Bible so `word_study.py` lists every occurrence.
+- Fill "At a glance" + study notes across chapters via `_chapter_readme_fill` / `linguist` as studies happen.
+- (Carried) Isaiah 12; Isaiah 1–10 README backfill; dedup overlapping planning docs.
+
+---
+
 ## 2026-06-22 — Isaiah 11 devotional + `_email_study_guide` skill + email delivery (Opus-4.8)
 
 **Accomplished:**
