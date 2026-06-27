@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** But let all those who take refuge in you rejoice, Let them always shout for joy, because you defend them. Let them also who love your name be joyful in you.
 
 <a id="v12"></a>**12** For you will bless the righteous. Yahweh, you will surround him with favor as with a shield.
-

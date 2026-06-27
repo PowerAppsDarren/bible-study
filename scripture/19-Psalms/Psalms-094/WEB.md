@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** But Yahweh has been my high tower, my God, the rock of my refuge.
 
 <a id="v23"></a>**23** He has brought on them their own iniquity, and will cut them off in their own wickedness. Yahweh, our God, will cut them off.
-

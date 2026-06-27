@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Arise, Yahweh! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked.
 
 <a id="v8"></a>**8** Salvation belongs to Yahweh. Your blessing be on your people. Selah.
-

@@ -59,4 +59,3 @@
 <a id="v27"></a>**27** But thou art the same, and thy years shall have no end.
 
 <a id="v28"></a>**28** The children of thy servants shall continue, and their seed shall be established before thee.
-

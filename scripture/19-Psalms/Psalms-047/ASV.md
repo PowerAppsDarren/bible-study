@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** God reigneth over the nations: God sitteth upon his holy throne.
 
 <a id="v9"></a>**9** The princes of the peoples are gathered together To bethe people of the God of Abraham; For the shields of the earth belong unto God: He is greatly exalted.
-

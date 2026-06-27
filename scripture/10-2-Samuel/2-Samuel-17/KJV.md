@@ -1,0 +1,63 @@
+# 2 Samuel 17 — King James Version (KJV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:
+
+<a id="v2"></a>**2** And I will come upon him while he is weary and weak handed, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only:
+
+<a id="v3"></a>**3** And I will bring back all the people unto thee: the man whom thou seekest is as if all returned: so all the people shall be in peace.
+
+<a id="v4"></a>**4** And the saying pleased Absalom well, and all the elders of Israel.
+
+<a id="v5"></a>**5** Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith.
+
+<a id="v6"></a>**6** And when Hushai was come to Absalom, Absalom spake unto him, saying, Ahithophel hath spoken after this manner: shall we do after his saying? if not; speak thou.
+
+<a id="v7"></a>**7** And Hushai said unto Absalom, The counsel that Ahithophel hath given is not good at this time.
+
+<a id="v8"></a>**8** For, said Hushai, thou knowest thy father and his men, that they be mighty men, and they be chafed in their minds, as a bear robbed of her whelps in the field: and thy father is a man of war, and will not lodge with the people.
+
+<a id="v9"></a>**9** Behold, he is hid now in some pit, or in some other place: and it will come to pass, when some of them be overthrown at the first, that whosoever heareth it will say, There is a slaughter among the people that follow Absalom.
+
+<a id="v10"></a>**10** And he also that is valiant, whose heart is as the heart of a lion, shall utterly melt: for all Israel knoweth that thy father is a mighty man, and they which be with him are valiant men.
+
+<a id="v11"></a>**11** Therefore I counsel that all Israel be generally gathered unto thee, from Dan even to Beer–sheba, as the sand that is by the sea for multitude; and that thou go to battle in thine own person.
+
+<a id="v12"></a>**12** So shall we come upon him in some place where he shall be found, and we will light upon him as the dew falleth on the ground: and of him and of all the men that are with him there shall not be left so much as one.
+
+<a id="v13"></a>**13** Moreover, if he be gotten into a city, then shall all Israel bring ropes to that city, and we will draw it into the river, until there be not one small stone found there.
+
+<a id="v14"></a>**14** And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the Lord had appointed to defeat the good counsel of Ahithophel, to the intent that the Lord might bring evil upon Absalom.
+
+<a id="v15"></a>**15** Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I counselled.
+
+<a id="v16"></a>**16** Now therefore send quickly, and tell David, saying, Lodge not this night in the plains of the wilderness, but speedily pass over; lest the king be swallowed up, and all the people that are with him.
+
+<a id="v17"></a>**17** Now Jonathan and Ahimaaz stayed by En–rogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.
+
+<a id="v18"></a>**18** Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man’s house in Bahurim, which had a well in his court; whither they went down.
+
+<a id="v19"></a>**19** And the woman took and spread a covering over the well’s mouth, and spread ground corn thereon; and the thing was not known.
+
+<a id="v20"></a>**20** And when Absalom’s servants came to the woman to the house, they said, Where is Ahimaaz and Jonathan? And the woman said unto them, They be gone over the brook of water. And when they had sought and could not find them, they returned to Jerusalem.
+
+<a id="v21"></a>**21** And it came to pass, after they were departed, that they came up out of the well, and went and told king David, and said unto David, Arise, and pass quickly over the water: for thus hath Ahithophel counselled against you.
+
+<a id="v22"></a>**22** Then David arose, and all the people that were with him, and they passed over Jordan: by the morning light there lacked not one of them that was not gone over Jordan.
+
+<a id="v23"></a>**23** And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
+
+<a id="v24"></a>**24** Then David came to Mahanaim. And Absalom passed over Jordan, he and all the men of Israel with him.
+
+<a id="v25"></a>**25** And Absalom made Amasa captain of the host instead of Joab: which Amasa was a man’s son, whose name was Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to Zeruiah Joab’s mother.
+
+<a id="v26"></a>**26** So Israel and Absalom pitched in the land of Gilead.
+
+<a id="v27"></a>**27** And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lo–debar, and Barzillai the Gileadite of Rogelim,
+
+<a id="v28"></a>**28** Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched corn, and beans, and lentiles, and parched pulse,
+
+<a id="v29"></a>**29** And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness.

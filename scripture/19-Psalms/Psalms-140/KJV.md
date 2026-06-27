@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** I know that the Lord will maintain the cause of the afflicted, and the right of the poor.
 
 <a id="v13"></a>**13** Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
-

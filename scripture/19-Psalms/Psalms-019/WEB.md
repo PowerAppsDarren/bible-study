@@ -31,4 +31,3 @@
 <a id="v13"></a>**13** Keep back your servant also from presumptuous sins. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression.
 
 <a id="v14"></a>**14** Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer.
-

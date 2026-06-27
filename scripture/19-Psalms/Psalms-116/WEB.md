@@ -41,4 +41,3 @@
 <a id="v18"></a>**18** I will pay my vows to Yahweh, yes, in the presence of all his people,
 
 <a id="v19"></a>**19** in the courts of Yahweh’s house, in your midst, Jerusalem. Praise Yah!
-

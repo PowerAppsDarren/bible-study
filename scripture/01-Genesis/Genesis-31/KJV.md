@@ -1,0 +1,115 @@
+# Genesis 31 — King James Version (KJV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And he heard the words of Laban’s sons, saying, Jacob hath taken away all that was our father’s; and of that which was our father’s hath he gotten all this glory.
+
+<a id="v2"></a>**2** And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before.
+
+<a id="v3"></a>**3** And the Lord said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.
+
+<a id="v4"></a>**4** And Jacob sent and called Rachel and Leah to the field unto his flock,
+
+<a id="v5"></a>**5** And said unto them, I see your father’s countenance, that it is not toward me as before; but the God of my father hath been with me.
+
+<a id="v6"></a>**6** And ye know that with all my power I have served your father.
+
+<a id="v7"></a>**7** And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
+
+<a id="v8"></a>**8** If he said thus, The speckled shall be thy wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked.
+
+<a id="v9"></a>**9** Thus God hath taken away the cattle of your father, and given them to me.
+
+<a id="v10"></a>**10** And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle were ringstraked, speckled, and grisled.
+
+<a id="v11"></a>**11** And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I.
+
+<a id="v12"></a>**12** And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.
+
+<a id="v13"></a>**13** I am the God of Beth–el, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
+
+<a id="v14"></a>**14** And Rachel and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father’s house?
+
+<a id="v15"></a>**15** Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.
+
+<a id="v16"></a>**16** For all the riches which God hath taken from our father, that is ours, and our children’s: now then, whatsoever God hath said unto thee, do.
+
+<a id="v17"></a>**17** Then Jacob rose up, and set his sons and his wives upon camels;
+
+<a id="v18"></a>**18** And he carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padan–aram, for to go to Isaac his father in the land of Canaan.
+
+<a id="v19"></a>**19** And Laban went to shear his sheep: and Rachel had stolen the images that were her father’s.
+
+<a id="v20"></a>**20** And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.
+
+<a id="v21"></a>**21** So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.
+
+<a id="v22"></a>**22** And it was told Laban on the third day that Jacob was fled.
+
+<a id="v23"></a>**23** And he took his brethren with him, and pursued after him seven days’ journey; and they overtook him in the mount Gilead.
+
+<a id="v24"></a>**24** And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.
+
+<a id="v25"></a>**25** Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
+
+<a id="v26"></a>**26** And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?
+
+<a id="v27"></a>**27** Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?
+
+<a id="v28"></a>**28** And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in so doing.
+
+<a id="v29"></a>**29** It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.
+
+<a id="v30"></a>**30** And now, though thou wouldest needs be gone, because thou sore longedst after thy father’s house, yet wherefore hast thou stolen my gods?
+
+<a id="v31"></a>**31** And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me.
+
+<a id="v32"></a>**32** With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them.
+
+<a id="v33"></a>**33** And Laban went into Jacob’s tent, and into Leah’s tent, and into the two maidservants’ tents; but he found them not. Then went he out of Leah’s tent, and entered into Rachel’s tent.
+
+<a id="v34"></a>**34** Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. And Laban searched all the tent, but found them not.
+
+<a id="v35"></a>**35** And she said to her father, Let it not displease my lord that I cannot rise up before thee; for the custom of women is upon me. And he searched, but found not the images.
+
+<a id="v36"></a>**36** And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?
+
+<a id="v37"></a>**37** Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set it here before my brethren and thy brethren, that they may judge betwixt us both.
+
+<a id="v38"></a>**38** This twenty years have I been with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.
+
+<a id="v39"></a>**39** That which was torn of beasts I brought not unto thee; I bare the loss of it; of my hand didst thou require it, whether stolen by day, or stolen by night.
+
+<a id="v40"></a>**40** Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
+
+<a id="v41"></a>**41** Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times.
+
+<a id="v42"></a>**42** Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked thee yesternight.
+
+<a id="v43"></a>**43** And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that thou seest is mine: and what can I do this day unto these my daughters, or unto their children which they have born?
+
+<a id="v44"></a>**44** Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.
+
+<a id="v45"></a>**45** And Jacob took a stone, and set it up for a pillar.
+
+<a id="v46"></a>**46** And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
+
+<a id="v47"></a>**47** And Laban called it Jegar–sahadutha: but Jacob called it Galeed.
+
+<a id="v48"></a>**48** And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;
+
+<a id="v49"></a>**49** And Mizpah; for he said, The Lord watch between me and thee, when we are absent one from another.
+
+<a id="v50"></a>**50** If thou shalt afflict my daughters, or if thou shalt take other wives beside my daughters, no man is with us; see, God is witness betwixt me and thee.
+
+<a id="v51"></a>**51** And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and thee;
+
+<a id="v52"></a>**52** This heap be witness, and this pillar be witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.
+
+<a id="v53"></a>**53** The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.
+
+<a id="v54"></a>**54** Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.
+
+<a id="v55"></a>**55** And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.

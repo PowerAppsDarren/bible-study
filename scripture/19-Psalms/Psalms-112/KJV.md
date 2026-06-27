@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.
 
 <a id="v10"></a>**10** The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.
-

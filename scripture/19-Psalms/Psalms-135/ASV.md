@@ -45,4 +45,3 @@
 <a id="v20"></a>**20** O house of Levi, bless ye Jehovah: Ye that fear Jehovah, bless ye Jehovah.
 
 <a id="v21"></a>**21** Blessed be Jehovah out of Zion, Who dwelleth at Jerusalem. Praise ye Jehovah.
-

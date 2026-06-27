@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** To bind their kings with chains, and their nobles with fetters of iron;
 
 <a id="v9"></a>**9** to execute on them the written judgment. All his saints have this honor. Praise Yah!
-

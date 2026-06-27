@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.
 
 <a id="v23"></a>**23** Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually.
-

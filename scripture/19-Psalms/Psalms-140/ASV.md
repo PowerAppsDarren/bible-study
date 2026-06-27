@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** I know that Jehovah will maintain the cause of the afflicted, And justice for the needy.
 
 <a id="v13"></a>**13** Surely the righteous shall give thanks unto thy name: The upright shall dwell in thy presence.
-

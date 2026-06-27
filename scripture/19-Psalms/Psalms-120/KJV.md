@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** My soul hath long dwelt with him that hateth peace.
 
 <a id="v7"></a>**7** I am for peace: but when I speak, they are for war.
-

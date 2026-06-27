@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** They are bowed down and fallen, but we rise up, and stand upright.
 
 <a id="v9"></a>**9** Save, Yahweh! Let the King answer us when we call!
-

@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** He shows his word to Jacob; his statutes and his ordinances to Israel.
 
 <a id="v20"></a>**20** He has not done this for just any nation. They don’t know his ordinances. Praise Yah!
-

@@ -35,4 +35,3 @@
 <a id="v15"></a>**15** He shall call upon me, and I will answer him; I will be with him in trouble: I will deliver him, and honor him.
 
 <a id="v16"></a>**16** With long life will I satisfy him, And show him my salvation.
-

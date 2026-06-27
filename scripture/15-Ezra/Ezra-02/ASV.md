@@ -1,0 +1,145 @@
+# Ezra 2 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now these are the children of the province, that went up out of the captivity of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and that returned unto Jerusalem and Judah, every one unto his city;
+
+<a id="v2"></a>**2** who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
+
+<a id="v3"></a>**3** The children of Parosh, two thousand a hundred seventy and two.
+
+<a id="v4"></a>**4** The children of Shephatiah, three hundred seventy and two.
+
+<a id="v5"></a>**5** The children of Arah, seven hundred seventy and five.
+
+<a id="v6"></a>**6** The children of Pahath-moab, of the children of JeshuaandJoab, two thousand eight hundred and twelve.
+
+<a id="v7"></a>**7** The children of Elam, a thousand two hundred fifty and four.
+
+<a id="v8"></a>**8** The children of Zattu, nine hundred forty and five.
+
+<a id="v9"></a>**9** The children of Zaccai, seven hundred and threescore.
+
+<a id="v10"></a>**10** The children of Bani, six hundred forty and two.
+
+<a id="v11"></a>**11** The children of Bebai, six hundred twenty and three.
+
+<a id="v12"></a>**12** The children of Azgad, a thousand two hundred twenty and two.
+
+<a id="v13"></a>**13** The children of Adonikam, six hundred sixty and six.
+
+<a id="v14"></a>**14** The children of Bigvai, two thousand fifty and six.
+
+<a id="v15"></a>**15** The children of Adin, four hundred fifty and four.
+
+<a id="v16"></a>**16** The children of Ater, of Hezekiah, ninety and eight.
+
+<a id="v17"></a>**17** The children of Bezai, three hundred twenty and three.
+
+<a id="v18"></a>**18** The children of Jorah, a hundred and twelve.
+
+<a id="v19"></a>**19** The children of Hashum, two hundred twenty and three.
+
+<a id="v20"></a>**20** The children of Gibbar, ninety and five.
+
+<a id="v21"></a>**21** The children of Beth-lehem, a hundred twenty and three.
+
+<a id="v22"></a>**22** The men of Netophah, fifty and six.
+
+<a id="v23"></a>**23** The men of Anathoth, a hundred twenty and eight.
+
+<a id="v24"></a>**24** The children of Azmaveth, forty and two.
+
+<a id="v25"></a>**25** The children of Kiriath-arim, Chephirah, and Beeroth, seven hundred and forty and three.
+
+<a id="v26"></a>**26** The children of Ramah and Geba, six hundred twenty and one.
+
+<a id="v27"></a>**27** The men of Michmas, a hundred twenty and two.
+
+<a id="v28"></a>**28** The men of Beth-el and Ai, two hundred twenty and three.
+
+<a id="v29"></a>**29** The children of Nebo, fifty and two.
+
+<a id="v30"></a>**30** The children of Magbish, a hundred fifty and six.
+
+<a id="v31"></a>**31** The children of the other Elam, a thousand two hundred fifty and four.
+
+<a id="v32"></a>**32** The children of Harim, three hundred and twenty.
+
+<a id="v33"></a>**33** The children of Lod, Hadid, and Ono, seven hundred twenty and five.
+
+<a id="v34"></a>**34** The children of Jericho, three hundred forty and five.
+
+<a id="v35"></a>**35** The children of Senaah, three thousand and six hundred and thirty.
+
+<a id="v36"></a>**36** The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
+
+<a id="v37"></a>**37** The children of Immer, a thousand fifty and two.
+
+<a id="v38"></a>**38** The children of Pashhur, a thousand two hundred forty and seven.
+
+<a id="v39"></a>**39** The children of Harim, a thousand and seventeen.
+
+<a id="v40"></a>**40** The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.
+
+<a id="v41"></a>**41** The singers: the children of Asaph, a hundred twenty and eight.
+
+<a id="v42"></a>**42** The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all a hundred thirty and nine.
+
+<a id="v43"></a>**43** The Nethinim: the children of Ziha, the children of Hasupha, the children of Tabbaoth,
+
+<a id="v44"></a>**44** the children of Keros, the children of Siaha, the children of Padon,
+
+<a id="v45"></a>**45** the children of Lebanah, the children of Hagabah, the children of Akkub,
+
+<a id="v46"></a>**46** the children of Hagab, the children of Shamlai, the children of Hanan,
+
+<a id="v47"></a>**47** the children of Giddel, the children of Gahar, the children of Reaiah,
+
+<a id="v48"></a>**48** the children of Rezin, the children of Nekoda, the children of Gazzam,
+
+<a id="v49"></a>**49** the children of Uzza, the children of Paseah, the children of Besai,
+
+<a id="v50"></a>**50** the children of Asnah, the children of Meunim, the children of Nephisim,
+
+<a id="v51"></a>**51** the children of Bakbuk, the children of Hakupha, the children of Harhur,
+
+<a id="v52"></a>**52** the children of Bazluth, the children of Mehida, the children of Harsha,
+
+<a id="v53"></a>**53** the children of Barkos, the children of Sisera, the children of Temah,
+
+<a id="v54"></a>**54** the children of Neziah, the children of Hatipha.
+
+<a id="v55"></a>**55** The children of Solomon’s servants: the children of Sotai, the children of Hassophereth, the children of Peruda,
+
+<a id="v56"></a>**56** the children of Jaalah, the children of Darkon, the children of Giddel,
+
+<a id="v57"></a>**57** the children of Shephatiah, the children of Hattil, the children of Pochereth-hazzebaim, the children of Ami.
+
+<a id="v58"></a>**58** All the Nethinim, and the children of Solomon’s servants, were three hundred ninety and two.
+
+<a id="v59"></a>**59** And these were they that went up from Tel-melah, Tel-harsha, Cherub, Addan, andImmer; but they could not show their fathers’ houses, and their seed, whether they were of Israel:
+
+<a id="v60"></a>**60** the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.
+
+<a id="v61"></a>**61** And of the children of the priests: the children of Habaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.
+
+<a id="v62"></a>**62** These sought their registeramongthose that were reckoned by genealogy, but they were not found: therefore were they deemed polluted and put from the priesthood.
+
+<a id="v63"></a>**63** And the governor said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.
+
+<a id="v64"></a>**64** The whole assembly together was forty and two thousand three hundred and threescore,
+
+<a id="v65"></a>**65** besides their men-servants and their maid-servants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred singing men and singing women.
+
+<a id="v66"></a>**66** Their horses were seven hundred thirty and six; their mules, two hundred forty and five;
+
+<a id="v67"></a>**67** their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty.
+
+<a id="v68"></a>**68** And some of the heads of fathers’ houses, when they came to the house of Jehovah which is in Jerusalem, offered willingly for the house of God to set it up in its place:
+
+<a id="v69"></a>**69** they gave after their ability into the treasury of the work threescore and one thousand darics of gold, and five thousand pounds of silver, and one hundred priests’ garments.
+
+<a id="v70"></a>**70** So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinim, dwelt in their cities, and all Israel in their cities.

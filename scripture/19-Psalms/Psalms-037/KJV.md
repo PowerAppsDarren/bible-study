@@ -83,4 +83,3 @@
 <a id="v39"></a>**39** But the salvation of the righteous is of the Lord: he is their strength in the time of trouble.
 
 <a id="v40"></a>**40** And the Lord shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.
-

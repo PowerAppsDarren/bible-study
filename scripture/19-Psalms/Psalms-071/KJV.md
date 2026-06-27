@@ -51,4 +51,3 @@
 <a id="v23"></a>**23** My lips shall greatly rejoice when I sing unto thee; and my soul, which thou hast redeemed.
 
 <a id="v24"></a>**24** My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt.
-

@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Nevertheless you shall die like men, and fall like one of the rulers.”
 
 <a id="v8"></a>**8** Arise, God, judge the earth, for you inherit all of the nations.
-

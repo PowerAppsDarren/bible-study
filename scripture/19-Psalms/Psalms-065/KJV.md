@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** They drop upon the pastures of the wilderness: and the little hills rejoice on every side.
 
 <a id="v13"></a>**13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
-

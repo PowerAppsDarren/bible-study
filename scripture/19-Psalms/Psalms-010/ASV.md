@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** Jehovah, thou hast heard the desire of the meek: Thou wilt prepare their heart, thou wilt cause thine ear to hear;
 
 <a id="v18"></a>**18** To judge the fatherless and the oppressed, That man who is of the earth may be terrible no more.
-

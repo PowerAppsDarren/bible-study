@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** Ye put to shame the counsel of the poor, Because Jehovah is his refuge.
 
 <a id="v7"></a>**7** Oh that the salvation of Israel were come out of Zion! When Jehovah bringeth back the captivity of his people, Then shall Jacob rejoice, andIsrael shall be glad.
-

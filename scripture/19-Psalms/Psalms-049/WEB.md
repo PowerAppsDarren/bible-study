@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** he shall go to the generation of his fathers. They shall never see the light.
 
 <a id="v20"></a>**20** A man who has riches without understanding, is like the animals that perish.
-

@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.
 
 <a id="v7"></a>**7** Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.
-

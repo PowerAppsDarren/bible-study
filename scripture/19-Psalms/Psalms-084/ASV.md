@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** For Jehovah God is a sun and a shield: Jehovah will give grace and glory; No good thing will he withhold from them that walk uprightly.
 
 <a id="v12"></a>**12** O Jehovah of hosts, Blessed is the man that trusteth in thee.
-

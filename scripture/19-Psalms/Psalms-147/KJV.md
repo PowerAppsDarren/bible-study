@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
 
 <a id="v20"></a>**20** He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.
-

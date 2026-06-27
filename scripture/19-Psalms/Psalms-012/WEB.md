@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** You will keep them, Yahweh. You will preserve them from this generation forever.
 
 <a id="v8"></a>**8** The wicked walk on every side, when what is vile is exalted among the sons of men.
-

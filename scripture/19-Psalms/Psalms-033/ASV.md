@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** For our heart shall rejoice in him, Because we have trusted in his holy name.
 
 <a id="v22"></a>**22** Let thy lovingkindness, O Jehovah, be upon us, According as we have hoped in thee.
-

@@ -1,0 +1,45 @@
+# Deuteronomy 8 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Take care to keep all the orders which I give you today, so that you may have life and be increased and go in and take as a heritage the land which the Lord, by his oath to your fathers, undertook to give you.
+
+<a id="v2"></a>**2** And keep in mind the way by which the Lord your God has taken you through the waste land these forty years, so that he might make low your pride and put you to the test, to see what was in your heart and if you would keep his orders or not.
+
+<a id="v3"></a>**3** And he made low your pride and let you be without food and gave you manna for your food, a thing new to you, which your fathers never saw; so that he might make it clear to you that bread is not man's only need, but his life is in every word which comes out of the mouth of the Lord.
+
+<a id="v4"></a>**4** Through all these forty years your clothing did not get old or your feet become tired.
+
+<a id="v5"></a>**5** Keep in mind this thought, that as a son is trained by his father, so you have been trained by the Lord your God.
+
+<a id="v6"></a>**6** Then keep the orders of the Lord your God, fearing him and walking in his ways.
+
+<a id="v7"></a>**7** For the Lord your God is guiding you into a good land, a land of water-springs, of fountains, and deep streams flowing out from the valleys and the hills;
+
+<a id="v8"></a>**8** A land of grain and vines and fig-trees and fair fruits; a land of oil-giving olive-trees and honey;
+
+<a id="v9"></a>**9** Where there will be bread for you in full measure and you will be in need of nothing; a land where the very stones are iron and from whose hills you may get copper.
+
+<a id="v10"></a>**10** And you will have food enough and be full, praising the Lord your God for the good land he has given you.
+
+<a id="v11"></a>**11** Then take care that you are not turned away from the Lord your God and from keeping his orders and decisions and laws which I give you this day:
+
+<a id="v12"></a>**12** And when you have taken food and are full, and have made fair houses for yourselves and are living in them;
+
+<a id="v13"></a>**13** And when your herds and your flocks are increased, and your stores of silver and gold, and you have wealth of every sort;
+
+<a id="v14"></a>**14** Take care that your hearts are not lifted up in pride, giving no thought to the Lord your God who took you out of the land of Egypt, out of the prison-house;
+
+<a id="v15"></a>**15** Who was your guide through that great and cruel waste, where there were poison-snakes and scorpions and a dry land without water; who made water come out of the hard rock for you;
+
+<a id="v16"></a>**16** Who gave you manna for your food in the waste land, a food which your fathers had never seen; so that your pride might be broken and your hearts tested for your good in the end;
+
+<a id="v17"></a>**17** Say not then, in your hearts, My power and the strength of my hands have got me this wealth.
+
+<a id="v18"></a>**18** But keep in mind the Lord your God: for it is he who gives you the power to get wealth, so that he may give effect to the agreement which he made by his oath with your fathers, as at this day.
+
+<a id="v19"></a>**19** And it is certain that if at any time you are turned away from the Lord your God, and go after other gods, to be their servants and to give them worship, destruction will overtake you.
+
+<a id="v20"></a>**20** Like the nations which the Lord is cutting off before you, so you will be cut off; because you would not give ear to the voice of the Lord your God.

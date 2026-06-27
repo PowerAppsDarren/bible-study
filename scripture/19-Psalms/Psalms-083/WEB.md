@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** Let them be disappointed and dismayed forever. Yes, let them be confounded and perish;
 
 <a id="v18"></a>**18** that they may know that you alone, whose name is Yahweh, are the Most High over all the earth.
-

@@ -103,4 +103,3 @@
 <a id="v49"></a>**49** Therefore I will give thanks to you, Yahweh, among the nations, and will sing praises to your name.
 
 <a id="v50"></a>**50** He gives great deliverance to his king, and shows loving kindness to his anointed, to David and to his seed, forever more.
-

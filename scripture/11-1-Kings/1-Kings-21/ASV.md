@@ -1,0 +1,63 @@
+# 1 Kings 21 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria.
+
+<a id="v2"></a>**2** And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house; and I will give thee for it a better vineyard than it: or, if it seem good to thee, I will give thee the worth of it in money.
+
+<a id="v3"></a>**3** And Naboth said to Ahab, Jehovah forbid it me, that I should give the inheritance of my fathers unto thee.
+
+<a id="v4"></a>**4** And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him; for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread.
+
+<a id="v5"></a>**5** But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?
+
+<a id="v6"></a>**6** And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee another vineyard for it: and he answered, I will not give thee my vineyard.
+
+<a id="v7"></a>**7** And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, and eat bread, and let thy heart be merry: I will give thee the vineyard of Naboth the Jezreelite.
+
+<a id="v8"></a>**8** So she wrote letters in Ahab’s name, and sealed them with his seal, and sent the letters unto the elders and to the nobles that were in his city, and that dwelt with Naboth.
+
+<a id="v9"></a>**9** And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people:
+
+<a id="v10"></a>**10** and set two men, base fellows, before him, and let them bear witness against him, saying, Thou didst curse God and the king. And then carry him out, and stone him to death.
+
+<a id="v11"></a>**11** And the men of his city, even the elders and the nobles who dwelt in his city, did as Jezebel had sent unto them, according as it was written in the letters which she had sent unto them.
+
+<a id="v12"></a>**12** They proclaimed a fast, and set Naboth on high among the people.
+
+<a id="v13"></a>**13** And the two men, the base fellows, came in and sat before him: and the base fellows bare witness against him, even against Naboth, in the presence of the people, saying, Naboth did curse God and the king. Then they carried him forth out of the city, and stoned him to death with stones.
+
+<a id="v14"></a>**14** Then they sent to Jezebel, saying, Naboth is stoned, and is dead.
+
+<a id="v15"></a>**15** And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money; for Naboth is not alive, but dead.
+
+<a id="v16"></a>**16** And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
+
+<a id="v17"></a>**17** And the word of Jehovah came to Elijah the Tishbite, saying,
+
+<a id="v18"></a>**18** Arise, go down to meet Ahab king of Israel, who dwelleth in Samaria: behold, he is in the vineyard of Naboth, whither he is gone down to take possession of it.
+
+<a id="v19"></a>**19** And thou shalt speak unto him, saying, Thus saith Jehovah, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith Jehovah, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine.
+
+<a id="v20"></a>**20** And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found thee, because thou hast sold thyself to do that which is evil in the sight of Jehovah.
+
+<a id="v21"></a>**21** Behold, I will bring evil upon thee, and will utterly sweep thee away and will cut off from Ahab every man-child, and him that is shut up and him that is left at large in Israel:
+
+<a id="v22"></a>**22** and I will make thy house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah for the provocation wherewith thou hast provoked me to anger, and hast made Israel to sin.
+
+<a id="v23"></a>**23** And of Jezebel also spake Jehovah, saying, The dogs shall eat Jezebel by the rampart of Jezreel.
+
+<a id="v24"></a>**24** Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the birds of the heavens eat.
+
+<a id="v25"></a>**25** (But there was none like unto Ahab, who did sell himself to do that which was evil in the sight of Jehovah, whom Jezebel his wife stirred up.
+
+<a id="v26"></a>**26** And he did very abominably in following idols, according to all that the Amorites did, whom Jehovah cast out before the children of Israel.)
+
+<a id="v27"></a>**27** And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.
+
+<a id="v28"></a>**28** And the word of Jehovah came to Elijah the Tishbite, saying,
+
+<a id="v29"></a>**29** Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days; but in his son’s day will I bring the evil upon his house.

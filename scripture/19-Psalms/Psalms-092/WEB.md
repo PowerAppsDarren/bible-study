@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** They will still produce fruit in old age. They will be full of sap and green,
 
 <a id="v15"></a>**15** to show that Yahweh is upright. He is my rock, and there is no unrighteousness in him.
-

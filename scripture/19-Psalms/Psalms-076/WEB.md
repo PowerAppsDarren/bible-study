@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Make vows to Yahweh your God, and fulfill them! Let all of his neighbors bring presents to him who is to be feared.
 
 <a id="v12"></a>**12** He will cut off the spirit of princes. He is feared by the kings of the earth.
-

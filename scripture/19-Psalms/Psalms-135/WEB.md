@@ -45,4 +45,3 @@
 <a id="v20"></a>**20** House of Levi, praise Yahweh! You who fear Yahweh, praise Yahweh!
 
 <a id="v21"></a>**21** Blessed be Yahweh from Zion, Who dwells at Jerusalem. Praise Yah!
-

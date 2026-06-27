@@ -55,4 +55,3 @@
 <a id="v25"></a>**25** For our soul is bowed down to the dust. Our body clings to the earth.
 
 <a id="v26"></a>**26** Rise up to help us. Redeem us for your loving kindness’ sake.
-

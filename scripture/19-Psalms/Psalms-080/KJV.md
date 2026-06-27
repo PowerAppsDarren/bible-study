@@ -41,4 +41,3 @@
 <a id="v18"></a>**18** So will not we go back from thee: quicken us, and we will call upon thy name.
 
 <a id="v19"></a>**19** Turn us again, O Lord God of hosts, cause thy face to shine; and we shall be saved.
-

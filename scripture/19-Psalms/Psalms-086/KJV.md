@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.
 
 <a id="v17"></a>**17** Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, Lord, hast holpen me, and comforted me.
-

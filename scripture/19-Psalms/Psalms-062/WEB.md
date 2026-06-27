@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** God has spoken once; twice I have heard this, that power belongs to God.
 
 <a id="v12"></a>**12** Also to you, Lord, belongs loving kindness, for you reward every man according to his work.
-

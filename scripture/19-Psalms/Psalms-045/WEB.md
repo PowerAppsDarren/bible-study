@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** Your sons will take the place of your fathers. You shall make them princes in all the earth.
 
 <a id="v17"></a>**17** I will make your name to be remembered in all generations. Therefore the peoples shall give you thanks forever and ever.
-

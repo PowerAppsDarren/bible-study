@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Serve the Lord with fear, and rejoice with trembling.
 
 <a id="v12"></a>**12** Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
-

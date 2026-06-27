@@ -1,0 +1,27 @@
+# Revelation 4 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** After these things I saw, and behold, a door opened in heaven, and the first voice that I heard, a voiceas of a trumpet speaking with me, one saying, Come up hither, and I will show thee the things which must come to pass hereafter.
+
+<a id="v2"></a>**2** Straightway I was in the Spirit: and behold, there was a throne set in heaven, and one sitting upon the throne;
+
+<a id="v3"></a>**3** and he that sat was to look upon like a jasper stone and a sardius: and there was a rainbow round about the throne, like an emerald to look upon.
+
+<a id="v4"></a>**4** And round about the throne were four and twenty thrones: and upon the thrones I saw four and twenty elders sitting, arrayed in white garments; and on their heads crowns of gold.
+
+<a id="v5"></a>**5** And out of the throne proceed lightnings and voices and thunders. And there were seven lamps of fire burning before the throne, which are the seven Spirits of God;
+
+<a id="v6"></a>**6** and before the throne, as it were a sea of glass like unto crystal; and in the midst of the throne, and round about the throne, four living creatures full of eyes before and behind.
+
+<a id="v7"></a>**7** And the first creature was like a lion, and the second creature like a calf, and the third creature had a face as of a man, and the fourth creature was like a flying eagle.
+
+<a id="v8"></a>**8** And the four living creatures, having each one of them six wings, are full of eyes round about and within: and they have no rest day and night, saying, Holy, holy, holy, isthe Lord God, the Almighty, who was and who is and who is to come.
+
+<a id="v9"></a>**9** And when the living creatures shall give glory and honor and thanks to him that sitteth on the throne, to him that liveth for ever and ever,
+
+<a id="v10"></a>**10** the four and twenty elders shall fall down before him that sitteth on the throne, and shall worship him that liveth for ever and ever, and shall cast their crowns before the throne, saying,
+
+<a id="v11"></a>**11** Worthy art thou, our Lord and our God, to receive the glory and the honor and the power: for thou didst create all things, and because of thy will they were, and were created.

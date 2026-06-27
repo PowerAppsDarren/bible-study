@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** Yahweh has heard my supplication. Yahweh accepts my prayer.
 
 <a id="v10"></a>**10** May all my enemies be ashamed and dismayed. They shall turn back, they shall be disgraced suddenly.
-

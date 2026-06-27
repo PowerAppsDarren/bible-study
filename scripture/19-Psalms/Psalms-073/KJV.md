@@ -59,4 +59,3 @@
 <a id="v27"></a>**27** For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
 
 <a id="v28"></a>**28** But it is good for me to draw near to God: I have put my trust in the Lord God, that I may declare all thy works.
-

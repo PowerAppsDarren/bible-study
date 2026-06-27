@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** Arise, God! Plead your own cause. Remember how the foolish man mocks you all day.
 
 <a id="v23"></a>**23** Don’t forget the voice of your adversaries. The tumult of those who rise up against you ascends continually.
-

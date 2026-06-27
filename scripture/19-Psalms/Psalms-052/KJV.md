@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.
 
 <a id="v9"></a>**9** I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints.
-

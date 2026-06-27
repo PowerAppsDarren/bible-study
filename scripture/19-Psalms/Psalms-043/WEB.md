@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Then I will go to the altar of God, to God, my exceeding joy. I will praise you on the harp, God, my God.
 
 <a id="v5"></a>**5** Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him: my Savior, my helper, and my God.
-

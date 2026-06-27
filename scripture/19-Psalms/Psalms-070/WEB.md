@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Let all those who seek you rejoice and be glad in you. Let those who love your salvation continually say, “Let God be exalted!”
 
 <a id="v5"></a>**5** But I am poor and needy. Come to me quickly, God. You are my help and my deliverer. Yahweh, don’t delay.
-

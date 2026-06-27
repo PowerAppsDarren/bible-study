@@ -55,4 +55,3 @@
 <a id="v25"></a>**25** For our soul is bowed down to the dust: Our body cleaveth unto the earth.
 
 <a id="v26"></a>**26** Rise up for our help, And redeem us for thy lovingkindness’ sake.
-

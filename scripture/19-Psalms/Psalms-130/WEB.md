@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Israel, hope in Yahweh, for with Yahweh there is loving kindness. With him is abundant redemption.
 
 <a id="v8"></a>**8** He will redeem Israel from all their sins.
-

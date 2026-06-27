@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** As arrows are in the hand of a mighty man; so are children of the youth.
 
 <a id="v5"></a>**5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
-

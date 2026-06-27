@@ -277,6 +277,10 @@ SCRIPTURE = REPO_ROOT / "scripture"
 
 PAUSE_SECONDS = 0.12  # be polite to the free API
 
+# Bulk mode downloads a whole translation in one request, cached OUTSIDE the repo.
+BULK_API = "https://api.getbible.net/v2/{translation}.json"
+TRANS_CACHE = Path.home() / ".cache" / "bible-study" / "translations"
+
 
 def book_number(book_dir: Path) -> int | None:
     m = re.match(r"^(\d+)-", book_dir.name)
@@ -361,6 +365,60 @@ def process_book(book_dir: Path, translations, chap_range, skip_existing: bool):
     return written, failures
 
 
+def load_translation_bulk(translation: str, refresh: bool = False) -> dict:
+    """Download a whole translation (~one request) and cache it outside the repo."""
+    cache = TRANS_CACHE / f"{translation}.json"
+    if cache.exists() and not refresh:
+        return json.loads(cache.read_text(encoding="utf-8"))
+    url = BULK_API.format(translation=translation)
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=180) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+    cache.parent.mkdir(parents=True, exist_ok=True)
+    cache.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    return data
+
+
+def run_bulk(books, translations, chap_range, skip_existing, refresh):
+    """Bulk mode: one download per translation, then split into chapter files.
+
+    Far kinder to the free API for big runs (~one request per translation vs
+    thousands) and fast, since splitting happens locally from the cached JSON.
+    """
+    loaded = {}
+    for t in translations:
+        print(f"  downloading whole translation: {t} ...")
+        full = load_translation_bulk(t, refresh)
+        idx = {b["nr"]: {c["chapter"]: c["verses"] for c in b["chapters"]} for b in full["books"]}
+        names = {b["nr"]: b["name"] for b in full["books"]}
+        loaded[t] = (full["translation"], idx, names)
+
+    written, failures = 0, []
+    for bdir in books:
+        bnum = book_number(bdir)
+        if bnum is None:
+            continue
+        for chapter, folder in chapter_folders(bdir):
+            if chap_range is not None and chapter not in chap_range:
+                continue
+            for t in translations:
+                tname, idx, names = loaded[t]
+                verses = idx.get(bnum, {}).get(chapter)
+                abbr = file_stem(t)
+                out = folder / f"{abbr}.md"
+                if verses is None:
+                    failures.append(f"{abbr} {bdir.name} ch{chapter}: not in bulk data")
+                    continue
+                if skip_existing and out.exists():
+                    continue
+                data = {"book_name": names[bnum], "chapter": chapter,
+                        "translation": tname, "verses": verses}
+                out.write_text(render(data, abbr), encoding="utf-8", newline="\n")
+                written += 1
+        print(f"-> {bdir.name}: done")
+    return written, failures
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(description="Fetch public-domain scripture into chapter folders.")
     p.add_argument("book", nargs="?", help="path to a book folder, e.g. scripture/19-Psalms")
@@ -369,6 +427,9 @@ def main(argv=None):
                    help=f"translation abbreviations (default: {' '.join(DEFAULT_TRANSLATIONS)})")
     p.add_argument("--chapters", help="chapter or range, e.g. 1 or 1-3 (single-book only)")
     p.add_argument("--skip-existing", action="store_true", help="don't overwrite existing files")
+    p.add_argument("--bulk", action="store_true",
+                   help="download each whole translation once and split locally; use for big/whole-Bible runs")
+    p.add_argument("--refresh", action="store_true", help="ignore cached bulk downloads and re-fetch")
     args = p.parse_args(argv)
 
     if not args.all and not args.book:
@@ -386,13 +447,16 @@ def main(argv=None):
             bdir = REPO_ROOT / args.book
         books = [bdir.resolve()]
 
-    total, all_fail = 0, []
-    for bdir in books:
-        print(f"-> {bdir.name}")
-        w, f = process_book(bdir, args.translations, chap_range, args.skip_existing)
-        total += w
-        all_fail += f
-        print(f"   wrote {w} file(s)")
+    if args.bulk:
+        total, all_fail = run_bulk(books, args.translations, chap_range, args.skip_existing, args.refresh)
+    else:
+        total, all_fail = 0, []
+        for bdir in books:
+            print(f"-> {bdir.name}")
+            w, f = process_book(bdir, args.translations, chap_range, args.skip_existing)
+            total += w
+            all_fail += f
+            print(f"   wrote {w} file(s)")
 
     print(f"\nDONE. Files written: {total}")
     if all_fail:

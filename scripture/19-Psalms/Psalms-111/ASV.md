@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** He hath sent redemption unto his people; He hath commanded his covenant for ever: Holy and reverend is his name.
 
 <a id="v10"></a>**10** The fear of Jehovah is the beginning of wisdom; A good understanding have all they that dohis commandments: His praise endureth for ever.
-

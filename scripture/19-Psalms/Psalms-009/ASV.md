@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** Arise, O Jehovah; let not man prevail: Let the nations be judged in thy sight.
 
 <a id="v20"></a>**20** Put them in fear, O Jehovah: Let the nations know themselves to be but men. [Selah
-

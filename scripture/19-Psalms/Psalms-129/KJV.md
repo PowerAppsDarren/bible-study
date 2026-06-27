@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.
 
 <a id="v8"></a>**8** Neither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord.
-

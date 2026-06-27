@@ -59,4 +59,3 @@
 <a id="v27"></a>**27** But you are the same. Your years will have no end.
 
 <a id="v28"></a>**28** The children of your servants will continue. Their seed will be established before you.”
-

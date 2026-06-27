@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Yea, Jehovah will give that which is good; And our land shall yield its increase.
 
 <a id="v13"></a>**13** Righteousness shall go before him, And shall make his footsteps a way to walk in.
-

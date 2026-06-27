@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** God hath spoken once, Twice have I heard this, That power belongeth unto God.
 
 <a id="v12"></a>**12** Also unto thee, O Lord, belongeth lovingkindness; For thou renderest to every man according to his work.
-

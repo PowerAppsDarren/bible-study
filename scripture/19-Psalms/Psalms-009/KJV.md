@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** Arise, O Lord; let not man prevail: let the heathen be judged in thy sight.
 
 <a id="v20"></a>**20** Put them in fear, O Lord: that the nations may know themselves to be but men. Selah.
-

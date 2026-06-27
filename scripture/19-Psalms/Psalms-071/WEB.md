@@ -51,4 +51,3 @@
 <a id="v23"></a>**23** My lips shall shout for joy! My soul, which you have redeemed, sings praises to you!
 
 <a id="v24"></a>**24** My tongue will also talk about your righteousness all day long, for they are disappointed, and they are confounded, who want to harm me.
-

@@ -65,4 +65,3 @@
 <a id="v30"></a>**30** A seed shall serve him; it shall be accounted to the Lord for a generation.
 
 <a id="v31"></a>**31** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
-

@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** The Lord shall count, when he writeth up the people, that this man was born there. Selah.
 
 <a id="v7"></a>**7** As well the singers as the players on instruments shall be there: all my springs are in thee.
-

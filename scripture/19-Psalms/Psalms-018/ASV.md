@@ -103,4 +103,3 @@
 <a id="v49"></a>**49** Therefore I will give thanks unto thee, O Jehovah, among the nations, And will sing praises unto thy name.
 
 <a id="v50"></a>**50** Great deliverance giveth he to his king, And showeth lovingkindness to his anointed, To David and to his seed, for evermore.
-

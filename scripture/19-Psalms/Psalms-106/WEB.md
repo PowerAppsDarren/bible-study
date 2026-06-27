@@ -99,4 +99,3 @@
 <a id="v47"></a>**47** Save us, Yahweh, our God, gather us from among the nations, to give thanks to your holy name, to triumph in your praise!
 
 <a id="v48"></a>**48** Blessed be Yahweh, the God of Israel, from everlasting even to everlasting! Let all the people say, “Amen.” Praise Yah!
-

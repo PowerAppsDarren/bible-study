@@ -73,4 +73,3 @@
 <a id="v34"></a>**34** Let your meditation be sweet to him. I will rejoice in Yahweh.
 
 <a id="v35"></a>**35** Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah!
-

@@ -103,4 +103,3 @@
 <a id="v49"></a>**49** Therefore will I give thanks unto thee, O Lord, among the heathen, and sing praises unto thy name.
 
 <a id="v50"></a>**50** Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.
-

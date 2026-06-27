@@ -9,4 +9,3 @@
 <a id="v2"></a>**2** Surely I have stilled and quieted my soul; Like a weaned child with his mother, Like a weaned child is my soul within me.
 
 <a id="v3"></a>**3** O Israel, hope in Jehovah From this time forth and for evermore.
-

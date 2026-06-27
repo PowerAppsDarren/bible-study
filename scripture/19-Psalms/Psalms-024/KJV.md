@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in.
 
 <a id="v10"></a>**10** Who is this King of glory? The Lord of hosts, he is the King of glory. Selah.
-

@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Let integrity and uprightness preserve me, for I wait for you.
 
 <a id="v22"></a>**22** Redeem Israel, God, out all of his troubles.
-

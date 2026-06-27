@@ -1,0 +1,39 @@
+# Jeremiah 12 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Righteous art thou, O Jehovah, when I contend with thee; yet would I reason the cause with thee: wherefore doth the way of the wicked prosper? wherefore are all they at ease that deal very treacherously?
+
+<a id="v2"></a>**2** Thou hast planted them, yea, they have taken root; they grow, yea, they bring forth fruit: thou art near in their mouth, and far from their heart.
+
+<a id="v3"></a>**3** But thou, O Jehovah, knowest me; thou seest me, and triest my heart toward thee: pull them out like sheep for the slaughter, and prepare them for the day of slaughter.
+
+<a id="v4"></a>**4** How long shall the land mourn, and the herbs of the whole country wither? for the wickedness of them that dwell therein, the beasts are consumed, and the birds; because they said, He shall not see our latter end.
+
+<a id="v5"></a>**5** If thou hast run with the footmen, and they have wearied thee, then how canst thou contend with horses? and though in a land of peace thou art secure, yet how wilt thou do in the pride of the Jordan?
+
+<a id="v6"></a>**6** For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; even they have cried aloud after thee: believe them not, though they speak fair words unto thee.
+
+<a id="v7"></a>**7** I have forsaken my house, I have cast off my heritage; I have given the dearly beloved of my soul into the hand of her enemies.
+
+<a id="v8"></a>**8** My heritage is become unto me as a lion in the forest: she hath uttered her voice against me; therefore I have hated her.
+
+<a id="v9"></a>**9** Is my heritage unto me as a speckled bird of prey? are the birds of prey against her round about? go ye, assemble all the beasts of the field, bring them to devour.
+
+<a id="v10"></a>**10** Many shepherds have destroyed my vineyard, they have trodden my portion under foot, they have made my pleasant portion a desolate wilderness.
+
+<a id="v11"></a>**11** They have made it a desolation; it mourneth unto me, being desolate; the whole land is made desolate, because no man layeth it to heart.
+
+<a id="v12"></a>**12** Destroyers are come upon all the bare heights in the wilderness; for the sword of Jehovah devoureth from the one end of the land even to the other end of the land: no flesh hath peace.
+
+<a id="v13"></a>**13** They have sown wheat, and have reaped thorns; they have put themselves to pain, and profit nothing: and ye shall be ashamed of your fruits, because of the fierce anger of Jehovah.
+
+<a id="v14"></a>**14** Thus saith Jehovah against all mine evil neighbors, that touch the inheritance which I have caused my people Israel to inherit: Behold, I will pluck them up from off their land, and will pluck up the house of Judah from among them.
+
+<a id="v15"></a>**15** And it shall come to pass, after that I have plucked them up, I will return and have compassion on them; and I will bring them again, every man to his heritage, and every man to his land.
+
+<a id="v16"></a>**16** And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, As Jehovah liveth; even as they taught my people to swear by Baal; then shall they be built up in the midst of my people.
+
+<a id="v17"></a>**17** But if they will not hear, then will I pluck up that nation, plucking up and destroying it, saith Jehovah.

@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** The trouble he causes shall return to his own head. His violence shall come down on the crown of his own head.
 
 <a id="v17"></a>**17** I will give thanks to Yahweh according to his righteousness, and will sing praise to the name of Yahweh Most High.
-

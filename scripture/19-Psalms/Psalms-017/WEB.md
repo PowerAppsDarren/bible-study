@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** from men by your hand, Yahweh, from men of the world, whose portion is in this life. You fill the belly of your cherished ones. Your sons have plenty, and they store up wealth for their children.
 
 <a id="v15"></a>**15** As for me, I shall see your face in righteousness. I shall be satisfied, when I awake, with seeing your form.
-

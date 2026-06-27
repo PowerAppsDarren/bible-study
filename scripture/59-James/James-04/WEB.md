@@ -1,0 +1,39 @@
+# James 4 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members?
+
+<a id="v2"></a>**2** You lust, and don’t have. You kill, covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask.
+
+<a id="v3"></a>**3** You ask, and don’t receive, because you ask with wrong motives, so that you may spend it for your pleasures.
+
+<a id="v4"></a>**4** You adulterers and adulteresses, don’t you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God.
+
+<a id="v5"></a>**5** Or do you think that the Scripture says in vain, “The Spirit who lives in us yearns jealously”?
+
+<a id="v6"></a>**6** But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.”
+
+<a id="v7"></a>**7** Be subject therefore to God. But resist the devil, and he will flee from you.
+
+<a id="v8"></a>**8** Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.
+
+<a id="v9"></a>**9** Lament, mourn, and weep. Let your laughter be turned to mourning, and your joy to gloom.
+
+<a id="v10"></a>**10** Humble yourselves in the sight of the Lord, and he will exalt you.
+
+<a id="v11"></a>**11** Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge.
+
+<a id="v12"></a>**12** Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?
+
+<a id="v13"></a>**13** Come now, you who say, “Today or tomorrow let’s go into this city, and spend a year there, trade, and make a profit.”
+
+<a id="v14"></a>**14** Whereas you don’t know what your life will be like tomorrow. For what is your life? For you are a vapor, that appears for a little time, and then vanishes away.
+
+<a id="v15"></a>**15** For you ought to say, “If the Lord wills, we will both live, and do this or that.”
+
+<a id="v16"></a>**16** But now you glory in your boasting. All such boasting is evil.
+
+<a id="v17"></a>**17** To him therefore who knows to do good, and doesn’t do it, to him it is sin.

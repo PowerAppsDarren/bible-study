@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** Our oxen will pull heavy loads. There is no breaking in, and no going away, and no outcry in our streets.
 
 <a id="v15"></a>**15** Happy are the people who are in such a situation. Happy are the people whose God is Yahweh.
-

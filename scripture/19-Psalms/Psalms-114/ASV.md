@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Tremble, thou earth, at the presence of the Lord, At the presence of the God of Jacob,
 
 <a id="v8"></a>**8** Who turned the rock into a pool of water, The flint into a fountain of waters.
-

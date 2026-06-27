@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Quicken me, O Lord, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble.
 
 <a id="v12"></a>**12** And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant.
-

@@ -93,4 +93,3 @@
 <a id="v44"></a>**44** He gave them the lands of the nations. They took the labor of the peoples in possession,
 
 <a id="v45"></a>**45** that they might keep his statutes, and observe his laws. Praise Yah!
-

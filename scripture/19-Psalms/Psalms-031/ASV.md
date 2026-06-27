@@ -51,4 +51,3 @@
 <a id="v23"></a>**23** Oh love Jehovah, all ye his saints: Jehovah preserveth the faithful, And plentifully rewardeth him that dealeth proudly.
 
 <a id="v24"></a>**24** Be strong, and let your heart take courage, All ye that hope in Jehovah.
-

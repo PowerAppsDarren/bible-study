@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** You answered them, Yahweh our God. You are a God who forgave them, although you took vengeance for their doings.
 
 <a id="v9"></a>**9** Exalt Yahweh, our God. Worship at his holy hill, for Yahweh, our God, is holy!
-

@@ -11,4 +11,3 @@
 <a id="v3"></a>**3** Have mercy upon us, O Lord, have mercy upon us: for we are exceedingly filled with contempt.
 
 <a id="v4"></a>**4** Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.
-

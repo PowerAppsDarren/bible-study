@@ -1,0 +1,89 @@
+# Numbers 32 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
+
+<a id="v2"></a>**2** the children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,
+
+<a id="v3"></a>**3** Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Sebam, and Nebo, and Beon,
+
+<a id="v4"></a>**4** the land which Jehovah smote before the congregation of Israel, is a land for cattle; and thy servants have cattle.
+
+<a id="v5"></a>**5** And they said, If we have found favor in thy sight, let this land be given unto thy servants for a possession; bring us not over the Jordan.
+
+<a id="v6"></a>**6** And Moses said unto the children of Gad, and to the children of Reuben, Shall your brethren go to the war, and shall ye sit here?
+
+<a id="v7"></a>**7** And wherefore discourage ye the heart of the children of Israel from going over into the land which Jehovah hath given them?
+
+<a id="v8"></a>**8** Thus did your fathers, when I sent them from Kadesh-barnea to see the land.
+
+<a id="v9"></a>**9** For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which Jehovah had given them.
+
+<a id="v10"></a>**10** And Jehovah’s anger was kindled in that day, and he sware, saying,
+
+<a id="v11"></a>**11** Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
+
+<a id="v12"></a>**12** save Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun; because they have wholly followed Jehovah.
+
+<a id="v13"></a>**13** And Jehovah’s anger was kindled against Israel, and he made them wander to and fro in the wilderness forty years, until all the generation, that had done evil in the sight of Jehovah, was consumed.
+
+<a id="v14"></a>**14** And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of Jehovah toward Israel.
+
+<a id="v15"></a>**15** For if ye turn away from after him, he will yet again leave them in the wilderness; and ye will destroy all this people.
+
+<a id="v16"></a>**16** And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:
+
+<a id="v17"></a>**17** but we ourselves will be ready armed to go before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fortified cities because of the inhabitants of the land.
+
+<a id="v18"></a>**18** We will not return unto our houses, until the children of Israel have inherited every man his inheritance.
+
+<a id="v19"></a>**19** For we will not inherit with them on the other side of the Jordan, and forward; because our inheritance is fallen to us on this side of the Jordan eastward.
+
+<a id="v20"></a>**20** And Moses said unto them, If ye will do this thing, if ye will arm yourselves to go before Jehovah to the war,
+
+<a id="v21"></a>**21** and every armed man of you will pass over the Jordan before Jehovah, until he hath driven out his enemies from before him,
+
+<a id="v22"></a>**22** and the land is subdued before Jehovah; then afterward ye shall return, and be guiltless towards Jehovah, and towards Israel; and this land shall be unto you for a possession before Jehovah.
+
+<a id="v23"></a>**23** But if ye will not do so, behold, ye have sinned against Jehovah; and be sure your sin will find you out.
+
+<a id="v24"></a>**24** Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.
+
+<a id="v25"></a>**25** And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth.
+
+<a id="v26"></a>**26** Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead;
+
+<a id="v27"></a>**27** but thy servants will pass over, every man that is armed for war, before Jehovah to battle, as my lord saith.
+
+<a id="v28"></a>**28** So Moses gave charge concerning them to Eleazar the priest, and to Joshua the son of Nun, and to the heads of the fathers’housesof the tribes of the children of Israel.
+
+<a id="v29"></a>**29** And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over the Jordan, every man that is armed to battle, before Jehovah, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:
+
+<a id="v30"></a>**30** but if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.
+
+<a id="v31"></a>**31** And the children of Gad and the children of Reuben answered, saying, As Jehovah hath said unto thy servants, so will we do.
+
+<a id="v32"></a>**32** We will pass over armed before Jehovah into the land of Canaan, and the possession of our inheritance shall remain with us beyond the Jordan.
+
+<a id="v33"></a>**33** And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto the half-tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, according to the cities thereof with their borders, even the cities of the land round about.
+
+<a id="v34"></a>**34** And the children of Gad built Dibon, and Ataroth, and Aroer,
+
+<a id="v35"></a>**35** and Atroth-shophan, and Jazer, and Jogbehah,
+
+<a id="v36"></a>**36** and Beth-nimrah, and Beth-haran: fortified cities, and folds for sheep.
+
+<a id="v37"></a>**37** And the children of Reuben built Heshbon, and Elealeh, and Kiriathaim,
+
+<a id="v38"></a>**38** and Nebo, and Baal-meon, (their names being changed,) and Sibmah: and they gave other names unto the cities which they builded.
+
+<a id="v39"></a>**39** And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorites that were therein.
+
+<a id="v40"></a>**40** And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.
+
+<a id="v41"></a>**41** And Jair the son of Manasseh went and took the towns thereof, and called them Havvoth-jair.
+
+<a id="v42"></a>**42** And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.

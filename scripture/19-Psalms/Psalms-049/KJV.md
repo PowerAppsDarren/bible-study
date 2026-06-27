@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** He shall go to the generation of his fathers; they shall never see light.
 
 <a id="v20"></a>**20** Man that is in honour, and understandeth not, is like the beasts that perish.
-

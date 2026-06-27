@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Give us help from trouble: for vain is the help of man.
 
 <a id="v12"></a>**12** Through God we shall do valiantly: for he it is that shall tread down our enemies.
-

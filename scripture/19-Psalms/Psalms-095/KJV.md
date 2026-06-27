@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:
 
 <a id="v11"></a>**11** Unto whom I sware in my wrath that they should not enter into my rest.
-

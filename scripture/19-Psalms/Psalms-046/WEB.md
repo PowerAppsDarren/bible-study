@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** “Be still, and know that I am God. I will be exalted among the nations. I will be exalted in the earth.”
 
 <a id="v11"></a>**11** Yahweh of Armies is with us. The God of Jacob is our refuge. Selah.
-

@@ -93,4 +93,3 @@
 <a id="v44"></a>**44** And gave them the lands of the heathen: and they inherited the labour of the people;
 
 <a id="v45"></a>**45** That they might observe his statutes, and keep his laws. Praise ye the Lord.
-

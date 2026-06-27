@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Serve Yahweh with fear, and rejoice with trembling.
 
 <a id="v12"></a>**12** Give sincere homage to the Son, lest he be angry, and you perish on the way, for his wrath will soon be kindled. Blessed are all those who take refuge in him.
-

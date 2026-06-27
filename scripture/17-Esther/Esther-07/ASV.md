@@ -1,0 +1,25 @@
+# Esther 7 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** So the king and Haman came to banquet with Esther the queen.
+
+<a id="v2"></a>**2** And the king said again unto Esther on the second day at the banquet of wine, What is thy petition, queen Esther? and it shall be granted thee: and what is thy request? even to the half of the kingdom it shall be performed.
+
+<a id="v3"></a>**3** Then Esther the queen answered and said, If I have found favor in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:
+
+<a id="v4"></a>**4** for we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my peace, although the adversary could not have compensated for the king’s damage.
+
+<a id="v5"></a>**5** Then spake the king Ahasuerus and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?
+
+<a id="v6"></a>**6** And Esther said, An adversary and an enemy, even this wicked Haman. Then Haman was afraid before the king and the queen.
+
+<a id="v7"></a>**7** And the king arose in his wrath from the banquet of wine and went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
+
+<a id="v8"></a>**8** Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the couch whereon Esther was. Then said the king, Will he even force the queen before me in the house? As the word went out of the king’s mouth, they covered Haman’s face.
+
+<a id="v9"></a>**9** Then said Harbonah, one of the chamberlains that were before the king, Behold also, the gallows fifty cubits high, which Haman hath made for Mordecai, who spake good for the king, standeth in the house of Haman. And the king said, Hang him thereon.
+
+<a id="v10"></a>**10** So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified.

@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.
 
 <a id="v6"></a>**6** Yea, thou shalt see thy children’s children, and peace upon Israel.
-

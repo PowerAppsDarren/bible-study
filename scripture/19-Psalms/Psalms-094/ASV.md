@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** But Jehovah hath been my high tower, And my God the rock of my refuge.
 
 <a id="v23"></a>**23** And he hath brought upon them their own iniquity, And will cut them off in their own wickedness; Jehovah our God will cut them off.
-

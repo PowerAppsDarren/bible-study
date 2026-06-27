@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.
 
 <a id="v5"></a>**5** For the Lord is good; his mercy is everlasting; and his truth endureth to all generations.
-

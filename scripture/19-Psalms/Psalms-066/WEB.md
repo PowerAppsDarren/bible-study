@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** But most certainly, God has listened. He has heard the voice of my prayer.
 
 <a id="v20"></a>**20** Blessed be God, who has not turned away my prayer, nor his loving kindness from me.
-

@@ -59,4 +59,3 @@
 <a id="v27"></a>**27** Let them shout for joy and be glad, who favor my righteous cause. Yes, let them say continually, “Yahweh be magnified, who has pleasure in the prosperity of his servant!”
 
 <a id="v28"></a>**28** My tongue shall talk about your righteousness and about your praise all day long.
-

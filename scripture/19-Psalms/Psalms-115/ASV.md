@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** The dead praise not Jehovah, Neither any that go down into silence;
 
 <a id="v18"></a>**18** But we will bless Jehovah From this time forth and for evermore. Praise ye Jehovah.
-

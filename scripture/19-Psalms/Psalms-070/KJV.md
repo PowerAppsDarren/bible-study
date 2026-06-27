@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.
 
 <a id="v5"></a>**5** But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying.
-

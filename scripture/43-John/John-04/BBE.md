@@ -1,0 +1,113 @@
+# John 4 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now when it was clear to the Lord that word had come to the ears of the Pharisees that Jesus was making more disciples than John and was giving them baptism
+
+<a id="v2"></a>**2** (Though, in fact, it was his disciples who gave baptism, not Jesus himself),
+
+<a id="v3"></a>**3** He went out of Judaea into Galilee again.
+
+<a id="v4"></a>**4** And it was necessary for him to go through Samaria.
+
+<a id="v5"></a>**5** So he came to a town of Samaria which was named Sychar, near to the bit of land which Jacob gave to his son Joseph:
+
+<a id="v6"></a>**6** Now Jacob's fountain was there. Jesus, being tired after his journey, was resting by the fountain. It was about the sixth hour.
+
+<a id="v7"></a>**7** A woman of Samaria came to get water, and Jesus said to her, Give me some water.
+
+<a id="v8"></a>**8** For his disciples had gone to the town to get food.
+
+<a id="v9"></a>**9** The woman of Samaria said to him, Why do you, a Jew, make a request for water to me, a woman of Samaria? She said this because Jews have nothing to do with the people of Samaria.
+
+<a id="v10"></a>**10** In answer Jesus said, If you had knowledge of what God gives freely and who it is who says to you, Give me water, you would make your prayer to him, and he would give you living water.
+
+<a id="v11"></a>**11** The woman said to him, Sir, you have no vessel and the fountain is deep; from where will you get the living water?
+
+<a id="v12"></a>**12** Are you greater than our father Jacob who gave us the fountain and took the water of it himself, with his children and his cattle?
+
+<a id="v13"></a>**13** Jesus said to her, Everyone who takes this water will be in need of it again:
+
+<a id="v14"></a>**14** But whoever takes the water I give him will never be in need of drink again; for the water I give him will become in him a fountain of eternal life.
+
+<a id="v15"></a>**15** The woman said to him, Sir, give me this water, so that I may not be in need again of drink and will not have to come all this way for it.
+
+<a id="v16"></a>**16** Jesus said to her, Go, get your husband and come back here with him.
+
+<a id="v17"></a>**17** In answer, the woman said, I have no husband. Jesus said to her, You have said rightly, I have no husband:
+
+<a id="v18"></a>**18** You have had five husbands, and the man you have now is not your husband: that was truly said.
+
+<a id="v19"></a>**19** The woman said to him, Sir, I see that you are a prophet.
+
+<a id="v20"></a>**20** Our fathers gave worship on this mountain, but you Jews say that the right place for worship is in Jerusalem.
+
+<a id="v21"></a>**21** Jesus said to her, Woman, take my word for this; the time is coming when you will not give worship to the Father on this mountain or in Jerusalem.
+
+<a id="v22"></a>**22** You give worship, but without knowledge of what you are worshipping: we give worship to what we have knowledge of: for salvation comes from the Jews.
+
+<a id="v23"></a>**23** But the time is coming, and is even now here, when the true worshippers will give worship to the Father in the true way of the spirit, for these are the worshippers desired by the Father.
+
+<a id="v24"></a>**24** God is Spirit: then let his worshippers give him worship in the true way of the spirit.
+
+<a id="v25"></a>**25** The woman said to him, I am certain that the Messiah, who is named Christ, is coming; when he comes he will make all things clear to us.
+
+<a id="v26"></a>**26** Jesus said to her, I, who am talking to you, am he.
+
+<a id="v27"></a>**27** At that point the disciples came back, and they were surprised to see him talking to a woman; but not one of them said to him, What is your purpose? or, Why are you talking to her?
+
+<a id="v28"></a>**28** Then the woman put down her water-pot and went into the town, and said to the people,
+
+<a id="v29"></a>**29** Come and see a man who has been talking to me of everything I ever did! Is it possible that this is the Christ?
+
+<a id="v30"></a>**30** So they went out of the town and came to him.
+
+<a id="v31"></a>**31** While this was taking place, the disciples were saying to Jesus, Master, take some food.
+
+<a id="v32"></a>**32** But he said to them, I have food of which you have no knowledge.
+
+<a id="v33"></a>**33** So the disciples said one to another, Did anyone give him food?
+
+<a id="v34"></a>**34** Jesus said, My food is to do the pleasure of him who sent me and to make his work complete.
+
+<a id="v35"></a>**35** You would say, Four months from now is the time of the grain-cutting. Take a look, I say to you, at the fields; they are even now white for cutting.
+
+<a id="v36"></a>**36** He who does the cutting now has his reward; he is getting together fruit for eternal life, so that he who did the planting and he who gets in the grain may have joy together.
+
+<a id="v37"></a>**37** In this the saying is a true one, One does the planting, and another gets in the grain.
+
+<a id="v38"></a>**38** I sent you to get in grain which you had no hand in planting: other men did that work, and you take the reward.
+
+<a id="v39"></a>**39** Now a number of the people of that town had faith in him because of the woman's witness: He has been talking to me of everything I ever did.
+
+<a id="v40"></a>**40** So when the people came to him they made request to him to be among them for a time, and he was there two days.
+
+<a id="v41"></a>**41** And a great number more of them came to have faith in him because of what he himself said.
+
+<a id="v42"></a>**42** And they said to the woman, Now we have faith, but not because of your story: we ourselves have given ear to his words, and we are certain that he is truly the Saviour of the world.
+
+<a id="v43"></a>**43** And after the two days he went on from there into Galilee.
+
+<a id="v44"></a>**44** For Jesus himself said that a prophet has no honour in the country of his birth.
+
+<a id="v45"></a>**45** So when he came into Galilee, the Galilaeans took him to their hearts because of the things which they had seen him do in Jerusalem at the feast--they themselves having been there at the feast.
+
+<a id="v46"></a>**46** So he came to Cana in Galilee, where he had made the water wine. And there was a certain man of high position whose son was ill at Capernaum.
+
+<a id="v47"></a>**47** When it came to his ears that Jesus had come from Judaea into Galilee, he went to him and made a request that he would come down to his son, who was near to death, and make him well.
+
+<a id="v48"></a>**48** Then Jesus said to him, You will not have faith if you do not see signs and wonders.
+
+<a id="v49"></a>**49** The man said, Sir, come down before my boy is dead.
+
+<a id="v50"></a>**50** And Jesus said, Go in peace; your son is living. The man had faith in the word which Jesus said to him and went away.
+
+<a id="v51"></a>**51** And while he was going down, his servants came to him and said, Your boy is living.
+
+<a id="v52"></a>**52** So he put a question to them as to the hour when he became better; and they said to him, The disease went from him yesterday at the seventh hour.
+
+<a id="v53"></a>**53** It was clear then to the father that this was the very time at which Jesus said to him, Your son is living. And he had faith in Jesus, he and all his family.
+
+<a id="v54"></a>**54** Now this is the second sign which Jesus did after he had come out of Judaea into Galilee.

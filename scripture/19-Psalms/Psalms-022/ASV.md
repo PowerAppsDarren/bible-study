@@ -65,4 +65,3 @@
 <a id="v30"></a>**30** A seed shall serve him; It shall be told of the Lord unto the next generation.
 
 <a id="v31"></a>**31** They shall come and shall declare his righteousness Unto a people that shall be born, that he hath done it.
-

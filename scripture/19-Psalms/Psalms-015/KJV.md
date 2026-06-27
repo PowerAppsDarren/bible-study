@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.
 
 <a id="v5"></a>**5** He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.
-

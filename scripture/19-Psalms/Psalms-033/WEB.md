@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** For our heart rejoices in him, because we have trusted in his holy name.
 
 <a id="v22"></a>**22** Let your loving kindness be on us, Yahweh, since we have hoped in you.
-

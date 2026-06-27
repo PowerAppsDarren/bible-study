@@ -55,4 +55,3 @@
 <a id="v25"></a>**25** Who giveth food to all flesh; For his lovingkindness endureth for ever.
 
 <a id="v26"></a>**26** Oh give thanks unto the God of heaven; For his lovingkindness endureth for ever.
-

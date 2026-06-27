@@ -59,4 +59,3 @@
 <a id="v27"></a>**27** For, behold, those who are far from you shall perish. You have destroyed all those who are unfaithful to you.
 
 <a id="v28"></a>**28** But it is good for me to come close to God. I have made the Lord Yahweh my refuge, that I may tell of all your works.
-

@@ -65,4 +65,3 @@
 <a id="v30"></a>**30** I will give great thanks to Yahweh with my mouth. Yes, I will praise him among the multitude.
 
 <a id="v31"></a>**31** For he will stand at the right hand of the needy, to save him from those who judge his soul.
-

@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** All mankind shall be afraid. They shall declare the work of God, and shall wisely ponder what he has done.
 
 <a id="v10"></a>**10** The righteous shall be glad in Yahweh, and shall take refuge in him. All the upright in heart shall praise him!
-

@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Thou wilt keep them, O Jehovah, Thou wilt preserve them from this generation for ever.
 
 <a id="v8"></a>**8** The wicked walk on every side, When vileness is exalted among the sons of men.
-

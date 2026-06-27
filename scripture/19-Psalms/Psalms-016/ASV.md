@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** For thou wilt not leave my soul to Sheol; Neither wilt thou suffer thy holy one to see corruption.
 
 <a id="v11"></a>**11** Thou wilt show me the path of life: In thy presence is fulness of joy; In thy right hand there are pleasures for evermore.
-

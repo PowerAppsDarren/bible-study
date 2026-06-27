@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Arise, O Jehovah; save me, O my God: For thou hast smitten all mine enemies upon the cheek bone; Thou hast broken the teeth of the wicked.
 
 <a id="v8"></a>**8** Salvation belongeth unto Jehovah: Thy blessing be upon thy people. [Selah
-

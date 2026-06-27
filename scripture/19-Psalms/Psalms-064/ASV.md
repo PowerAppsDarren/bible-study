@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** And all men shall fear; And they shall declare the work of God, And shall wisely consider of his doing.
 
 <a id="v10"></a>**10** The righteous shall be glad in Jehovah, and shall take refuge in him; And all the upright in heart shall glory.
-

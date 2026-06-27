@@ -9,4 +9,3 @@
 <a id="v2"></a>**2** Lift up your hands in the sanctuary, and bless the Lord.
 
 <a id="v3"></a>**3** The Lord that made heaven and earth bless thee out of Zion.
-

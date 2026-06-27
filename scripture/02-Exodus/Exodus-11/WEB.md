@@ -1,0 +1,25 @@
+# Exodus 11 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Yahweh said to Moses, “Yet one plague more will I bring on Pharaoh, and on Egypt; afterwards he will let you go. When he lets you go, he will surely thrust you out altogether.
+
+<a id="v2"></a>**2** Speak now in the ears of the people, and let them ask every man of his neighbor, and every woman of her neighbor, jewels of silver, and jewels of gold.”
+
+<a id="v3"></a>**3** Yahweh gave the people favor in the sight of the Egyptians. Moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people.
+
+<a id="v4"></a>**4** Moses said, “This is what Yahweh says: ‘About midnight I will go out into the midst of Egypt,
+
+<a id="v5"></a>**5** and all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the female servant who is behind the mill; and all the firstborn of livestock.
+
+<a id="v6"></a>**6** There shall be a great cry throughout all the land of Egypt, such as there has not been, nor shall be any more.
+
+<a id="v7"></a>**7** But against any of the children of Israel a dog won’t even bark or move its tongue, against man or animal; that you may know that Yahweh makes a distinction between the Egyptians and Israel.
+
+<a id="v8"></a>**8** All these your servants shall come down to me, and bow down themselves to me, saying, “Get out, with all the people who follow you”; and after that I will go out.’” He went out from Pharaoh in hot anger.
+
+<a id="v9"></a>**9** Yahweh said to Moses, “Pharaoh won’t listen to you, that my wonders may be multiplied in the land of Egypt.”
+
+<a id="v10"></a>**10** Moses and Aaron did all these wonders before Pharaoh, and Yahweh hardened Pharaoh’s heart, and he didn’t let the children of Israel go out of his land.

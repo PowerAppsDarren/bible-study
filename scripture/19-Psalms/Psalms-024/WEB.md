@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the King of glory will come in.
 
 <a id="v10"></a>**10** Who is this King of glory? Yahweh of Armies is the King of glory! Selah.
-

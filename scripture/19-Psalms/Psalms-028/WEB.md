@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Yahweh is their strength. He is a stronghold of salvation to his anointed.
 
 <a id="v9"></a>**9** Save your people, and bless your inheritance. Be their shepherd also, and bear them up forever.
-

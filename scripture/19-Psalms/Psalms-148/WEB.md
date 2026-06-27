@@ -31,4 +31,3 @@
 <a id="v13"></a>**13** let them praise Yahweh’s name, for his name alone is exalted. His glory is above the earth and the heavens.
 
 <a id="v14"></a>**14** He has lifted up the horn of his people, the praise of all his saints; even of the children of Israel, a people near to him. Praise Yah!
-

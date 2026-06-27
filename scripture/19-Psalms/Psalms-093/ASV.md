@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Above the voices of many waters, The mighty breakers of the sea, Jehovah on high is mighty.
 
 <a id="v5"></a>**5** Thy testimonies are very sure: Holiness becometh thy house, O Jehovah, for evermore.
-

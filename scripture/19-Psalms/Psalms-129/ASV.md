@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Wherewith the reaper filleth not his hand, Nor he that bindeth sheaves, his bosom:
 
 <a id="v8"></a>**8** Neither do they that go by say, The blessing of Jehovah be upon you; We bless you in the name of Jehovah.
-

@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** Now consider this, ye that forget God, Lest I tear you in pieces, and there be none to deliver:
 
 <a id="v23"></a>**23** Whoso offereth the sacrifice of thanksgiving glorifieth me; And to him that ordereth his way aright Will I show the salvation of God.
-

@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.
 
 <a id="v23"></a>**23** But thou, O God, wilt bring them down into the pit of destruction: Bloodthirsty and deceitful men shall not live out half their days; But I will trust in thee.
-

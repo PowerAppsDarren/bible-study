@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Thou hast put gladness in my heart, More thanthey havewhen their grain and their new wine are increased.
 
 <a id="v8"></a>**8** In peace will I both lay me down and sleep; For thou, Jehovah, alone makest me dwell in safety.
-

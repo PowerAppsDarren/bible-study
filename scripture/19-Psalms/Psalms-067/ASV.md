@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** The earth hath yielded its increase: God, even our own God, will bless us.
 
 <a id="v7"></a>**7** God will bless us; And all the ends of the earth shall fear him.
-

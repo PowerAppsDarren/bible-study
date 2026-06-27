@@ -41,4 +41,3 @@
 <a id="v18"></a>**18** I will pay my vows unto the Lord now in the presence of all his people,
 
 <a id="v19"></a>**19** In the courts of the Lord’s house, in the midst of thee, O Jerusalem. Praise ye the Lord.
-

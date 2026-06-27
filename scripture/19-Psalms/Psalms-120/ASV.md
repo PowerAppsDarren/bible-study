@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** My soul hath long had her dwelling With him that hateth peace.
 
 <a id="v7"></a>**7** I amforpeace: But when I speak, they are for war.
-

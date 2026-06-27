@@ -31,4 +31,3 @@
 <a id="v13"></a>**13** Let them praise the name of Jehovah; For his name alone is exalted; His glory is above the earth and the heavens.
 
 <a id="v14"></a>**14** And he hath lifted up the horn of his people, The praise of all his saints; Even of the children of Israel, a people near unto him. Praise ye Jehovah.
-

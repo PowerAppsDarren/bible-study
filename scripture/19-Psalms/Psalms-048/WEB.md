@@ -31,4 +31,3 @@
 <a id="v13"></a>**13** Mark well her bulwarks. Consider her palaces, that you may tell it to the next generation.
 
 <a id="v14"></a>**14** For this God is our God forever and ever. He will be our guide even to death.
-

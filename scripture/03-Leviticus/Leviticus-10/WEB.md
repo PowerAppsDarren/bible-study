@@ -1,0 +1,45 @@
+# Leviticus 10 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Nadab and Abihu, the sons of Aaron, each took his censer, and put fire in it, and laid incense on it, and offered strange fire before Yahweh, which he had not commanded them.
+
+<a id="v2"></a>**2** Fire came out from before Yahweh, and devoured them, and they died before Yahweh.
+
+<a id="v3"></a>**3** Then Moses said to Aaron, “This is what Yahweh spoke of, saying,  ‘I will show myself holy to those who come near me, and before all the people I will be glorified.’”    Aaron held his peace.
+
+<a id="v4"></a>**4** Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, “Draw near, carry your brothers from before the sanctuary out of the camp.”
+
+<a id="v5"></a>**5** So they drew near, and carried them in their coats out of the camp, as Moses had said.
+
+<a id="v6"></a>**6** Moses said to Aaron, and to Eleazar and to Ithamar, his sons, “Don’t let the hair of your heads go loose, neither tear your clothes; that you don’t die, and that he not be angry with all the congregation; but let your brothers, the whole house of Israel, bewail the burning which Yahweh has kindled.
+
+<a id="v7"></a>**7** You shall not go out from the door of the Tent of Meeting, lest you die; for the anointing oil of Yahweh is on you.” They did according to the word of Moses.
+
+<a id="v8"></a>**8** Then Yahweh said to Aaron,
+
+<a id="v9"></a>**9** “You and your sons are not to drink wine or strong drink whenever you go into the Tent of Meeting, or you will die. This shall be a statute forever throughout your generations.
+
+<a id="v10"></a>**10** You are to make a distinction between the holy and the common, and between the unclean and the clean.
+
+<a id="v11"></a>**11** You are to teach the children of Israel all the statutes which Yahweh has spoken to them by Moses.”
+
+<a id="v12"></a>**12** Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, “Take the meal offering that remains of the offerings of Yahweh made by fire, and eat it without yeast beside the altar; for it is most holy;
+
+<a id="v13"></a>**13** and you shall eat it in a holy place, because it is your portion, and your sons’ portion, of the offerings of Yahweh made by fire: for so I am commanded.
+
+<a id="v14"></a>**14** The waved breast and the heaved thigh you shall eat in a clean place, you, and your sons, and your daughters with you: for they are given as your portion, and your sons’ portion, out of the sacrifices of the peace offerings of the children of Israel.
+
+<a id="v15"></a>**15** The heaved thigh and the waved breast they shall bring with the offerings made by fire of the fat, to wave it for a wave offering before Yahweh: and it shall be yours, and your sons’ with you, as a portion forever; as Yahweh has commanded.”
+
+<a id="v16"></a>**16** Moses diligently inquired about the goat of the sin offering, and, behold, it was burned: and he was angry with Eleazar and with Ithamar, the sons of Aaron who were left, saying,
+
+<a id="v17"></a>**17** “Why haven’t you eaten the sin offering in the place of the sanctuary, since it is most holy, and he has given it you to bear the iniquity of the congregation, to make atonement for them before Yahweh?
+
+<a id="v18"></a>**18** Behold, its blood was not brought into the inner part of the sanctuary: you certainly should have eaten it in the sanctuary, as I commanded.”
+
+<a id="v19"></a>**19** Aaron spoke to Moses, “Behold, this day they have offered their sin offering and their burnt offering before Yahweh; and such things as these have happened to me. If I had eaten the sin offering today, would it have been pleasing in the sight of Yahweh?”
+
+<a id="v20"></a>**20** When Moses heard that, it was pleasing in his sight.

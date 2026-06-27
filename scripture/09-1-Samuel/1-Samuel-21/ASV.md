@@ -1,0 +1,35 @@
+# 1 Samuel 21 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Then came David to Nob to Ahimelech the priest: and Ahimelech came to meet David trembling, and said unto him, Why art thou alone, and no man with thee?
+
+<a id="v2"></a>**2** And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know anything of the business whereabout I send thee, and what I have commanded thee: and I have appointed the young men to such and such a place.
+
+<a id="v3"></a>**3** Now therefore what is under thy hand? give me five loaves of bread in my hand, or whatsoever there is present.
+
+<a id="v4"></a>**4** And the priest answered David, and said, There is no common bread under my hand, but there is holy bread; if only the young men have kept themselves from women.
+
+<a id="v5"></a>**5** And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days; when I came out, the vessels of the young men were holy, though it was but a common journey; how much more then to-day shall their vessels be holy?
+
+<a id="v6"></a>**6** So the priest gave him holy bread; for there was no bread there but the showbread, that was taken from before Jehovah, to put hot bread in the day when it was taken away.
+
+<a id="v7"></a>**7** Now a certain man of the servants of Saul was there that day, detained before Jehovah; and his name was Doeg the Edomite, the chiefest of the herdsmen that belonged to Saul.
+
+<a id="v8"></a>**8** And David said unto Ahimelech, And is there not here under thy hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste.
+
+<a id="v9"></a>**9** And the priest said, The sword of Goliath the Philistine, whom thou slewest in the vale of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it; for there is no other save that here. And David said, There is none like that; give it me.
+
+<a id="v10"></a>**10** And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.
+
+<a id="v11"></a>**11** And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying,  Saul hath slain his thousands, And David his ten thousands?
+
+<a id="v12"></a>**12** And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.
+
+<a id="v13"></a>**13** And he changed his behavior before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard.
+
+<a id="v14"></a>**14** Then said Achish unto his servants, Lo, ye see the man is mad; wherefore then have ye brought him to me?
+
+<a id="v15"></a>**15** Do I lack madmen, that ye have brought this fellow to play the madman in my presence? shall this fellow come into my house?

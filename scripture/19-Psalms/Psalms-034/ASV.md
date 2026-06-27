@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Evil shall slay the wicked; And they that hate the righteous shall be condemned.
 
 <a id="v22"></a>**22** Jehovah redeemeth the soul of his servants; And none of them that take refuge in him shall be condemned.
-

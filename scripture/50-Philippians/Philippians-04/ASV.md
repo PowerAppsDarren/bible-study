@@ -1,0 +1,51 @@
+# Philippians 4 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Wherefore, my brethren beloved and longed for, my joy and crown, so stand fast in the Lord, my beloved.
+
+<a id="v2"></a>**2** I exhort Euodia, and I exhort Syntyche, to be of the same mind in the Lord.
+
+<a id="v3"></a>**3** Yea, I beseech thee also, true yokefellow, help these women, for they labored with me in the gospel, with Clement also, and the rest of my fellow-workers, whose names are in the book of life.
+
+<a id="v4"></a>**4** Rejoice in the Lord always: again I will say, Rejoice.
+
+<a id="v5"></a>**5** Let your forbearance be known unto all men. The Lord is at hand.
+
+<a id="v6"></a>**6** In nothing be anxious; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God.
+
+<a id="v7"></a>**7** And the peace of God, which passeth all understanding, shall guard your hearts and your thoughts in Christ Jesus.
+
+<a id="v8"></a>**8** Finally, brethren, whatsoever things are true, whatsoever things are honorable, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+
+<a id="v9"></a>**9** The things which ye both learned and received and heard and saw in me, these things do: and the God of peace shall be with you.
+
+<a id="v10"></a>**10** But I rejoice in the Lord greatly, that now at length ye have revived your thought for me; wherein ye did indeed take thought, but ye lacked opportunity.
+
+<a id="v11"></a>**11** Not that I speak in respect of want: for I have learned, in whatsoever state I am, therein to be content.
+
+<a id="v12"></a>**12** I know how to be abased, and I know also how to abound: in everything and in all things have I learned the secret both to be filled and to be hungry, both to abound and to be in want.
+
+<a id="v13"></a>**13** I can do all things in him that strengtheneth me.
+
+<a id="v14"></a>**14** Howbeit ye did well that ye had fellowship with my affliction.
+
+<a id="v15"></a>**15** And ye yourselves also know, ye Philippians, that in the beginning of the gospel, when I departed from Macedonia, no church had fellowship with me in the matter of giving and receiving but ye only;
+
+<a id="v16"></a>**16** for even in Thessalonica ye sent once and again unto my need.
+
+<a id="v17"></a>**17** Not that I seek for the gift; but I seek for the fruit that increaseth to your account.
+
+<a id="v18"></a>**18** But I have all things, and abound: I am filled, having received from Epaphroditus the things that came from you, an odor of a sweet smell, a sacrifice acceptable, well-pleasing to God.
+
+<a id="v19"></a>**19** And my God shall supply every need of yours according to his riches in glory in Christ Jesus.
+
+<a id="v20"></a>**20** Now unto our God and Father be the glory for ever and ever. Amen.
+
+<a id="v21"></a>**21** Salute every saint in Christ Jesus. The brethren that are with me salute you.
+
+<a id="v22"></a>**22** All the saints salute you, especially they that are of Cæsar’s household.
+
+<a id="v23"></a>**23** The grace of the Lord Jesus Christ be with your spirit.

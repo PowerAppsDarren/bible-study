@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.
 
 <a id="v6"></a>**6** I will sing unto Jehovah, Because he hath dealt bountifully with me.
-

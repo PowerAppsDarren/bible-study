@@ -1,0 +1,43 @@
+# 2 Samuel 10 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now after this, death came to the king of the children of Ammon, and Hanun, his son, became king in his place.
+
+<a id="v2"></a>**2** And David said, I will be a friend to Hanun, the son of Nahash, as his father was a friend to me. So David sent his servants, to give him words of comfort on account of his father. And David's servants came into the land of the children of Ammon.
+
+<a id="v3"></a>**3** But the chiefs of the children of Ammon said to Hanun their lord, Does it seem to you that David is honouring your father by sending comforters to you? has he not sent his servants to go through the town and make secret observation of it, and overcome it?
+
+<a id="v4"></a>**4** So Hanun took David's servants, and after cutting off half the hair on their chins, and cutting off the skirts of their robes up to the middle, he sent them away.
+
+<a id="v5"></a>**5** When David had news of it, he sent men out with the purpose of meeting them on their way, for the men were greatly shamed: and the king said, Go to Jericho till your hair is long again, and then come back.
+
+<a id="v6"></a>**6** And when the children of Ammon saw that they had made themselves hated by David, they sent to the Aramaeans of Beth-rehob and Zobah, and got for payment twenty thousand footmen, and they got from the king of Maacah a thousand men, and from Tob twelve thousand.
+
+<a id="v7"></a>**7** And hearing of this, David sent Joab and all the army and the best fighting-men.
+
+<a id="v8"></a>**8** And the children of Ammon came out and put their forces in position at the way into the town: and the Aramaeans of Zobah and of Rehob, with the men of Tob and Maacah, were by themselves in the field.
+
+<a id="v9"></a>**9** Now when Joab saw that their forces were in position against him in front and at his back, he took the best of the men of Israel and put them in line against the Aramaeans;
+
+<a id="v10"></a>**10** And the rest of the people he put in position against the children of Ammon, with Abishai, his brother, at their head.
+
+<a id="v11"></a>**11** And he said, If the Aramaeans are stronger and get the better of me, then you are to come to my help; but if the children of Ammon get the better of you, I will come to your help.
+
+<a id="v12"></a>**12** Take heart, and let us be strong for our people and for the towns of our God, and may the Lord do what seems good to him.
+
+<a id="v13"></a>**13** Then Joab and the people with him went forward to the fight against the Aramaeans, and they went in flight before him.
+
+<a id="v14"></a>**14** And when the children of Ammon saw the flight of the Aramaeans, they themselves went in flight from Abishai, and came into the town. So Joab went back from fighting the children of Ammon and came to Jerusalem.
+
+<a id="v15"></a>**15** And when the Aramaeans saw that Israel had overcome them, they got themselves together.
+
+<a id="v16"></a>**16** And Hadadezer sent for the Aramaeans who were on the other side of the River: and they came to Helam, with Shobach, the captain of Hadadezer's army, at their head.
+
+<a id="v17"></a>**17** And word of this was given to David: and he got all Israel together and went over Jordan and came to Helam. And the Aramaeans put their forces in position against David, and made an attack on him.
+
+<a id="v18"></a>**18** And the Aramaeans went in flight before Israel; and David put to the sword the men of seven hundred Aramaean war-carriages and forty thousand footmen, and Shobach, the captain of the army, was wounded, and came to his death there.
+
+<a id="v19"></a>**19** And when all the kings who were servants of Hadadezer saw that they were overcome by Israel, they made peace with Israel and became their servants. So the Aramaeans, in fear, gave no more help to the children of Ammon.

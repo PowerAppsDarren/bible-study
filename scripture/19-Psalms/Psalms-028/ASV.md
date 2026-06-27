@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Jehovah is their strength, And he is a stronghold of salvation to his anointed.
 
 <a id="v9"></a>**9** Save thy people, and bless thine inheritance: Be their shepherd also, and bear them up for ever.
-

@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** Yahweh will count, when he writes up the peoples, “This one was born there.” Selah.
 
 <a id="v7"></a>**7** Those who sing as well as those who dance say, “All my springs are in you.”
-

@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.
 
 <a id="v8"></a>**8** I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety.
-

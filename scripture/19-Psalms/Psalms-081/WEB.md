@@ -35,4 +35,3 @@
 <a id="v15"></a>**15** The haters of Yahweh would cringe before him, and their punishment would last forever.
 
 <a id="v16"></a>**16** But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.”
-

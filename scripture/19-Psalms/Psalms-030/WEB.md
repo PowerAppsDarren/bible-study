@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** You have turned my mourning into dancing for me. You have removed my sackcloth, and clothed me with gladness,
 
 <a id="v12"></a>**12** To the end that my heart may sing praise to you, and not be silent. Yahweh my God, I will give thanks to you forever!
-

@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Bless ye the Lord, all ye his hosts; ye ministers of his, that do his pleasure.
 
 <a id="v22"></a>**22** Bless the Lord, all his works in all places of his dominion: bless the Lord, O my soul.
-

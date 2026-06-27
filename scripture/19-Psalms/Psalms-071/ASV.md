@@ -51,4 +51,3 @@
 <a id="v23"></a>**23** My lips shall shout for joy when I sing praises unto thee; And my soul, which thou hast redeemed.
 
 <a id="v24"></a>**24** My tongue also shall talk of thy righteousness all the day long; For they are put to shame, for they are confounded, that seek my hurt.
-

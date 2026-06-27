@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** The Lord preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.
 
 <a id="v10"></a>**10** The Lord shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the Lord.
-

@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** Those who sow in tears will reap in joy.
 
 <a id="v6"></a>**6** He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.
-

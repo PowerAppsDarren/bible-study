@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Serve Jehovah with fear, And rejoice with trembling.
 
 <a id="v12"></a>**12** Kiss the son, lest he be angry, and ye perish in the way, For his wrath will soon be kindled. Blessed are all they that take refuge in him.
-

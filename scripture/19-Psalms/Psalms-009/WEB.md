@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** Arise, Yahweh! Don’t let man prevail. Let the nations be judged in your sight.
 
 <a id="v20"></a>**20** Put them in fear, Yahweh. Let the nations know that they are only men. Selah.
-

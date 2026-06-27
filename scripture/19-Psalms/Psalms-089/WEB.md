@@ -107,4 +107,3 @@
 <a id="v51"></a>**51** With which your enemies have mocked, Yahweh, with which they have mocked the footsteps of your anointed one.
 
 <a id="v52"></a>**52** Blessed be Yahweh forever more. Amen, and Amen.
-

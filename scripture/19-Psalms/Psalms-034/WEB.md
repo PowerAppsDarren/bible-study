@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Evil shall kill the wicked. Those who hate the righteous shall be condemned.
 
 <a id="v22"></a>**22** Yahweh redeems the soul of his servants. None of those who take refuge in him shall be condemned.
-

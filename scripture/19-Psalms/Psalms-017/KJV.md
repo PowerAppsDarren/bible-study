@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** From men which are thy hand, O Lord, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.
 
 <a id="v15"></a>**15** As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.
-

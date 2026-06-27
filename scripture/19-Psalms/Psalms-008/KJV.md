@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.
 
 <a id="v9"></a>**9** O Lord our Lord, how excellent is thy name in all the earth!
-

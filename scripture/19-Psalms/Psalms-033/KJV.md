@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** For our heart shall rejoice in him, because we have trusted in his holy name.
 
 <a id="v22"></a>**22** Let thy mercy, O Lord, be upon us, according as we hope in thee.
-

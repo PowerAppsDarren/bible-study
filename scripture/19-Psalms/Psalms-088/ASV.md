@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** They came round about me like water all the day long; They compassed me about together.
 
 <a id="v18"></a>**18** Lover and friend hast thou put far from me, And mine acquaintance into darkness.
-

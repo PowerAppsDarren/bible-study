@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Vow, and pay unto the Lord your God: let all that be round about him bring presents unto him that ought to be feared.
 
 <a id="v12"></a>**12** He shall cut off the spirit of princes: he is terrible to the kings of the earth.
-

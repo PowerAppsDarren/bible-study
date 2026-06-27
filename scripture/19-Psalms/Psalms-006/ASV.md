@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** Jehovah hath heard my supplication; Jehovah will receive my prayer.
 
 <a id="v10"></a>**10** All mine enemies shall be put to shame and sore troubled: They shall turn back, they shall be put to shame suddenly.
-

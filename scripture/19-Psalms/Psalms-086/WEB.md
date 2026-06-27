@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** Turn to me, and have mercy on me! Give your strength to your servant. Save the son of your handmaid.
 
 <a id="v17"></a>**17** Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, Yahweh, have helped me, and comforted me.
-

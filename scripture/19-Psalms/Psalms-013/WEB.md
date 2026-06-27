@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** But I trust in your loving kindness. My heart rejoices in your salvation.
 
 <a id="v6"></a>**6** I will sing to Yahweh, because he has been good to me.
-

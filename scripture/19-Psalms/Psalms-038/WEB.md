@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Don’t forsake me, Yahweh. My God, don’t be far from me.
 
 <a id="v22"></a>**22** Hurry to help me, Lord, my salvation.
-

@@ -45,4 +45,3 @@
 <a id="v20"></a>**20** Bless the Lord, O house of Levi: ye that fear the Lord, bless the Lord.
 
 <a id="v21"></a>**21** Blessed be the Lord out of Zion, which dwelleth at Jerusalem. Praise ye the Lord.
-

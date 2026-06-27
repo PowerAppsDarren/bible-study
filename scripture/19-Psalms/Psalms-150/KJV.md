@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** Praise him upon the loud cymbals: praise him upon the high sounding cymbals.
 
 <a id="v6"></a>**6** Let every thing that hath breath praise the Lord. Praise ye the Lord.
-

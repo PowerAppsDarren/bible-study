@@ -1,0 +1,43 @@
+# 2 Chronicles 17 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Jehoshaphat his son reigned in his place, and strengthened himself against Israel.
+
+<a id="v2"></a>**2** He placed forces in all the fortified cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.
+
+<a id="v3"></a>**3** Yahweh was with Jehoshaphat, because he walked in the first ways of his father David, and didn’t seek the Baals,
+
+<a id="v4"></a>**4** but sought to the God of his father, and walked in his commandments, and not after the doings of Israel.
+
+<a id="v5"></a>**5** Therefore Yahweh established the kingdom in his hand; and all Judah brought to Jehoshaphat tribute; and he had riches and honor in abundance.
+
+<a id="v6"></a>**6** His heart was lifted up in the ways of Yahweh: and furthermore he took away the high places and the Asherah poles out of Judah.
+
+<a id="v7"></a>**7** Also in the third year of his reign he sent his princes, even Ben Hail, and Obadiah, and Zechariah, and Nethanel, and Micaiah, to teach in the cities of Judah;
+
+<a id="v8"></a>**8** and with them the Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, the Levites; and with them Elishama and Jehoram, the priests.
+
+<a id="v9"></a>**9** They taught in Judah, having the book of Yahweh’s law with them; and they went about throughout all the cities of Judah, and taught among the people.
+
+<a id="v10"></a>**10** The fear of Yahweh fell on all the kingdoms of the lands that were around Judah, so that they made no war against Jehoshaphat.
+
+<a id="v11"></a>**11** Some of the Philistines brought Jehoshaphat presents, and silver for tribute; the Arabians also brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred male goats.
+
+<a id="v12"></a>**12** Jehoshaphat grew great exceedingly; and he built in Judah castles and cities of store.
+
+<a id="v13"></a>**13** He had many works in the cities of Judah; and men of war, mighty men of valor, in Jerusalem.
+
+<a id="v14"></a>**14** This was the numbering of them according to their fathers’ houses: Of Judah, the captains of thousands: Adnah the captain, and with him mighty men of valor three hundred thousand;
+
+<a id="v15"></a>**15** and next to him Jehohanan the captain, and with him two hundred eighty thousand;
+
+<a id="v16"></a>**16** and next to him Amasiah the son of Zichri, who willingly offered himself to Yahweh; and with him two hundred thousand mighty men of valor.
+
+<a id="v17"></a>**17** Of Benjamin: Eliada a mighty man of valor, and with him two hundred thousand armed with bow and shield;
+
+<a id="v18"></a>**18** and next to him Jehozabad and with him one hundred eighty thousand ready prepared for war.
+
+<a id="v19"></a>**19** These were those who waited on the king, besides those whom the king put in the fortified cities throughout all Judah.

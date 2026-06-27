@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Thou answeredst them, O Jehovah our God: Thou wast a God that forgavest them, Though thou tookest vengeance of their doings.
 
 <a id="v9"></a>**9** Exalt ye Jehovah our God, And worship at his holy hill; For Jehovah our God is holy.
-

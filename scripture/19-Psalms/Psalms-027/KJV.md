@@ -31,4 +31,3 @@
 <a id="v13"></a>**13** I had fainted, unless I had believed to see the goodness of the Lord in the land of the living.
 
 <a id="v14"></a>**14** Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord.
-

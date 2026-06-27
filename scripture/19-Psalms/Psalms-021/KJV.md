@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Therefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.
 
 <a id="v13"></a>**13** Be thou exalted, Lord, in thine own strength: so will we sing and praise thy power.
-

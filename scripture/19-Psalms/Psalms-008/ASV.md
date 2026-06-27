@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** The birds of the heavens, and the fish of the sea, Whatsoever passeth through the paths of the seas.
 
 <a id="v9"></a>**9** O Jehovah, our Lord, How excellent is thy name in all the earth!
-

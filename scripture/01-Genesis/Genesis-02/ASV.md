@@ -1,0 +1,55 @@
+# Genesis 2 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And the heavens and the earth were finished, and all the host of them.
+
+<a id="v2"></a>**2** And on the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.
+
+<a id="v3"></a>**3** And God blessed the seventh day, and hallowed it; because that in it he rested from all his work which God had created and made.
+
+<a id="v4"></a>**4** These are the generations of the heavens and of the earth when they were created, in the day that Jehovah God made earth and heaven.
+
+<a id="v5"></a>**5** And no plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Jehovah God had not caused it to rain upon the earth: and there was not a man to till the ground;
+
+<a id="v6"></a>**6** but there went up a mist from the earth, and watered the whole face of the ground.
+
+<a id="v7"></a>**7** And Jehovah God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+
+<a id="v8"></a>**8** And Jehovah God planted a garden eastward, in Eden; and there he put the man whom he had formed.
+
+<a id="v9"></a>**9** And out of the ground made Jehovah God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
+
+<a id="v10"></a>**10** And a river went out of Eden to water the garden; and from thence it was parted, and became four heads.
+
+<a id="v11"></a>**11** The name of the first is Pishon: that is it which compasseth the whole land of Havilah, where there is gold;
+
+<a id="v12"></a>**12** and the gold of that land is good: there is bdellium and the onyx stone.
+
+<a id="v13"></a>**13** And the name of the second river is Gihon: the same is it that compasseth the whole land of Cush.
+
+<a id="v14"></a>**14** And the name of the third river is Hiddekel: that is it which goeth in front of Assyria. And the fourth river is the Euphrates.
+
+<a id="v15"></a>**15** And Jehovah God took the man, and put him into the garden of Eden to dress it and to keep it.
+
+<a id="v16"></a>**16** And Jehovah God commanded the man, saying, Of every tree of the garden thou mayest freely eat:
+
+<a id="v17"></a>**17** but of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.
+
+<a id="v18"></a>**18** And Jehovah God said, It is not good that the man should be alone; I will make him a help meet for him.
+
+<a id="v19"></a>**19** And out of the ground Jehovah God formed every beast of the field, and every bird of the heavens; and brought them unto the man to see what he would call them: and whatsoever the man called every living creature, that was the name thereof.
+
+<a id="v20"></a>**20** And the man gave names to all cattle, and to the birds of the heavens, and to every beast of the field; but for man there was not found a help meet for him.
+
+<a id="v21"></a>**21** And Jehovah God caused a deep sleep to fall upon the man, and he slept; and he took one of his ribs, and closed up the flesh instead thereof:
+
+<a id="v22"></a>**22** and the rib, which Jehovah God had taken from the man, made he a woman, and brought her unto the man.
+
+<a id="v23"></a>**23** And the man said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
+
+<a id="v24"></a>**24** Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
+
+<a id="v25"></a>**25** And they were both naked, the man and his wife, and were not ashamed.

@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** He shall abide before God for ever: O prepare mercy and truth, which may preserve him.
 
 <a id="v8"></a>**8** So will I sing praise unto thy name for ever, that I may daily perform my vows.
-

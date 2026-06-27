@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Daughter of Babylon, doomed to destruction, he will be happy who rewards you, as you have served us.
 
 <a id="v9"></a>**9** Happy shall he be, who takes and dashes your little ones against the rock.
-

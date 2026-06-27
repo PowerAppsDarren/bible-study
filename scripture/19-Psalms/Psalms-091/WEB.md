@@ -35,4 +35,3 @@
 <a id="v15"></a>**15** He will call on me, and I will answer him. I will be with him in trouble. I will deliver him, and honor him.
 
 <a id="v16"></a>**16** I will satisfy him with long life, and show him my salvation.”
-

@@ -99,4 +99,3 @@
 <a id="v47"></a>**47** Save us, O Lord our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.
 
 <a id="v48"></a>**48** Blessed be the Lord God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the Lord.
-

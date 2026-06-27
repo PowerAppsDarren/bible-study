@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** But as for me, I will walk in my integrity. Redeem me, and be merciful to me.
 
 <a id="v12"></a>**12** My foot stands in an even place. In the congregations I will bless Yahweh.
-

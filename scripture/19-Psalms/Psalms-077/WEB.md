@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** Your way was through the sea; your paths through the great waters. Your footsteps were not known.
 
 <a id="v20"></a>**20** You led your people like a flock, by the hand of Moses and Aaron.
-

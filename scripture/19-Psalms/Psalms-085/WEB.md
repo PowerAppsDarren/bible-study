@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Yes, Yahweh will give that which is good. Our land will yield its increase.
 
 <a id="v13"></a>**13** Righteousness goes before him, And prepares the way for his steps.
-

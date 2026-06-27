@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** There I will make the horn of David to bud. I have ordained a lamp for my anointed.
 
 <a id="v18"></a>**18** I will clothe his enemies with shame, but on himself, his crown will be resplendent.”
-

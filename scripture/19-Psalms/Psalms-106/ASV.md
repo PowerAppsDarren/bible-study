@@ -99,4 +99,3 @@
 <a id="v47"></a>**47** Save us, O Jehovah our God, And gather us from among the nations, To give thanks unto thy holy name, And to triumph in thy praise.
 
 <a id="v48"></a>**48** Blessed be Jehovah, the God of Israel, From everlasting even to everlasting. And let all the people say, Amen. Praise ye Jehovah.
-

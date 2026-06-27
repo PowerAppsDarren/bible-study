@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** With a freewill-offering will I sacrifice unto thee: I will give thanks unto thy name, O Jehovah, for it is good.
 
 <a id="v7"></a>**7** For he hath delivered me out of all trouble; And mine eye hath seen my desire upon mine enemies.
-

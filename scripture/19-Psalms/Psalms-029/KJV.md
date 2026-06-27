@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** The Lord sitteth upon the flood; yea, the Lord sitteth King for ever.
 
 <a id="v11"></a>**11** The Lord will give strength unto his people; the Lord will bless his people with peace.
-

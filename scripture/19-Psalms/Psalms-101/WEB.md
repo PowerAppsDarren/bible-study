@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** He who practices deceit won’t dwell within my house. He who speaks falsehood won’t be established before my eyes.
 
 <a id="v8"></a>**8** Morning by morning, I will destroy all the wicked of the land; to cut off all the workers of iniquity from Yahweh’s city.
-

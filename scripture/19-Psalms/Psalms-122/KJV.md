@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** For my brethren and companions’ sakes, I will now say, Peace be within thee.
 
 <a id="v9"></a>**9** Because of the house of the Lord our God I will seek thy good.
-

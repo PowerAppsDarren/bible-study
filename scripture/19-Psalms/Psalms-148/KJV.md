@@ -31,4 +31,3 @@
 <a id="v13"></a>**13** Let them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.
 
 <a id="v14"></a>**14** He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.
-

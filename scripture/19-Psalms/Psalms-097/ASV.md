@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Light is sown for the righteous, And gladness for the upright in heart.
 
 <a id="v12"></a>**12** Be glad in Jehovah, ye righteous; And give thanks to his holy memorial name.
-

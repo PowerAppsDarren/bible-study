@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** For your great loving kindness reaches to the heavens, and your truth to the skies.
 
 <a id="v11"></a>**11** Be exalted, God, above the heavens. Let your glory be over all the earth.
-

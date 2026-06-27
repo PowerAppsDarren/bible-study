@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** Many sorrows shall be to the wicked: but he that trusteth in the Lord, mercy shall compass him about.
 
 <a id="v11"></a>**11** Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.
-

@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Jehovah will keep thee from all evil; He will keep thy soul.
 
 <a id="v8"></a>**8** Jehovah will keep thy going out and thy coming in From this time forth and for evermore.
-

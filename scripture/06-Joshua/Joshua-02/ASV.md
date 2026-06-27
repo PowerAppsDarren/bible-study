@@ -1,0 +1,53 @@
+# Joshua 2 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And Joshua the son of Nun sent out of Shittim two men as spies secretly, saying, Go, view the land, and Jericho. And they went and came into the house of a harlot whose name was Rahab, and lay there.
+
+<a id="v2"></a>**2** And it was told the king of Jericho, saying, Behold, there came men in hither to-night of the children of Israel to search out the land.
+
+<a id="v3"></a>**3** And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, that are entered into thy house; for they are come to search out all the land.
+
+<a id="v4"></a>**4** And the woman took the two men, and hid them; and she said, Yea, the men came unto me, but I knew not whence they were:
+
+<a id="v5"></a>**5** and it came to pass about the time of the shutting of the gate, when it was dark, that the men went out; whither the men went I know not: pursue after them quickly; for ye will overtake them.
+
+<a id="v6"></a>**6** But she had brought them up to the roof, and hid them with the stalks of flax, which she had laid in order upon the roof.
+
+<a id="v7"></a>**7** And the men pursued after them the way to the Jordan unto the fords: and as soon as they that pursued after them were gone out, they shut the gate.
+
+<a id="v8"></a>**8** And before they were laid down, she came up unto them upon the roof;
+
+<a id="v9"></a>**9** and she said unto the men, I know that Jehovah hath given you the land, and that the fear of you is fallen upon us, and that all the inhabitants of the land melt away before you.
+
+<a id="v10"></a>**10** For we have heard how Jehovah dried up the water of the Red Sea before you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were beyond the Jordan, unto Sihon and to Og, whom ye utterly destroyed.
+
+<a id="v11"></a>**11** And as soon as we had heard it, our hearts did melt, neither did there remain any more spirit in any man, because of you: for Jehovah your God, he is God in heaven above, and on earth beneath.
+
+<a id="v12"></a>**12** Now therefore, I pray you, swear unto me by Jehovah, since I have dealt kindly with you, that ye also will deal kindly with my father’s house, and give me a true token;
+
+<a id="v13"></a>**13** and that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and will deliver our lives from death.
+
+<a id="v14"></a>**14** And the men said unto her, Our life for yours, if ye utter not this our business; and it shall be, when Jehovah giveth us the land, that we will deal kindly and truly with thee.
+
+<a id="v15"></a>**15** Then she let them down by a cord through the window: for her house was upon the side of the wall, and she dwelt upon the wall.
+
+<a id="v16"></a>**16** And she said unto them, Get you to the mountain, lest the pursuers light upon you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.
+
+<a id="v17"></a>**17** And the men said unto her, We will be guiltless of this thine oath which thou hast made us to swear.
+
+<a id="v18"></a>**18** Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt gather unto thee into the house thy father, and thy mother, and thy brethren, and all thy father’s household.
+
+<a id="v19"></a>**19** And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head, and we shall be guiltless: and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him.
+
+<a id="v20"></a>**20** But if thou utter this our business, then we shall be guiltless of thine oath which thou hast made us to swear.
+
+<a id="v21"></a>**21** And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window.
+
+<a id="v22"></a>**22** And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not.
+
+<a id="v23"></a>**23** Then the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun; and they told him all that had befallen them.
+
+<a id="v24"></a>**24** And they said unto Joshua, Truly Jehovah hath delivered into our hands all the land; and moreover all the inhabitants of the land do melt away before us.

@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Enter into his gates with thanksgiving, into his courts with praise. Give thanks to him, and bless his name.
 
 <a id="v5"></a>**5** For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations.
-

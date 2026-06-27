@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** From men by thy hand, O Jehovah, From men of the world, whose portion is inthislife, And whose belly thou fillest with thy treasure: They are satisfied with children, And leave the rest of their substance to their babes.
 
 <a id="v15"></a>**15** As for me, I shall behold thy face in righteousness; I shall be satisfied, when I awake, with beholding thy form.
-

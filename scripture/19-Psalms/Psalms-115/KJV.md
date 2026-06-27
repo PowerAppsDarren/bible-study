@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** The dead praise not the Lord, neither any that go down into silence.
 
 <a id="v18"></a>**18** But we will bless the Lord from this time forth and for evermore. Praise the Lord.
-

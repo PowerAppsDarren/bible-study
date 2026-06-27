@@ -1,0 +1,27 @@
+# Isaiah 50 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Thus saith Jehovah, Where is the bill of your mother’s divorcement, wherewith I have put her away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities were ye sold, and for your transgressions was your mother put away.
+
+<a id="v2"></a>**2** Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? Behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stink, because there is no water, and die for thirst.
+
+<a id="v3"></a>**3** I clothe the heavens with blackness, and I make sackcloth their covering.
+
+<a id="v4"></a>**4** The Lord Jehovah hath given me the tongue of them that are taught, that I may know how to sustain with words him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as they that are taught.
+
+<a id="v5"></a>**5** The Lord Jehovah hath opened mine ear, and I was not rebellious, neither turned away backward.
+
+<a id="v6"></a>**6** I gave my back to the smiters, and my cheeks to them that plucked off the hair; I hid not my face from shame and spitting.
+
+<a id="v7"></a>**7** For the Lord Jehovah will help me; therefore have I not been confounded: therefore have I set my face like a flint, and I know that I shall not be put to shame.
+
+<a id="v8"></a>**8** He is near that justifieth me; who will contend with me? let us stand up together: who is mine adversary? let him come near to me.
+
+<a id="v9"></a>**9** Behold, the Lord Jehovah will help me; who is he that shall condemn me? behold, they all shall wax old as a garment; the moth shall eat them up.
+
+<a id="v10"></a>**10** Who is among you that feareth Jehovah, that obeyeth the voice of his servant? he that walketh in darkness, and hath no light, let him trust in the name of Jehovah, and rely upon his God.
+
+<a id="v11"></a>**11** Behold, all ye that kindle a fire, that gird yourselves about with firebrands; walk ye in the flame of your fire, and among the brands that ye have kindled. This shall ye have of my hand; ye shall lie down in sorrow.

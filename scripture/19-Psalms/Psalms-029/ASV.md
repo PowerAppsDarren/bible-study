@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** Jehovah satas Kingat the Flood; Yea, Jehovah sitteth as King for ever.
 
 <a id="v11"></a>**11** Jehovah will give strength unto his people; Jehovah will bless his people with peace.
-

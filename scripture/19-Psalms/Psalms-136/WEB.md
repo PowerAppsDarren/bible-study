@@ -55,4 +55,3 @@
 <a id="v25"></a>**25** Who gives food to every creature; for his loving kindness endures forever.
 
 <a id="v26"></a>**26** Oh give thanks to the God of heaven; for his loving kindness endures forever.
-

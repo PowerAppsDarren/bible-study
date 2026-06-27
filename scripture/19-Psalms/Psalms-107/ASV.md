@@ -89,4 +89,3 @@
 <a id="v42"></a>**42** The upright shall see it, and be glad; And all iniquity shall stop her mouth.
 
 <a id="v43"></a>**43** Whoso is wise will give heed to these things; And they will consider the lovingkindnesses of Jehovah.
-

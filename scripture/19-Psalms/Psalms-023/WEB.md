@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** You prepare a table before me in the presence of my enemies. You anoint my head with oil. My cup runs over.
 
 <a id="v6"></a>**6** Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in Yahweh’s house forever.
-

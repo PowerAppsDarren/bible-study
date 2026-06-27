@@ -65,4 +65,3 @@
 <a id="v30"></a>**30** Posterity shall serve him. Future generations shall be told about the Lord.
 
 <a id="v31"></a>**31** They shall come and shall declare his righteousness to a people that shall be born, for he has done it.
-

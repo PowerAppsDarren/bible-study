@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Give us help against the adversary; For vain is the help of man.
 
 <a id="v12"></a>**12** Through God we shall do valiantly; For he it is that will tread down our adversaries.
-

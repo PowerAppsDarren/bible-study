@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
 
 <a id="v8"></a>**8** The Lord will perfect that which concerneth me: thy mercy, O Lord, endureth for ever: forsake not the works of thine own hands.
-

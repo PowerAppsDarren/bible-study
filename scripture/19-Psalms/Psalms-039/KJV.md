@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Hear my prayer, O Lord, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.
 
 <a id="v13"></a>**13** O spare me, that I may recover strength, before I go hence, and be no more.
-

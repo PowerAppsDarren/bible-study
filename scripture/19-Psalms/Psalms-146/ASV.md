@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** Jehovah preserveth the sojourners; He upholdeth the fatherless and widow; But the way of the wicked he turneth upside down.
 
 <a id="v10"></a>**10** Jehovah will reign for ever, Thy God, O Zion, unto all generations. Praise ye Jehovah.
-

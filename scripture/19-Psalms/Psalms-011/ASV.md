@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** Upon the wicked he will rain snares; Fire and brimstone and burning wind shall be the portion of their cup.
 
 <a id="v7"></a>**7** For Jehovah is righteous; he loveth righteousness: The upright shall behold his face.
-

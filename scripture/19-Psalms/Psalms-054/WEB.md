@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** With a free will offering, I will sacrifice to you. I will give thanks to your name, Yahweh, for it is good.
 
 <a id="v7"></a>**7** For he has delivered me out of all trouble. My eye has seen triumph over my enemies.
-

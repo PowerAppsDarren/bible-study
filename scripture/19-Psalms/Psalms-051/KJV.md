@@ -41,4 +41,3 @@
 <a id="v18"></a>**18** Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
 
 <a id="v19"></a>**19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
-

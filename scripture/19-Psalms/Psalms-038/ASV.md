@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Forsake me not, O Jehovah: O my God, be not far from me.
 
 <a id="v22"></a>**22** Make haste to help me, O Lord, my salvation.
-

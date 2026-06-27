@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** For you will make them turn their back, when you aim drawn bows at their face.
 
 <a id="v13"></a>**13** Be exalted, Yahweh, in your strength, so we will sing and praise your power.
-

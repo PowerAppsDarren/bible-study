@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?
 
 <a id="v11"></a>**11** Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.
-

@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** He showeth his word unto Jacob, His statutes and his ordinances unto Israel.
 
 <a id="v20"></a>**20** He hath not dealt so with any nation; And as for his ordinances, they have not known them. Praise ye Jehovah.
-

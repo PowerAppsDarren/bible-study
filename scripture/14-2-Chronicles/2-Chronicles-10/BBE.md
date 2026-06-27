@@ -1,0 +1,43 @@
+# 2 Chronicles 10 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And Rehoboam went to Shechem, where all Israel had come together to make him king.
+
+<a id="v2"></a>**2** And when Jeroboam, the son of Nebat, had news of it, (for he was in Egypt where he had gone in flight from King Solomon,) he came back from Egypt.
+
+<a id="v3"></a>**3** And they sent for him; and Jeroboam and all Israel came to Rehoboam and said,
+
+<a id="v4"></a>**4** Your father put a hard yoke on us: if you will make the conditions under which your father kept us down less cruel, and the weight of the yoke he put on us less hard, then we will be your servants.
+
+<a id="v5"></a>**5** And he said to them, Come to me again after three days. So the people went away.
+
+<a id="v6"></a>**6** Then King Rehoboam took the opinion of the old men who had been with Solomon his father when he was living, and said, In your opinion, what answer am I to give to this people?
+
+<a id="v7"></a>**7** And they said to him, If you are kind to this people, pleasing them and saying good words to them, then they will be your servants for ever.
+
+<a id="v8"></a>**8** But he gave no attention to the opinion of the old men, but went to the young men of his generation who were waiting before him.
+
+<a id="v9"></a>**9** And he said to them, What is your opinion? What answer are we to give to this people who have said to me, Make less the weight of the yoke which your father put on us?
+
+<a id="v10"></a>**10** And the young men of his generation said to him, This is the answer to give to the people who came to you saying, Your father put a hard yoke on us, but will you make it less; say to them, My little finger is thicker than my father's body;
+
+<a id="v11"></a>**11** If my father put a hard yoke on you, I will make it harder: my father gave you punishment with whips, but I will give you blows with snakes.
+
+<a id="v12"></a>**12** So Jeroboam and all the people came to Rehoboam on the third day, as the king had given orders, saying, Come to me again on the third day.
+
+<a id="v13"></a>**13** And the king gave them a rough answer. So King Rehoboam gave no attention to the suggestion of the old men,
+
+<a id="v14"></a>**14** But gave them the answer put forward by the young men, saying, My father made your yoke hard, but I will make it harder; my father gave you punishment with whips, but I will give it with snakes.
+
+<a id="v15"></a>**15** So the king did not give ear to the people; for this came about by the purpose of God, so that the Lord might give effect to his word which he had said by Ahijah the Shilonite to Jeroboam, the son of Nebat.
+
+<a id="v16"></a>**16** And when all Israel saw that the king would give no attention to them, the people in answer said to the king, What part have we in David? what is our heritage in the son of Jesse? every man to your tents, O Israel; now see to your house, David. So all Israel went to their tents.
+
+<a id="v17"></a>**17** But Rehoboam was still king over those of the children of Israel who were living in the towns of Judah.
+
+<a id="v18"></a>**18** Then Rehoboam sent Adoniram, the overseer of the forced work; and he was stoned to death by all Israel. And King Rehoboam went quickly and got into his carriage to go in flight to Jerusalem.
+
+<a id="v19"></a>**19** So Israel was turned away from the family of David to this day.

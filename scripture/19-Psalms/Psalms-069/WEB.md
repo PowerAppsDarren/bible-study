@@ -75,4 +75,3 @@
 <a id="v35"></a>**35** For God will save Zion, and build the cities of Judah. They shall settle there, and own it.
 
 <a id="v36"></a>**36** The children also of his servants shall inherit it. Those who love his name shall dwell therein.
-

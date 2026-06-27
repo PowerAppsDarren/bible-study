@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Let not the foot of pride come against me, And let not the hand of the wicked drive me away.
 
 <a id="v12"></a>**12** There are the workers of iniquity fallen: They are thrust down, and shall not be able to rise.
-

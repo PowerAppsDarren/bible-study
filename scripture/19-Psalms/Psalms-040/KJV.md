@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The Lord be magnified.
 
 <a id="v17"></a>**17** But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.
-

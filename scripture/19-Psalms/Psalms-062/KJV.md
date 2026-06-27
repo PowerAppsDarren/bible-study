@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** God hath spoken once; twice have I heard this; that power belongeth unto God.
 
 <a id="v12"></a>**12** Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work.
-

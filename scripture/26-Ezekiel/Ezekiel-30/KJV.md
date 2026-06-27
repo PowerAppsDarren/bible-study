@@ -1,0 +1,57 @@
+# Ezekiel 30 — King James Version (KJV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** The word of the Lord came again unto me, saying,
+
+<a id="v2"></a>**2** Son of man, prophesy and say, Thus saith the Lord God; Howl ye, Woe worth the day!
+
+<a id="v3"></a>**3** For the day is near, even the day of the Lord is near, a cloudy day; it shall be the time of the heathen.
+
+<a id="v4"></a>**4** And the sword shall come upon Egypt, and great pain shall be in Ethiopia, when the slain shall fall in Egypt, and they shall take away her multitude, and her foundations shall be broken down.
+
+<a id="v5"></a>**5** Ethiopia, and Libya, and Lydia, and all the mingled people, and Chub, and the men of the land that is in league, shall fall with them by the sword.
+
+<a id="v6"></a>**6** Thus saith the Lord; They also that uphold Egypt shall fall; and the pride of her power shall come down: from the tower of Syene shall they fall in it by the sword, saith the Lord God.
+
+<a id="v7"></a>**7** And they shall be desolate in the midst of the countries that are desolate, and her cities shall be in the midst of the cities that are wasted.
+
+<a id="v8"></a>**8** And they shall know that I am the Lord, when I have set a fire in Egypt, and when all her helpers shall be destroyed.
+
+<a id="v9"></a>**9** In that day shall messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain shall come upon them, as in the day of Egypt: for, lo, it cometh.
+
+<a id="v10"></a>**10** Thus saith the Lord God; I will also make the multitude of Egypt to cease by the hand of Nebuchadrezzar king of Babylon.
+
+<a id="v11"></a>**11** He and his people with him, the terrible of the nations, shall be brought to destroy the land: and they shall draw their swords against Egypt, and fill the land with the slain.
+
+<a id="v12"></a>**12** And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the Lord have spoken it.
+
+<a id="v13"></a>**13** Thus saith the Lord God; I will also destroy the idols, and I will cause their images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.
+
+<a id="v14"></a>**14** And I will make Pathros desolate, and will set fire in Zoan, and will execute judgments in No.
+
+<a id="v15"></a>**15** And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No.
+
+<a id="v16"></a>**16** And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph shall have distresses daily.
+
+<a id="v17"></a>**17** The young men of Aven and of Pi–beseth shall fall by the sword: and these cities shall go into captivity.
+
+<a id="v18"></a>**18** At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
+
+<a id="v19"></a>**19** Thus will I execute judgments in Egypt: and they shall know that I am the Lord.
+
+<a id="v20"></a>**20** And it came to pass in the eleventh year, in the first month, in the seventh day of the month, that the word of the Lord came unto me, saying,
+
+<a id="v21"></a>**21** Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.
+
+<a id="v22"></a>**22** Therefore thus saith the Lord God; Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.
+
+<a id="v23"></a>**23** And I will scatter the Egyptians among the nations, and will disperse them through the countries.
+
+<a id="v24"></a>**24** And I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break Pharaoh’s arms, and he shall groan before him with the groanings of a deadly wounded man.
+
+<a id="v25"></a>**25** But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I am the Lord, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.
+
+<a id="v26"></a>**26** And I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I am the Lord.

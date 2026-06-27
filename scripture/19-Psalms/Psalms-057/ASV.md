@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** For thy lovingkindness is great unto the heavens, And thy truth unto the skies.
 
 <a id="v11"></a>**11** Be thou exalted, O God, above the heavens; Let thy glory be above all the earth.
-

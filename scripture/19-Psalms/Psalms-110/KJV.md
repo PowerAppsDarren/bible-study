@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
 
 <a id="v7"></a>**7** He shall drink of the brook in the way: therefore shall he lift up the head.
-

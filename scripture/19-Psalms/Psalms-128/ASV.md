@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** Jehovah bless thee out of Zion: And see thou the good of Jerusalem all the days of thy life.
 
 <a id="v6"></a>**6** Yea, see thou thy children’s children. Peace be upon Israel.
-

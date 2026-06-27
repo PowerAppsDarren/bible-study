@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** Instead of thy fathers shall be thy children, Whom thou shalt make princes in all the earth.
 
 <a id="v17"></a>**17** I will make thy name to be remembered in all generations: Therefore shall the peoples give thee thanks for ever and ever.
-

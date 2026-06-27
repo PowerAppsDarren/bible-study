@@ -1,0 +1,19 @@
+# Isaiah 18 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia;
+
+<a id="v2"></a>**2** that sendeth ambassadors by the sea, even in vessels of papyrus upon the waters, saying, Go, ye swift messengers, to a nation tall and smooth, to a people terrible from their beginning onward, a nation that meteth out and treadeth down, whose land the rivers divide!
+
+<a id="v3"></a>**3** All ye inhabitants of the world, and ye dwellers on the earth, when an ensign is lifted up on the mountains, see ye; and when the trumpet is blown, hear ye.
+
+<a id="v4"></a>**4** For thus hath Jehovah said unto me, I will be still, and I will behold in my dwelling-place, like clear heat in sunshine, like a cloud of dew in the heat of harvest.
+
+<a id="v5"></a>**5** For before the harvest, when the blossom is over, and the flower becometh a ripening grape, he will cut off the sprigs with pruning-hooks, and the spreading branches will he take away and cut down.
+
+<a id="v6"></a>**6** They shall be left together unto the ravenous birds of the mountains, and to the beasts of the earth; and the ravenous birds shall summer upon them, and all the beasts of the earth shall winter upon them.
+
+<a id="v7"></a>**7** In that time shall a present be brought unto Jehovah of hosts from a people tall and smooth, even from a people terrible from their beginning onward, a nation that meteth out and treadeth down, whose land the rivers divide, to the place of the name of Jehovah of hosts, the mount Zion.

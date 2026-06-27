@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.
 
 <a id="v8"></a>**8** I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the Lord.
-

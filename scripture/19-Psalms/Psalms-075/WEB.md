@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** But I will declare this forever: I will sing praises to the God of Jacob.
 
 <a id="v10"></a>**10** I will cut off all the horns of the wicked, but the horns of the righteous shall be lifted up.
-

@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** But the Lord is my defence; and my God is the rock of my refuge.
 
 <a id="v23"></a>**23** And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the Lord our God shall cut them off.
-

@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** God reigneth over the heathen: God sitteth upon the throne of his holiness.
 
 <a id="v9"></a>**9** The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted.
-

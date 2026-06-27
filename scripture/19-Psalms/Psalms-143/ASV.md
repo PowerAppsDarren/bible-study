@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Quicken me, O Jehovah, for thy name’s sake: In thy righteousness bring my soul out of trouble.
 
 <a id="v12"></a>**12** And in thy lovingkindness cut off mine enemies, And destroy all them that afflict my soul; For I am thy servant.
-

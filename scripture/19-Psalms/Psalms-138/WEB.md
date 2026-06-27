@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Though I walk in the midst of trouble, you will revive me. You will stretch out your hand against the wrath of my enemies. Your right hand will save me.
 
 <a id="v8"></a>**8** Yahweh will fulfill that which concerns me; your loving kindness, Yahweh, endures forever. Don’t forsake the works of your own hands.
-

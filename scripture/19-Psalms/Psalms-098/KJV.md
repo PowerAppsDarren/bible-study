@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Let the floods clap their hands: let the hills be joyful together
 
 <a id="v9"></a>**9** Before the Lord; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.
-

@@ -1,0 +1,77 @@
+# Exodus 16 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
+
+<a id="v2"></a>**2** And the whole congregation of the children of Israel murmured against Moses and against Aaron in the wilderness:
+
+<a id="v3"></a>**3** and the children of Israel said unto them, Would that we had died by the hand of Jehovah in the land of Egypt, when we sat by the flesh-pots, when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.
+
+<a id="v4"></a>**4** Then said Jehovah unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a day’s portion every day, that I may prove them, whether they will walk in my law, or not.
+
+<a id="v5"></a>**5** And it shall come to pass on the sixth day, that they shall prepare that which they bring in, and it shall be twice as much as they gather daily.
+
+<a id="v6"></a>**6** And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that Jehovah hath brought you out from the land of Egypt;
+
+<a id="v7"></a>**7** and in the morning, then ye shall see the glory of Jehovah; for that he heareth your murmurings against Jehovah: and what are we, that ye murmur against us?
+
+<a id="v8"></a>**8** And Moses said, This shall be, when Jehovah shall give you in the evening flesh to eat, and in the morning bread to the full; for that Jehovah heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against Jehovah.
+
+<a id="v9"></a>**9** And Moses said unto Aaron, Say unto all the congregation of the children of Israel, Come near before Jehovah; for he hath heard your murmurings.
+
+<a id="v10"></a>**10** And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of Jehovah appeared in the cloud.
+
+<a id="v11"></a>**11** And Jehovah spake unto Moses, saying,
+
+<a id="v12"></a>**12** I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread: and ye shall know that I am Jehovah your God.
+
+<a id="v13"></a>**13** And it came to pass at even, that the quails came up, and covered the camp: and in the morning the dew lay round about the camp.
+
+<a id="v14"></a>**14** And when the dew that lay was gone up, behold, upon the face of the wilderness a small round thing, small as the hoar-frost on the ground.
+
+<a id="v15"></a>**15** And when the children of Israel saw it, they said one to another, What is it? for they knew not what it was. And Moses said unto them, It is the bread which Jehovah hath given you to eat.
+
+<a id="v16"></a>**16** This is the thing which Jehovah hath commanded, Gather ye of it every man according to his eating; an omer a head, according to the number of your persons, shall ye take it, every man for them that are in his tent.
+
+<a id="v17"></a>**17** And the children of Israel did so, and gathered some more, some less.
+
+<a id="v18"></a>**18** And when they measured it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
+
+<a id="v19"></a>**19** And Moses said unto them, Let no man leave of it till the morning.
+
+<a id="v20"></a>**20** Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and became foul: and Moses was wroth with them.
+
+<a id="v21"></a>**21** And they gathered it morning by morning, every man according to his eating: and when the sun waxed hot, it melted.
+
+<a id="v22"></a>**22** And it came to pass, that on the sixth day they gathered twice as much bread, two omers for each one: and all the rulers of the congregation came and told Moses.
+
+<a id="v23"></a>**23** And he said unto them, This is that which Jehovah hath spoken, To-morrow is a solemn rest, a holy sabbath unto Jehovah: bake that which ye will bake, and boil that which ye will boil; and all that remaineth over lay up for you to be kept until the morning.
+
+<a id="v24"></a>**24** And they laid it up till the morning, as Moses bade: and it did not become foul, neither was there any worm therein.
+
+<a id="v25"></a>**25** And Moses said, Eat that to-day; for to-day is a sabbath unto Jehovah: to-day ye shall not find it in the field.
+
+<a id="v26"></a>**26** Six days ye shall gather it; but on the seventh day is the sabbath, in it there shall be none.
+
+<a id="v27"></a>**27** And it came to pass on the seventh day, that there went out some of the people to gather, and they found none.
+
+<a id="v28"></a>**28** And Jehovah said unto Moses, How long refuse ye to keep my commandments and my laws?
+
+<a id="v29"></a>**29** See, for that Jehovah hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day.
+
+<a id="v30"></a>**30** So the people rested on the seventh day.
+
+<a id="v31"></a>**31** And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey.
+
+<a id="v32"></a>**32** And Moses said, This is the thing which Jehovah hath commanded, Let an omerful of it be kept throughout your generations, that they may see the bread wherewith I fed you in the wilderness, when I brought you forth from the land of Egypt.
+
+<a id="v33"></a>**33** And Moses said unto Aaron, Take a pot, and put an omerful of manna therein, and lay it up before Jehovah, to be kept throughout your generations.
+
+<a id="v34"></a>**34** As Jehovah commanded Moses, so Aaron laid it up before the Testimony, to be kept.
+
+<a id="v35"></a>**35** And the children of Israel did eat the manna forty years, until they came to a land inhabited; they did eat the manna, until they came unto the borders of the land of Canaan.
+
+<a id="v36"></a>**36** Now an omer is the tenth part of an ephah.

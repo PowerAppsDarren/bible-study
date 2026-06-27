@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Thou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
 
 <a id="v9"></a>**9** Exalt the Lord our God, and worship at his holy hill; for the Lord our God is holy.
-

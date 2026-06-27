@@ -41,4 +41,3 @@
 <a id="v18"></a>**18** I will pay my vows unto Jehovah, Yea, in the presence of all his people,
 
 <a id="v19"></a>**19** In the courts of Jehovah’s house, In the midst of thee, O Jerusalem. Praise ye Jehovah.
-

@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** I know that Yahweh will maintain the cause of the afflicted, and justice for the needy.
 
 <a id="v13"></a>**13** Surely the righteous will give thanks to your name. The upright will dwell in your presence.
-

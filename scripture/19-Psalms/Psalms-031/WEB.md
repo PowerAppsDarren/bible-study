@@ -51,4 +51,3 @@
 <a id="v23"></a>**23** Oh love Yahweh, all you his saints! Yahweh preserves the faithful, and fully recompenses him who behaves arrogantly.
 
 <a id="v24"></a>**24** Be strong, and let your heart take courage, all you who hope in Yahweh.
-

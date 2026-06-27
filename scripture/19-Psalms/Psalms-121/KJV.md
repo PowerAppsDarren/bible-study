@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** The Lord shall preserve thee from all evil: he shall preserve thy soul.
 
 <a id="v8"></a>**8** The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore.
-

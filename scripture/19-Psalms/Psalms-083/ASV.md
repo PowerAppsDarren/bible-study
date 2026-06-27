@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** Let them be put to shame and dismayed for ever; Yea, let them be confounded and perish;
 
 <a id="v18"></a>**18** That they may know that thou alone, whose name is Jehovah, Art the Most High over all the earth.
-

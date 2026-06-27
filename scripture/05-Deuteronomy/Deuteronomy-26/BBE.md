@@ -1,0 +1,43 @@
+# Deuteronomy 26 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now when you have come into the land which the Lord is giving you for your heritage, and you have made it yours and are living in it;
+
+<a id="v2"></a>**2** You are to take a part of the first-fruits of the earth, which you get from the land which the Lord your God is giving you, and put it in a basket, and go to the place marked out by the Lord your God, as the resting-place of his name.
+
+<a id="v3"></a>**3** And you are to come to him who is priest at that time, and say to him, I give witness today before the Lord your God, that I have come into the land which the Lord made an oath to our fathers to give us.
+
+<a id="v4"></a>**4** Then the priest will take the basket from your hand and put it down in front of the altar of the Lord your God.
+
+<a id="v5"></a>**5** And these are the words which you will say before the Lord your God: My father was a wandering Aramaean, and he went down with a small number of people into Egypt; there he became a great and strong nation:
+
+<a id="v6"></a>**6** And the Egyptians were cruel to us, crushing us under a hard yoke:
+
+<a id="v7"></a>**7** And our cry went up to the Lord, the God of our fathers, and the Lord's ear was open to the voice of our cry, and his eyes took note of our grief and the crushing weight of our work:
+
+<a id="v8"></a>**8** And the Lord took us out of Egypt with a strong hand and a stretched-out arm, with works of power and signs and wonders:
+
+<a id="v9"></a>**9** And he has been our guide to this place, and has given us this land, a land flowing with milk and honey.
+
+<a id="v10"></a>**10** So now, I have come here with the first of the fruits of the earth which you, O Lord, have given me. Then you will put it down before the Lord your God and give him worship:
+
+<a id="v11"></a>**11** And you will have joy in every good thing which the Lord your God has given to you and to your family; and the Levite, and the man from a strange land who is with you, will take part in your joy.
+
+<a id="v12"></a>**12** When you have taken out a tenth from the tenth of all your produce in the third year, which is the year when this has to be done, give it to the Levite, and the man from a strange land, and the child without a father, and the widow, so that they may have food in your towns and be full;
+
+<a id="v13"></a>**13** And say before the Lord your God, I have taken all the holy things out of my house and have given them to the Levite, and the man from a strange land, and him who has no father, and the widow, as you have given me orders: I have kept in mind all your orders, in nothing have I gone against them:
+
+<a id="v14"></a>**14** No part of these things has been used for food in a time of weeping, or put away when I was unclean, or given for the dead: I have given ear to the voice of the Lord my God, and have done all you have given me orders to do.
+
+<a id="v15"></a>**15** So, looking down from your holy place in heaven, send your blessing on your people Israel and on the land which you have given us, as you said in your oath to our fathers, a land flowing with milk and honey.
+
+<a id="v16"></a>**16** Today the Lord your God gives you orders to keep all these laws and decisions: so then keep and do them with all your heart and all your soul.
+
+<a id="v17"></a>**17** Today you have given witness that the Lord is your God, and that you will go in his ways and keep his laws and his orders and his decisions and give ear to his voice:
+
+<a id="v18"></a>**18** And the Lord has made it clear this day that you are a special people to him, as he gave you his word; and that you are to keep all his orders;
+
+<a id="v19"></a>**19** And that he will make you high over all the nations he has made, in praise, in name, and in honour, and that you are to be a holy people to the Lord your God as he has said.

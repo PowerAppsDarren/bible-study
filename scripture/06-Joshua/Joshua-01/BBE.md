@@ -1,0 +1,41 @@
+# Joshua 1 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now after the death of Moses, the servant of the Lord, the word of the Lord came to Joshua, the son of Nun, Moses' helper, saying,
+
+<a id="v2"></a>**2** Moses my servant is dead; so now get up! Go over Jordan, you and all this people, into the land which I am giving to them, to the children of Israel.
+
+<a id="v3"></a>**3** Every place on which you put your foot I have given to you, as I said to Moses.
+
+<a id="v4"></a>**4** From the waste land and this mountain Lebanon, as far as the great river, the river Euphrates, and all the land of the Hittites to the Great Sea, in the west, will be your country.
+
+<a id="v5"></a>**5** While you are living, all will give way before you: as I was with Moses, so I will be with you; I will not take away my help from you or give you up.
+
+<a id="v6"></a>**6** Take heart and be strong; for you will give to this people for their heritage the land which I gave by an oath to their fathers.
+
+<a id="v7"></a>**7** Only take heart and be very strong; take care to do all the law which Moses my servant gave you, not turning from it to the right hand or to the left, so that you may do well in all your undertakings.
+
+<a id="v8"></a>**8** Let this book of the law be ever on your lips and in your thoughts day and night, so that you may keep with care everything in it; then a blessing will be on all your way, and you will do well.
+
+<a id="v9"></a>**9** Have I not given you your orders? Take heart and be strong; have no fear and do not be troubled; for the Lord your God is with you wherever you go,
+
+<a id="v10"></a>**10** Then Joshua gave their orders to those who were in authority over the people, saying,
+
+<a id="v11"></a>**11** Go through the tents and give orders to the people, saying, Get ready a store of food; for in three days you are to go over this river Jordan and take for your heritage the land which the Lord your God is giving you.
+
+<a id="v12"></a>**12** And to the Reubenites and the Gadites and the half-tribe of Manasseh, Joshua said,
+
+<a id="v13"></a>**13** Keep in mind what Moses, the servant of the Lord, said to you, The Lord your God is sending you rest and will give you this land.
+
+<a id="v14"></a>**14** Your wives, your little ones, and your cattle will be kept here in the land which Moses gave you on this side of Jordan; but you, the fighting-men, are to go over before your brothers, armed, to give them help;
+
+<a id="v15"></a>**15** Till the Lord has given your brothers rest, as he has given it to you, and they have taken their heritage in the land which the Lord your God is giving them: then you will go back to the land of your heritage which Moses, the servant of the Lord, gave you on the east side of Jordan.
+
+<a id="v16"></a>**16** Then they said to Joshua in answer, Whatever you say to us we will do, and wherever you send us we will go.
+
+<a id="v17"></a>**17** As we gave attention to Moses in all things, so we will give attention to you: and may the Lord your God be with you as he was with Moses.
+
+<a id="v18"></a>**18** Whoever goes against your orders, and does not give attention to all your words, will be put to death: only take heart and be strong.

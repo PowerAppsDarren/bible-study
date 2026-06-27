@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** They shall still bring forth fruit in old age; They shall be full of sap and green:
 
 <a id="v15"></a>**15** To show that Jehovah is upright; He is my rock, and there is no unrighteousness in him.
-

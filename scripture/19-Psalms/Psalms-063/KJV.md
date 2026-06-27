@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** They shall fall by the sword: they shall be a portion for foxes.
 
 <a id="v11"></a>**11** But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.
-

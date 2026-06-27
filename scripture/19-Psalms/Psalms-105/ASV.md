@@ -93,4 +93,3 @@
 <a id="v44"></a>**44** And he gave them the lands of the nations; And they took the labor of the peoples in possession:
 
 <a id="v45"></a>**45** That they might keep his statutes, And observe his laws. Praise ye Jehovah.
-

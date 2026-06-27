@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.
 
 <a id="v13"></a>**13** So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.
-

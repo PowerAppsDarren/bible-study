@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** Many sorrows come to the wicked, but loving kindness shall surround him who trusts in Yahweh.
 
 <a id="v11"></a>**11** Be glad in Yahweh, and rejoice, you righteous! Shout for joy, all you who are upright in heart!
-

@@ -89,4 +89,3 @@
 <a id="v42"></a>**42** The upright will see it, and be glad. All the wicked will shut their mouths.
 
 <a id="v43"></a>**43** Whoever is wise will pay attention to these things. They will consider the loving kindnesses of Yahweh.
-

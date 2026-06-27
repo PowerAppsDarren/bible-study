@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved.
 
 <a id="v23"></a>**23** But you, God, will bring them down into the pit of destruction. Bloodthirsty and deceitful men shall not live out half their days, but I will trust in you.
-

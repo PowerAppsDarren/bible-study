@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
 
 <a id="v23"></a>**23** Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
-

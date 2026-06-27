@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** Thou preparest a table before me in the presence of mine enemies: Thou hast anointed my head with oil; My cup runneth over.
 
 <a id="v6"></a>**6** Surely goodness and lovingkindness shall follow me all the days of my life; And I shall dwell in the house of Jehovah for ever.
-

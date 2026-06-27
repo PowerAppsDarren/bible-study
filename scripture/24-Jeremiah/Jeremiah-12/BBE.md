@@ -1,0 +1,39 @@
+# Jeremiah 12 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** You are in the right, O Lord, when I put my cause before you: still let me take up with you the question of your decisions: why does the evil-doer do well? why are the workers of deceit living in comfort?
+
+<a id="v2"></a>**2** They have been planted by you, they have taken root; they go on and give fruit: you are near in their mouths but far from their thoughts.
+
+<a id="v3"></a>**3** But you, O Lord, have knowledge of me; you see me, searching and testing how my heart is with you: let them be pulled out like sheep to be put to death, make them ready for the day of death.
+
+<a id="v4"></a>**4** How long will the land have grief, and the plants of all the land be dry? because of the sins of the people living in it, destruction has overtaken the beasts and the birds; because they said, God does not see our ways.
+
+<a id="v5"></a>**5** If running with the fighting-men has made you tired, how will you be able to keep up with horses? and if in a land of peace you go in flight, what will become of you in the thick growth of Jordan?
+
+<a id="v6"></a>**6** For even your brothers, your father's family, even they have been untrue to you, crying loudly after you: have no faith in them, though they say fair words to you.
+
+<a id="v7"></a>**7** I have given up my house, I have let my heritage go; I have given the loved one of my soul into the hands of her haters.
+
+<a id="v8"></a>**8** My heritage has become like a lion in the woodland to me; her voice has been loud against me; so I have hate for her.
+
+<a id="v9"></a>**9** My heritage is like a brightly coloured bird to me; the cruel birds are attacking her on every side: go, get together all the beasts of the field, make them come for destruction.
+
+<a id="v10"></a>**10** The keepers of sheep have been the destruction of my vine-garden, crushing my heritage under their feet; they have made my fair heritage an unplanted waste;
+
+<a id="v11"></a>**11** They have made it waste; it is weeping to me, being wasted; all the land is made waste, because no man takes it to heart.
+
+<a id="v12"></a>**12** Those who make waste have come on all the open hilltops in the waste land; for the sword of the Lord sends destruction from one end of the land to the other end of the land: no flesh has peace.
+
+<a id="v13"></a>**13** Though good grain was planted, they have got in thorns: they have given themselves pain without profit: they will be shamed on account of their produce, because of the burning wrath of the Lord.
+
+<a id="v14"></a>**14** This is what the Lord has said against all my evil neighbours, who put their hands on the heritage which I gave my people Israel: See, I will have them uprooted from their land, uprooting the people of Judah from among them.
+
+<a id="v15"></a>**15** And it will come about that, after they have been uprooted, I will again have pity on them; and I will take them back, every man to his heritage and every man to his land.
+
+<a id="v16"></a>**16** And it will be that, if they give their minds to learning the ways of my people, using my name in their oaths, By the living Lord; as they have been teaching my people to take oaths by the Baal; then their place will be made certain among my people.
+
+<a id="v17"></a>**17** But if they will not give ear, then I will have that nation uprooted, and given to destruction, says the Lord.

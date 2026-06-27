@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** that he may set him with princes, even with the princes of his people.
 
 <a id="v9"></a>**9** He settles the barren woman in her home, as a joyful mother of children. Praise Yah!
-

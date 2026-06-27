@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** There were they in great fear, where no fear was; For God hath scattered the bones of him that encampeth against thee: Thou hast put them to shame, because God hath rejected them.
 
 <a id="v6"></a>**6** Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Then shall Jacob rejoice, and Israel shall be glad.
-

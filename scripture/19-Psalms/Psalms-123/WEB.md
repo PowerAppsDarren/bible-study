@@ -11,4 +11,3 @@
 <a id="v3"></a>**3** Have mercy on us, Yahweh, have mercy on us, for we have endured much contempt.
 
 <a id="v4"></a>**4** Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud.
-

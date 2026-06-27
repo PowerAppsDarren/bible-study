@@ -35,4 +35,3 @@
 <a id="v15"></a>**15** The haters of Jehovah should submit themselves unto him: But their time should endure for ever.
 
 <a id="v16"></a>**16** He would feed them also with the finest of the wheat; And with honey out of the rock would I satisfy thee.
-

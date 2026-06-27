@@ -1,0 +1,43 @@
+# Habakkuk 3 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** A prayer of Habakkuk, the prophet, set to victorious music.
+
+<a id="v2"></a>**2** Yahweh, I have heard of your fame. I stand in awe of your deeds, Yahweh. Renew your work in the midst of the years. In the midst of the years make it known. In wrath, you remember mercy.
+
+<a id="v3"></a>**3** God came from Teman, the Holy One from Mount Paran. Selah.   His glory covered the heavens, and his praise filled the earth.
+
+<a id="v4"></a>**4** His splendor is like the sunrise. Rays shine from his hand, where his power is hidden.
+
+<a id="v5"></a>**5** Plague went before him, and pestilence followed his feet.
+
+<a id="v6"></a>**6** He stood, and shook the earth. He looked, and made the nations tremble. The ancient mountains were crumbled. The age-old hills collapsed. His ways are eternal.
+
+<a id="v7"></a>**7** I saw the tents of Cushan in affliction. The dwellings of the land of Midian trembled.
+
+<a id="v8"></a>**8** Was Yahweh displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?
+
+<a id="v9"></a>**9** You uncovered your bow. You called for your sworn arrows. Selah. You split the earth with rivers.
+
+<a id="v10"></a>**10** The mountains saw you, and were afraid. The storm of waters passed by. The deep roared and lifted up its hands on high.
+
+<a id="v11"></a>**11** The sun and moon stood still in the sky, at the light of your arrows as they went, at the shining of your glittering spear.
+
+<a id="v12"></a>**12** You marched through the land in wrath. You threshed the nations in anger.
+
+<a id="v13"></a>**13** You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the land of wickedness. You stripped them head to foot. Selah.
+
+<a id="v14"></a>**14** You pierced the heads of his warriors with their own spears. They came as a whirlwind to scatter me, gloating as if to devour the wretched in secret.
+
+<a id="v15"></a>**15** You trampled the sea with your horses, churning mighty waters.
+
+<a id="v16"></a>**16** I heard, and my body trembled. My lips quivered at the voice. Rottenness enters into my bones, and I tremble in my place, because I must wait quietly for the day of trouble, for the coming up of the people who invade us.
+
+<a id="v17"></a>**17** For though the fig tree doesn’t flourish, nor fruit be in the vines; the labor of the olive fails, the fields yield no food; the flocks are cut off from the fold, and there is no herd in the stalls:
+
+<a id="v18"></a>**18** yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!
+
+<a id="v19"></a>**19** Yahweh, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places.    For the music director, on my stringed instruments.

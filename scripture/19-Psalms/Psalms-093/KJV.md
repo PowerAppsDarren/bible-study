@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.
 
 <a id="v5"></a>**5** Thy testimonies are very sure: holiness becometh thine house, O Lord, for ever.
-

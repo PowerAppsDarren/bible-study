@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** You have put gladness in my heart, more than when their grain and their new wine are increased.
 
 <a id="v8"></a>**8** In peace I will both lay myself down and sleep, for you, Yahweh alone, make me live in safety.
-

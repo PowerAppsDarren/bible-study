@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Our soul has escaped like a bird out of the fowler’s snare. The snare is broken, and we have escaped.
 
 <a id="v8"></a>**8** Our help is in Yahweh’s name, who made heaven and earth.
-

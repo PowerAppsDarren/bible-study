@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** May Yahweh bless you out of Zion, and may you see the good of Jerusalem all the days of your life.
 
 <a id="v6"></a>**6** Yes, may you see your children’s children. Peace be upon Israel.
-

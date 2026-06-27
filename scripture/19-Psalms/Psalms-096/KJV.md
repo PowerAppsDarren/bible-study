@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice
 
 <a id="v13"></a>**13** Before the Lord: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.
-

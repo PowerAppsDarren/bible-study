@@ -51,4 +51,3 @@
 <a id="v23"></a>**23** O love the Lord, all ye his saints: for the Lord preserveth the faithful, and plentifully rewardeth the proud doer.
 
 <a id="v24"></a>**24** Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord.
-

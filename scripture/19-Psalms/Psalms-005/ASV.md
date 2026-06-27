@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** But let all those that take refuge in thee rejoice, Let them ever shout for joy, because thou defendest them: Let them also that love thy name be joyful in thee.
 
 <a id="v12"></a>**12** For thou wilt bless the righteous; O Jehovah, thou wilt compass him with favor as with a shield.
-

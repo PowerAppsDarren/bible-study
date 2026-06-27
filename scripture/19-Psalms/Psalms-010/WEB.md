@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** Yahweh, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear,
 
 <a id="v18"></a>**18** to judge the fatherless and the oppressed, that man who is of the earth may terrify no more.
-

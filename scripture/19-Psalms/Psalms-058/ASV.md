@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** The righteous shall rejoice when he seeth the vengeance: He shall wash his feet in the blood of the wicked;
 
 <a id="v11"></a>**11** So that men shall say, Verily there is a reward for the righteous: Verily there is a God that judgeth in the earth.
-

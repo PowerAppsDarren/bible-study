@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** As for me, you uphold me in my integrity, and set me in your presence forever.
 
 <a id="v13"></a>**13** Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen.
-

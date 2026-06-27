@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** Whenour oxen are well laden; When there isno breaking in, and no going forth, And no outcry in our streets:
 
 <a id="v15"></a>**15** Happy is the people that is in such a case; Yea, happy is the people whose God is Jehovah.
-

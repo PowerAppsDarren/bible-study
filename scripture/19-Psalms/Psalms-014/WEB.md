@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** You frustrate the plan of the poor, because Yahweh is his refuge.
 
 <a id="v7"></a>**7** Oh that the salvation of Israel would come out of Zion! When Yahweh restores the fortunes of his people, then Jacob shall rejoice, and Israel shall be glad.
-

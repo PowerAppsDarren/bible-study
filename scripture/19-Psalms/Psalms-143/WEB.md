@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Revive me, Yahweh, for your name’s sake. In your righteousness, bring my soul out of trouble.
 
 <a id="v12"></a>**12** In your loving kindness, cut off my enemies, and destroy all those who afflict my soul, For I am your servant.
-

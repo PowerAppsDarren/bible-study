@@ -41,4 +41,3 @@
 <a id="v18"></a>**18** Do well in your good pleasure to Zion. Build the walls of Jerusalem.
 
 <a id="v19"></a>**19** Then you will delight in the sacrifices of righteousness, in burnt offerings and in whole burnt offerings. Then they will offer bulls on your altar.
-

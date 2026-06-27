@@ -45,4 +45,3 @@
 <a id="v20"></a>**20** Yahweh preserves all those who love him, but all the wicked he will destroy.
 
 <a id="v21"></a>**21** My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.
-

@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** For thou wilt make them turn their back; Thou wilt make ready with thy bowstrings against their face.
 
 <a id="v13"></a>**13** Be thou exalted, O Jehovah, in thy strength: So will we sing and praise thy power.
-

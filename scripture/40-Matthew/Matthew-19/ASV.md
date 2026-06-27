@@ -1,0 +1,65 @@
+# Matthew 19 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And it came to pass when Jesus had finished these words, he departed from Galilee, and came into the borders of Judæa beyond the Jordan;
+
+<a id="v2"></a>**2** and great multitudes followed him; and he healed them there.
+
+<a id="v3"></a>**3** And there came unto him Pharisees, trying him, and saying, Is it lawful for a man to put away his wife for every cause?
+
+<a id="v4"></a>**4** And he answered and said, Have ye not read, that he who made them from the beginning made them male and female,
+
+<a id="v5"></a>**5** and said, For this cause shall a man leave his father and mother, and shall cleave to his wife; and the two shall become one flesh?
+
+<a id="v6"></a>**6** So that they are no more two, but one flesh. What therefore God hath joined together, let not man put asunder.
+
+<a id="v7"></a>**7** They say unto him, Why then did Moses command to give a bill of divorcement, and to put her away?
+
+<a id="v8"></a>**8** He saith unto them, Moses for your hardness of heart suffered you to put away your wives: but from the beginning it hath not been so.
+
+<a id="v9"></a>**9** And I say unto you, Whosoever shall put away his wife, except for fornication, and shall marry another, committeth adultery: and he that marrieth her when she is put away committeth adultery.
+
+<a id="v10"></a>**10** The disciples say unto him, If the case of the man is so with his wife, it is not expedient to marry.
+
+<a id="v11"></a>**11** But he said unto them, Not all men can receive this saying, but they to whom it is given.
+
+<a id="v12"></a>**12** For there are eunuchs, that were so born from their mother’s womb: and there are eunuchs, that were made eunuchs by men: and there are eunuchs, that made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.
+
+<a id="v13"></a>**13** Then were there brought unto him little children, that he should lay his hands on them, and pray: and the disciples rebuked them.
+
+<a id="v14"></a>**14** But Jesus said, Suffer the little children, and forbid them not, to come unto me: for to such belongeth the kingdom of heaven.
+
+<a id="v15"></a>**15** And he laid his hands on them, and departed thence.
+
+<a id="v16"></a>**16** And behold, one came to him and said, Teacher, what good thing shall I do, that I may have eternal life?
+
+<a id="v17"></a>**17** And he said unto him, Why askest thou me concerning that which is good? One there is who is good: but if thou wouldest enter into life, keep the commandments.
+
+<a id="v18"></a>**18** He saith unto him, Which? And Jesus said, Thou shalt not kill, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+
+<a id="v19"></a>**19** Honor thy father and thy mother; and, Thou shalt love thy neighbor as thyself.
+
+<a id="v20"></a>**20** The young man saith unto him, All these things have I observed: what lack I yet?
+
+<a id="v21"></a>**21** Jesus said unto him, If thou wouldest be perfect, go, sell that which thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me.
+
+<a id="v22"></a>**22** But when the young man heard the saying, he went away sorrowful; for he was one that had great possessions.
+
+<a id="v23"></a>**23** And Jesus said unto his disciples, Verily I say unto you, It is hard for a rich man to enter into the kingdom of heaven.
+
+<a id="v24"></a>**24** And again I say unto you, It is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.
+
+<a id="v25"></a>**25** And when the disciples heard it, they were astonished exceedingly, saying, Who then can be saved?
+
+<a id="v26"></a>**26** And Jesus looking upon them said to them, With men this is impossible; but with God all things are possible.
+
+<a id="v27"></a>**27** Then answered Peter and said unto him, Lo, we have left all, and followed thee; what then shall we have?
+
+<a id="v28"></a>**28** And Jesus said unto them, Verily I say unto you, that ye who have followed me, in the regeneration when the Son of man shall sit on the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
+
+<a id="v29"></a>**29** And every one that hath left houses, or brethren, or sisters, or father, or mother, or children, or lands, for my name’s sake, shall receive a hundredfold, and shall inherit eternal life.
+
+<a id="v30"></a>**30** But many shall be last that are first; and first that are last.

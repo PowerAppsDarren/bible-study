@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** For my brothers’ and companions’ sakes, I will now say, “Peace be within you.”
 
 <a id="v9"></a>**9** For the sake of the house of Yahweh our God, I will seek your good.
-

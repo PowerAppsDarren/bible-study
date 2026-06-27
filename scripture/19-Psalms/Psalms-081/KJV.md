@@ -35,4 +35,3 @@
 <a id="v15"></a>**15** The haters of the Lord should have submitted themselves unto him: but their time should have endured for ever.
 
 <a id="v16"></a>**16** He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.
-

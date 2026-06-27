@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** For the Lord God is a sun and shield: the Lord will give grace and glory: no good thing will he withhold from them that walk uprightly.
 
 <a id="v12"></a>**12** O Lord of hosts, blessed is the man that trusteth in thee.
-

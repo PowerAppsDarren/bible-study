@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** They shall be given over to the power of the sword: They shall be a portion for foxes.
 
 <a id="v11"></a>**11** But the king shall rejoice in God: Every one that sweareth by him shall glory; For the mouth of them that speak lies shall be stopped.
-

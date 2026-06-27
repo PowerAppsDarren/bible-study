@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Thy vows are upon me, O God: I will render thank-offerings unto thee.
 
 <a id="v13"></a>**13** For thou hast delivered my soul from death: Hast thou not delivered my feet from falling, That I may walk before God In the light of the living?
-

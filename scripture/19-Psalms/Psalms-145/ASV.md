@@ -45,4 +45,3 @@
 <a id="v20"></a>**20** Jehovah preserveth all them that love him; But all the wicked will he destroy.
 
 <a id="v21"></a>**21** My mouth shall speak the praise of Jehovah; And let all flesh bless his holy name for ever and ever.
-

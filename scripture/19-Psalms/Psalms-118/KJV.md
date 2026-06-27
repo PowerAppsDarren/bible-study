@@ -61,4 +61,3 @@
 <a id="v28"></a>**28** Thou art my God, and I will praise thee: thou art my God, I will exalt thee.
 
 <a id="v29"></a>**29** O give thanks unto the Lord; for he is good: for his mercy endureth for ever.
-

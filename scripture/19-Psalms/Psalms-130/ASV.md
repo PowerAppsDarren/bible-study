@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** O Israel, hope in Jehovah; For with Jehovah there is lovingkindness, And with him is plenteous redemption.
 
 <a id="v8"></a>**8** And he will redeem Israel  From all his iniquities.
-

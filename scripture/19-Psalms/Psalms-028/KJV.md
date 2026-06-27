@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** The Lord is their strength, and he is the saving strength of his anointed.
 
 <a id="v9"></a>**9** Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.
-

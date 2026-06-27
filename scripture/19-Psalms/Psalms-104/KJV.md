@@ -73,4 +73,3 @@
 <a id="v34"></a>**34** My meditation of him shall be sweet: I will be glad in the Lord.
 
 <a id="v35"></a>**35** Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the Lord, O my soul. Praise ye the Lord.
-

@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** Let your work appear to your servants; your glory to their children.
 
 <a id="v17"></a>**17** Let the favor of the Lord our God be on us; establish the work of our hands for us; yes, establish the work of our hands.
-

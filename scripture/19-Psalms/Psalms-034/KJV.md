@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Evil shall slay the wicked: and they that hate the righteous shall be desolate.
 
 <a id="v22"></a>**22** The Lord redeemeth the soul of his servants: and none of them that trust in him shall be desolate.
-

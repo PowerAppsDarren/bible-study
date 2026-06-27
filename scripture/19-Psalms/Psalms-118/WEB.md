@@ -61,4 +61,3 @@
 <a id="v28"></a>**28** You are my God, and I will give thanks to you. You are my God, I will exalt you.
 
 <a id="v29"></a>**29** Oh give thanks to Yahweh, for he is good, for his loving kindness endures forever.
-

@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** For you will not leave my soul in Sheol, neither will you allow your holy one to see corruption.
 
 <a id="v11"></a>**11** You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more.
-

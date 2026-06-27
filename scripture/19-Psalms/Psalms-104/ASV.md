@@ -73,4 +73,3 @@
 <a id="v34"></a>**34** Let my meditation be sweet unto him: I will rejoice in Jehovah.
 
 <a id="v35"></a>**35** Let sinners be consumed out of the earth. And let the wicked be no more. Bless Jehovah, O my soul. Praise ye Jehovah.
-

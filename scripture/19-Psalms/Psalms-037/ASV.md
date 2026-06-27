@@ -83,4 +83,3 @@
 <a id="v39"></a>**39** But the salvation of the righteous is of Jehovah: He is their stronghold in the time of trouble.
 
 <a id="v40"></a>**40** And Jehovah helpeth them, and rescueth them: He rescueth them from the wicked, and saveth them, Because they have taken refuge in him.
-

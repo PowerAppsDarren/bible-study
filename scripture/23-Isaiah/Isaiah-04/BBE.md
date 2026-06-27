@@ -1,0 +1,17 @@
+# Isaiah 4 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And in that day seven women will put their hands on one man, saying, There will be no need for you to give us food or clothing, only let us go under your name, so that our shame may be taken away.
+
+<a id="v2"></a>**2** In that day will the young growth of the Lord be beautiful in glory, and the fruit of the earth will be the pride of those who are still living in Israel.
+
+<a id="v3"></a>**3** And it will come about that the rest of the living in Zion, and of those who have been kept from destruction in Jerusalem, will be named holy, even everyone who has been recorded for life in Jerusalem:
+
+<a id="v4"></a>**4** When Zion has been washed from her sin by the Lord, and Jerusalem made clean from her blood by a judging and a burning wind.
+
+<a id="v5"></a>**5** And over every living-place on Mount Zion, all over all her meetings, the Lord will make a cloud and smoke by day, and the shining of a flaming fire by night, for over all, the glory of the Lord will be a cover and a tent;
+
+<a id="v6"></a>**6** And a shade in the daytime from the heat, and a safe cover from storm and from rain.

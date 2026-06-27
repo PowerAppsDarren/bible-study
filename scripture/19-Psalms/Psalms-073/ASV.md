@@ -59,4 +59,3 @@
 <a id="v27"></a>**27** For, lo, they that are far from thee shall perish: Thou hast destroyed all them that play the harlot, departing from thee.
 
 <a id="v28"></a>**28** But it is good for me to draw near unto God: I have made the Lord Jehovah my refuge, That I may tell of all thy works.
-

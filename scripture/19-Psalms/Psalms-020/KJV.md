@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** They are brought down and fallen: but we are risen, and stand upright.
 
 <a id="v9"></a>**9** Save, Lord: let the king hear us when we call.
-

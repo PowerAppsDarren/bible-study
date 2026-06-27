@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly.
 
 <a id="v12"></a>**12** Yahweh of Armies, blessed is the man who trusts in you.
-

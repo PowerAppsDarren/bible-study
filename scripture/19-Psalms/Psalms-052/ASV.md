@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** But as for me, I am like a green olive-tree in the house of God: I trust in the lovingkindness of God for ever and ever.
 
 <a id="v9"></a>**9** I will give thee thanks for ever, because thou hast done it; And I will hope in thy name, for it is good, in the presence of thy saints.
-

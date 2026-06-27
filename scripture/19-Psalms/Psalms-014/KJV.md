@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** Ye have shamed the counsel of the poor, because the Lord is his refuge.
 
 <a id="v7"></a>**7** Oh that the salvation of Israel were come out of Zion! when the Lord bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.
-

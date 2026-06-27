@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** Oh turn unto me, and have mercy upon me; Give thy strength unto thy servant, And save the son of thy handmaid.
 
 <a id="v17"></a>**17** Show me a token for good, That they who hate me may see it, and be put to shame, Because thou, Jehovah, hast helped me, and comforted me.
-

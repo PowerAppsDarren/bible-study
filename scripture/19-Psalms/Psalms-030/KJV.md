@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;
 
 <a id="v12"></a>**12** To the end that my glory may sing praise to thee, and not be silent. O Lord my God, I will give thanks unto thee for ever.
-

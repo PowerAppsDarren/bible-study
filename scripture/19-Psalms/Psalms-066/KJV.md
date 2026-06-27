@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** But verily God hath heard me; he hath attended to the voice of my prayer.
 
 <a id="v20"></a>**20** Blessed be God, which hath not turned away my prayer, nor his mercy from me.
-

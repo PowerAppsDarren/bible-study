@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Pay back to our neighbors seven times into their bosom their reproach with which they have reproached you, Lord.
 
 <a id="v13"></a>**13** So we, your people and sheep of your pasture, will give you thanks forever. We will praise you forever, to all generations.
-

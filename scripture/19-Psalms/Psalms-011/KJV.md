@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.
 
 <a id="v7"></a>**7** For the righteous Lord loveth righteousness; his countenance doth behold the upright.
-

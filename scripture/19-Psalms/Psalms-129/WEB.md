@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** with which the reaper doesn’t fill his hand, nor he who binds sheaves, his bosom.
 
 <a id="v8"></a>**8** Neither do those who go by say, “The blessing of Yahweh be on you. We bless you in Yahweh’s name.”
-

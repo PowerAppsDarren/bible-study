@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** They came around me like water all day long. They completely engulfed me.
 
 <a id="v18"></a>**18** You have put lover and friend far from me, and my friends into darkness.
-

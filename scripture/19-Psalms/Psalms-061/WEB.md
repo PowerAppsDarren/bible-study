@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** He shall be enthroned in God’s presence forever. Appoint your loving kindness and truth, that they may preserve him.
 
 <a id="v8"></a>**8** So I will sing praise to your name forever, that I may fulfill my vows daily.
-

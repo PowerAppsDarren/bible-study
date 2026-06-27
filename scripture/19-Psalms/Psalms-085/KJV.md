@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Yea, the Lord shall give that which is good; and our land shall yield her increase.
 
 <a id="v13"></a>**13** Righteousness shall go before him; and shall set us in the way of his steps.
-

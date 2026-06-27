@@ -1,0 +1,31 @@
+# 2 Samuel 9 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** David said, “Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan’s sake?”
+
+<a id="v2"></a>**2** There was of the house of Saul a servant whose name was Ziba, and they called him to David; and the king said to him, “Are you Ziba?”   He said, “Your servant is he.”
+
+<a id="v3"></a>**3** The king said, “Is there not yet any of the house of Saul, that I may show the kindness of God to him?”   Ziba said to the king, “Jonathan has yet a son, who is lame of his feet.”
+
+<a id="v4"></a>**4** The king said to him, “Where is he?”   Ziba said to the king, “Behold, he is in the house of Machir the son of Ammiel, in Lo Debar.”
+
+<a id="v5"></a>**5** Then king David sent, and fetched him out of the house of Machir the son of Ammiel, from Lo Debar.
+
+<a id="v6"></a>**6** Mephibosheth, the son of Jonathan, the son of Saul, came to David, and fell on his face, and showed respect. David said, “Mephibosheth.”   He answered, “Behold, your servant!”
+
+<a id="v7"></a>**7** David said to him, “Don’t be afraid of him; for I will surely show you kindness for Jonathan your father’s sake, and will restore to you all the land of Saul your father. You shall eat bread at my table continually.”
+
+<a id="v8"></a>**8** He bowed down, and said, “What is your servant, that you should look on such a dead dog as I am?”
+
+<a id="v9"></a>**9** Then the king called to Ziba, Saul’s servant, and said to him, “All that pertained to Saul and to all his house have I given to your master’s son.
+
+<a id="v10"></a>**10** You shall till the land for him, you, and your sons, and your servants; and you shall bring in the harvest, that your master’s son may have bread to eat: but Mephibosheth your master’s son shall eat bread always at my table.” Now Ziba had fifteen sons and twenty servants.
+
+<a id="v11"></a>**11** Then Ziba said to the king, “According to all that my lord the king commands his servant, so your shall servant do.” So Mephibosheth ate at the king’s table, like one of the king’s sons.
+
+<a id="v12"></a>**12** Mephibosheth had a young son, whose name was Mica. All that lived in the house of Ziba were servants to Mephibosheth.
+
+<a id="v13"></a>**13** So Mephibosheth lived in Jerusalem; for he ate continually at the king’s table. He was lame in both his feet.

@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** I will freely sacrifice unto thee: I will praise thy name, O Lord; for it is good.
 
 <a id="v7"></a>**7** For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.
-

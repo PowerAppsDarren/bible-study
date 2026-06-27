@@ -41,4 +41,3 @@
 <a id="v18"></a>**18** So we will not turn away from you. Revive us, and we will call on your name.
 
 <a id="v19"></a>**19** Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved.
-

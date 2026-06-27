@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Do good, O Jehovah, unto those that are good, And to them that are upright in their hearts.
 
 <a id="v5"></a>**5** But as for such as turn aside unto their crooked ways, Jehovah will lead them forth with the workers of iniquity. Peace be upon Israel.
-

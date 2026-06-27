@@ -73,4 +73,3 @@
 <a id="v34"></a>**34** Ascribe ye strength unto God: his excellency is over Israel, and his strength is in the clouds.
 
 <a id="v35"></a>**35** O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God.
-

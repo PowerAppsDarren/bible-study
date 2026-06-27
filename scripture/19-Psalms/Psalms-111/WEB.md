@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** He has sent redemption to his people. He has ordained his covenant forever. His name is holy and awesome!
 
 <a id="v10"></a>**10** The fear of Yahweh is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever!
-

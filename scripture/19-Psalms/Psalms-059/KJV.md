@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.
 
 <a id="v17"></a>**17** Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy.
-

@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Let the rivers clap their hands. Let the mountains sing for joy together.
 
 <a id="v9"></a>**9** Let them sing before Yahweh, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity.
-

@@ -49,4 +49,3 @@
 <a id="v22"></a>**22** Cast thy burden upon the Lord, and he shall sustain thee: he shall never suffer the righteous to be moved.
 
 <a id="v23"></a>**23** But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.
-

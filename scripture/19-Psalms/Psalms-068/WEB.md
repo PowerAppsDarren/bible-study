@@ -73,4 +73,3 @@
 <a id="v34"></a>**34** Ascribe strength to God! His excellency is over Israel, his strength is in the skies.
 
 <a id="v35"></a>**35** You are awesome, God, in your sanctuaries. The God of Israel gives strength and power to his people. Praise be to God!
-

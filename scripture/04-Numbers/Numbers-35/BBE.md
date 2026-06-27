@@ -1,0 +1,73 @@
+# Numbers 35 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And the Lord said to Moses in the lowlands of Moab by Jordan at Jericho,
+
+<a id="v2"></a>**2** Give orders to the children of Israel to give to the Levites, from the heritage which is theirs, towns for themselves, with land on the outskirts of the towns.
+
+<a id="v3"></a>**3** These towns are to be their living-places, with land round them for their cattle and their food and all their beasts,
+
+<a id="v4"></a>**4** Stretching from the wall of the towns a distance of a thousand cubits all round.
+
+<a id="v5"></a>**5** The measure of this space of land is to be two thousand cubits outside the town on the east, and two thousand cubits on the south and on the west and on the north, the town being in the middle. This space will be the outskirts of their towns.
+
+<a id="v6"></a>**6** And the towns which you give the Levites are to be the six safe places to which the taker of life may go in flight; and in addition you are to give them forty-two towns.
+
+<a id="v7"></a>**7** Forty-eight towns are to be given to the Levites, all with land round them.
+
+<a id="v8"></a>**8** And these towns are to be given out of the heritage of the children of Israel, taking the greater number from those who have much, and a smaller number from those who have little: everyone, in the measure of his heritage, is to give of his property to the Levites.
+
+<a id="v9"></a>**9** And the Lord said to Moses,
+
+<a id="v10"></a>**10** Say to the children of Israel, when you have gone over Jordan into the land of Canaan;
+
+<a id="v11"></a>**11** Then let certain towns be marked out as safe places to which anyone who takes the life of another in error may go in flight.
+
+<a id="v12"></a>**12** In these towns you may be safe from him who has the right of punishment; so that death may not overtake the taker of life till he has been judged by the meeting of the people.
+
+<a id="v13"></a>**13** Six of the towns which you give will be such safe places;
+
+<a id="v14"></a>**14** Three on the other side of Jordan and three in the land of Canaan, to be safe places for flight.
+
+<a id="v15"></a>**15** For the children of Israel and for the man from another country who is living among them, these six towns are to be safe places, where anyone causing the death of another through error may go in flight.
+
+<a id="v16"></a>**16** But if a man gives another man a blow with an iron instrument, causing his death, he is a taker of life and is certainly to be put to death.
+
+<a id="v17"></a>**17** Or if he gives him a blow with a stone in his hand, causing his death, he is a taker of life and is certainly to be put to death.
+
+<a id="v18"></a>**18** Or if he gave him blows with a wood instrument in his hands, causing his death, he is a taker of life and is certainly to be put to death.
+
+<a id="v19"></a>**19** He whose right it is to give punishment for blood, may himself put to death the taker of life when he comes face to face with him.
+
+<a id="v20"></a>**20** If in his hate he put a sword through him, or waiting secretly for him sent a spear or stone at him, causing his death;
+
+<a id="v21"></a>**21** Or in hate gave him blows with his hand, causing death; he who gave the death-blow is to be put to death; he is a taker of life: he whose right it is to give punishment for blood may put to death the taker of life when he comes face to face with him.
+
+<a id="v22"></a>**22** But if a man has given a wound to another suddenly and not in hate, or without design has sent something against him,
+
+<a id="v23"></a>**23** Or has given him a blow with a stone, without seeing him, so causing his death, though he had nothing against him and no desire to do him evil:
+
+<a id="v24"></a>**24** Then let the meeting of the people be judge between the man responsible for the death and him who has the right of punishment for blood, acting by these rules:
+
+<a id="v25"></a>**25** And let the people keep the man responsible for the death safe from the hands of him who has the right of punishment for blood, and send him back to his safe town where he had gone in flight: there let him be till the death of the high priest who was marked with the holy oil.
+
+<a id="v26"></a>**26** But if ever he goes outside the walls of the safe town where he had gone in flight,
+
+<a id="v27"></a>**27** And the giver of punishment, meeting him outside the walls of the town, puts him to death, he will not be responsible for his blood:
+
+<a id="v28"></a>**28** Because he had been ordered to keep inside the safe town till the death of the high priest: but after the death of the high priest the taker of life may come back to the place of his heritage.
+
+<a id="v29"></a>**29** These rules are to be your guide in judging through all your generations wherever you may be living.
+
+<a id="v30"></a>**30** Anyone causing the death of another is himself to be put to death on the word of witnesses: but the word of one witness is not enough.
+
+<a id="v31"></a>**31** Further, no price may be given for the life of one who has taken life and whose right reward is death: he is certainly to be put to death.
+
+<a id="v32"></a>**32** And no price may be offered for one who has gone in flight to a safe town, for the purpose of letting him come back to his place before the death of the high priest.
+
+<a id="v33"></a>**33** So do not make the land where you are living unholy: for blood makes the land unholy: and there is no way of making the land free from the blood which has come on it, but only by the death of him who was the cause of it.
+
+<a id="v34"></a>**34** Do not make unclean the land where you are living and in which is my House: for I the Lord am present among the children of Israel.

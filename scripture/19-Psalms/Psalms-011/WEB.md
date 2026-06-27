@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** On the wicked he will rain blazing coals; fire, sulfur, and scorching wind shall be the portion of their cup.
 
 <a id="v7"></a>**7** For Yahweh is righteous. He loves righteousness. The upright shall see his face.
-

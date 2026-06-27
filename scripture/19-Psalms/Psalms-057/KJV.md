@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** For thy mercy is great unto the heavens, and thy truth unto the clouds.
 
 <a id="v11"></a>**11** Be thou exalted, O God, above the heavens: let thy glory be above all the earth.
-

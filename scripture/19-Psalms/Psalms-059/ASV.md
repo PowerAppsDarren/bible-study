@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** But I will sing of thy strength; Yea, I will sing aloud of thy lovingkindness in the morning: For thou hast been my high tower, And a refuge in the day of my distress.
 
 <a id="v17"></a>**17** Unto thee, O my strength, will I sing praises: For God is my high tower, the God of my mercy.
-

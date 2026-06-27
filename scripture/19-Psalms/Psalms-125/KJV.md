@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Do good, O Lord, unto those that be good, and to them that are upright in their hearts.
 
 <a id="v5"></a>**5** As for such as turn aside unto their crooked ways, the Lord shall lead them forth with the workers of iniquity: but peace shall be upon Israel.
-

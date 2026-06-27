@@ -1,0 +1,45 @@
+# Genesis 12 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now the Lord said to Abram, Go out from your country and from your family and from your father's house, into the land to which I will be your guide:
+
+<a id="v2"></a>**2** And I will make of you a great nation, blessing you and making your name great; and you will be a blessing:
+
+<a id="v3"></a>**3** To them who are good to you will I give blessing, and on him who does you wrong will I put my curse: and you will become a name of blessing to all the families of the earth.
+
+<a id="v4"></a>**4** So Abram went as the Lord had said to him, and Lot went with him: Abram was seventy-five years old when he went away from Haran.
+
+<a id="v5"></a>**5** And Abram took Sarai, his wife, and Lot, his brother's son, and all their goods and the servants which they had got in Haran, and they went out to go to the land of Canaan.
+
+<a id="v6"></a>**6** And Abram went through the land till he came to Shechem, to the holy tree of Moreh. At that time, the Canaanites were still living in the land.
+
+<a id="v7"></a>**7** And the Lord came to Abram, and said, I will give all this land to your seed; then Abram made an altar there to the Lord who had let himself be seen by him.
+
+<a id="v8"></a>**8** And moving on from there to the mountain on the east of Beth-el, he put up his tent, having Beth-el on the west and Ai on the east: and there he made an altar and gave worship to the name of the Lord.
+
+<a id="v9"></a>**9** And he went on, journeying still to the South.
+
+<a id="v10"></a>**10** And because there was little food to be had in that land, he went down into Egypt.
+
+<a id="v11"></a>**11** Now when he came near to Egypt, he said to Sarai, his wife, Truly, you are a fair woman and beautiful to the eye;
+
+<a id="v12"></a>**12** And I am certain that when the men of Egypt see you, they will say, This is his wife: and they will put me to death and keep you.
+
+<a id="v13"></a>**13** Say, then, that you are my sister, and so it will be well with me because of you, and my life will be kept safe on your account.
+
+<a id="v14"></a>**14** And so it was that when Abram came into Egypt, the men of Egypt, looking on the woman, saw that she was fair.
+
+<a id="v15"></a>**15** And Pharaoh's great men, having seen her, said words in praise of her to Pharaoh, and she was taken into Pharaoh's house.
+
+<a id="v16"></a>**16** And because of her, he was good to Abram, and he had sheep and oxen and asses, and men-servants and women-servants, and camels.
+
+<a id="v17"></a>**17** And the Lord sent great troubles on Pharaoh's house because of Sarai, Abram's wife.
+
+<a id="v18"></a>**18** Then Pharaoh sent for Abram, and said, What have you done to me? why did you not say that she was your wife?
+
+<a id="v19"></a>**19** Why did you say that she was your sister? so that I took her for my wife: now, take your wife and go on your way.
+
+<a id="v20"></a>**20** And Pharaoh gave orders to his men, and they sent him on his way, with his wife and all he had.

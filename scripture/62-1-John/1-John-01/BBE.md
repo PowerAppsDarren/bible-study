@@ -1,0 +1,25 @@
+# 1 John 1 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life
+
+<a id="v2"></a>**2** (And the life was made clear to us, and we have seen it and are witnessing to it and giving you word of that eternal life which was with the Father and was seen by us);
+
+<a id="v3"></a>**3** We give you word of all we have seen and everything which has come to our ears, so that you may be united with us; and we are united with the Father and with his Son Jesus Christ:
+
+<a id="v4"></a>**4** And we are writing these things to you so that our joy may be made complete.
+
+<a id="v5"></a>**5** This is the word which came to us from him and which we give to you, that God is light and in him there is nothing dark.
+
+<a id="v6"></a>**6** If we say we are joined to him, and are walking still in the dark, our words are false and our acts are untrue:
+
+<a id="v7"></a>**7** But if we are walking in the light, as he is in the light, we are all united with one another, and the blood of Jesus his Son makes us clean from all sin.
+
+<a id="v8"></a>**8** If we say that we have no sin, we are false to ourselves and there is nothing true in us.
+
+<a id="v9"></a>**9** If we say openly that we have done wrong, he is upright and true to his word, giving us forgiveness of sins and making us clean from all evil.
+
+<a id="v10"></a>**10** If we say that we have no sin, we make him false and his word is not in us.

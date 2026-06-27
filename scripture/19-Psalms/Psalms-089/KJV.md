@@ -107,4 +107,3 @@
 <a id="v51"></a>**51** Wherewith thine enemies have reproached, O Lord; wherewith they have reproached the footsteps of thine anointed.
 
 <a id="v52"></a>**52** Blessed be the Lord for evermore. Amen, and Amen.
-

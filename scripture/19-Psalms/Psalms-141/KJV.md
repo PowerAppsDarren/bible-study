@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** Keep me from the snares which they have laid for me, and the gins of the workers of iniquity.
 
 <a id="v10"></a>**10** Let the wicked fall into their own nets, whilst that I withal escape.
-

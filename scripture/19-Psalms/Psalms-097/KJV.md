@@ -27,4 +27,3 @@
 <a id="v11"></a>**11** Light is sown for the righteous, and gladness for the upright in heart.
 
 <a id="v12"></a>**12** Rejoice in the Lord, ye righteous; and give thanks at the remembrance of his holiness.
-

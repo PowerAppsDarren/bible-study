@@ -39,4 +39,3 @@
 <a id="v17"></a>**17** The dead don’t praise Yah, neither any who go down into silence;
 
 <a id="v18"></a>**18** But we will bless Yah, from this time forward and forever more. Praise Yah!
-

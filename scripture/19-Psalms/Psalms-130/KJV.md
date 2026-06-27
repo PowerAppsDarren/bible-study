@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption.
 
 <a id="v8"></a>**8** And he shall redeem Israel from all his iniquities.
-

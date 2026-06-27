@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Arise, O Lord; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.
 
 <a id="v8"></a>**8** Salvation belongeth unto the Lord: thy blessing is upon thy people. Selah.
-

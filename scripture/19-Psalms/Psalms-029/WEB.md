@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** Yahweh sat enthroned at the Flood. Yes, Yahweh sits as King forever.
 
 <a id="v11"></a>**11** Yahweh will give strength to his people. Yahweh will bless his people with peace.
-

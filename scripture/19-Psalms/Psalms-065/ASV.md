@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** They drop upon the pastures of the wilderness; And the hills are girded with joy.
 
 <a id="v13"></a>**13** The pastures are clothed with flocks; The valleys also are covered over with grain; They shout for joy, they also sing.
-

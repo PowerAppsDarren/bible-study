@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Do good, Yahweh, to those who are good, to those who are upright in their hearts.
 
 <a id="v5"></a>**5** But as for those who turn aside to their crooked ways, Yahweh will lead them away with the workers of iniquity. Peace be on Israel.
-

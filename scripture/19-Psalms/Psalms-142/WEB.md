@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** Listen to my cry, for I am in desperate need. deliver me from my persecutors, For they are stronger than me.
 
 <a id="v7"></a>**7** Bring my soul out of prison, that I may give thanks to your name. The righteous will surround me, for you will be good to me.
-

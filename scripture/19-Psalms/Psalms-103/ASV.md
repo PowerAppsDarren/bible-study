@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Bless Jehovah, all ye his hosts, Ye ministers of his, that do his pleasure.
 
 <a id="v22"></a>**22** Bless Jehovah, all ye his works, In all places of his dominion: Bless Jehovah, O my soul.
-

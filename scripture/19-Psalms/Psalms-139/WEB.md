@@ -51,4 +51,3 @@
 <a id="v23"></a>**23** Search me, God, and know my heart. Try me, and know my thoughts.
 
 <a id="v24"></a>**24** See if there is any wicked way in me, and lead me in the everlasting way.
-

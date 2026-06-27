@@ -65,4 +65,3 @@
 <a id="v30"></a>**30** I will greatly praise the Lord with my mouth; yea, I will praise him among the multitude.
 
 <a id="v31"></a>**31** For he shall stand at the right hand of the poor, to save him from those that condemn his soul.
-

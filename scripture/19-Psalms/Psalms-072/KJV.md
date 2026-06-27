@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.
 
 <a id="v20"></a>**20** The prayers of David the son of Jesse are ended.
-

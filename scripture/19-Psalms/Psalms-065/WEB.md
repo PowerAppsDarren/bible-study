@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** The wilderness grasslands overflow. The hills are clothed with gladness.
 
 <a id="v13"></a>**13** The pastures are covered with flocks. The valleys also are clothed with grain. They shout for joy! They also sing.
-

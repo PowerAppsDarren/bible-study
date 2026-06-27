@@ -31,4 +31,3 @@
 <a id="v13"></a>**13** Keep back thy servant also from presumptuous sins; Let them not have dominion over me: Then shall I be upright, And I shall be clear from great transgression.
 
 <a id="v14"></a>**14** Let the words of my mouth and the meditation of my heart Be acceptable in thy sight, O Jehovah, my rock, and my redeemer.
-

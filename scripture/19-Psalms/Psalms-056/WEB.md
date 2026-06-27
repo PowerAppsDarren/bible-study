@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Your vows are on me, God. I will give thank offerings to you.
 
 <a id="v13"></a>**13** For you have delivered my soul from death, and prevented my feet from falling, that I may walk before God in the light of the living.
-

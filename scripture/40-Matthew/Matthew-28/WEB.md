@@ -1,0 +1,45 @@
+# Matthew 28 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Now after the Sabbath, as it began to dawn on the first day of the week, Mary Magdalene and the other Mary came to see the tomb.
+
+<a id="v2"></a>**2** Behold, there was a great earthquake, for an angel of the Lord descended from the sky, and came and rolled away the stone from the door, and sat on it.
+
+<a id="v3"></a>**3** His appearance was like lightning, and his clothing white as snow.
+
+<a id="v4"></a>**4** For fear of him, the guards shook, and became like dead men.
+
+<a id="v5"></a>**5** The angel answered the women, “Don’t be afraid, for I know that you seek Jesus, who has been crucified.
+
+<a id="v6"></a>**6** He is not here, for he has risen, just like he said. Come, see the place where the Lord was lying.
+
+<a id="v7"></a>**7** Go quickly and tell his disciples, ‘He has risen from the dead, and behold, he goes before you into Galilee; there you will see him.’ Behold, I have told you.”
+
+<a id="v8"></a>**8** They departed quickly from the tomb with fear and great joy, and ran to bring his disciples word.
+
+<a id="v9"></a>**9** As they went to tell his disciples, behold, Jesus met them, saying, “Rejoice!”   They came and took hold of his feet, and worshiped him.
+
+<a id="v10"></a>**10** Then Jesus said to them, “Don’t be afraid. Go tell my brothers that they should go into Galilee, and there they will see me.”
+
+<a id="v11"></a>**11** Now while they were going, behold, some of the guards came into the city, and told the chief priests all the things that had happened.
+
+<a id="v12"></a>**12** When they were assembled with the elders, and had taken counsel, they gave a large amount of silver to the soldiers,
+
+<a id="v13"></a>**13** saying, “Say that his disciples came by night, and stole him away while we slept.
+
+<a id="v14"></a>**14** If this comes to the governor’s ears, we will persuade him and make you free of worry.”
+
+<a id="v15"></a>**15** So they took the money and did as they were told. This saying was spread abroad among the Jews, and continues until this day.
+
+<a id="v16"></a>**16** But the eleven disciples went into Galilee, to the mountain where Jesus had sent them.
+
+<a id="v17"></a>**17** When they saw him, they bowed down to him, but some doubted.
+
+<a id="v18"></a>**18** Jesus came to them and spoke to them, saying, “All authority has been given to me in heaven and on earth.
+
+<a id="v19"></a>**19** Go,and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+
+<a id="v20"></a>**20** teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.

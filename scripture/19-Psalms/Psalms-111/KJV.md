@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.
 
 <a id="v10"></a>**10** The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
-

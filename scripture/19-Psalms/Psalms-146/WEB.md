@@ -23,4 +23,3 @@
 <a id="v9"></a>**9** Yahweh preserves the foreigners. He upholds the fatherless and widow, but the way of the wicked he turns upside down.
 
 <a id="v10"></a>**10** Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!
-

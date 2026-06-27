@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** Praise him with loud cymbals! Praise him with resounding cymbals!
 
 <a id="v6"></a>**6** Let everything that has breath praise Yah! Praise Yah!
-

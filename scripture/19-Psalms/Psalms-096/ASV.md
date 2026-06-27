@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** Let the field exult, and all that is therein;  Then shall all the trees of the wood sing for joy
 
 <a id="v13"></a>**13** Before Jehovah; for he cometh, For he cometh to judge the earth: He will judge the world with righteousness, And the peoples with his truth.
-

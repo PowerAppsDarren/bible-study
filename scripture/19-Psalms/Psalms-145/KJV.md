@@ -45,4 +45,3 @@
 <a id="v20"></a>**20** The Lord preserveth all them that love him: but all the wicked will he destroy.
 
 <a id="v21"></a>**21** My mouth shall speak the praise of the Lord: and let all flesh bless his holy name for ever and ever.
-

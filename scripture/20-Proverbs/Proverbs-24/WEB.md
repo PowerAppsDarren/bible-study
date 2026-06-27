@@ -1,0 +1,73 @@
+# Proverbs 24 — World English Bible (WEB)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** Don’t be envious of evil men; neither desire to be with them:
+
+<a id="v2"></a>**2** for their hearts plot violence, and their lips talk about mischief.
+
+<a id="v3"></a>**3** Through wisdom a house is built; by understanding it is established;
+
+<a id="v4"></a>**4** by knowledge the rooms are filled with all rare and beautiful treasure.
+
+<a id="v5"></a>**5** A wise man has great power; and a knowledgeable man increases strength;
+
+<a id="v6"></a>**6** for by wise guidance you wage your war; and victory is in many advisors.
+
+<a id="v7"></a>**7** Wisdom is too high for a fool: he doesn’t open his mouth in the gate.
+
+<a id="v8"></a>**8** One who plots to do evil will be called a schemer.
+
+<a id="v9"></a>**9** The schemes of folly are sin. The mocker is detested by men.
+
+<a id="v10"></a>**10** If you falter in the time of trouble, your strength is small.
+
+<a id="v11"></a>**11** Rescue those who are being led away to death! Indeed, hold back those who are staggering to the slaughter!
+
+<a id="v12"></a>**12** If you say, “Behold, we didn’t know this”; doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not render to every man according to his work?
+
+<a id="v13"></a>**13** My son, eat honey, for it is good; the droppings of the honeycomb, which are sweet to your taste:
+
+<a id="v14"></a>**14** so you shall know wisdom to be to your soul; if you have found it, then there will be a reward, your hope will not be cut off.
+
+<a id="v15"></a>**15** Don’t lay in wait, wicked man, against the habitation of the righteous. Don’t destroy his resting place:
+
+<a id="v16"></a>**16** for a righteous man falls seven times, and rises up again; but the wicked are overthrown by calamity.
+
+<a id="v17"></a>**17** Don’t rejoice when your enemy falls. Don’t let your heart be glad when he is overthrown;
+
+<a id="v18"></a>**18** lest Yahweh see it, and it displease him, and he turn away his wrath from him.
+
+<a id="v19"></a>**19** Don’t fret yourself because of evildoers; neither be envious of the wicked:
+
+<a id="v20"></a>**20** for there will be no reward to the evil man; and the lamp of the wicked shall be snuffed out.
+
+<a id="v21"></a>**21** My son, fear Yahweh and the king. Don’t join those who are rebellious:
+
+<a id="v22"></a>**22** for their calamity will rise suddenly; the destruction from them both—who knows?
+
+<a id="v23"></a>**23** These also are sayings of the wise.  To show partiality in judgment is not good.
+
+<a id="v24"></a>**24** He who says to the wicked, “You are righteous”; peoples shall curse him, and nations shall abhor him—
+
+<a id="v25"></a>**25** but it will go well with those who convict the guilty, and a rich blessing will come on them.
+
+<a id="v26"></a>**26** An honest answer is like a kiss on the lips.
+
+<a id="v27"></a>**27** Prepare your work outside, and get your fields ready. Afterwards, build your house.
+
+<a id="v28"></a>**28** Don’t be a witness against your neighbor without cause. Don’t deceive with your lips.
+
+<a id="v29"></a>**29** Don’t say, “I will do to him as he has done to me; I will render to the man according to his work.”
+
+<a id="v30"></a>**30** I went by the field of the sluggard, by the vineyard of the man void of understanding;
+
+<a id="v31"></a>**31** Behold, it was all grown over with thorns. Its surface was covered with nettles, and its stone wall was broken down.
+
+<a id="v32"></a>**32** Then I saw, and considered well. I saw, and received instruction:
+
+<a id="v33"></a>**33** a little sleep, a little slumber, a little folding of the hands to sleep;
+
+<a id="v34"></a>**34** so your poverty will come as a robber, and your want as an armed man.

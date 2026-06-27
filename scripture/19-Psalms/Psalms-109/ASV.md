@@ -65,4 +65,3 @@
 <a id="v30"></a>**30** I will give great thanks unto Jehovah with my mouth; Yea, I will praise him among the multitude.
 
 <a id="v31"></a>**31** For he will stand at the right hand of the needy, To save him from them that judge his soul.
-

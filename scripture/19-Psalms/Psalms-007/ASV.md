@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** His mischief shall return upon his own head, And his violence shall come down upon his own pate.
 
 <a id="v17"></a>**17** I will give thanks unto Jehovah according to his righteousness, And will sing praise to the name of Jehovah Most High.
-

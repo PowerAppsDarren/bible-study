@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** They shall be given over to the power of the sword. They shall be jackal food.
 
 <a id="v11"></a>**11** But the king shall rejoice in God. Everyone who swears by him will praise him, for the mouth of those who speak lies shall be silenced.
-

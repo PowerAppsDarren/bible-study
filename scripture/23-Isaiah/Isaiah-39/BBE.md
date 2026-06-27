@@ -1,0 +1,21 @@
+# Isaiah 39 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** At that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters with an offering to Hezekiah, because he had news that Hezekiah had been ill, and was well again.
+
+<a id="v2"></a>**2** And Hezekiah was glad at their coming, and let them see all his store of wealth, the silver and the gold and the spices and the oil, and all the house of his arms, and everything there was in his stores: there was nothing in all his house or his kingdom which he did not let them see.
+
+<a id="v3"></a>**3** Then Isaiah the prophet came to King Hezekiah, and said to him, What did these men say, and where did they come from? And Hezekiah said, They came from a far country, even from Babylon.
+
+<a id="v4"></a>**4** And he said, What have they seen in your house? And Hezekiah said in answer, They saw everything in my house: there is nothing among my stores which I did not let them see.
+
+<a id="v5"></a>**5** Then said Isaiah to Hezekiah, Give ear to the word of the Lord of armies:
+
+<a id="v6"></a>**6** Truly, the days are coming when everything in your house, and whatever your fathers have put in store till this day, will be taken away to Babylon: all will be gone.
+
+<a id="v7"></a>**7** And your sons, even your offspring, will they take away to be unsexed servants in the house of the king of Babylon.
+
+<a id="v8"></a>**8** Then said Hezekiah to Isaiah, Good is the word of the Lord which you have said. And he said in his heart, There will be peace and quiet in my days.

@@ -15,4 +15,3 @@
 <a id="v5"></a>**5** They that sow in tears shall reap in joy.
 
 <a id="v6"></a>**6** He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.
-

@@ -47,4 +47,3 @@
 <a id="v21"></a>**21** Praise Yahweh, all you armies of his, you servants of his, who do his pleasure.
 
 <a id="v22"></a>**22** Praise Yahweh, all you works of his, in all places of his dominion. Praise Yahweh, my soul!
-

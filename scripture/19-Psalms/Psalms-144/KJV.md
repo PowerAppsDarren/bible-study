@@ -33,4 +33,3 @@
 <a id="v14"></a>**14** That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets.
 
 <a id="v15"></a>**15** Happy is that people, that is in such a case: yea, happy is that people, whose God is the Lord.
-

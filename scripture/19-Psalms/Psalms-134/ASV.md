@@ -9,4 +9,3 @@
 <a id="v2"></a>**2** Lift up your hands to the sanctuary, And bless ye Jehovah.
 
 <a id="v3"></a>**3** Jehovah bless thee out of Zion; Even he that made heaven and earth.
-

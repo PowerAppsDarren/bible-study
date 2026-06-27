@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Yahweh will keep you from all evil. He will keep your soul.
 
 <a id="v8"></a>**8** Yahweh will keep your going out and your coming in, from this time forward, and forever more.
-

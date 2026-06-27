@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.
 
 <a id="v17"></a>**17** I will praise the Lord according to his righteousness: and will sing praise to the name of the Lord most high.
-

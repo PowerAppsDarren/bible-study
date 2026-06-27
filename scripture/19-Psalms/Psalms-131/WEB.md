@@ -9,4 +9,3 @@
 <a id="v2"></a>**2** Surely I have stilled and quieted my soul, like a weaned child with his mother, like a weaned child is my soul within me.
 
 <a id="v3"></a>**3** Israel, hope in Yahweh, from this time forward and forever more.
-

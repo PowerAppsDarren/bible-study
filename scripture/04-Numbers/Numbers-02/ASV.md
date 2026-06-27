@@ -1,0 +1,73 @@
+# Numbers 2 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** And Jehovah spake unto Moses and unto Aaron, saying,
+
+<a id="v2"></a>**2** The children of Israel shall encamp every man by his own standard, with the ensigns of their fathers’ houses: over against the tent of meeting shall they encamp round about.
+
+<a id="v3"></a>**3** And those that encamp on the east side toward the sunrising shall be they of the standard of the camp of Judah, according to their hosts: and the prince of the children of Judah shall be Nahshon the son of Amminadab.
+
+<a id="v4"></a>**4** And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred.
+
+<a id="v5"></a>**5** And those that encamp next unto him shall be the tribe of Issachar: and the prince of the children of Issachar shall be Nethanel the son of Zuar.
+
+<a id="v6"></a>**6** And his host, and those that were numbered thereof, were fifty and four thousand and four hundred.
+
+<a id="v7"></a>**7** And the tribe of Zebulun: and the prince of the children of Zebulun shall be Eliab the son of Helon.
+
+<a id="v8"></a>**8** And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred.
+
+<a id="v9"></a>**9** All that were numbered of the camp of Judah were a hundred thousand and fourscore thousand and six thousand and four hundred, according to their hosts. They shall set forth first.
+
+<a id="v10"></a>**10** On the south side shall be the standard of the camp of Reuben according to their hosts: and the prince of the children of Reuben shall be Elizur the son of Shedeur.
+
+<a id="v11"></a>**11** And his host, and those that were numbered thereof, were forty and six thousand and five hundred.
+
+<a id="v12"></a>**12** And those that encamp next unto him shall be the tribe of Simeon: and the prince of the children of Simeon shall be Shelumiel the son of Zurishaddai.
+
+<a id="v13"></a>**13** And his host, and those that were numbered of them, were fifty and nine thousand and three hundred.
+
+<a id="v14"></a>**14** And the tribe of Gad: and the prince of the children of Gad shall be Eliasaph the son of Reuel.
+
+<a id="v15"></a>**15** And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty.
+
+<a id="v16"></a>**16** All that were numbered of the camp of Reuben were a hundred thousand and fifty and one thousand and four hundred and fifty, according to their hosts. And they shall set forth second.
+
+<a id="v17"></a>**17** Then the tent of meeting shall set forward, with the camp of the Levites in the midst of the camps: as they encamp, so shall they set forward, every man in his place, by their standards.
+
+<a id="v18"></a>**18** On the west side shall be the standard of the camp of Ephraim according to their hosts: and the prince of the children of Ephraim shall be Elishama the son of Ammihud.
+
+<a id="v19"></a>**19** And his host, and those that were numbered of them, were forty thousand and five hundred.
+
+<a id="v20"></a>**20** And next unto him shall be the tribe of Manasseh: and the prince of the children of Manasseh shall be Gamaliel the son of Pedahzur.
+
+<a id="v21"></a>**21** And his host, and those that were numbered of them, were thirty and two thousand and two hundred.
+
+<a id="v22"></a>**22** And the tribe of Benjamin: and the prince of the children of Benjamin shall be Abidan the son of Gideoni.
+
+<a id="v23"></a>**23** And his host, and those that were numbered of them, were thirty and five thousand and four hundred.
+
+<a id="v24"></a>**24** All that were numbered of the camp of Ephraim were a hundred thousand and eight thousand and a hundred, according to their hosts. And they shall set forth third.
+
+<a id="v25"></a>**25** On the north side shall be the standard of the camp of Dan according to their hosts: and the prince of the children of Dan shall be Ahiezer the son of Ammishaddai.
+
+<a id="v26"></a>**26** And his host, and those that were numbered of them, were threescore and two thousand and seven hundred.
+
+<a id="v27"></a>**27** And those that encamp next unto him shall be the tribe of Asher: and the prince of the children of Asher shall be Pagiel the son of Ochran.
+
+<a id="v28"></a>**28** And his hosts, and those that were numbered of them, were forty and one thousand and five hundred.
+
+<a id="v29"></a>**29** And the tribe of Naphtali: and the prince of the children of Naphtali shall be Ahira the son of Enan.
+
+<a id="v30"></a>**30** And his host, and those that were numbered of them, were fifty and three thousand and four hundred.
+
+<a id="v31"></a>**31** All that were numbered of the camp of Dan were a hundred thousand and fifty and seven thousand and six hundred. They shall set forth hindmost by their standards.
+
+<a id="v32"></a>**32** These are they that were numbered of the children of Israel by their fathers’ houses: all that were numbered of the camps according to their hosts were six hundred thousand and three thousand and five hundred and fifty.
+
+<a id="v33"></a>**33** But the Levites were not numbered among the children of Israel; as Jehovah commanded Moses.
+
+<a id="v34"></a>**34** Thus did the children of Israel; according to all that Jehovah commanded Moses, so they encamped by their standards, and so they set forward, every one by their families, according to their fathers’ houses.

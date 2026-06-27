@@ -1,0 +1,33 @@
+# 2 Corinthians 13 — American Standard Version (ASV)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** This is the third time I am coming to you. At the mouth of two witnesses or three shall every word be established.
+
+<a id="v2"></a>**2** I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, to them that have sinned heretofore, and to all the rest, that, if I come again, I will not spare;
+
+<a id="v3"></a>**3** seeing that ye seek a proof of Christ that speaketh in me; who to you-ward is not weak, but is powerful in you:
+
+<a id="v4"></a>**4** for he was crucified through weakness, yet he liveth through the power of God. For we also are weak in him, but we shall live with him through the power of God toward you.
+
+<a id="v5"></a>**5** Try your own selves, whether ye are in the faith; prove your own selves. Or know ye not as to your own selves, that Jesus Christ is in you? unless indeed ye be reprobate.
+
+<a id="v6"></a>**6** But I hope that ye shall know that we are not reprobate.
+
+<a id="v7"></a>**7** Now we pray to God that ye do no evil; not that we may appear approved, but that ye may do that which is honorable, though we be as reprobate.
+
+<a id="v8"></a>**8** For we can do nothing against the truth, but for the truth.
+
+<a id="v9"></a>**9** For we rejoice, when we are weak, and ye are strong: this we also pray for, even your perfecting.
+
+<a id="v10"></a>**10** For this cause I write these things while absent, that I may not when present deal sharply, according to the authority which the Lord gave me for building up, and not for casting down.
+
+<a id="v11"></a>**11** Finally, brethren, farewell. Be perfected; be comforted; be of the same mind; live in peace: and the God of love and peace shall be with you.
+
+<a id="v12"></a>**12** Salute one another with a holy kiss.
+
+<a id="v13"></a>**13** All the saints salute you.
+
+<a id="v14"></a>**14** The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit, be with you all.

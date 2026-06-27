@@ -19,4 +19,3 @@
 <a id="v7"></a>**7** Thou shalt keep them, O Lord, thou shalt preserve them from this generation for ever.
 
 <a id="v8"></a>**8** The wicked walk on every side, when the vilest men are exalted.
-

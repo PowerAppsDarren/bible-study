@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** That he may set him with princes, even with the princes of his people.
 
 <a id="v9"></a>**9** He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the Lord.
-

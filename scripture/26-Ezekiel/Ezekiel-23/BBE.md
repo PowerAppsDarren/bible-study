@@ -1,0 +1,103 @@
+# Ezekiel 23 — Basic English Bible (BBE)
+
+*Public domain. Source: getbible.net.*
+
+---
+
+<a id="v1"></a>**1** The word of the Lord came to me again, saying,
+
+<a id="v2"></a>**2** Son of man, there were two women, daughters of one mother:
+
+<a id="v3"></a>**3** They were acting like loose women in Egypt; when they were young their behaviour was loose: there their breasts were crushed, even the points of their young breasts were crushed.
+
+<a id="v4"></a>**4** Their names were Oholah, the older, and Oholibah, her sister: and they became mine, and gave birth to sons and daughters. As for their names, Samaria is Oholah, and Jerusalem, Oholibah.
+
+<a id="v5"></a>**5** And Oholah was untrue to me when she was mine; she was full of desire for her lovers, even for the Assyrians, her neighbours,
+
+<a id="v6"></a>**6** Who were clothed in blue, captains and rulers, all of them young men to be desired, horsemen seated on horses.
+
+<a id="v7"></a>**7** And she gave her unclean love to them, all of them the noblest men of Assyria: and she made herself unclean with the images of all who were desired by her.
+
+<a id="v8"></a>**8** And she has not given up her loose ways from the time when she was in Egypt; for when she was young they were her lovers, and by them her young breasts were crushed, and they let loose on her their unclean desire.
+
+<a id="v9"></a>**9** For this cause I gave her up into the hands of her lovers, into the hands of the Assyrians on whom her desire was fixed.
+
+<a id="v10"></a>**10** By these her shame was uncovered: they took her sons and daughters and put her to death with the sword: and she became a cause of wonder to women; for they gave her the punishment which was right.
+
+<a id="v11"></a>**11** And her sister Oholibah saw this, but her desire was even more unmeasured, and her loose behaviour was worse than that of her sister.
+
+<a id="v12"></a>**12** She was full of desire for the Assyrians, captains and rulers, her neighbours, clothed in blue, horsemen going on horses, all of them young men to be desired.
+
+<a id="v13"></a>**13** And I saw that she had become unclean; the two of them went the same way.
+
+<a id="v14"></a>**14** And her loose behaviour became worse; for she saw men pictured on a wall, pictures of the Chaldaeans painted in bright red,
+
+<a id="v15"></a>**15** With bands round their bodies and with head-dresses hanging round their heads, all of them looking like rulers, like the Babylonians, the land of whose birth is Chaldaea.
+
+<a id="v16"></a>**16** And when she saw them she was full of desire for them, and sent servants to them in Chaldaea.
+
+<a id="v17"></a>**17** And the Babylonians came to her, into the bed of love, and made her unclean with their loose desire, and she became unclean with them, and her soul was turned from them.
+
+<a id="v18"></a>**18** So her loose behaviour was clearly seen and her shame uncovered: then my soul was turned from her as it had been turned from her sister.
+
+<a id="v19"></a>**19** But still she went on the more with her loose behaviour, keeping in mind the early days when she had been a loose woman in the land of Egypt.
+
+<a id="v20"></a>**20** And she was full of desire for her lovers, whose flesh is like the flesh of asses and whose seed is like the seed of horses.
+
+<a id="v21"></a>**21** And she made the memory of the loose ways of her early years come back to mind, when her young breasts were crushed by the Egyptians.
+
+<a id="v22"></a>**22** For this cause, O Oholibah, this is what the Lord has said: See, I will make your lovers come up against you, even those from whom your soul is turned away in disgust; and I will make them come up against you on every side;
+
+<a id="v23"></a>**23** The Babylonians and all the Chaldaeans, Pekod and Shoa and Koa, and all the Assyrians with them: young men to be desired, captains and rulers all of them, and chiefs, her neighbours, all of them on horseback.
+
+<a id="v24"></a>**24** And they will come against you from the north on horseback, with war-carriages and a great band of peoples; they will put themselves in order against you with breastplate and body-cover and metal head-dress round about you: and I will make them your judges, and they will give their decision against you as seems right to them.
+
+<a id="v25"></a>**25** And my bitter feeling will be working against you, and they will take you in hand with passion; they will take away your nose and your ears, and the rest of you will be put to the sword: they will take your sons and daughters, and the rest of you will be burned up in the fire.
+
+<a id="v26"></a>**26** And they will take all your clothing off you and take away your ornaments.
+
+<a id="v27"></a>**27** So I will put an end to your evil ways and your loose behaviour which came from the land of Egypt: and your eyes will never be lifted up to them again, and you will have no more memory of Egypt.
+
+<a id="v28"></a>**28** For this is what the Lord has said: See, I will give you up into the hands of those who are hated by you, into the hands of those from whom your soul is turned away in disgust:
+
+<a id="v29"></a>**29** And they will take you in hand with hate, and take away all the fruit of your work, and let you be unveiled and without clothing: and the shame of your loose behaviour will be uncovered, your evil designs and your loose ways.
+
+<a id="v30"></a>**30** They will do these things to you because you have been untrue to me, and have gone after the nations, and have become unclean with their images.
+
+<a id="v31"></a>**31** You have gone in the way of your sister; and I will give her cup into your hand.
+
+<a id="v32"></a>**32** This is what the Lord has said: You will take a drink from your sister's cup, which is deep and wide: you will be laughed at and looked down on, more than you are able to undergo.
+
+<a id="v33"></a>**33** You will be broken and full of sorrow, with the cup of wonder and destruction, with the cup of your sister Samaria.
+
+<a id="v34"></a>**34** And after drinking it and draining it out, you will take the last drops of it to the end, pulling off your breasts: for I have said it, says the Lord.
+
+<a id="v35"></a>**35** So this is what the Lord has said: Because you have not kept me in your memory, and because your back has been turned to me, you will even undergo the punishment of your evil designs and your loose ways.
+
+<a id="v36"></a>**36** Then the Lord said to me: Son of man, will you be the judge of Oholibah? then make clear to her the disgusting things she has done.
+
+<a id="v37"></a>**37** For she has been false to me, and blood is on her hands, and with her images she has been untrue; and more than this, she made her sons, whom she had by me, go through the fire to them to be burned up.
+
+<a id="v38"></a>**38** Further, this is what she has done to me: she has made my holy place unclean and has made my Sabbaths unclean.
+
+<a id="v39"></a>**39** For when she had made an offering of her children to her images, she came into my holy place to make it unclean; see, this is what she has done inside my house.
+
+<a id="v40"></a>**40** And she even sent for men to come from far away, to whom a servant was sent, and they came: for whom she was washing her body and painting her eyes and making herself fair with ornaments.
+
+<a id="v41"></a>**41** And she took her seat on a great bed, with a table put ready before it on which she put my perfume and my oil.
+
+<a id="v42"></a>**42** ... and they put jewels on her hands and beautiful crowns on her head.
+
+<a id="v43"></a>**43** Then I said ... now she will go on with her loose ways.
+
+<a id="v44"></a>**44** And they went in to her, as men go to a loose woman: so they went in to Oholibah, the loose woman.
+
+<a id="v45"></a>**45** And upright men will be her judges, judging her as false wives and women who take lives are judged; because she has been untrue to me and blood is on her hands.
+
+<a id="v46"></a>**46** For this is what the Lord has said: I will make a great meeting of the people come together against her, and will send on her shaking fear and take everything from her.
+
+<a id="v47"></a>**47** And the meeting, after stoning her with stones, will put an end to her with their swords; they will put her sons and daughters to death and have her house burned up with fire.
+
+<a id="v48"></a>**48** And I will put an end to evil in all the land, teaching all women not to do as you have done.
+
+<a id="v49"></a>**49** And I will send on you the punishment of your evil ways, and you will be rewarded for your sins with your images: and you will be certain that I am the Lord.

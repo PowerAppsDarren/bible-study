@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** He will judge among the nations. He will heap up dead bodies. He will crush the ruler of the whole earth.
 
 <a id="v7"></a>**7** He will drink of the brook on the way; therefore he will lift up his head.
-

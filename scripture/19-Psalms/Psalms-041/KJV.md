@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.
 
 <a id="v13"></a>**13** Blessed be the Lord God of Israel from everlasting, and to everlasting. Amen, and Amen.
-

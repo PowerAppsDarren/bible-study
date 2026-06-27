@@ -43,4 +43,3 @@
 <a id="v19"></a>**19** Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known.
 
 <a id="v20"></a>**20** Thou leddest thy people like a flock by the hand of Moses and Aaron.
-

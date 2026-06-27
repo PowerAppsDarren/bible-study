@@ -83,4 +83,3 @@
 <a id="v39"></a>**39** But the salvation of the righteous is from Yahweh. He is their stronghold in the time of trouble.
 
 <a id="v40"></a>**40** Yahweh helps them, and rescues them. He rescues them from the wicked, and saves them, Because they have taken refuge in him.
-

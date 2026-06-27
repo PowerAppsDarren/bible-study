@@ -147,4 +147,3 @@
 <a id="v71"></a>**71** From following the ewes that have their young he brought him, To be the shepherd of Jacob his people, and Israel his inheritance.
 
 <a id="v72"></a>**72** So he was their shepherd according to the integrity of his heart, And guided them by the skilfulness of his hands.
-

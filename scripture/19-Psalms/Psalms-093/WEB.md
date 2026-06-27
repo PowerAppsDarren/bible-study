@@ -13,4 +13,3 @@
 <a id="v4"></a>**4** Above the voices of many waters, the mighty breakers of the sea, Yahweh on high is mighty.
 
 <a id="v5"></a>**5** Your statutes stand firm. Holiness adorns your house, Yahweh, forever more.
-

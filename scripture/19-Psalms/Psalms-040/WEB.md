@@ -37,4 +37,3 @@
 <a id="v16"></a>**16** Let all those who seek you rejoice and be glad in you. Let such as love your salvation say continually, “Let Yahweh be exalted!”
 
 <a id="v17"></a>**17** But I am poor and needy. May the Lord think about me. You are my help and my deliverer. Don’t delay, my God.
-

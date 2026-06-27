@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** Let the floods clap their hands; Let the hills sing for joy together
 
 <a id="v9"></a>**9** Before Jehovah; for he cometh to judge the earth: He will judge the world with righteousness, And the peoples with equity.
-

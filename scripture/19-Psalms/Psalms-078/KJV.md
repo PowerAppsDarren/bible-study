@@ -147,4 +147,3 @@
 <a id="v71"></a>**71** From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.
 
 <a id="v72"></a>**72** So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.
-

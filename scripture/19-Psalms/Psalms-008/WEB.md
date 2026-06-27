@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** The birds of the sky, the fish of the sea, and whatever passes through the paths of the seas.
 
 <a id="v9"></a>**9** Yahweh, our Lord, how majestic is your name in all the earth!
-

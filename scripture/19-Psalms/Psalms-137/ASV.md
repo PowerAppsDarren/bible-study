@@ -21,4 +21,3 @@
 <a id="v8"></a>**8** O daughter of Babylon, that art to be destroyed, Happy shall he be, that rewardeth thee As thou hast served us.
 
 <a id="v9"></a>**9** Happy shall he be, that taketh and dasheth thy little ones Against the rock.
-

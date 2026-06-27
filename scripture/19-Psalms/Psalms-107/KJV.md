@@ -89,4 +89,3 @@
 <a id="v42"></a>**42** The righteous shall see it, and rejoice: and all iniquity shall stop her mouth.
 
 <a id="v43"></a>**43** Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the Lord.
-

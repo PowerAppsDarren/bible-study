@@ -25,4 +25,3 @@
 <a id="v10"></a>**10** Many sorrows shall be to the wicked; But he that trusteth in Jehovah, lovingkindness shall compass him about.
 
 <a id="v11"></a>**11** Be glad in Jehovah, and rejoice, ye righteous; And shout for joy, all ye that are upright in heart.
-

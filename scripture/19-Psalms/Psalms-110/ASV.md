@@ -17,4 +17,3 @@
 <a id="v6"></a>**6** He will judge among the nations, He will fillthe placeswith dead bodies; He will strike through the head in many countries.
 
 <a id="v7"></a>**7** He will drink of the brook in the way: Therefore will he lift up the head.
-

@@ -29,4 +29,3 @@
 <a id="v12"></a>**12** “Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were.
 
 <a id="v13"></a>**13** Oh spare me, that I may recover strength, before I go away, and exist no more.”
-
