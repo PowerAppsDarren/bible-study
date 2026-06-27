@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ezekiel 1 — Wheels Within Wheels</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&family=Noto+Serif+Hebrew:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e0c0a;
+    --panel:#171310;
+    --panel2:#1d1813;
+    --ink:#e8e0d2;
+    --ink-dim:#a89a85;
+    --gold:#d4a843;
+    --gold-soft:#b8923a;
+    --ember:#c4543a;
+    --olive:#7c9a5c;
+    --sky:#6da3c4;
+    --line:#2e2620;
+    --serif:'Cormorant Garamond',Georgia,serif;
+    --sans:'Inter',system-ui,sans-serif;
+    --hebrew:'Noto Serif Hebrew',serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:17px;
+    line-height:1.75;
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:0 24px 100px}
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    position:relative;
+    text-align:center;
+    padding:90px 24px 70px;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% -10%, rgba(212,168,67,.20), transparent 60%),
+      radial-gradient(ellipse 60% 50% at 50% 110%, rgba(196,84,58,.12), transparent 60%),
+      var(--bg);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero .kicker{
+    font-size:13px;letter-spacing:.35em;text-transform:uppercase;
+    color:var(--gold);font-weight:600;margin-bottom:22px;
+  }
+  .hero h1{
+    font-family:var(--serif);
+    font-size:clamp(44px,7vw,76px);
+    font-weight:700;line-height:1.05;
+    color:var(--ink);
+  }
+  .hero h1 .accent{color:var(--gold)}
+  .hero .subtitle{
+    font-family:var(--serif);font-style:italic;
+    font-size:clamp(20px,3vw,28px);
+    color:var(--ink-dim);margin-top:18px;
+  }
+  .hero .heb-banner{
+    font-family:var(--hebrew);
+    font-size:clamp(26px,4vw,38px);
+    color:rgba(212,168,67,.60);
+    margin-top:34px;direction:rtl;
+  }
+  .hero .heb-caption{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:6px}
+
+  .hook{
+    margin:48px auto 0;max-width:640px;
+    border:1px solid rgba(196,84,58,.40);
+    background:linear-gradient(180deg, rgba(196,84,58,.10), rgba(196,84,58,.02));
+    border-radius:14px;padding:26px 30px;
+  }
+  .hook .big{
+    font-family:var(--serif);font-weight:700;
+    font-size:clamp(20px,3vw,26px);letter-spacing:.04em;color:var(--ember);
+  }
+  .hook .small{font-size:14px;color:var(--ink-dim);margin-top:8px;font-style:italic}
+
+  /* ---------- SECTIONS ---------- */
+  section{margin-top:72px}
+  .sec-head{display:flex;align-items:center;gap:16px;margin-bottom:26px}
+  .sec-head .emoji{
+    flex:0 0 auto;width:54px;height:54px;border-radius:14px;
+    display:flex;align-items:center;justify-content:center;
+    font-size:26px;background:var(--panel2);border:1px solid var(--line);
+  }
+  .sec-head h2{
+    font-family:var(--serif);font-size:clamp(28px,4vw,36px);
+    font-weight:700;line-height:1.15;
+  }
+  .sec-head .sub{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
+  p{margin-bottom:18px;color:var(--ink)}
+  p.dim{color:var(--ink-dim)}
+  strong{color:#f3ead7}
+  em{color:var(--ink)}
+
+  /* verse blockquote */
+  .verse{
+    border-left:3px solid var(--gold);
+    background:linear-gradient(90deg, rgba(212,168,67,.07), transparent 70%);
+    padding:22px 26px;margin:26px 0;border-radius:0 12px 12px 0;
+  }
+  .verse .text{font-family:var(--serif);font-size:22px;font-style:italic;line-height:1.6;color:#efe6d4}
+  .verse .ref{margin-top:10px;font-size:13px;letter-spacing:.15em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  .verse.ember{border-left-color:var(--ember);background:linear-gradient(90deg, rgba(196,84,58,.08), transparent 70%)}
+  .verse.ember .ref{color:var(--ember)}
+  .verse.olive{border-left-color:var(--olive);background:linear-gradient(90deg, rgba(124,154,92,.08), transparent 70%)}
+  .verse.olive .ref{color:var(--olive)}
+  .verse.sky{border-left-color:var(--sky);background:linear-gradient(90deg, rgba(109,163,196,.08), transparent 70%)}
+  .verse.sky .ref{color:var(--sky)}
+
+  /* hebrew word cards */
+  .word-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin:28px 0}
+  .word-card{
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:26px;position:relative;overflow:hidden;
+  }
+  .word-card::before{
+    content:'';position:absolute;inset:0 0 auto 0;height:3px;
+    background:linear-gradient(90deg,var(--gold),transparent);
+  }
+  .word-card .heb{font-family:var(--hebrew);font-size:38px;color:var(--gold);direction:rtl;line-height:1.3}
+  .word-card .translit{font-style:italic;font-family:var(--serif);font-size:20px;color:var(--ink);margin-top:4px}
+  .word-card .gloss{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-dim);font-weight:600;margin-top:2px;margin-bottom:12px}
+  .word-card p{font-size:15px;line-height:1.65;color:var(--ink-dim);margin-bottom:0}
+  .word-card p strong{color:var(--ink)}
+
+  /* featured verse mega-card */
+  .featured{
+    background:
+      radial-gradient(ellipse 90% 100% at 50% 0%, rgba(212,168,67,.12), transparent 55%),
+      var(--panel);
+    border:1px solid rgba(212,168,67,.45);
+    border-radius:20px;padding:46px 42px;margin-top:10px;
+  }
+  .featured .label{
+    display:inline-block;font-size:12px;letter-spacing:.3em;text-transform:uppercase;
+    color:var(--bg);background:var(--gold);font-weight:700;
+    padding:6px 14px;border-radius:999px;margin-bottom:24px;
+  }
+  .featured .heb-line{
+    font-family:var(--hebrew);font-size:clamp(26px,5vw,40px);
+    color:var(--gold);direction:rtl;text-align:center;
+    margin:18px 0 6px;line-height:1.5;
+  }
+  .featured .heb-translit{text-align:center;font-family:var(--serif);font-style:italic;font-size:19px;color:var(--ink-dim);margin-bottom:26px}
+
+  /* four-faces pairs */
+  .pairs{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:28px 0}
+  .pair{
+    background:var(--panel2);border:1px solid var(--line);border-radius:14px;
+    padding:18px 20px;text-align:center;
+  }
+  .pair .faces{font-size:34px;letter-spacing:4px}
+  .pair .who{font-family:var(--serif);font-size:18px;color:var(--ink);margin-top:8px}
+  .pair .who em{color:var(--gold);font-style:normal}
+  .pair .tag{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-dim);margin-top:4px}
+
+  /* teacher callouts */
+  .teacher{
+    display:flex;gap:18px;align-items:flex-start;
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:22px 26px;margin:24px 0;
+  }
+  .teacher .avatar{
+    flex:0 0 auto;width:46px;height:46px;border-radius:50%;
+    background:linear-gradient(135deg,var(--gold),var(--ember));
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--serif);font-weight:700;font-size:18px;color:var(--bg);
+  }
+  .teacher .name{font-weight:700;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+  .teacher p{font-size:15.5px;color:var(--ink-dim);margin:6px 0 0}
+  .teacher p strong{color:var(--ink)}
+
+  /* divider */
+  .divider{display:flex;align-items:center;gap:18px;margin:70px 0 0;color:var(--gold)}
+  .divider::before,.divider::after{content:'';flex:1;height:1px;background:var(--line)}
+  .divider span{font-size:20px}
+
+  /* name highlight */
+  .remnant-name{text-align:center;margin:34px 0}
+  .remnant-name .heb{font-family:var(--hebrew);font-size:46px;color:var(--gold);direction:rtl}
+  .remnant-name .t{font-family:var(--serif);font-style:italic;font-size:22px;color:var(--ink)}
+  .remnant-name .d{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:4px}
+
+  /* closing */
+  .closing{
+    background:
+      radial-gradient(ellipse 80% 100% at 50% 100%, rgba(212,168,67,.12), transparent 60%),
+      var(--panel);
+    border:1px solid var(--line);border-radius:20px;padding:44px 42px;
+  }
+  .closing .three{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin:26px 0}
+  .closing .pillar{
+    background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:20px;
+  }
+  .closing .pillar .p-t{font-family:var(--serif);font-weight:700;font-size:20px;color:var(--gold);margin-bottom:6px}
+  .closing .pillar p{font-size:14.5px;color:var(--ink-dim);margin:0}
+
+  /* next chapter */
+  .next{
+    margin-top:60px;text-align:center;
+    border:1px dashed rgba(212,168,67,.5);border-radius:16px;
+    padding:40px 30px;
+    background:linear-gradient(180deg, rgba(212,168,67,.06), transparent);
+  }
+  .next .label{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:12px}
+  .next h3{font-family:var(--serif);font-size:30px;font-weight:700;color:var(--ink)}
+  .next p{color:var(--ink-dim);font-size:16px;max-width:560px;margin:12px auto 0}
+  .next .sprout{font-size:34px;margin-top:14px}
+
+  footer{margin-top:70px;text-align:center;font-size:13px;color:var(--ink-dim);letter-spacing:.08em}
+  @media (max-width:600px){
+    .featured{padding:32px 22px}
+    .closing{padding:32px 22px}
+  }
+  /* TOC-CSS-START */
+  .toc{margin:46px 0 8px;border:1px solid var(--line);background:var(--panel);border-radius:16px;padding:24px 28px}
+  .toc .toc-h{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:16px}
+  .toc ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:4px 24px}
+  .toc a{display:flex;gap:12px;align-items:baseline;color:var(--ink-dim);text-decoration:none;padding:8px 10px;border-radius:9px;font-family:var(--serif);font-size:18px;line-height:1.3;transition:background .15s ease,color .15s ease}
+  .toc a:hover{background:var(--panel2);color:var(--ink)}
+  .toc a .n{font-family:var(--sans);font-size:12px;font-weight:700;color:var(--gold);min-width:22px}
+  .toc a .e{font-size:17px;flex:0 0 auto}
+  section{scroll-margin-top:24px}
+  /* TOC-CSS-END */
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="kicker">A Deep Devotional Study · Ezekiel 1 of 48</div>
+  <h1>Ezekiel 1<br><span class="accent">"Wheels Within Wheels"</span></h1>
+  <div class="subtitle">A storm out of the north, four living creatures of fire, a throne of sapphire — and the glory of God arriving where it should not be: in exile</div>
+  <div class="heb-banner">מַרְאֵה דְּמוּת כְּבוֹד־יְהוָה</div>
+  <div class="heb-caption">mar'eh demut kevod-YHWH — "the appearance of the likeness of the glory of the LORD"</div>
+  <div class="hook">
+    <div class="big">🌩️ THE GLORY SHOWS UP IN BABYLON</div>
+    <div class="small">A captive priest by a foreign canal looks up — and the throne-room of heaven comes rolling toward him on wheels of fire, hundreds of miles from the temple it was supposed to live in.</div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<nav class="toc">
+  <div class="toc-h">In This Study</div>
+  <ol>
+    <li><a href="#s-by-the-river-among-the-captives"><span class="n">01</span><span class="e">🌊</span><span class="t">By the River, Among the Captives</span></a></li>
+    <li><a href="#s-a-storm-out-of-the-north"><span class="n">02</span><span class="e">🌩️</span><span class="t">A Storm Out of the North</span></a></li>
+    <li><a href="#s-four-hebrew-words-that-carry-it"><span class="n">03</span><span class="e">📖</span><span class="t">Four Hebrew Words That Carry It</span></a></li>
+    <li><a href="#s-four-faces-four-directions"><span class="n">04</span><span class="e">🦁</span><span class="t">Four Faces, Four Directions</span></a></li>
+    <li><a href="#s-a-wheel-inside-a-wheel"><span class="n">05</span><span class="e">⚙️</span><span class="t">A Wheel Inside a Wheel</span></a></li>
+    <li><a href="#s-the-crystal-dome-and-the-sapphire-seat"><span class="n">06</span><span class="e">💎</span><span class="t">The Crystal Dome and the Sapphire Seat</span></a></li>
+    <li><a href="#s-the-likeness-of-the-glory-of-the-lord"><span class="n">07</span><span class="e">🌈</span><span class="t">&quot;The Likeness of the Glory of the LORD&quot;</span></a></li>
+    <li><a href="#s-where-else-this-throne-appears"><span class="n">08</span><span class="e">🕯️</span><span class="t">Where Else This Throne Appears</span></a></li>
+    <li><a href="#s-closing-reflection"><span class="n">09</span><span class="e">🕊️</span><span class="t">Closing Reflection</span></a></li>
+  </ol>
+</nav>
+
+
+<!-- SECTION 1 — THE ANCHOR -->
+<section id="s-by-the-river-among-the-captives">
+  <div class="sec-head">
+    <div class="emoji">🌊</div>
+    <div><div class="sub">Ezekiel 1:1–3 · The setting</div><h2>By the River, Among the Captives</h2></div>
+  </div>
+  <p>Before a single wheel turns, the book nails itself to a map and a calendar. <strong>The where and the when are the whole shock.</strong> Ezekiel isn't standing in the Jerusalem temple, where God's glory was understood to dwell over the ark. He is a deportee in Mesopotamia, by an irrigation canal, on the wrong side of the world.</p>
+  <div class="verse sky">
+    <div class="text">"Now it came about in the thirtieth year… while I was by the river Chebar among those who had been made prisoners, that the heavens were made open and I saw visions of God."</div>
+    <div class="ref">Ezekiel 1:1 · BBE</div>
+  </div>
+  <p>The date is given twice over: "the fifth day of the month, in the fifth year after King Jehoiachin had been made a prisoner" (v.2). Jehoiachin was carried off to Babylon in 597 BC, so his fifth year lands the vision around <strong>593 BC</strong> — Ezekiel among the first wave of exiles, while Jerusalem and its temple still stood, six years from the fire of 586. The "thirtieth year" of verse 1 is debated: the oldest and most common reading is that this is <strong>Ezekiel's own age</strong> — thirty, the year a priest entered full temple service (<a href="../../04-Numbers/Numbers-04/README.md">Numbers 4</a>:3). The grim irony is built in: at the age he should have begun serving at the altar, he is a priest with no temple, hundreds of miles away.</p>
+  <p>The <em>river Chebar</em> is the <strong>Kebar canal</strong> (Akkadian <em>nār Kabari</em>), a major waterway off the Euphrates near the city of Nippur in southern Babylonia, where a community of Judean exiles was settled. Babylonian administrative tablets actually mention this canal — the geography is real, not symbolic. And there, in unclean Gentile territory, "the heavens were made open." <strong>The glory that lived behind the veil came looking for the people in chains.</strong></p>
+</section>
+
+<!-- SECTION 2 — THE STORM -->
+<section id="s-a-storm-out-of-the-north">
+  <div class="sec-head">
+    <div class="emoji">🌩️</div>
+    <div><div class="sub">Ezekiel 1:4 · The approach</div><h2>A Storm Out of the North</h2></div>
+  </div>
+  <div class="verse ember">
+    <div class="text">"And, looking, I saw a storm-wind coming out of the north, a great cloud with flames of fire coming after one another, and a bright light shining round about it and in the heart of it was something coloured like electrum."</div>
+    <div class="ref">Ezekiel 1:4 · BBE</div>
+  </div>
+  <p>The vision opens like weather — wind, cloud, fire, lightning, the storm-language of God's appearings all through the Old Testament (<a href="../../02-Exodus/Exodus-19/README.md">Exodus 19</a>, <a href="../../19-Psalms/Psalms-018/README.md">Psalm 18</a>, <a href="../../34-Nahum/Nahum-01/README.md">Nahum 1</a>). But note the direction: <strong>out of the north.</strong> To an exile, the north was the road every invading army took into the land — Babylon's own armies came down from the north. Ezekiel watches the storm roll in from the very direction of judgment, and in its glowing heart is something the translators have wrestled with for two thousand years.</p>
+</section>
+
+<!-- SECTION 3 — LOAD-BEARING WORDS -->
+<section id="s-four-hebrew-words-that-carry-it">
+  <div class="sec-head">
+    <div class="emoji">📖</div>
+    <div><div class="sub">The words the vision rests on</div><h2>Four Hebrew Words That Carry It</h2></div>
+  </div>
+  <p>Ezekiel's vision is famously hard to picture, and part of the reason is the vocabulary. A few load-bearing words are either rare, technical, or deliberately uncertain — and where the Hebrew is genuinely unsure, honesty matters more than a confident gloss.</p>
+
+  <div class="word-grid">
+    <div class="word-card">
+      <div class="heb">חַשְׁמַל</div>
+      <div class="translit">chashmal</div>
+      <div class="gloss">gleaming amber · electrum (?)</div>
+      <p>The "electrum" of v.4 and v.27. <em>Chashmal</em> appears only <strong>three times in the whole Bible — all in Ezekiel</strong> — so there's no other context to pin it down. Ancient translators guessed: the Greek read it as <em>elektron</em> (amber or gold-silver alloy), the Latin as a glowing bronze. The honest answer is that <strong>no one is certain what it means</strong> — a radiant, fiery, metallic sheen is as far as the evidence safely reaches. (In Modern Hebrew the same word was later borrowed to mean "electricity.")</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">חַיּוֹת</div>
+      <div class="translit">chayyot</div>
+      <div class="gloss">living creatures · living ones</div>
+      <p>BBE's "living beings" (v.5). The root is <em>chai</em>, <strong>"alive"</strong> — these are, simply, "the living ones." Ezekiel doesn't yet name them; he only describes. It's not until the parallel vision of <strong><a href="../../26-Ezekiel/Ezekiel-10/README.md">Ezekiel 10</a>:20</strong> that he tells us plainly: <em>"This is the living being… by the river Chebar; and I was certain that they were the winged ones"</em> — the <strong>cherubim</strong>, the throne-guardians woven over the ark and the veil.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">אוֹפַן</div>
+      <div class="translit">ophan</div>
+      <div class="gloss">wheel</div>
+      <p>The ordinary word for a cart or chariot wheel (v.15–16). Its plainness is the point: this is a <strong>chariot</strong>. What Ezekiel sees is the throne of God made <em>mobile</em> — fitted with wheels, able to go anywhere. Later Jewish tradition named the whole vision the <em>Merkavah</em>, "the Chariot," and treated it as the most awesome and guarded passage in Scripture.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">רָקִיעַ</div>
+      <div class="translit">raqia</div>
+      <div class="gloss">expanse · firmament</div>
+      <p>BBE softens it to "arch" (v.22); WEB keeps "expanse." It is the <strong>same word as <a href="../../01-Genesis/Genesis-01/README.md">Genesis 1</a>:6</strong> — the <em>raqia</em> God spread over the waters of creation. Ezekiel is borrowing the architecture of Genesis: above the creatures stretches a crystalline dome, and above the dome, a throne. <strong>The vision is a creation, in miniature, with God enthroned over it.</strong></p>
+    </div>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">PS</div>
+    <div>
+      <div class="name">Perry Stone</div>
+      <p>Reads Ezekiel through its Hebrew roots and the temple furniture, and he'd point to the <em>chayyot</em> as the living version of what was only ever embroidered and carved before. <strong>Cherubim were woven into the veil and spread over the mercy seat</strong> — Ezekiel is shown the breathing reality the temple art was always pointing at. The same guardians that stood watch at Eden's gate (<a href="../../01-Genesis/Genesis-03/README.md">Genesis 3</a>:24) attend the throne that has come to find the exiles.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 4 — FOUR FACES -->
+<section id="s-four-faces-four-directions">
+  <div class="sec-head">
+    <div class="emoji">🦁</div>
+    <div><div class="sub">Ezekiel 1:5–14 · The living creatures</div><h2>Four Faces, Four Directions</h2></div>
+  </div>
+  <p>Each living creature has four faces and four wings, feet like a calf's gleaming like polished brass, and human hands beneath the wings. They move as one, never turning — <strong>whichever way they face, they already face forward</strong> — darting and returning like lightning. And the four faces are named:</p>
+
+  <div class="verse">
+    <div class="text">"…they had the face of a man, and the four of them had the face of a lion on the right side, and the four of them had the face of an ox on the left side, and the four of them had the face of an eagle."</div>
+    <div class="ref">Ezekiel 1:10 · BBE</div>
+  </div>
+
+  <div class="pairs">
+    <div class="pair"><div class="faces">🧑</div><div class="who"><em>Man</em></div><div class="tag">reason · likeness of God</div></div>
+    <div class="pair"><div class="faces">🦁</div><div class="who"><em>Lion</em></div><div class="tag">king of the wild</div></div>
+    <div class="pair"><div class="faces">🐂</div><div class="who"><em>Ox</em></div><div class="tag">strength · the domestic</div></div>
+    <div class="pair"><div class="faces">🦅</div><div class="who"><em>Eagle</em></div><div class="tag">king of the air</div></div>
+  </div>
+
+  <p>The four are often read as <strong>the whole of creation gathered around the throne</strong> — the chief of the wild beasts (lion), of the tame (ox), of the birds (eagle), and the crown of creation (man) — every order of living thing represented before God. Between the creatures burns coal-fire, and lightning runs out of it. <strong>This is a living throne, and all that lives is bound up in its service.</strong></p>
+
+  <div class="teacher">
+    <div class="avatar">CM</div>
+    <div>
+      <div class="name">Chuck Missler</div>
+      <p>Loved structural patterns, and he'd connect these four faces to a reading as old as the early church: <strong>Irenaeus and Jerome matched the four faces to the four Gospels</strong> — the lion (the King, Matthew), the ox (the Servant, Mark), the man (the Son of Man, Luke), and the eagle (the soaring divine Word, John). It's an ancient <em>interpretation</em>, not a claim Ezekiel makes himself — but the early readers heard the same fourfold portrait of one figure echoing forward.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 5 — THE WHEELS -->
+<section id="s-a-wheel-inside-a-wheel">
+  <div class="sec-head">
+    <div class="emoji">⚙️</div>
+    <div><div class="sub">Ezekiel 1:15–21 · The wheels</div><h2>A Wheel Inside a Wheel</h2></div>
+  </div>
+  <div class="verse sky">
+    <div class="text">"The form of the wheels and their work was like a beryl… and they were like a wheel inside a wheel… And I saw that they had edges, and their edges, even of the four, were full of eyes round about."</div>
+    <div class="ref">Ezekiel 1:16, 18 · BBE</div>
+  </div>
+  <p>Beside each creature stands a wheel gleaming like a yellow-green gem, and each wheel is somehow <em>two wheels set at right angles</em> — "a wheel inside a wheel." The effect is a wheel that can roll in any of the four directions <strong>without ever turning</strong>, matching the creatures who already face every way at once. The throne can go anywhere, instantly, in any direction. Nothing about it is fixed in place.</p>
+  <p>And the rims are <strong>full of eyes, all the way around.</strong> The ancient throne-chariot sees in every direction it can travel. In the parallel vision the wheels even get a name of their own — in <strong><a href="../../26-Ezekiel/Ezekiel-10/README.md">Ezekiel 10</a>:13</strong> a voice calls out to them <em>galgal</em> (גַּלְגַּל), "the whirling thing." The deepest detail is the engine: the wheels don't roll on their own.</p>
+  <div class="verse">
+    <div class="text">"Wherever the spirit was to go they went… for the spirit of the living beings was in the wheels."</div>
+    <div class="ref">Ezekiel 1:20 · BBE</div>
+  </div>
+  <p>Creatures and wheels rise, halt, and dart as one because a single <em>ruach</em> — spirit, breath, wind — drives the whole assembly. <strong>This vast machine of fire has one will moving through it.</strong> It is not many powers; it is one Presence, going wherever it intends.</p>
+</section>
+
+<!-- SECTION 6 — EXPANSE AND THRONE -->
+<section id="s-the-crystal-dome-and-the-sapphire-seat">
+  <div class="sec-head">
+    <div class="emoji">💎</div>
+    <div><div class="sub">Ezekiel 1:22–26 · The throne</div><h2>The Crystal Dome and the Sapphire Seat</h2></div>
+  </div>
+  <p>The eye is led upward in stages. Over the creatures' heads stretches the <em>raqia</em>, the expanse, <strong>shining like terrible ice</strong> (v.22). Their wings, in motion, roar "like the sound of great waters… like the rushing of an army" (v.24) — and then they fall still, and a voice comes from above the dome. Above the crystal, the climb reaches its summit:</p>
+  <div class="verse">
+    <div class="text">"And on the top of the arch which was over their heads was the form of a king's seat, like a sapphire stone; and on the form of the seat was the form of a man seated on it on high."</div>
+    <div class="ref">Ezekiel 1:26 · BBE</div>
+  </div>
+  <p>A throne of sapphire — the same blue stone under God's feet when the elders of Israel saw Him on Sinai, "as it were a paved work of a sapphire stone" (<a href="../../02-Exodus/Exodus-24/README.md">Exodus 24</a>:10). And on it, "the form of a man." Here Ezekiel's language goes deliberately, reverently <strong>vague</strong> — and that vagueness is the point of the next section.</p>
+</section>
+
+<div class="divider"><span>🔥</span></div>
+
+<!-- FEATURED VERSE -->
+<section id="s-the-likeness-of-the-glory-of-the-lord">
+  <div class="sec-head">
+    <div class="emoji">🌈</div>
+    <div><div class="sub">The summit of the vision</div><h2>"The Likeness of the Glory of the LORD"</h2></div>
+  </div>
+  <div class="featured">
+    <span class="label">Featured Verse · Ezekiel 1:28</span>
+    <div class="heb-line">הוּא מַרְאֵה דְּמוּת כְּבוֹד־יְהוָה</div>
+    <div class="heb-translit">hu mar'eh demut kevod-YHWH — "this was the appearance of the likeness of the glory of the LORD"</div>
+
+    <div class="verse">
+      <div class="text">"Like the bow in the cloud on a day of rain, so was the light shining round him. And this is what the glory of the Lord was like. And when I saw it I went down on my face, and the voice of one talking came to my ears."</div>
+      <div class="ref">Ezekiel 1:28 · BBE</div>
+    </div>
+
+    <p>Read the climb again and listen to the grammar. Ezekiel never says he saw God. He stacks <strong>buffer-words</strong> — over and over he writes "the <em>likeness</em>… as the <em>appearance</em> of… something <em>like</em>…" The closing line of the chapter piles three of them in a row: it was not the glory, but the <em>appearance</em> of the <em>likeness</em> of the <em>glory</em>. Two Hebrew words do the buffering:</p>
+
+    <div class="word-grid">
+      <div class="word-card">
+        <div class="heb">דְּמוּת</div>
+        <div class="translit">demut</div>
+        <div class="gloss">likeness · resemblance</div>
+        <p>Not the thing itself, but its <strong>resemblance</strong>. The same word as <a href="../../01-Genesis/Genesis-01/README.md">Genesis 1</a>:26, where humanity is made in God's <em>demut</em>. Ezekiel uses it relentlessly here — a throne's <em>demut</em>, a man's <em>demut</em> — to insist that he is describing a <strong>likeness, never the bare reality.</strong></p>
+      </div>
+      <div class="word-card">
+        <div class="heb">מַרְאֶה</div>
+        <div class="translit">mar'eh</div>
+        <div class="gloss">appearance · what is seen</div>
+        <p>"The <em>look</em> of," the visible surface. Paired with <em>demut</em> it doubles the distance: the <strong>appearance of the likeness</strong> of the glory. Ezekiel strains language to its limit precisely so we don't mistake the picture for a photograph. <strong>Reverence guards every line.</strong></p>
+      </div>
+    </div>
+
+    <p style="margin-bottom:0">The whole towering vision resolves not into a definition but into a <em>kavod</em> — the <strong>weight, the glory of the LORD</strong> — crowned with a rainbow, the sign of God's covenant mercy set in the storm-cloud (<a href="../../01-Genesis/Genesis-09/README.md">Genesis 9</a>). And the only possible response to it is the one Ezekiel gives: <strong>he falls on his face.</strong> The chariot of fire that crossed the world to reach the exiles ends in a bow of mercy and a man face-down in the dirt.</p>
+  </div>
+</section>
+
+<!-- SECTION 7 — CROSS REFERENCES -->
+<section id="s-where-else-this-throne-appears">
+  <div class="sec-head">
+    <div class="emoji">🕯️</div>
+    <div><div class="sub">The vision, echoed across Scripture</div><h2>Where Else This Throne Appears</h2></div>
+  </div>
+  <p>Ezekiel's throne-vision is one of the most quoted images in the Bible's own imagination. Tracing the echoes shows how carefully it is woven into the rest of Scripture.</p>
+
+  <p><strong><a href="../../66-Revelation/Revelation-04/README.md">Revelation 4</a> stands in the same throne-room</strong> — four living creatures, full of eyes, around a throne ringed with a rainbow:</p>
+  <div class="verse sky">
+    <div class="text">"…round about the throne, were four living creatures full of eyes before and behind… the first creature like a lion, the second like a calf, the third with a face like a man, the fourth like an eagle."</div>
+    <div class="ref"><a href="../../66-Revelation/Revelation-04/README.md">Revelation 4</a>:6–7 · paraphrase of WEB</div>
+  </div>
+  <p>The four faces are the same four — lion, ox, man, eagle — and there is a rainbow about the throne (<a href="../../66-Revelation/Revelation-04/README.md">Revelation 4</a>:3), just as in Ezekiel 1:28. <strong>But John sees a difference worth catching:</strong> Ezekiel's creatures each have all four faces, while in Revelation each creature wears a <em>single</em> face, the four distributed among them. Same fourfold worship before the throne, arranged a different way — John is clearly drawing on Ezekiel, not merely copying him.</p>
+
+  <p><strong>And this vision is the hinge of the whole book of Ezekiel.</strong> The point of putting God's throne on wheels becomes devastatingly clear later: in chapters 10–11 Ezekiel watches the <em>kavod</em>, the glory, <strong>rise up and leave the Jerusalem temple</strong> — pausing at the threshold, then the east gate, then departing to the mountain east of the city (<a href="../../26-Ezekiel/Ezekiel-10/README.md">Ezekiel 10</a>:18–19; 11:23). The glory that is mobile <em>can</em> go — and it does, abandoning the temple to judgment. Yet the same book ends with the glory <strong>returning from the east</strong> to a new temple (<a href="../../26-Ezekiel/Ezekiel-43/README.md">Ezekiel 43</a>:1–5). Chapter 1 is the vision that makes both the leaving and the returning possible: <strong>God's presence was never bolted to one building.</strong></p>
+
+  <div class="teacher">
+    <div class="avatar">JC</div>
+    <div>
+      <div class="name">Jonathan Cahn</div>
+      <p>Teaches from the Hebrew under the text, and <em>kavod</em> is a word he'd open up: it comes from a root meaning <strong>"heavy, weighty."</strong> The glory of God is His <em>weight</em> — the felt, crushing reality of His presence. The staggering thing in Ezekiel is <em>where</em> that weight shows up: not in the holy city but in Babylon, by a canal, among prisoners. <strong>The weighty Presence went into exile with His people.</strong></p>
+    </div>
+  </div>
+
+  <p>One more thread, handled with care. Christian readers across the centuries have lingered on "the <em>likeness as the appearance of a man</em>" enthroned in fire (v.26), reading it alongside Daniel's "one like a son of man" (<a href="../../27-Daniel/Daniel-07/README.md">Daniel 7</a>:13) and the radiant figure of <a href="../../66-Revelation/Revelation-01/README.md">Revelation 1</a> — a glimpse, they argue, of God appearing in human form. <strong>This is interpretation, offered reverently, not a claim the text spells out.</strong> Jewish tradition reads the <em>merkavah</em> very differently and historically fenced it off as too holy for casual study. Ezekiel himself only gives us the buffered "likeness" — and where readers and traditions differ here, the honest move is to name the views and let the prophet's own restraint stand.</p>
+</section>
+
+<!-- CLOSING -->
+<section id="s-closing-reflection">
+  <div class="sec-head">
+    <div class="emoji">🕊️</div>
+    <div><div class="sub">Where the vision lands</div><h2>Closing Reflection</h2></div>
+  </div>
+  <div class="closing">
+    <p>Ezekiel 1 is a doorway into the strangest and most visual book of the prophets, and it hands every reader three things to carry forward:</p>
+    <div class="three">
+      <div class="pillar">
+        <div class="p-t">The throne has wheels</div>
+        <p>God's glory is not the property of one nation or one building. Fitted with wheels and full of eyes, the throne can go anywhere — and it went to Babylon. No exile is past its reach.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">One will moves it all</div>
+        <p>Creatures, fire, and wheels rise and halt together because one <em>spirit</em> drives them. The vast machinery of heaven is not chaos; it is a single Presence going exactly where it intends.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">It ends in a rainbow</div>
+        <p>The storm out of the north resolves into a bow of covenant mercy and a man face-down before it. The proper response to the weight of God is not analysis but worship.</p>
+      </div>
+    </div>
+    <p style="margin-bottom:0">A captive priest, robbed of his temple, looks up from a foreign canal — and discovers that the God he thought he'd left behind in Jerusalem has come the whole distance to find him. <strong>The glory is not bound to a building; it goes where its people are.</strong> That is the truth the whole book of Ezekiel will spend forty-eight chapters proving.</p>
+  </div>
+</section>
+
+<!-- NEXT CHAPTER -->
+<div class="next">
+  <div class="label">Next · <a href="../../26-Ezekiel/Ezekiel-02/README.md">Ezekiel 2</a></div>
+  <h3>"Son of man, stand on your feet"</h3>
+  <p>The vision was never the point — the <em>commission</em> was. Flat on his face before the glory, Ezekiel hears a voice lift him up and send him: to a rebellious house, with hard words, whether they listen or not. The throne that crossed the world to reach the exiles now has a messenger to send back to them. <strong>The chariot of fire becomes a calling.</strong></p>
+  <div class="sprout">📜</div>
+</div>
+
+<footer>Ezekiel 1 · A Deep Devotional Study · bible-study</footer>
+
+</div>
+</body>
+</html>

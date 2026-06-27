@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
 **Last Updated:** 2026-06-27
-**Total Sessions:** 27
-**Total Files:** 163 (session logs) + raw/ history
+**Total Sessions:** 28
+**Total Files:** 169 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-06-27 | 03      | Opus-4.8 | Psalms 1–10 + Ezekiel 1 shared "Branch" devotional pages (11); `_bible_dual_home_guard` git hook (mirrors bible skills/agents → `~/.claude/`); `link_chapters.py` (chapter→README auto-cross-linking, 424 links) + `add_toc.py` (table of contents) as the design skill's Finalize step | ✅ Complete |
 | 2026-06-27 | 01      | Opus-4.8 | Whole-Bible scripture rollout — all 1,189 chapters × BBE/WEB/KJV/ASV (4,756 files) + BBE-primary README front pages; `scripts/` (fetch w/ `--bulk` + 117-translation catalog, README index builder, Strong's word-study engine); BBE set as default version; David character study; found + disabled the GitDoc auto-committer | ✅ Complete |
 | 2026-06-22 | 03      | Opus-4.8 | claude_design MCP connector connectivity check (`/v1/design/mcp`) *(reconstructed — system/MCP session)* | ✅ Complete |
 | 2026-06-22 | 02      | Opus-4.8 | Windows tuneup via `/_windows_tuneup` + made the skill host-aware (per-host scripts) *(reconstructed — system session)* | ✅ Complete |

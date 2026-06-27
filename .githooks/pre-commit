@@ -1,0 +1,25 @@
+#!/bin/sh
+# Bible dual-home guard (pre-commit).
+# Mirrors this repo's .claude/ bible skills + agents out to ~/.claude/ so the
+# two copies never drift. The repo copy you are committing is canonical.
+#
+# Cross-platform: runs under Git Bash (Windows), WSL, macOS, Linux.
+# NEVER blocks a commit - a sync failure must not stop you committing.
+
+root="$(git rev-parse --show-toplevel)"
+guard="$root/.claude/skills/_bible_dual_home_guard/guard.py"
+
+# Nothing to do if the guard script isn't present.
+[ -f "$guard" ] || exit 0
+
+if command -v python3 >/dev/null 2>&1; then
+  PY=python3
+elif command -v python >/dev/null 2>&1; then
+  PY=python
+else
+  echo "[bible-dual-home-guard] python not found - skipping ~/.claude sync"
+  exit 0
+fi
+
+"$PY" "$guard" || true
+exit 0

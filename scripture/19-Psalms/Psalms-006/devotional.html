@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Psalm 6 — The First Tears</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&family=Noto+Serif+Hebrew:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e0c0a;
+    --panel:#171310;
+    --panel2:#1d1813;
+    --ink:#e8e0d2;
+    --ink-dim:#a89a85;
+    --gold:#d4a843;
+    --gold-soft:#b8923a;
+    --ember:#c4543a;
+    --olive:#7c9a5c;
+    --sky:#6da3c4;
+    --line:#2e2620;
+    --serif:'Cormorant Garamond',Georgia,serif;
+    --sans:'Inter',system-ui,sans-serif;
+    --hebrew:'Noto Serif Hebrew',serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:17px;
+    line-height:1.75;
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:0 24px 100px}
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    position:relative;
+    text-align:center;
+    padding:90px 24px 70px;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% -10%, rgba(109,163,196,.18), transparent 60%),
+      radial-gradient(ellipse 60% 50% at 50% 110%, rgba(196,84,58,.10), transparent 60%),
+      var(--bg);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero .kicker{
+    font-size:13px;letter-spacing:.35em;text-transform:uppercase;
+    color:var(--gold);font-weight:600;margin-bottom:22px;
+  }
+  .hero h1{
+    font-family:var(--serif);
+    font-size:clamp(44px,7vw,76px);
+    font-weight:700;line-height:1.05;
+    color:var(--ink);
+  }
+  .hero h1 .accent{color:var(--gold)}
+  .hero .subtitle{
+    font-family:var(--serif);font-style:italic;
+    font-size:clamp(20px,3vw,28px);
+    color:var(--ink-dim);margin-top:18px;
+  }
+  .hero .heb-banner{
+    font-family:var(--hebrew);
+    font-size:clamp(26px,4vw,38px);
+    color:rgba(109,163,196,.55);
+    margin-top:34px;direction:rtl;
+  }
+  .hero .heb-caption{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:6px}
+
+  .hook{
+    margin:48px auto 0;max-width:640px;
+    border:1px solid rgba(196,84,58,.40);
+    background:linear-gradient(180deg, rgba(196,84,58,.10), rgba(196,84,58,.02));
+    border-radius:14px;padding:26px 30px;
+  }
+  .hook .big{
+    font-family:var(--serif);font-weight:700;
+    font-size:clamp(20px,3vw,26px);letter-spacing:.04em;color:var(--ember);
+  }
+  .hook .small{font-size:14px;color:var(--ink-dim);margin-top:8px;font-style:italic}
+
+  /* ---------- SECTIONS ---------- */
+  section{margin-top:72px}
+  .sec-head{display:flex;align-items:center;gap:16px;margin-bottom:26px}
+  .sec-head .emoji{
+    flex:0 0 auto;width:54px;height:54px;border-radius:14px;
+    display:flex;align-items:center;justify-content:center;
+    font-size:26px;background:var(--panel2);border:1px solid var(--line);
+  }
+  .sec-head h2{
+    font-family:var(--serif);font-size:clamp(28px,4vw,36px);
+    font-weight:700;line-height:1.15;
+  }
+  .sec-head .sub{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
+  p{margin-bottom:18px;color:var(--ink)}
+  p.dim{color:var(--ink-dim)}
+  strong{color:#f3ead7}
+  em{color:var(--ink)}
+
+  /* verse blockquote */
+  .verse{
+    border-left:3px solid var(--gold);
+    background:linear-gradient(90deg, rgba(212,168,67,.07), transparent 70%);
+    padding:22px 26px;margin:26px 0;border-radius:0 12px 12px 0;
+  }
+  .verse .text{font-family:var(--serif);font-size:22px;font-style:italic;line-height:1.6;color:#efe6d4}
+  .verse .ref{margin-top:10px;font-size:13px;letter-spacing:.15em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  .verse.ember{border-left-color:var(--ember);background:linear-gradient(90deg, rgba(196,84,58,.08), transparent 70%)}
+  .verse.ember .ref{color:var(--ember)}
+  .verse.olive{border-left-color:var(--olive);background:linear-gradient(90deg, rgba(124,154,92,.08), transparent 70%)}
+  .verse.olive .ref{color:var(--olive)}
+  .verse.sky{border-left-color:var(--sky);background:linear-gradient(90deg, rgba(109,163,196,.08), transparent 70%)}
+  .verse.sky .ref{color:var(--sky)}
+
+  /* hebrew word cards */
+  .word-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin:28px 0}
+  .word-card{
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:26px;position:relative;overflow:hidden;
+  }
+  .word-card::before{
+    content:'';position:absolute;inset:0 0 auto 0;height:3px;
+    background:linear-gradient(90deg,var(--gold),transparent);
+  }
+  .word-card .heb{font-family:var(--hebrew);font-size:38px;color:var(--gold);direction:rtl;line-height:1.3}
+  .word-card .translit{font-style:italic;font-family:var(--serif);font-size:20px;color:var(--ink);margin-top:4px}
+  .word-card .gloss{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-dim);font-weight:600;margin-top:2px;margin-bottom:12px}
+  .word-card p{font-size:15px;line-height:1.65;color:var(--ink-dim);margin-bottom:0}
+  .word-card p strong{color:var(--ink)}
+
+  /* featured verse mega-card */
+  .featured{
+    background:
+      radial-gradient(ellipse 90% 100% at 50% 0%, rgba(109,163,196,.12), transparent 55%),
+      var(--panel);
+    border:1px solid rgba(109,163,196,.45);
+    border-radius:20px;padding:46px 42px;margin-top:10px;
+  }
+  .featured .label{
+    display:inline-block;font-size:12px;letter-spacing:.3em;text-transform:uppercase;
+    color:var(--bg);background:var(--sky);font-weight:700;
+    padding:6px 14px;border-radius:999px;margin-bottom:24px;
+  }
+  .featured .heb-line{
+    font-family:var(--hebrew);font-size:clamp(28px,5vw,42px);
+    color:var(--gold);direction:rtl;text-align:center;
+    margin:18px 0 6px;line-height:1.5;
+  }
+  .featured .heb-translit{text-align:center;font-family:var(--serif);font-style:italic;font-size:19px;color:var(--ink-dim);margin-bottom:26px}
+
+  /* contrast pairs */
+  .pairs{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}
+  .pair{
+    background:var(--panel2);border:1px solid var(--line);border-radius:14px;
+    padding:18px 20px;text-align:center;
+  }
+  .pair .faces{font-size:30px;letter-spacing:4px}
+  .pair .who{font-family:var(--serif);font-size:18px;color:var(--ink);margin-top:8px}
+  .pair .who em{color:var(--sky);font-style:normal}
+  .pair.ember .who em{color:var(--ember)}
+
+  /* teacher callouts */
+  .teacher{
+    display:flex;gap:18px;align-items:flex-start;
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:22px 26px;margin:24px 0;
+  }
+  .teacher .avatar{
+    flex:0 0 auto;width:46px;height:46px;border-radius:50%;
+    background:linear-gradient(135deg,var(--gold),var(--olive));
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--serif);font-weight:700;font-size:18px;color:var(--bg);
+  }
+  .teacher .name{font-weight:700;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+  .teacher p{font-size:15.5px;color:var(--ink-dim);margin:6px 0 0}
+  .teacher p strong{color:var(--ink)}
+
+  /* divider */
+  .divider{display:flex;align-items:center;gap:18px;margin:70px 0 0;color:var(--sky)}
+  .divider::before,.divider::after{content:'';flex:1;height:1px;background:var(--line)}
+  .divider span{font-size:20px}
+
+  /* name highlight */
+  .frame-word{text-align:center;margin:34px 0}
+  .frame-word .heb{font-family:var(--hebrew);font-size:46px;color:var(--ember);direction:rtl}
+  .frame-word .t{font-family:var(--serif);font-style:italic;font-size:22px;color:var(--ink)}
+  .frame-word .d{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:4px}
+
+  /* closing */
+  .closing{
+    background:
+      radial-gradient(ellipse 80% 100% at 50% 100%, rgba(109,163,196,.12), transparent 60%),
+      var(--panel);
+    border:1px solid var(--line);border-radius:20px;padding:44px 42px;
+  }
+  .closing .three{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin:26px 0}
+  .closing .pillar{
+    background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:20px;
+  }
+  .closing .pillar .p-t{font-family:var(--serif);font-weight:700;font-size:20px;color:var(--gold);margin-bottom:6px}
+  .closing .pillar p{font-size:14.5px;color:var(--ink-dim);margin:0}
+
+  /* next chapter */
+  .next{
+    margin-top:60px;text-align:center;
+    border:1px dashed rgba(109,163,196,.5);border-radius:16px;
+    padding:40px 30px;
+    background:linear-gradient(180deg, rgba(109,163,196,.06), transparent);
+  }
+  .next .label{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--sky);font-weight:700;margin-bottom:12px}
+  .next h3{font-family:var(--serif);font-size:30px;font-weight:700;color:var(--ink)}
+  .next p{color:var(--ink-dim);font-size:16px;max-width:560px;margin:12px auto 0}
+  .next .sprout{font-size:34px;margin-top:14px}
+
+  footer{margin-top:70px;text-align:center;font-size:13px;color:var(--ink-dim);letter-spacing:.08em}
+  @media (max-width:600px){
+    .featured{padding:32px 22px}
+    .closing{padding:32px 22px}
+  }
+  /* TOC-CSS-START */
+  .toc{margin:46px 0 8px;border:1px solid var(--line);background:var(--panel);border-radius:16px;padding:24px 28px}
+  .toc .toc-h{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:16px}
+  .toc ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:4px 24px}
+  .toc a{display:flex;gap:12px;align-items:baseline;color:var(--ink-dim);text-decoration:none;padding:8px 10px;border-radius:9px;font-family:var(--serif);font-size:18px;line-height:1.3;transition:background .15s ease,color .15s ease}
+  .toc a:hover{background:var(--panel2);color:var(--ink)}
+  .toc a .n{font-family:var(--sans);font-size:12px;font-weight:700;color:var(--gold);min-width:22px}
+  .toc a .e{font-size:17px;flex:0 0 auto}
+  section{scroll-margin-top:24px}
+  /* TOC-CSS-END */
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="kicker">A Deep Devotional Study · Psalm 6 of 150</div>
+  <h1>Psalm 6<br><span class="accent">"The First Tears"</span></h1>
+  <div class="subtitle">The Psalter's first lament — a sick man on a tear-soaked bed, the grave looming, and a prayer that turns the moment it is heard</div>
+  <div class="heb-banner">אַל־בְּאַפְּךָ תוֹכִיחֵנִי</div>
+  <div class="heb-caption">al-b'appekha tokicheni — "do not rebuke me in your anger"</div>
+  <div class="hook">
+    <div class="big">😢 THE FIRST CRY FROM THE FLOOR</div>
+    <div class="small">After two psalms of doorway and throne, the Psalter finally breaks down. This is the first of its raw laments — and the church's first Penitential Psalm.</div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<nav class="toc">
+  <div class="toc-h">In This Study</div>
+  <ol>
+    <li><a href="#s-the-first-of-the-seven"><span class="n">01</span><span class="e">🕯️</span><span class="t">The First of the Seven</span></a></li>
+    <li><a href="#s-do-not-rebuke-me-in-anger"><span class="n">02</span><span class="e">⚖️</span><span class="t">&quot;Do Not Rebuke Me in Anger&quot;</span></a></li>
+    <li><a href="#s-four-words-from-the-sickbed"><span class="n">03</span><span class="e">📖</span><span class="t">Four Words from the Sickbed</span></a></li>
+    <li><a href="#s-in-death-there-is-no-memory-of-you"><span class="n">04</span><span class="e">⚰️</span><span class="t">&quot;In Death There Is No Memory of You&quot;</span></a></li>
+    <li><a href="#s-a-bed-swimming-in-tears"><span class="n">05</span><span class="e">🌊</span><span class="t">A Bed Swimming in Tears</span></a></li>
+    <li><a href="#s-the-sudden-turn"><span class="n">06</span><span class="e">🔑</span><span class="t">The Sudden Turn</span></a></li>
+    <li><a href="#s-words-the-son-would-borrow"><span class="n">07</span><span class="e">🪡</span><span class="t">Words the Son Would Borrow</span></a></li>
+    <li><a href="#s-closing-reflection"><span class="n">08</span><span class="e">🕊️</span><span class="t">Closing Reflection</span></a></li>
+  </ol>
+</nav>
+
+
+<!-- SECTION 1 — THE PENITENTIAL PSALMS -->
+<section id="s-the-first-of-the-seven">
+  <div class="sec-head">
+    <div class="emoji">🕯️</div>
+    <div><div class="sub">Psalm 6 · Where it sits</div><h2>The First of the Seven</h2></div>
+  </div>
+  <p><a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a> set two ways at the door; <a href="../../19-Psalms/Psalms-002/README.md">Psalm 2</a> raised the King on Zion. Now, with Psalm 6, the Psalter does something new — it <strong>breaks down and weeps</strong>. This is the first of the book's many <em>laments</em>, the raw prayers of someone in trouble who has nowhere left to turn but upward.</p>
+  <p>And the church gave it a particular seat. Since at least the time of Augustine and Cassiodorus, Psalm 6 has been counted as the first of the <strong>seven Penitential Psalms</strong> — 6, 32, 38, 51, 102, 130, and 143 — the prayers the ancient church read in seasons of repentance and on Ash Wednesday. It opens a series that runs all the way to <a href="../../19-Psalms/Psalms-051/README.md">Psalm 51</a>, David's great confession. <strong>If you want to learn how the Bible cries, you start here.</strong></p>
+  <p class="dim">The Hebrew superscription reads: "To the chief musician; with stringed instruments; <em>al ha-sheminith</em>; a psalm of David." That phrase <em>sheminith</em> means "upon the eighth." Scholars take it two ways — either a <strong>musical setting</strong> (a tune, or playing on an eight-stringed instrument), or a <strong>lower octave / bass register</strong>, a deep voice fitting for a song this heavy. Both readings agree it is a performance note; the exact mechanics are lost to us.</p>
+
+  <div class="teacher">
+    <div class="avatar">BC</div>
+    <div>
+      <div class="name">Dr. Bill Creasy</div>
+      <p>Reads each psalm by its genre first, and he'd name this one immediately: an <strong>individual lament</strong>, the most common type in the Psalter. The form has a shape you can almost diagram — an opening cry, a description of distress, a plea for rescue, a reason God should act, and then a turn to trust. Psalm 6 runs the whole pattern in ten short verses. <strong>Knowing the genre tells you to expect the hinge before you reach it.</strong></p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 2 — THE OPENING CRY -->
+<section id="s-do-not-rebuke-me-in-anger">
+  <div class="sec-head">
+    <div class="emoji">⚖️</div>
+    <div><div class="sub">Psalm 6:1</div><h2>"Do Not Rebuke Me in Anger"</h2></div>
+  </div>
+  <div class="verse ember">
+    <div class="text">"O Lord, do not be bitter with me in your wrath; do not send punishment on me in the heat of your passion."</div>
+    <div class="ref">Psalm 6:1 · BBE</div>
+  </div>
+  <p>Notice what the prayer does <em>not</em> ask. It doesn't say "do not rebuke me" or "do not correct me" — it says do not do it <strong>in anger</strong>, in the <em>heat</em> of wrath. The two verbs underneath are <em>yakach</em>, to reprove or set right, and <em>yasar</em>, to discipline or instruct (the WEB keeps both: "rebuke… discipline"). The psalmist isn't pleading to dodge correction. He's pleading that it not come <strong>as the fire of judgment.</strong></p>
+  <p>It's the same instinct a child has who knows the difference between a parent's firm hand and a parent's fury. Discipline he can survive; the <em>heat</em> of wrath he cannot. So the very first words of the Bible's first lament draw a line between <strong>being corrected and being consumed</strong> — and throw the whole weight of the prayer onto God's mercy rather than the sufferer's record.</p>
+
+  <div class="teacher">
+    <div class="avatar">JB</div>
+    <div>
+      <div class="name">John Bevere</div>
+      <p>Teaches the difference between God's correction and God's wrath, and verse 1 is built on exactly that seam. The psalmist doesn't argue that he deserves nothing — he simply runs <em>toward</em> the God whose anger he fears, not away. That is the paradox at the heart of a penitential psalm: <strong>the only refuge from God is God.</strong> Reverence and rescue ask from the same lips.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 3 — THE LOAD-BEARING WORDS -->
+<section id="s-four-words-from-the-sickbed">
+  <div class="sec-head">
+    <div class="emoji">📖</div>
+    <div><div class="sub">The load-bearing words</div><h2>Four Words from the Sickbed</h2></div>
+  </div>
+  <p>Psalm 6 is the cry of someone physically and emotionally undone — "wasted away," bones shaking, soul in anguish. A handful of Hebrew words carry that collapse, and they're far more bodily than the English suggests.</p>
+
+  <div class="word-grid">
+    <div class="word-card">
+      <div class="heb">חָנַן</div>
+      <div class="translit">chanan</div>
+      <div class="gloss">be gracious · show favor · have mercy</div>
+      <p>"Have mercy on me" in v.2 is <em>chaneni</em>, from <em>chanan</em> — to <strong>bend down in kindness to someone who has no claim on you.</strong> It pictures a superior stooping to an inferior with undeserved favor. The psalmist asks for nothing he is owed; he throws himself entirely on God's free generosity.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">רָפָא</div>
+      <div class="translit">rapha</div>
+      <div class="gloss">heal · mend · restore</div>
+      <p>"Make me well" (v.2) is <em>rephaeni</em>, from <em>rapha</em> — the ordinary verb for a physician <strong>healing a wound or mending what is broken</strong>. It is the same root behind <em>Yahweh-Rapha</em>, "the LORD who heals you" (<a href="../../02-Exodus/Exodus-15/README.md">Exodus 15</a>:26). The trouble is not abstract: something in him is broken, and he asks the Healer to set it.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">בָּהַל</div>
+      <div class="translit">bahal</div>
+      <div class="gloss">be terrified · shake · be dismayed</div>
+      <p>The word that <strong>frames the whole psalm.</strong> His <em>bones</em> are troubled (v.2), his <em>soul</em> is troubled (v.3) — both <em>bahal</em>, a violent trembling, terror that shakes you to the marrow. Then at the very end the same verb turns: his enemies will be <strong>"deeply troubled"</strong> (v.10). The terror that fills him in verse 2 lands on his foes by verse 10.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">נֶפֶשׁ</div>
+      <div class="translit">nephesh</div>
+      <div class="gloss">soul · throat · whole living self</div>
+      <p>"My soul" (vv.3–4) is <em>nephesh</em> — never a ghost trapped in a body. It means the <strong>whole living person</strong>, breath and appetite and life itself (its root sense is "throat," the place breath passes). When he begs God to "make my soul free," he is asking for his <em>entire self</em> to be rescued from death's grip.</p>
+    </div>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">JC</div>
+    <div>
+      <div class="name">Jonathan Cahn</div>
+      <p>Opens the Hebrew under the English, and <em>bahal</em> is the kind of thread he'd pull. The same trembling word stitches the psalm shut: the terror that <strong>shakes his bones in verse 2</strong> is the terror that <strong>overtakes his enemies in verse 10</strong>. Nothing in his circumstances has changed by the last line — but the dread has moved off of him. <strong>The prayer didn't lift the storm; it moved him out of its path.</strong></p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 4 — THE GRAVE -->
+<section id="s-in-death-there-is-no-memory-of-you">
+  <div class="sec-head">
+    <div class="emoji">⚰️</div>
+    <div><div class="sub">Psalm 6:5</div><h2>"In Death There Is No Memory of You"</h2></div>
+  </div>
+  <div class="verse">
+    <div class="text">"For in death there is no memory of you; in the underworld who will give you praise?"</div>
+    <div class="ref">Psalm 6:5 · BBE</div>
+  </div>
+  <p>This is one of the most honest verses in the Old Testament, and it deserves to be read without softening. The "underworld" is <em>Sheol</em> — the shadowy realm of the dead in Hebrew thought. And the psalmist makes a blunt argument: <strong>save me, because corpses don't praise You.</strong> In Sheol there is no memory, no thanksgiving, no worship rising to God.</p>
+
+  <div class="frame-word">
+    <div class="heb">שְׁאוֹל</div>
+    <div class="t">she'ol</div>
+    <div class="d">the grave · the realm of the dead</div>
+  </div>
+
+  <p>Read it for what it is. Most of the Old Testament has only a <strong>dim and shadowy hope</strong> about life beyond the grave; the full light of resurrection comes later in Scripture. So the psalmist's reasoning is raw and almost commercial: <em>I am no use to You dead.</em> The same argument recurs across the Psalter — "What profit is there in my blood, when I go down to the pit? Shall the dust praise You?" (<a href="../../19-Psalms/Psalms-030/README.md">Psalm 30</a>:9), and "the dead don't praise the LORD" (<a href="../../19-Psalms/Psalms-115/README.md">Psalm 115</a>:17). Hezekiah prays it nearly word for word on his sickbed (<a href="../../23-Isaiah/Isaiah-38/README.md">Isaiah 38</a>:18).</p>
+  <p>It is not the last word Scripture speaks about death — but it is an <strong>honest</strong> word, and the Bible lets it stand. The sufferer here isn't reciting a creed about the afterlife; he's a man who can feel the grave's cold breath and is bargaining for one more day to worship in the land of the living.</p>
+</section>
+
+<!-- SECTION 5 — THE FLOOD -->
+<section id="s-a-bed-swimming-in-tears">
+  <div class="sec-head">
+    <div class="emoji">🌊</div>
+    <div><div class="sub">Psalm 6:6–7</div><h2>A Bed Swimming in Tears</h2></div>
+  </div>
+  <div class="verse sky">
+    <div class="text">"All the night I make my bed wet with weeping; it is watered by the drops flowing from my eyes. My eyes are wasting away with trouble…"</div>
+    <div class="ref">Psalm 6:6–7 · BBE</div>
+  </div>
+  <p>Here the lament reaches its lowest point, and the imagery turns to water. The Hebrew is almost extravagant — the older translations catch it: <em>"all the night make I my bed to swim; I water my couch with my tears"</em> (KJV). He pictures the bed <strong>floating, the couch dissolving</strong>, a flood pouring from his eyes until they themselves "waste away" and "grow old" from grief.</p>
+  <p>It is hyperbole, of course — and that is exactly the point. The psalm gives sorrow <strong>permission to be loud.</strong> It does not tidy the grief into something dignified; it lets the man drown the room. The Bible's first lament teaches that real prayer can sound like this — sleepless, exhausted, weeping all night — and still be heard. <strong>Verse 7 is the bottom of the well.</strong> The very next line, everything changes.</p>
+</section>
+
+<div class="divider"><span>✶</span></div>
+
+<!-- FEATURED VERSE — THE HINGE -->
+<section id="s-the-sudden-turn">
+  <div class="sec-head">
+    <div class="emoji">🔑</div>
+    <div><div class="sub">The verse the whole psalm turns on</div><h2>The Sudden Turn</h2></div>
+  </div>
+  <div class="featured">
+    <span class="label">Featured Verse · Psalm 6:8</span>
+    <div class="heb-line">סוּרוּ מִמֶּנִּי כָּל־פֹּעֲלֵי אָוֶן</div>
+    <div class="heb-translit">suru mimmeni kol-po'alei aven — "Depart from me, all you workers of evil"</div>
+
+    <div class="verse sky">
+      <div class="text">"Go from me, all you workers of evil; for the Lord has given ear to the voice of my weeping. The Lord has given ear to my request; the Lord has let my prayer come before him."</div>
+      <div class="ref">Psalm 6:8–9 · BBE</div>
+    </div>
+
+    <p>One line ago the man was drowning his bed. Now, with no transition at all, the voice <strong>stands up.</strong> The weeping becomes a command: <em>get away from me, you who do evil.</em> What happened between verse 7 and verse 8?</p>
+
+    <p><strong>He became sure he was heard.</strong> Three times in two verses the same news rings out — <em>the Lord has heard… the Lord has heard… the Lord has received my prayer.</em> Notice the psalm never reports that the sickness lifted or the enemies left. The circumstances are unchanged. What changed is a <strong>settled confidence that the prayer landed</strong> — and that certainty is enough to turn a sob into a stand.</p>
+
+    <p style="margin-bottom:0">This is the hinge every lament swings on. The same tears God "gave ear to" are the proof of the turn — He did not wait for the weeping to stop before He heard it. <strong>The prayer was answered while it was still wet.</strong></p>
+  </div>
+</section>
+
+<!-- SECTION 7 — CROSS REFERENCES -->
+<section id="s-words-the-son-would-borrow">
+  <div class="sec-head">
+    <div class="emoji">🪡</div>
+    <div><div class="sub">Psalm 6, woven into the Gospels</div><h2>Words the Son Would Borrow</h2></div>
+  </div>
+  <p>This little sickbed prayer turns up, in startling places, on the lips of Jesus — once in His own agony, once on the day of judgment. Two of its phrases are stitched straight into the Gospels.</p>
+
+  <p><strong>The troubled soul — taken up in Gethsemane's shadow.</strong> Psalm 6:3 cries, "My soul is in bitter trouble." In the Greek Old Testament that line reads <em>he psyche mou etarachthe</em>. Stand it beside Jesus at the edge of the cross:</p>
+  <div class="verse">
+    <div class="text">"Now is my soul troubled; and what am I to say? Father, keep me from this hour."</div>
+    <div class="ref"><a href="../../43-John/John-12/README.md">John 12</a>:27 · BBE</div>
+  </div>
+  <p>The same verb, the same trouble of soul. The Gospels show Jesus carrying the language of the Psalter's laments into His own suffering — <strong>praying the prayers the psalmists first wept.</strong></p>
+
+  <p><strong>"Depart from me" — returned at the last day.</strong> Psalm 6:8 commands, "Depart from me, all you workers of iniquity." In the Sermon on the Mount Jesus speaks an almost identical sentence — but now He is the Judge:</p>
+  <div class="verse ember">
+    <div class="text">"And then will I say to them openly, I never had knowledge of you: go from me, you workers of evil."</div>
+    <div class="ref"><a href="../../40-Matthew/Matthew-07/README.md">Matthew 7</a>:23 · BBE</div>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">CM</div>
+    <div>
+      <div class="name">Chuck Missler</div>
+      <p>Loved tracing a phrase across the whole library, and he'd flag this echo. In Psalm 6 a <em>rescued sufferer</em> tells evildoers to depart, <strong>because his prayer was heard</strong>. In <a href="../../40-Matthew/Matthew-07/README.md">Matthew 7</a> the <em>Judge</em> tells evildoers to depart, <strong>because He never knew them</strong>. The same four words, two scenes — and the difference between them is the whole question of being known by God. <strong>The Old Testament's words keep coming back wearing new authority.</strong></p>
+    </div>
+  </div>
+</section>
+
+<!-- CLOSING -->
+<section id="s-closing-reflection">
+  <div class="sec-head">
+    <div class="emoji">🕊️</div>
+    <div><div class="sub">Where the first lament leaves us</div><h2>Closing Reflection</h2></div>
+  </div>
+  <div class="closing">
+    <p>Psalm 6 is the Bible's first weeping, and it hands every reader who has ever lain awake in trouble three things to carry:</p>
+    <div class="three">
+      <div class="pillar">
+        <div class="p-t">Grief gets a voice</div>
+        <p>The psalm doesn't tidy the sorrow — it lets the bed swim and the eyes waste away. The first lament gives raw, sleepless, exhausting grief full permission to be spoken aloud to God.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">Mercy, not record</div>
+        <p>From verse 1 the whole weight lands on God's grace, not the sufferer's standing — <em>chanan</em>, the bending-down of undeserved kindness. The plea is to be corrected, never consumed.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">Heard while still wet</div>
+        <p>Nothing in his circumstances changed at the hinge — but the certainty that God listened turned a sob into a stand. The prayer was answered before the tears were dry.</p>
+      </div>
+    </div>
+    <p style="margin-bottom:0">Ten verses run the full arc of a lament — from the heat of feared wrath, through a flooded bed and the cold edge of the grave, to a man rising off the floor because <strong>the Lord has given ear to the voice of his weeping.</strong> The Psalter has learned to cry. And it has learned, in the same breath, that the crying is heard.</p>
+  </div>
+</section>
+
+<!-- NEXT CHAPTER -->
+<div class="next">
+  <div class="label">Next · <a href="../../19-Psalms/Psalms-007/README.md">Psalm 7</a></div>
+  <h3>"O Lord my God, I put my faith in you"</h3>
+  <p>From a sickbed of tears to a courtroom of pursuit. <a href="../../19-Psalms/Psalms-007/README.md">Psalm 7</a> — a <em>shiggaion</em> of David — turns from weeping to a plea for justice, as the falsely accused runs to God as Judge and asks Him to weigh the heart. The lament becomes an appeal.</p>
+  <div class="sprout">⚖️</div>
+</div>
+
+<footer>Psalm 6 · A Deep Devotional Study · bible-study</footer>
+
+</div>
+</body>
+</html>

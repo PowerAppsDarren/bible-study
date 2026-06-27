@@ -4,6 +4,23 @@ Rolling 7-day session log. Add `<!-- pin -->` to any entry to keep it permanentl
 
 ---
 
+## 2026-06-27 (session 03) — Psalms 1–10 + Ezekiel 1 devotional pages, dual-home guard, cross-linking & TOC (Opus-4.8)
+
+**Accomplished:**
+- **11 shared "Branch" devotional pages** — `scripture/19-Psalms/Psalms-001..010/devotional.html` and `scripture/26-Ezekiel/Ezekiel-01/devotional.html`. Built by parallel `devotional-designer` agents; BBE-primary, six-point-gate-clean, footer `<Book Chapter> · A Deep Devotional Study · bible-study`. Shared-vs-personal resolved by adapting the **voice** to the gate, not the location.
+- **New skill `_bible_dual_home_guard`** + `.githooks/pre-commit` (`core.hooksPath=.githooks`) — mirrors repo `.claude/` bible skills+agents → `~/.claude/` on every commit; pure-Python, non-blocking. Already caught/fixed real `TEACHERS.md` drift.
+- **Two finalize post-processors** in `_branch_devotional_design`: `link_chapters.py` (every chapter mention → that chapter's repo README; 424 links, 0 broken, no self-links; existence-checked + idempotent) and `add_toc.py` ("In This Study" table of contents; idempotent).
+- **Conventions captured** — updated the skill `SKILL.md` + `devotional-designer` agent (Finalize step, shared/personal placement) + new project memory `bible-devotional-chapter-crosslinks`; synced to `~/.claude/`.
+
+**Files changed:** `scripture/19-Psalms/Psalms-001..010/devotional.html` (10) + `scripture/26-Ezekiel/Ezekiel-01/devotional.html`; `.claude/skills/_bible_dual_home_guard/{SKILL.md,guard.py}` + `.githooks/pre-commit`; `.claude/skills/_branch_devotional_design/{SKILL.md,link_chapters.py,add_toc.py}`; `.claude/agents/devotional-designer.md`; `.ai-chats/2026-06-27-02-psalms-ezekiel-devotionals/*` + `INDEX.md`.
+
+**Not done / next:**
+- **Browser sign-off** of a page still pending.
+- **Staged `CLAUDE.md`/`CONTRIBUTING.md`** (prior session's `.personal` private-repo model) left uncommitted — that decision is still OPEN (see pinned entry below); CHANGELOG `[Unreleased]` still describes the old multi-user model.
+- Continue Psalms 11+ / more chapters (now auto-born with TOC + cross-links).
+
+---
+
 ## 2026-06-27 — Whole-Bible scripture rollout + tooling + word-study engine (Opus-4.8) <!-- pin -->
 
 **Accomplished:**

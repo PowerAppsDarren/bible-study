@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Psalm 5 — The Morning Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&family=Noto+Serif+Hebrew:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e0c0a;
+    --panel:#171310;
+    --panel2:#1d1813;
+    --ink:#e8e0d2;
+    --ink-dim:#a89a85;
+    --gold:#d4a843;
+    --gold-soft:#b8923a;
+    --ember:#c4543a;
+    --olive:#7c9a5c;
+    --sky:#6da3c4;
+    --line:#2e2620;
+    --serif:'Cormorant Garamond',Georgia,serif;
+    --sans:'Inter',system-ui,sans-serif;
+    --hebrew:'Noto Serif Hebrew',serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:17px;
+    line-height:1.75;
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:0 24px 100px}
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    position:relative;
+    text-align:center;
+    padding:90px 24px 70px;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% -10%, rgba(109,163,196,.20), transparent 60%),
+      radial-gradient(ellipse 60% 50% at 50% 110%, rgba(212,168,67,.10), transparent 60%),
+      var(--bg);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero .kicker{
+    font-size:13px;letter-spacing:.35em;text-transform:uppercase;
+    color:var(--gold);font-weight:600;margin-bottom:22px;
+  }
+  .hero h1{
+    font-family:var(--serif);
+    font-size:clamp(44px,7vw,76px);
+    font-weight:700;line-height:1.05;
+    color:var(--ink);
+  }
+  .hero h1 .accent{color:var(--gold)}
+  .hero .subtitle{
+    font-family:var(--serif);font-style:italic;
+    font-size:clamp(20px,3vw,28px);
+    color:var(--ink-dim);margin-top:18px;
+  }
+  .hero .heb-banner{
+    font-family:var(--hebrew);
+    font-size:clamp(26px,4vw,38px);
+    color:rgba(109,163,196,.60);
+    margin-top:34px;direction:rtl;
+  }
+  .hero .heb-caption{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:6px}
+
+  .hook{
+    margin:48px auto 0;max-width:640px;
+    border:1px solid rgba(109,163,196,.40);
+    background:linear-gradient(180deg, rgba(109,163,196,.10), rgba(109,163,196,.02));
+    border-radius:14px;padding:26px 30px;
+  }
+  .hook .big{
+    font-family:var(--serif);font-weight:700;
+    font-size:clamp(20px,3vw,26px);letter-spacing:.04em;color:var(--sky);
+  }
+  .hook .small{font-size:14px;color:var(--ink-dim);margin-top:8px;font-style:italic}
+
+  /* ---------- SECTIONS ---------- */
+  section{margin-top:72px}
+  .sec-head{display:flex;align-items:center;gap:16px;margin-bottom:26px}
+  .sec-head .emoji{
+    flex:0 0 auto;width:54px;height:54px;border-radius:14px;
+    display:flex;align-items:center;justify-content:center;
+    font-size:26px;background:var(--panel2);border:1px solid var(--line);
+  }
+  .sec-head h2{
+    font-family:var(--serif);font-size:clamp(28px,4vw,36px);
+    font-weight:700;line-height:1.15;
+  }
+  .sec-head .sub{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
+  p{margin-bottom:18px;color:var(--ink)}
+  p.dim{color:var(--ink-dim)}
+  strong{color:#f3ead7}
+  em{color:var(--ink)}
+
+  /* verse blockquote */
+  .verse{
+    border-left:3px solid var(--gold);
+    background:linear-gradient(90deg, rgba(212,168,67,.07), transparent 70%);
+    padding:22px 26px;margin:26px 0;border-radius:0 12px 12px 0;
+  }
+  .verse .text{font-family:var(--serif);font-size:22px;font-style:italic;line-height:1.6;color:#efe6d4}
+  .verse .ref{margin-top:10px;font-size:13px;letter-spacing:.15em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  .verse.ember{border-left-color:var(--ember);background:linear-gradient(90deg, rgba(196,84,58,.08), transparent 70%)}
+  .verse.ember .ref{color:var(--ember)}
+  .verse.olive{border-left-color:var(--olive);background:linear-gradient(90deg, rgba(124,154,92,.08), transparent 70%)}
+  .verse.olive .ref{color:var(--olive)}
+  .verse.sky{border-left-color:var(--sky);background:linear-gradient(90deg, rgba(109,163,196,.08), transparent 70%)}
+  .verse.sky .ref{color:var(--sky)}
+
+  /* hebrew word cards */
+  .word-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin:28px 0}
+  .word-card{
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:26px;position:relative;overflow:hidden;
+  }
+  .word-card::before{
+    content:'';position:absolute;inset:0 0 auto 0;height:3px;
+    background:linear-gradient(90deg,var(--olive),transparent);
+  }
+  .word-card .heb{font-family:var(--hebrew);font-size:38px;color:var(--gold);direction:rtl;line-height:1.3}
+  .word-card .translit{font-style:italic;font-family:var(--serif);font-size:20px;color:var(--ink);margin-top:4px}
+  .word-card .gloss{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-dim);font-weight:600;margin-top:2px;margin-bottom:12px}
+  .word-card p{font-size:15px;line-height:1.65;color:var(--ink-dim);margin-bottom:0}
+  .word-card p strong{color:var(--ink)}
+
+  /* featured verse mega-card */
+  .featured{
+    background:
+      radial-gradient(ellipse 90% 100% at 50% 0%, rgba(109,163,196,.12), transparent 55%),
+      var(--panel);
+    border:1px solid rgba(109,163,196,.45);
+    border-radius:20px;padding:46px 42px;margin-top:10px;
+  }
+  .featured .label{
+    display:inline-block;font-size:12px;letter-spacing:.3em;text-transform:uppercase;
+    color:var(--bg);background:var(--sky);font-weight:700;
+    padding:6px 14px;border-radius:999px;margin-bottom:24px;
+  }
+  .featured .heb-line{
+    font-family:var(--hebrew);font-size:clamp(28px,5vw,42px);
+    color:var(--gold);direction:rtl;text-align:center;
+    margin:18px 0 6px;line-height:1.5;
+  }
+  .featured .heb-translit{text-align:center;font-family:var(--serif);font-style:italic;font-size:19px;color:var(--ink-dim);margin-bottom:26px}
+
+  /* two-ways pairs */
+  .pairs{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:28px 0}
+  .pair{
+    background:var(--panel2);border:1px solid var(--line);border-radius:14px;
+    padding:18px 20px;text-align:center;
+  }
+  .pair .faces{font-size:30px;letter-spacing:4px}
+  .pair .who{font-family:var(--serif);font-size:18px;color:var(--ink);margin-top:8px}
+  .pair .who em{color:var(--olive);font-style:normal}
+  .pair.ember .who em{color:var(--ember)}
+
+  /* teacher callouts */
+  .teacher{
+    display:flex;gap:18px;align-items:flex-start;
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:22px 26px;margin:24px 0;
+  }
+  .teacher .avatar{
+    flex:0 0 auto;width:46px;height:46px;border-radius:50%;
+    background:linear-gradient(135deg,var(--gold),var(--olive));
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--serif);font-weight:700;font-size:18px;color:var(--bg);
+  }
+  .teacher .name{font-weight:700;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+  .teacher p{font-size:15.5px;color:var(--ink-dim);margin:6px 0 0}
+  .teacher p strong{color:var(--ink)}
+
+  /* divider */
+  .divider{display:flex;align-items:center;gap:18px;margin:70px 0 0;color:var(--olive)}
+  .divider::before,.divider::after{content:'';flex:1;height:1px;background:var(--line)}
+  .divider span{font-size:20px}
+
+  /* name highlight */
+  .remnant-name{text-align:center;margin:34px 0}
+  .remnant-name .heb{font-family:var(--hebrew);font-size:46px;color:var(--olive);direction:rtl}
+  .remnant-name .t{font-family:var(--serif);font-style:italic;font-size:22px;color:var(--ink)}
+  .remnant-name .d{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:4px}
+
+  /* closing */
+  .closing{
+    background:
+      radial-gradient(ellipse 80% 100% at 50% 100%, rgba(124,154,92,.12), transparent 60%),
+      var(--panel);
+    border:1px solid var(--line);border-radius:20px;padding:44px 42px;
+  }
+  .closing .three{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin:26px 0}
+  .closing .pillar{
+    background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:20px;
+  }
+  .closing .pillar .p-t{font-family:var(--serif);font-weight:700;font-size:20px;color:var(--gold);margin-bottom:6px}
+  .closing .pillar p{font-size:14.5px;color:var(--ink-dim);margin:0}
+
+  /* next chapter */
+  .next{
+    margin-top:60px;text-align:center;
+    border:1px dashed rgba(124,154,92,.5);border-radius:16px;
+    padding:40px 30px;
+    background:linear-gradient(180deg, rgba(124,154,92,.06), transparent);
+  }
+  .next .label{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--olive);font-weight:700;margin-bottom:12px}
+  .next h3{font-family:var(--serif);font-size:30px;font-weight:700;color:var(--ink)}
+  .next p{color:var(--ink-dim);font-size:16px;max-width:560px;margin:12px auto 0}
+  .next .sprout{font-size:34px;margin-top:14px}
+
+  footer{margin-top:70px;text-align:center;font-size:13px;color:var(--ink-dim);letter-spacing:.08em}
+  @media (max-width:600px){
+    .featured{padding:32px 22px}
+    .closing{padding:32px 22px}
+  }
+  /* TOC-CSS-START */
+  .toc{margin:46px 0 8px;border:1px solid var(--line);background:var(--panel);border-radius:16px;padding:24px 28px}
+  .toc .toc-h{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:16px}
+  .toc ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:4px 24px}
+  .toc a{display:flex;gap:12px;align-items:baseline;color:var(--ink-dim);text-decoration:none;padding:8px 10px;border-radius:9px;font-family:var(--serif);font-size:18px;line-height:1.3;transition:background .15s ease,color .15s ease}
+  .toc a:hover{background:var(--panel2);color:var(--ink)}
+  .toc a .n{font-family:var(--sans);font-size:12px;font-weight:700;color:var(--gold);min-width:22px}
+  .toc a .e{font-size:17px;flex:0 0 auto}
+  section{scroll-margin-top:24px}
+  /* TOC-CSS-END */
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="kicker">A Deep Devotional Study · Psalm 5 of 150</div>
+  <h1>Psalm 5<br><span class="accent">"The Morning Watch"</span></h1>
+  <div class="subtitle">A prayer laid out at first light — the courtroom of God, the door of His house, and a favor that surrounds like a shield</div>
+  <div class="heb-banner">בַּבֹּקֶר אֶעֱרָךְ־לְךָ</div>
+  <div class="heb-caption">ba-boqer e'erokh-lekha — "in the morning I lay it out before You"</div>
+  <div class="hook">
+    <div class="big">🌅 A PRAYER SET OUT BEFORE THE DAWN</div>
+    <div class="small">Before the noise of the day begins, the psalmist arranges his words to God the way a priest lays wood on the altar — carefully, in order, and then waits to see what fire falls.</div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<nav class="toc">
+  <div class="toc-h">In This Study</div>
+  <ol>
+    <li><a href="#s-a-song-for-the-wind-instruments"><span class="n">01</span><span class="e">🎶</span><span class="t">A Song for the Wind Instruments</span></a></li>
+    <li><a href="#s-three-ways-to-be-heard"><span class="n">02</span><span class="e">🌅</span><span class="t">Three Ways to Be Heard</span></a></li>
+    <li><a href="#s-three-words-at-first-light"><span class="n">03</span><span class="e">📖</span><span class="t">Three Words at First Light</span></a></li>
+    <li><a href="#s-the-god-who-cannot-host-evil"><span class="n">04</span><span class="e">⚖️</span><span class="t">The God Who Cannot Host Evil</span></a></li>
+    <li><a href="#s-but-as-for-me-i-will-come-into-your-house"><span class="n">05</span><span class="e">🛐</span><span class="t">&quot;But as for me, I will come into your house&quot;</span></a></li>
+    <li><a href="#s-their-throat-is-an-open-grave"><span class="n">06</span><span class="e">🪦</span><span class="t">&quot;Their Throat Is an Open Grave&quot;</span></a></li>
+    <li><a href="#s-two-crowds-two-endings"><span class="n">07</span><span class="e">🛡️</span><span class="t">Two Crowds, Two Endings</span></a></li>
+    <li><a href="#s-closing-reflection"><span class="n">08</span><span class="e">🕊️</span><span class="t">Closing Reflection</span></a></li>
+  </ol>
+</nav>
+
+
+<!-- SECTION 1 — THE MORNING PSALM -->
+<section id="s-a-song-for-the-wind-instruments">
+  <div class="sec-head">
+    <div class="emoji">🎶</div>
+    <div><div class="sub">Psalm 5 · The Superscription</div><h2>A Song for the Wind Instruments</h2></div>
+  </div>
+  <p>Psalm 5 carries a heading the BBE leaves out but the older versions keep: <em>"To the chief Musician upon Nehiloth, A Psalm of David."</em> <strong>Nehiloth</strong> is a musical direction whose root is widely tied to the word for a flute or pipe — so this is a psalm set, most likely, <strong>for wind instruments</strong>. From its first breath, Psalm 5 is meant to be <em>played</em>, not just read: a melody for the reed pipes at the start of the day.</p>
+  <p>And it belongs to a thread running through the early Psalter. <a href="../../19-Psalms/Psalms-003/README.md">Psalm 3</a> is an <em>evening</em> psalm — "I took my rest in sleep, and then again I was awake" (3:5). <a href="../../19-Psalms/Psalms-004/README.md">Psalm 4</a> hands the day over at night — "I will take my rest in peace" (4:8). Then Psalm 5 turns to the <strong>morning</strong>. Read together they frame an ordinary day in prayer: lie down, rise, and the first act of the new light is to <strong>speak to God before anyone else.</strong></p>
+
+  <div class="teacher">
+    <div class="avatar">BC</div>
+    <div>
+      <div class="name">Dr. Bill Creasy</div>
+      <p>Reads the Bible as a unified literary work, attentive to how a book is arranged — and he'd point to the way these opening psalms are <strong>sequenced like the hours of a day</strong>. <a href="../../19-Psalms/Psalms-003/README.md">Psalm 3</a> at night, <a href="../../19-Psalms/Psalms-004/README.md">Psalm 4</a> lying down, Psalm 5 at dawn: the editors of the Psalter weren't filing songs at random. They set them so the reader <strong>prays through the clock</strong>, and the morning psalm comes loaded with the imagery of the morning sacrifice and the opening of the temple gates.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 2 — THE MORNING APPROACH -->
+<section id="s-three-ways-to-be-heard">
+  <div class="sec-head">
+    <div class="emoji">🌅</div>
+    <div><div class="sub">Psalm 5:1–3</div><h2>Three Ways to Be Heard</h2></div>
+  </div>
+  <div class="verse sky">
+    <div class="text">"Give ear to my words, O Lord; give thought to my heart-searchings. Let the voice of my cry come to you, my King and my God; for to you will I make my prayer."</div>
+    <div class="ref">Psalm 5:1–2 · BBE</div>
+  </div>
+  <p>The prayer opens by asking to be heard <strong>three different ways</strong>, because there are three kinds of prayer here. First the <em>words</em> — the things actually said. Then the <strong>heart-searchings</strong> — the part with no words at all. Then the <em>voice of my cry</em> — the loud, urgent shout. Spoken, unspoken, and unable-to-be-spoken: the psalmist asks God to catch every register of him at once.</p>
+  <div class="verse sky">
+    <div class="text">"My voice will come to you in the morning, O Lord; in the morning will I send my prayer to you, and keep watch."</div>
+    <div class="ref">Psalm 5:3 · BBE</div>
+  </div>
+  <p>Twice in one verse: <strong>in the morning… in the morning.</strong> The repetition is the point. This is not a panic prayer flung up in a crisis but a <em>standing appointment</em> — the first thing, every day. And it ends on a posture the older versions render "I will look up" or "watch expectantly": having laid the prayer out, the psalmist <strong>keeps watch like a sentry on the wall</strong>, scanning the horizon for the answer to come.</p>
+</section>
+
+<!-- SECTION 3 — WORDS AT FIRST LIGHT -->
+<section id="s-three-words-at-first-light">
+  <div class="sec-head">
+    <div class="emoji">📖</div>
+    <div><div class="sub">The load-bearing words</div><h2>Three Words at First Light</h2></div>
+  </div>
+  <p>Three Hebrew words in the first three verses carry the whole posture of the psalm. English softens them; the originals are far more physical — a groan, an altar, and a watchman.</p>
+
+  <div class="word-grid">
+    <div class="word-card">
+      <div class="heb">הָגִיג</div>
+      <div class="translit">hagig</div>
+      <div class="gloss">meditation · murmuring · groaning</div>
+      <p>The BBE's "heart-searchings" (v.1) is the noun <em>hagig</em>, from the same root <em>hagah</em> that anchors <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a>'s "meditate." It's not silent reflection — it's a <strong>low, inarticulate murmur</strong>, the sound a person makes when the heart is too full for sentences. The psalmist asks God to <strong>read the groan beneath the words</strong>, the prayer that never makes it into speech.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">עָרַךְ</div>
+      <div class="translit">arak</div>
+      <div class="gloss">to lay out · arrange · set in order</div>
+      <p>"I will send my prayer" (v.3) flattens a vivid verb. <em>Arak</em> is what a priest does when he <strong>lays the wood and the pieces of the offering in order on the altar</strong> (<a href="../../03-Leviticus/Leviticus-01/README.md">Leviticus 1</a>:7–8), and what a soldier does when he <strong>draws up a battle line</strong>. The morning prayer is <em>arranged</em> — set out deliberately, like a sacrifice — and then left for the fire of God to fall.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">צָפָה</div>
+      <div class="translit">tsaphah</div>
+      <div class="gloss">to watch · keep lookout · scan</div>
+      <p>"And keep watch" (v.3) is <em>tsaphah</em> — the verb for a <strong>watchman posted on the city wall</strong>, straining toward the horizon for the first sign of a messenger. Prayer here isn't a coin dropped and forgotten. Having laid the offering out, the psalmist <strong>stands his post and watches</strong>, expecting an answer to crest the hill.</p>
+    </div>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">PS</div>
+    <div>
+      <div class="name">Perry Stone</div>
+      <p>Works from Hebrew roots and Israel's worship calendar, and <em>arak</em> is exactly the kind of word he'd light up: the <strong>morning sacrifice (the tamid)</strong> was laid on the altar at dawn, the first act of the temple day. When David says he will "lay out" his prayer <em>in the morning</em>, he's casting his words as that morning offering — <strong>prayer arranged on the altar like the wood and the lamb</strong>, sent up with the smoke at first light.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 4 — GOD'S HATRED OF EVIL -->
+<section id="s-the-god-who-cannot-host-evil">
+  <div class="sec-head">
+    <div class="emoji">⚖️</div>
+    <div><div class="sub">Psalm 5:4–6</div><h2>The God Who Cannot Host Evil</h2></div>
+  </div>
+  <p>The middle of the psalm shifts from the temple to the <strong>courtroom</strong>. Before God grants the prayer, the psalmist establishes <em>who this Judge is</em> — and the description is built almost entirely on what God <strong>will not</strong> tolerate in His presence.</p>
+  <div class="verse ember">
+    <div class="text">"For you are not a God who takes pleasure in wrongdoing; there is no evil with you. The sons of pride have no place before you; you are a hater of all workers of evil."</div>
+    <div class="ref">Psalm 5:4–5 · BBE</div>
+  </div>
+  <p>The logic is the logic of a guest list. Evil <em>"may not dwell with"</em> God (as the WEB puts it) — it has no standing to lodge in His house. The arrogant <strong>cannot take a position in His sight</strong>. This is the hard hinge of the psalm: the same God who welcomes the praying heart at dawn is a God in whose presence cruelty <strong>simply has no room to stay.</strong></p>
+  <div class="verse ember">
+    <div class="text">"You will send destruction on those whose words are false; the cruel man and the man of deceit are hated by the Lord."</div>
+    <div class="ref">Psalm 5:6 · BBE</div>
+  </div>
+  <p>Notice what the verses keep circling: the <strong>bloodthirsty</strong> and the <strong>deceitful</strong> — violence and lies. These are the two sins the psalm names again and again, and they are the two it will return to when it describes the enemy's mouth. The Judge's character in verses 4–6 is the exact measure the accuser will be weighed against in verse 9.</p>
+</section>
+
+<!-- SECTION 5 — ENTERING THE HOUSE -->
+<section id="s-but-as-for-me-i-will-come-into-your-house">
+  <div class="sec-head">
+    <div class="emoji">🛐</div>
+    <div><div class="sub">Psalm 5:7–8</div><h2>"But as for me, I will come into your house"</h2></div>
+  </div>
+  <p>Against everyone who has <em>no place</em> before God comes the great reversal of the psalm — two words in Hebrew, <em>wa-ani</em>, <strong>"but as for me."</strong> The wicked cannot enter; the psalmist will. And he is careful to say <em>why</em>: not on his own merit, but on God's mercy.</p>
+  <div class="verse">
+    <div class="text">"But as for me, I will come into your house, in the full measure of your mercy; and in your fear I will give worship, turning my eyes to your holy Temple."</div>
+    <div class="ref">Psalm 5:7 · BBE</div>
+  </div>
+  <p>The entrance is gated by two words. He comes <strong>in the abundance of God's <em>chesed</em></strong> — God's covenant mercy, the only credential that opens the door — and he bows <strong>in <em>yirah</em>, the fear of the Lord</strong>, the awe that knows whose house this is. Welcome and reverence held together: he is glad to be admitted and trembling to be there at once.</p>
+  <div class="verse">
+    <div class="text">"Be my guide, O Lord, in the ways of your righteousness, because of those who are against me; make your way straight before my face."</div>
+    <div class="ref">Psalm 5:8 · BBE</div>
+  </div>
+
+  <div class="remnant-name">
+    <div class="heb">דֶּרֶךְ</div>
+    <div class="t">derek — way, road, the path a life travels</div>
+    <div class="d">make level the road before my face</div>
+  </div>
+
+  <p>The prayer of verse 8 is for a <strong>road</strong>. <em>Derek</em> is the Psalter's master-image — the same word that opened and closed <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a>'s "two ways" — and here the psalmist asks God to <strong>make His way <em>straight</em>, level, clear</strong> ahead of him, "because of those who watch for me to slip." Surrounded by enemies who want him to stumble, he asks not for their removal but for <em>sure footing</em>: a road he can walk without falling.</p>
+
+  <div class="teacher">
+    <div class="avatar">JC</div>
+    <div>
+      <div class="name">Jonathan Cahn</div>
+      <p>Teaches from the Hebrew under the English, and he'd hold up <em>derek</em> beside <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a>. The Psalter's first poem set the <strong>two ways</strong> — the road of the righteous that God <em>knows</em>, and the road of the wicked that perishes — and Psalm 5 is a man <strong>praying his way onto the right road</strong>: "make your <em>derek</em> straight before my face." The same image that opened the book is now a personal request: <strong>level the path, and keep my feet on it.</strong></p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"><span>⚖️</span></div>
+
+<!-- FEATURED VERSE -->
+<section id="s-their-throat-is-an-open-grave">
+  <div class="sec-head">
+    <div class="emoji">🪦</div>
+    <div><div class="sub">The verse the New Testament reaches back for</div><h2>"Their Throat Is an Open Grave"</h2></div>
+  </div>
+  <div class="featured">
+    <span class="label">Featured Verse · Psalm 5:9</span>
+    <div class="heb-line">קֶבֶר־פָּתוּחַ גְּרוֹנָם</div>
+    <div class="heb-translit">qever-patuach gronam — their throat is an opened grave</div>
+
+    <div class="verse sky">
+      <div class="text">"For no faith may be put in their words; their inner part is nothing but evil; their throat is like an open place for the dead; smooth are the words of their tongues."</div>
+      <div class="ref">Psalm 5:9 · BBE</div>
+    </div>
+
+    <p>This is the most-quoted line in the psalm, and the image is brutal. The enemy's deceit is traced from the inside out — the <em>inward part</em>, the <em>throat</em>, the <em>tongue</em> — and at the center sits a single horrifying picture: <strong>an open grave.</strong></p>
+
+    <div class="word-grid">
+      <div class="word-card">
+        <div class="heb">קֶבֶר פָּתוּחַ</div>
+        <div class="translit">qever patuach</div>
+        <div class="gloss">an open grave · a gaping tomb</div>
+        <p>A grave left <strong>uncovered</strong> — the stench of death and decay rising out of it. The flattering throat looks like a mouth, but what comes out of it is <strong>the smell of the tomb</strong>. Smooth words on the surface; rot underneath. Charm in service of death.</p>
+      </div>
+      <div class="word-card">
+        <div class="heb">חָלַק</div>
+        <div class="translit">chalaq</div>
+        <div class="gloss">smooth · slippery · flattering</div>
+        <p>"Smooth are the words of their tongues" — <em>chalaq</em> means <strong>slick, frictionless, slippery</strong>. It's the polished flattery that gives you nothing to hold and leaves you sliding. The same root names the <em>slippery</em> path the wicked are sent down in <a href="../../19-Psalms/Psalms-035/README.md">Psalm 35</a>:6. <strong>The smoother the words, the more dangerous the footing.</strong></p>
+      </div>
+    </div>
+
+    <p>And this is the verse Paul reaches back for. In <strong><a href="../../45-Romans/Romans-03/README.md">Romans 3</a>:13</strong>, building his case that "all have sinned," he stitches together a chain of Old Testament lines on the corruption of human speech — and he pulls Psalm 5:9 in word for word: <em>"Their throat is an open grave… the poison of asps is under their lips."</em> The accuser David faced becomes, in Paul's hands, <strong>a portrait of the whole race apart from grace.</strong></p>
+
+    <div class="teacher">
+      <div class="avatar">CM</div>
+      <div>
+        <div class="name">Chuck Missler</div>
+        <p>Loved tracing how the New Testament quotes the Old, and <a href="../../45-Romans/Romans-03/README.md">Romans 3</a>:10–18 is a classic example he'd unpack: Paul builds a <strong>catena</strong> — a deliberate chain of citations — and Psalm 5:9 is one of its links, set beside <a href="../../19-Psalms/Psalms-014/README.md">Psalms 14</a>, 140, 10, and <a href="../../23-Isaiah/Isaiah-59/README.md">Isaiah 59</a>. <strong>One man's enemies in Psalm 5 become Paul's diagnosis of all humanity.</strong> The open grave was never just about David's accusers; it was a mirror.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 7 — THE TWO ENDINGS -->
+<section id="s-two-crowds-two-endings">
+  <div class="sec-head">
+    <div class="emoji">🛡️</div>
+    <div><div class="sub">Psalm 5:10–12</div><h2>Two Crowds, Two Endings</h2></div>
+  </div>
+  <p>Like <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a> before it, Psalm 5 closes by sorting the world into <strong>two crowds</strong> and tracing each to its end. First the deceivers, handed over to the weight of their own schemes:</p>
+  <div class="verse ember">
+    <div class="text">"Send them to destruction, O Lord; let their evil designs be the cause of their fall… because they have gone against your authority."</div>
+    <div class="ref">Psalm 5:10 · BBE</div>
+  </div>
+  <p>Note the shape of the judgment: the psalmist doesn't ask to strike them himself. He asks God to let them <strong>fall by their own counsels</strong> — to be tripped by the very traps they set. And the charge isn't private grievance: <em>"they have gone against your authority"</em> — they have rebelled against <strong>God</strong>, not merely against David. Then the psalm pivots, for the last time, to the other crowd:</p>
+
+  <div class="pairs">
+    <div class="pair ember"><div class="faces">🪦💨</div><div class="who">the deceiver — <em>fallen by his own designs</em></div></div>
+    <div class="pair"><div class="faces">🛡️🎉</div><div class="who">the trusting — <em>surrounded with favor</em></div></div>
+  </div>
+
+  <div class="verse olive">
+    <div class="text">"But let all those who put their faith in you be glad with cries of joy at all times… For you, Lord, will send a blessing on the upright man; your grace will be round him, and you will be his strength."</div>
+    <div class="ref">Psalm 5:11–12 · BBE</div>
+  </div>
+  <p>The psalm that began in a groan ends in a <strong>shout of joy</strong>. And the last image is the one that answers every threat in it — the BBE's "your grace will be round him" is, in the Hebrew, a <strong>shield</strong>.</p>
+
+  <div class="word-grid">
+    <div class="word-card">
+      <div class="heb">צִנָּה</div>
+      <div class="translit">tsinnah</div>
+      <div class="gloss">the great body-shield</div>
+      <p>Not the small round buckler (<em>magen</em>) strapped to the arm — <em>tsinnah</em> is the <strong>full-length body shield</strong>, tall enough to crouch behind, the one a shield-bearer carried to cover the whole soldier (it's the shield in Goliath's armor, <a href="../../09-1-Samuel/1-Samuel-17/README.md">1 Samuel 17</a>:7). Here the psalmist is covered head to foot.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">רָצוֹן</div>
+      <div class="translit">ratson</div>
+      <div class="gloss">favor · good pleasure · delight</div>
+      <p>What forms the shield is <em>ratson</em> — God's <strong>favor, His glad goodwill</strong>. Verse 12 says God will <strong>"crown" or surround the righteous with favor as with a body-shield</strong> (<em>ka-tsinnah ratson ta'tarennu</em>). The same favor wraps <em>all the way around</em> — not a wall in front, but a circle. <strong>Favor on every side.</strong></p>
+    </div>
+  </div>
+  <p style="margin-bottom:0">It is the perfect close. The accuser's throat was an <em>open</em> grave — exposed, gaping, leaking death. The righteous are the opposite: <strong>closed in on every side by the favor of God</strong>, like a soldier crouched safe behind the great shield while the arrows fall.</p>
+</section>
+
+<!-- CLOSING -->
+<section id="s-closing-reflection">
+  <div class="sec-head">
+    <div class="emoji">🕊️</div>
+    <div><div class="sub">Where the morning leads</div><h2>Closing Reflection</h2></div>
+  </div>
+  <div class="closing">
+    <p>Psalm 5 walks a full arc — from the first murmur before dawn to a shout of joy under God's shield — and it leaves three things in the reader's hands:</p>
+    <div class="three">
+      <div class="pillar">
+        <div class="p-t">Lay it out early</div>
+        <p>The morning prayer is <em>arak</em> — arranged like wood on the altar, set out in order, then watched over like a sentry on the wall. Prayer here is the day's first deliberate act, not its last resort.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">In by mercy, not merit</div>
+        <p>"But as for me, I will come into your house" — and the door opens only on the <em>abundance of God's mercy</em>, entered in the fear of the Lord. Welcome and reverence are held together at the threshold.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">Surrounded by favor</div>
+        <p>The open grave gapes; the favored are closed in. The psalm ends with the great body-shield — God's goodwill drawn all the way around the one who trusts Him, covering every side at once.</p>
+      </div>
+    </div>
+    <p style="margin-bottom:0">Two crowds, two mouths, two endings: the throat that is an open grave, and the life that is surrounded as with a shield. Psalm 5 is the prayer of someone who has chosen which one he wants to be — and who gets up before the day to ask for it. <strong>The morning watch begins by laying the heart on the altar and looking up.</strong></p>
+  </div>
+</section>
+
+<!-- NEXT CHAPTER -->
+<div class="next">
+  <div class="label">Next · <a href="../../19-Psalms/Psalms-006/README.md">Psalm 6</a></div>
+  <h3>"O Lord, do not be bitter with me"</h3>
+  <p>From the morning watch to the long night of tears. <a href="../../19-Psalms/Psalms-006/README.md">Psalm 6</a> is the first of the seven Penitential Psalms — a prayer drenched in weeping, "all the night I make my bed wet with weeping" — where the sentry who watched for the dawn now waits out the dark, and learns that God hears the sound of crying too.</p>
+  <div class="sprout">💧</div>
+</div>
+
+<footer>Psalm 5 · A Deep Devotional Study · bible-study</footer>
+
+</div>
+</body>
+</html>

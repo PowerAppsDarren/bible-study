@@ -31,6 +31,13 @@ Everything else hangs off those two sections.
   — the canonical color / type / spacing tokens (source of truth). The template mirrors
   these literal values **inline** so every finished study is one self-contained, portable
   file with no runtime stylesheet.
+- **`link_chapters.py`** — the **chapter cross-linker** (post-processor). After a page is
+  written or edited, run it on the file to turn every Bible-chapter mention into a link to
+  that chapter's repo README. Safe, idempotent, never emits a broken link, never self-links.
+- **`add_toc.py`** — the **table-of-contents builder** (post-processor). Injects a styled
+  `<nav class="toc">` at the top of `.wrap` listing every section (number · emoji · title,
+  linked to in-page anchors) and gives each section a stable `id`. Safe, idempotent, themes
+  itself from the page's CSS variables. Both scripts are the "Finalize" step below.
 
 ## How it fits the rest of the battery
 - **`_deep_bible_study_devotional`** writes the *content*; this skill is the *look*. The
@@ -45,10 +52,14 @@ Everything else hangs off those two sections.
 
 ## To make a new study page
 1. Duplicate `devotional-template.html`, rename it for the chapter (e.g. `devotional.html`),
-   and save it in the study's **personal** folder:
-   `.personal/<email>/scripture/<NN-Book>/<Book-NN>/`. Finished study pages are personal /
-   teacher-voice output — never write them into the shared layer, and never into another
-   user's email folder.
+   and save it next to that chapter's `README.md`. **Two valid homes:**
+   - **Shared** — `scripture/<NN-Book>/<Book-NN>/devotional.html` when the page is
+     reference-quality and clears the six-point shared-layer gate in `CLAUDE.md` (factual,
+     non-sectarian, license-clean; footer reads `<Book Chapter> · A Deep Devotional Study ·
+     bible-study`, never `.personal`).
+   - **Personal** — `.personal/<email>/scripture/<NN-Book>/<Book-NN>/devotional.html` for
+     teacher-voice reflection and anything specific to a reader. Never write into another
+     user's email folder.
 2. Delete the `✍️` guide banner; replace every `[bracketed]` placeholder.
 3. Follow the voice in `readme.md`: second person, present tense, one bolded punch per
    paragraph, scripture in italic serif with a tracked uppercase reference, Hebrew given room.
@@ -59,6 +70,43 @@ Everything else hangs off those two sections.
    - **sky** — the nations, water, hope
 5. One **featured verse** per study. Use the **menorah list** only for enumerated ideas,
    **pairs** for contrasts, **teacher callouts** for named voices.
+
+## Finalize step (mandatory) — run BOTH post-processors
+
+After any `devotional.html` is written or edited, run both scripts on it (order doesn't
+matter; each is idempotent). The `devotional-designer` agent has no shell, so the **main
+session runs this step** once the agent returns:
+
+```
+python .claude/skills/_branch_devotional_design/add_toc.py        <path>
+python .claude/skills/_branch_devotional_design/link_chapters.py  <path>
+```
+
+### Table of contents
+`add_toc.py` gives every titled `<section>` a stable `id` and injects a `<nav class="toc">`
+("In This Study") at the top of `.wrap`, listing each section as *number · emoji · title*
+linked to its in-page anchor. It themes itself from the page's CSS variables and rebuilds
+cleanly on re-run.
+
+### Chapter cross-linking
+**Rule (Darren, 2026-06-27): whenever a study page mentions another chapter of the Bible,
+that mention must link to that chapter's repo README.** This turns every page into a hub
+that wires straight into the rest of the scaffold.
+
+- **Link target:** `scripture/<NN-Book>/<Book>-<CC>/README.md` (chapter folder zero-padded —
+  3 digits for Psalms, 2 for every other book). From a chapter `devotional.html` the relative
+  href is always `../../<NN-Book>/<Book>-<CC>/README.md`.
+- **Don't hand-wire 400 links.** After the page is written or edited, run the post-processor:
+  ```
+  python .claude/skills/_branch_devotional_design/link_chapters.py <path-to-devotional.html>
+  ```
+  It links `Jeremiah 17` (leaving any trailing `:5-8` verse text as plain text), only ever
+  links references whose README actually exists (**never a broken link**), and skips the hero
+  `<header>`, `<title>`, `<footer>`, `<style>`/`<script>`, and anything already linked — so it
+  is safe to re-run any time. The `devotional-designer` agent has no shell; the **main session
+  runs this step** after the agent returns.
+- It prints a per-file report (`+N links`, plus any `skip:` lines where a target README was
+  missing). Investigate skips — they usually mean a malformed reference, not a missing file.
 
 ## Output discipline
 - Every page is a **single self-contained HTML file**: inline styles, fonts via the one

@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Psalm 2 — Why Do the Nations Rage?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&family=Noto+Serif+Hebrew:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e0c0a;
+    --panel:#171310;
+    --panel2:#1d1813;
+    --ink:#e8e0d2;
+    --ink-dim:#a89a85;
+    --gold:#d4a843;
+    --gold-soft:#b8923a;
+    --ember:#c4543a;
+    --olive:#7c9a5c;
+    --sky:#6da3c4;
+    --line:#2e2620;
+    --serif:'Cormorant Garamond',Georgia,serif;
+    --sans:'Inter',system-ui,sans-serif;
+    --hebrew:'Noto Serif Hebrew',serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:17px;
+    line-height:1.75;
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:0 24px 100px}
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    position:relative;
+    text-align:center;
+    padding:90px 24px 70px;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% -10%, rgba(212,168,67,.20), transparent 60%),
+      radial-gradient(ellipse 60% 50% at 50% 110%, rgba(196,84,58,.12), transparent 60%),
+      var(--bg);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero .kicker{
+    font-size:13px;letter-spacing:.35em;text-transform:uppercase;
+    color:var(--gold);font-weight:600;margin-bottom:22px;
+  }
+  .hero h1{
+    font-family:var(--serif);
+    font-size:clamp(44px,7vw,76px);
+    font-weight:700;line-height:1.05;
+    color:var(--ink);
+  }
+  .hero h1 .accent{color:var(--gold)}
+  .hero .subtitle{
+    font-family:var(--serif);font-style:italic;
+    font-size:clamp(20px,3vw,28px);
+    color:var(--ink-dim);margin-top:18px;
+  }
+  .hero .heb-banner{
+    font-family:var(--hebrew);
+    font-size:clamp(26px,4vw,38px);
+    color:rgba(196,84,58,.55);
+    margin-top:34px;direction:rtl;
+  }
+  .hero .heb-caption{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:6px}
+
+  .hook{
+    margin:48px auto 0;max-width:640px;
+    border:1px solid rgba(212,168,67,.40);
+    background:linear-gradient(180deg, rgba(212,168,67,.10), rgba(212,168,67,.02));
+    border-radius:14px;padding:26px 30px;
+  }
+  .hook .big{
+    font-family:var(--serif);font-weight:700;
+    font-size:clamp(20px,3vw,26px);letter-spacing:.04em;color:var(--gold);
+  }
+  .hook .small{font-size:14px;color:var(--ink-dim);margin-top:8px;font-style:italic}
+
+  /* ---------- SECTIONS ---------- */
+  section{margin-top:72px}
+  .sec-head{display:flex;align-items:center;gap:16px;margin-bottom:26px}
+  .sec-head .emoji{
+    flex:0 0 auto;width:54px;height:54px;border-radius:14px;
+    display:flex;align-items:center;justify-content:center;
+    font-size:26px;background:var(--panel2);border:1px solid var(--line);
+  }
+  .sec-head h2{
+    font-family:var(--serif);font-size:clamp(28px,4vw,36px);
+    font-weight:700;line-height:1.15;
+  }
+  .sec-head .sub{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
+  p{margin-bottom:18px;color:var(--ink)}
+  p.dim{color:var(--ink-dim)}
+  strong{color:#f3ead7}
+  em{color:var(--ink)}
+
+  /* verse blockquote */
+  .verse{
+    border-left:3px solid var(--gold);
+    background:linear-gradient(90deg, rgba(212,168,67,.07), transparent 70%);
+    padding:22px 26px;margin:26px 0;border-radius:0 12px 12px 0;
+  }
+  .verse .text{font-family:var(--serif);font-size:22px;font-style:italic;line-height:1.6;color:#efe6d4}
+  .verse .ref{margin-top:10px;font-size:13px;letter-spacing:.15em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  .verse.ember{border-left-color:var(--ember);background:linear-gradient(90deg, rgba(196,84,58,.08), transparent 70%)}
+  .verse.ember .ref{color:var(--ember)}
+  .verse.olive{border-left-color:var(--olive);background:linear-gradient(90deg, rgba(124,154,92,.08), transparent 70%)}
+  .verse.olive .ref{color:var(--olive)}
+  .verse.sky{border-left-color:var(--sky);background:linear-gradient(90deg, rgba(109,163,196,.08), transparent 70%)}
+  .verse.sky .ref{color:var(--sky)}
+
+  /* hebrew word cards */
+  .word-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin:28px 0}
+  .word-card{
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:26px;position:relative;overflow:hidden;
+    transition:border-color .25s ease, transform .25s ease;
+  }
+  .word-card:hover{border-color:var(--gold-soft);transform:translateY(-3px)}
+  .word-card::before{
+    content:'';position:absolute;inset:0 0 auto 0;height:3px;
+    background:linear-gradient(90deg,var(--gold),transparent);
+  }
+  .word-card .heb{font-family:var(--hebrew);font-size:38px;color:var(--gold);direction:rtl;line-height:1.3}
+  .word-card .translit{font-style:italic;font-family:var(--serif);font-size:20px;color:var(--ink);margin-top:4px}
+  .word-card .gloss{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-dim);font-weight:600;margin-top:2px;margin-bottom:12px}
+  .word-card p{font-size:15px;line-height:1.65;color:var(--ink-dim);margin-bottom:0}
+  .word-card p strong{color:var(--ink)}
+
+  /* featured verse mega-card */
+  .featured{
+    background:
+      radial-gradient(ellipse 90% 100% at 50% 0%, rgba(212,168,67,.14), transparent 55%),
+      var(--panel);
+    border:1px solid rgba(212,168,67,.50);
+    border-radius:20px;padding:46px 42px;margin-top:10px;
+  }
+  .featured .label{
+    display:inline-block;font-size:12px;letter-spacing:.3em;text-transform:uppercase;
+    color:var(--bg);background:var(--gold);font-weight:700;
+    padding:6px 14px;border-radius:999px;margin-bottom:24px;
+  }
+  .featured .heb-line{
+    font-family:var(--hebrew);font-size:clamp(28px,5vw,42px);
+    color:var(--gold);direction:rtl;text-align:center;
+    margin:18px 0 6px;line-height:1.5;
+  }
+  .featured .heb-translit{text-align:center;font-family:var(--serif);font-style:italic;font-size:19px;color:var(--ink-dim);margin-bottom:26px}
+
+  /* four-voices grid */
+  .voices{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin:28px 0}
+  .voice{
+    background:var(--panel2);border:1px solid var(--line);border-radius:14px;
+    padding:20px 18px;text-align:center;
+  }
+  .voice .faces{font-size:30px}
+  .voice .vref{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);font-weight:600;margin-top:8px}
+  .voice .who{font-family:var(--serif);font-size:18px;color:var(--ink);margin-top:4px;line-height:1.3}
+  .voice .who em{font-style:normal}
+  .voice.sky .who em{color:var(--sky)}
+  .voice.gold .who em{color:var(--gold)}
+  .voice.olive .who em{color:var(--olive)}
+  .voice.ember .who em{color:var(--ember)}
+
+  /* teacher callouts */
+  .teacher{
+    display:flex;gap:18px;align-items:flex-start;
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:22px 26px;margin:24px 0;
+  }
+  .teacher .avatar{
+    flex:0 0 auto;width:46px;height:46px;border-radius:50%;
+    background:linear-gradient(135deg,var(--gold),var(--olive));
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--serif);font-weight:700;font-size:18px;color:var(--bg);
+  }
+  .teacher .name{font-weight:700;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+  .teacher p{font-size:15.5px;color:var(--ink-dim);margin:6px 0 0}
+  .teacher p strong{color:var(--ink)}
+
+  /* divider */
+  .divider{display:flex;align-items:center;gap:18px;margin:70px 0 0;color:var(--gold)}
+  .divider::before,.divider::after{content:'';flex:1;height:1px;background:var(--line)}
+  .divider span{font-size:20px}
+
+  /* name highlight */
+  .name-line{text-align:center;margin:34px 0}
+  .name-line .heb{font-family:var(--hebrew);font-size:46px;color:var(--olive);direction:rtl}
+  .name-line .t{font-family:var(--serif);font-style:italic;font-size:22px;color:var(--ink)}
+  .name-line .d{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:4px}
+
+  /* nt-use list */
+  .nt-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin:26px 0}
+  .nt-item{
+    background:var(--panel);border:1px solid var(--line);border-radius:14px;
+    padding:18px 20px;border-left:3px solid var(--sky);
+  }
+  .nt-item .ref{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--sky);font-weight:700;margin-bottom:6px}
+  .nt-item p{font-size:14.5px;color:var(--ink-dim);margin:0;line-height:1.6}
+  .nt-item p strong{color:var(--ink)}
+
+  /* closing */
+  .closing{
+    background:
+      radial-gradient(ellipse 80% 100% at 50% 100%, rgba(212,168,67,.12), transparent 60%),
+      var(--panel);
+    border:1px solid var(--line);border-radius:20px;padding:44px 42px;
+  }
+  .closing .three{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin:26px 0}
+  .closing .pillar{
+    background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:20px;
+  }
+  .closing .pillar .p-t{font-family:var(--serif);font-weight:700;font-size:20px;color:var(--gold);margin-bottom:6px}
+  .closing .pillar p{font-size:14.5px;color:var(--ink-dim);margin:0}
+
+  /* next chapter */
+  .next{
+    margin-top:60px;text-align:center;
+    border:1px dashed rgba(212,168,67,.5);border-radius:16px;
+    padding:40px 30px;
+    background:linear-gradient(180deg, rgba(212,168,67,.06), transparent);
+  }
+  .next .label{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:12px}
+  .next h3{font-family:var(--serif);font-size:30px;font-weight:700;color:var(--ink)}
+  .next p{color:var(--ink-dim);font-size:16px;max-width:560px;margin:12px auto 0}
+  .next .sprout{font-size:34px;margin-top:14px}
+
+  footer{margin-top:70px;text-align:center;font-size:13px;color:var(--ink-dim);letter-spacing:.08em}
+  @media (max-width:600px){
+    .featured{padding:32px 22px}
+    .closing{padding:32px 22px}
+  }
+  /* TOC-CSS-START */
+  .toc{margin:46px 0 8px;border:1px solid var(--line);background:var(--panel);border-radius:16px;padding:24px 28px}
+  .toc .toc-h{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:16px}
+  .toc ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:4px 24px}
+  .toc a{display:flex;gap:12px;align-items:baseline;color:var(--ink-dim);text-decoration:none;padding:8px 10px;border-radius:9px;font-family:var(--serif);font-size:18px;line-height:1.3;transition:background .15s ease,color .15s ease}
+  .toc a:hover{background:var(--panel2);color:var(--ink)}
+  .toc a .n{font-family:var(--sans);font-size:12px;font-weight:700;color:var(--gold);min-width:22px}
+  .toc a .e{font-size:17px;flex:0 0 auto}
+  section{scroll-margin-top:24px}
+  /* TOC-CSS-END */
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="kicker">A Deep Devotional Study · Psalm 2 of 150</div>
+  <h1>Psalm 2<br><span class="accent">"Why Do the Nations Rage?"</span></h1>
+  <div class="subtitle">The other door of the gateway — the earth in revolt, heaven unshaken, and a King installed on Zion</div>
+  <div class="heb-banner">לָמָּה רָגְשׁוּ גוֹיִם</div>
+  <div class="heb-caption">lamah ragshu goyim — "Why do the nations throng and rage?"</div>
+  <div class="hook">
+    <div class="big">👑 THE KING IS ALREADY SEATED</div>
+    <div class="small">Psalm 1 showed two ways for one quiet life. Psalm 2 pulls the camera back to the whole earth in uproar — and finds the throne already occupied.</div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<nav class="toc">
+  <div class="toc-h">In This Study</div>
+  <ol>
+    <li><a href="#s-the-other-door-of-the-gateway"><span class="n">01</span><span class="e">🚪</span><span class="t">The Other Door of the Gateway</span></a></li>
+    <li><a href="#s-four-voices-three-verses-each"><span class="n">02</span><span class="e">🎭</span><span class="t">Four Voices, Three Verses Each</span></a></li>
+    <li><a href="#s-words-of-the-coronation"><span class="n">03</span><span class="e">📖</span><span class="t">Words of the Coronation</span></a></li>
+    <li><a href="#s-you-are-my-son"><span class="n">04</span><span class="e">👑</span><span class="t">&quot;You Are My Son&quot;</span></a></li>
+    <li><a href="#s-the-rage-below-the-laughter-above"><span class="n">05</span><span class="e">⚡</span><span class="t">The Rage Below, the Laughter Above</span></a></li>
+    <li><a href="#s-the-most-echoed-royal-psalm"><span class="n">06</span><span class="e">🔗</span><span class="t">The Most-Echoed Royal Psalm</span></a></li>
+    <li><a href="#s-kiss-the-son-and-the-refuge"><span class="n">07</span><span class="e">🤝</span><span class="t">&quot;Kiss the Son&quot; — and the Refuge</span></a></li>
+    <li><a href="#s-closing-reflection"><span class="n">08</span><span class="e">🕊️</span><span class="t">Closing Reflection</span></a></li>
+  </ol>
+</nav>
+
+
+<!-- SECTION 1 — THE OTHER DOOR -->
+<section id="s-the-other-door-of-the-gateway">
+  <div class="sec-head">
+    <div class="emoji">🚪</div>
+    <div><div class="sub">Psalm 2 · The Paired Gateway</div><h2>The Other Door of the Gateway</h2></div>
+  </div>
+  <p>Like <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a>, this poem wears <em>no title</em> — no "of David," no tune, no occasion. That bareness is the clue. The two untitled psalms stand together at the threshold of the Psalter as a <strong>twin gateway</strong>: <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a> hands you the <em>two ways</em> of one private life; Psalm 2 swings the camera up to kings, nations, and a throne. Wisdom on one leaf of the door, the King on the other.</p>
+  <p>The seam that binds them is a single word. <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a> opens on <em>ashrei</em> — "O the blessednesses…" — and Psalm 2 closes on <em>ashrei</em> again: <strong>"Happy are all those who put their faith in him"</strong> (2:12, BBE). The repeated word brackets the two poems like an envelope, framing them as one front door. The first <em>ashrei</em> blesses the man rooted by the water; the last <em>ashrei</em> blesses everyone who takes refuge in the King.</p>
+
+  <div class="teacher">
+    <div class="avatar">CM</div>
+    <div>
+      <div class="name">Chuck Missler</div>
+      <p>Liked to point out that the earliest readers treated these two as a unit. In <strong><a href="../../44-Acts/Acts-13/README.md">Acts 13</a>:33</strong>, Paul quotes "You are my son…" — and a number of early manuscripts of Acts label it <em>"the first psalm,"</em> as though 1 and 2 were counted together. The Talmud (Berakhot 9b–10a) preserves the same instinct: <strong>"the first paragraph begins with <em>ashrei</em> and the second ends with <em>ashrei</em>."</strong> One gateway, two leaves.</p>
+    </div>
+  </div>
+  <p class="dim">So the Psalter doesn't ease in. It opens by showing you the personal road (<a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a>) and then the cosmic one (Psalm 2) — and tells you the same word, <em>blessed</em>, is true on both.</p>
+</section>
+
+<!-- SECTION 2 — FOUR VOICES -->
+<section id="s-four-voices-three-verses-each">
+  <div class="sec-head">
+    <div class="emoji">🎭</div>
+    <div><div class="sub">The architecture of the psalm</div><h2>Four Voices, Three Verses Each</h2></div>
+  </div>
+  <p>Psalm 2 is built as a tight drama in four scenes — twelve verses falling into four stanzas of three. Each stanza hands the microphone to a different speaker, and the camera climbs as it goes: <strong>from the noise of the earth, up to the silence of heaven, to the throne, and back down to a warning.</strong></p>
+
+  <div class="voices">
+    <div class="voice sky">
+      <div class="faces">🌍</div>
+      <div class="vref">vv. 1–3</div>
+      <div class="who">The <em>nations</em> rage — "let us break their cords"</div>
+    </div>
+    <div class="voice gold">
+      <div class="faces">☁️</div>
+      <div class="vref">vv. 4–6</div>
+      <div class="who">The <em>LORD</em> laughs — "I have set my King on Zion"</div>
+    </div>
+    <div class="voice gold">
+      <div class="faces">👑</div>
+      <div class="vref">vv. 7–9</div>
+      <div class="who">The <em>King</em> recites the decree — "You are my son"</div>
+    </div>
+    <div class="voice olive">
+      <div class="faces">🤲</div>
+      <div class="vref">vv. 10–12</div>
+      <div class="who">The <em>poet</em> appeals — "be wise… take refuge"</div>
+    </div>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">BC</div>
+    <div>
+      <div class="name">Dr. Bill Creasy</div>
+      <p>Reads each text by its genre, and he'd name this one at once: Psalm 2 is a <strong>royal psalm</strong> — most likely a coronation song, sung when a son of David took the throne in Jerusalem. Knowing the genre changes how you hear it. The "begetting" of verse 7 isn't biology; it's <strong>enthronement language</strong>, the day a new king is publicly declared God's adopted son and regent. The poem is a coronation staged in four camera angles — and the New Testament will read every Davidic coronation as pointing past David to <em>the</em> Son.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 3 — WORDS OF THE CORONATION -->
+<section id="s-words-of-the-coronation">
+  <div class="sec-head">
+    <div class="emoji">📖</div>
+    <div><div class="sub">The load-bearing words</div><h2>Words of the Coronation</h2></div>
+  </div>
+  <p>A handful of Hebrew words carry this psalm's whole argument — the words for the rebels, the rite, and the King. English smooths them; the originals are sharper.</p>
+
+  <div class="word-grid">
+    <div class="word-card">
+      <div class="heb">גּוֹיִם</div>
+      <div class="translit">goyim</div>
+      <div class="gloss">nations · gentiles · peoples</div>
+      <p>The <em>goyim</em> are the nations beyond Israel — and they open the psalm "violently moved" (v.1). The same word turns inside out by verse 8: the very nations who <strong>rage against</strong> the King are given <strong>to</strong> the King as His "heritage." What storms at Him in the first stanza becomes His inheritance in the third.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">מָשִׁיחַ</div>
+      <div class="translit">mashiach</div>
+      <div class="gloss">anointed one</div>
+      <p>"The king of his selection" (v.2, BBE) translates <em>mashiach</em> — the <strong>Anointed</strong>, from <em>mashach</em>, "to smear with oil." Every Davidic king was a <em>mashiach</em> at his crowning. Carried into Greek it becomes <em>Christos</em>; into English, <strong>Messiah / Christ</strong>. Psalm 2 is where the rebellion is aimed squarely at God's Anointed.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">נָסַכְתִּי</div>
+      <div class="translit">nasakti</div>
+      <div class="gloss">I have installed · set · consecrated</div>
+      <p>"I have put my king" (v.6) uses <em>nasak</em>, a verb whose root means <strong>to pour out</strong> — a libation poured, metal cast in a mold, oil poured at an installation. God doesn't merely <em>appoint</em> the King; He <strong>pours him into place</strong>, fixed and consecrated on Zion before the nations finish their sentence.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb">שֵׁבֶט בַּרְזֶל</div>
+      <div class="translit">shevet barzel</div>
+      <div class="gloss">rod of iron</div>
+      <p>A <em>shevet</em> is both a <strong>shepherd's staff and a king's scepter</strong> — the same tool guides the flock and rules the realm. Made of iron (v.9), it will not bend. The image is rule that cannot be broken, set against rebels who hoped to "break their chains" (v.3). They wanted no rod; they get an iron one.</p>
+    </div>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">JC</div>
+    <div>
+      <div class="name">Jonathan Cahn</div>
+      <p>Teaches from the Hebrew under the English, and he'd lean on the irony of <em>nasak</em>: the rebels in verse 3 strain to throw off every cord and chain, and in the very next breath God has already <strong>poured His King into place</strong>. Their rebellion is staged against a throne that is <em>already occupied</em>. <strong>You cannot vote out a King heaven has already installed.</strong></p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"><span>👑</span></div>
+
+<!-- FEATURED VERSE -->
+<section id="s-you-are-my-son">
+  <div class="sec-head">
+    <div class="emoji">👑</div>
+    <div><div class="sub">The verse the whole psalm turns on</div><h2>"You Are My Son"</h2></div>
+  </div>
+  <div class="featured">
+    <span class="label">Featured Verse · Psalm 2:7</span>
+    <div class="heb-line">בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ</div>
+    <div class="heb-translit">beni attah, ani hayom yelidtikha — "You are my son; today I have begotten you"</div>
+
+    <div class="verse">
+      <div class="text">"I will make clear the Lord's decision: he has said to me, You are my son, this day have I given you being."</div>
+      <div class="ref">Psalm 2:7 · BBE</div>
+    </div>
+
+    <p>This is the line the whole psalm turns on — the King quoting the <em>decree</em> spoken over him. Two things are worth seeing plainly, and on both, faithful readers have long held more than one view.</p>
+
+    <div class="word-grid">
+      <div class="word-card">
+        <div class="heb">בֵּן</div>
+        <div class="translit">ben</div>
+        <div class="gloss">son</div>
+        <p>To call the king God's <em>ben</em> draws straight on the promise to David: <em>"I will be his father, and he will be my son"</em> (<a href="../../10-2-Samuel/2-Samuel-07/README.md">2 Samuel 7</a>:14). In its first setting the "sonship" is <strong>covenant adoption</strong> — the king as God's regent. The New Testament hears in it the <strong>unique Son</strong>, Jesus.</p>
+      </div>
+      <div class="word-card">
+        <div class="heb">יְלִדְתִּיךָ</div>
+        <div class="translit">yelidtikha</div>
+        <div class="gloss">I have begotten you · given you being</div>
+        <p>KJV reads "this day have I begotten thee"; WEB, "today I have become your father"; BBE softens it to "given you being." The phrase is <strong>coronation language</strong> — "today," the day of enthronement, the king is declared God's son. Christian readers apply it variously to Jesus' eternal sonship, His baptism, or — with <a href="../../44-Acts/Acts-13/README.md">Acts 13</a>:33 — His <strong>resurrection</strong>.</p>
+      </div>
+    </div>
+
+    <p style="margin-bottom:0">No New Testament passage is quoted from the Psalms more than this verse. Whatever "today I have begotten you" meant on a Jerusalem coronation day, the apostles heard it land fully on <strong>one Son</strong> — and built their preaching on it.</p>
+  </div>
+</section>
+
+<!-- SECTION 5 — RAGE AND LAUGHTER -->
+<section id="s-the-rage-below-the-laughter-above">
+  <div class="sec-head">
+    <div class="emoji">⚡</div>
+    <div><div class="sub">Psalm 2:1–6</div><h2>The Rage Below, the Laughter Above</h2></div>
+  </div>
+  <p>The psalm opens at full volume. The verb in verse 1 is <em>ragash</em> — to <strong>throng, mass, be in tumult</strong>, a crowd surging and roaring. Kings "take their place," rulers fix their purpose, and their slogan is a jailbreak:</p>
+  <div class="verse sky">
+    <div class="text">"Let their chains be broken, and their cords taken from off us."</div>
+    <div class="ref">Psalm 2:3 · BBE</div>
+  </div>
+  <p>It's the oldest revolt in the world, dressed as freedom: God's rule is recast as a chain, His covenant as a leash, and casting Him off is sold as liberty. <strong>The whole earth is shouting at once.</strong> And then the camera cuts up to heaven — where there is no shouting at all.</p>
+  <div class="verse">
+    <div class="text">"Then he whose seat is in the heavens will be laughing: the Lord will make sport of them."</div>
+    <div class="ref">Psalm 2:4 · BBE</div>
+  </div>
+  <p>It is the only place in the Hebrew Bible where God is said to <em>laugh</em> — and it is not amusement but the unshaken calm of One whose throne was never in question. The nations strain to topple a King; the King's Father <strong>does not even stand up.</strong> Heaven's answer to the uproar is one settled sentence: <em>"I have put my king on my holy hill of Zion"</em> (v.6). The rebellion is over before it began.</p>
+</section>
+
+<!-- SECTION 6 — NT USE -->
+<section id="s-the-most-echoed-royal-psalm">
+  <div class="sec-head">
+    <div class="emoji">🔗</div>
+    <div><div class="sub">Quoted across the New Testament</div><h2>The Most-Echoed Royal Psalm</h2></div>
+  </div>
+  <p>Few Old Testament chapters are picked up by the New Testament as often as Psalm 2. The early church reached for it constantly — to read the cross, the resurrection, and the end of the age. The pattern is factual and traceable:</p>
+
+  <div class="nt-list">
+    <div class="nt-item">
+      <div class="ref"><a href="../../44-Acts/Acts-04/README.md">Acts 4</a>:25–26</div>
+      <p>The gathered church prays Psalm 2:1–2 over the cross — <strong>Herod, Pilate, gentiles, and Israel</strong> as the "kings" and "rulers" who raged against God's Anointed.</p>
+    </div>
+    <div class="nt-item">
+      <div class="ref"><a href="../../44-Acts/Acts-13/README.md">Acts 13</a>:33</div>
+      <p>Paul quotes Psalm 2:7 — <em>"You are my son, today I have begotten you"</em> — and applies it to the <strong>resurrection</strong> of Jesus.</p>
+    </div>
+    <div class="nt-item">
+      <div class="ref"><a href="../../58-Hebrews/Hebrews-01/README.md">Hebrews 1</a>:5 · 5:5</div>
+      <p>The same verse twice: proof the Son is higher than angels (1:5), and that He did not <strong>seize</strong> His priest-kingship but was appointed to it (5:5).</p>
+    </div>
+    <div class="nt-item">
+      <div class="ref"><a href="../../66-Revelation/Revelation-02/README.md">Revelation 2</a>:27 · 12:5 · 19:15</div>
+      <p>The "rod of iron" of Psalm 2:9 returns three times — given to the overcomers (2:27), the male child (12:5), and the returning King (19:15).</p>
+    </div>
+  </div>
+  <p>Read together, the psalm becomes a frame the apostles laid over the whole story: the nations <em>did</em> rage (the cross), the Son <em>was</em> begotten/declared (the resurrection), and the rod of iron is still <strong>held in reserve</strong> for the end. Where interpreters genuinely differ is the timing — whether the King's full reign is present, future, or both — and the historic traditions divide there; the psalm itself simply insists the throne is occupied.</p>
+</section>
+
+<!-- SECTION 7 — KISS THE SON -->
+<section id="s-kiss-the-son-and-the-refuge">
+  <div class="sec-head">
+    <div class="emoji">🤝</div>
+    <div><div class="sub">Psalm 2:10–12</div><h2>"Kiss the Son" — and the Refuge</h2></div>
+  </div>
+  <p>The last stanza turns from the throne back to the reader, and it does so with surprising tenderness. The poet, having shown the rebellion crushed, doesn't gloat — he <em>pleads</em>: "be wise, you kings; take his teaching, you judges of the earth" (v.10). The door is still open. Then comes the psalm's most debated line.</p>
+
+  <div class="name-line">
+    <div class="heb">נַשְּׁקוּ־בַר</div>
+    <div class="t">nashqu-bar</div>
+    <div class="d">"kiss the son" — or "do homage purely"?</div>
+  </div>
+
+  <p>In the ancient world a <em>kiss</em> was an act of submission — Samuel kissed Saul at his anointing (<a href="../../09-1-Samuel/1-Samuel-10/README.md">1 Samuel 10</a>:1); subjects kissed a king's hand or feet. So KJV reads <strong>"Kiss the Son"</strong> and WEB <strong>"Give sincere homage to the Son."</strong> But the word for "son" here is <em>bar</em> — <strong>Aramaic</strong>, not the Hebrew <em>ben</em> of verse 7 — and that shift has long puzzled translators. Reading the same consonants differently, the BBE renders it <em>"kissing his feet,"</em> and other scholars propose "do homage purely" or attach the phrase to verse 11. <strong>The traditions divide here; the psalm's call to submit does not.</strong> However the word is read, the gesture is the same: bow to the King while there is still time.</p>
+
+  <div class="verse olive">
+    <div class="text">"…Happy are all those who put their faith in him."</div>
+    <div class="ref">Psalm 2:12 · BBE</div>
+  </div>
+
+  <p>And the psalm lands where the gateway began. The final word is <em>chasah</em> — to <strong>take refuge</strong>, to run under a shelter from the storm. The verb behind "put their faith in him" is the picture of a small creature ducking under a great wing. The poem that opened with the nations <em>raging</em> against the King ends by inviting anyone to <strong>hide inside His protection</strong> — and pronounces them, with that last <em>ashrei</em>, blessed.</p>
+</section>
+
+<!-- CLOSING -->
+<section id="s-closing-reflection">
+  <div class="sec-head">
+    <div class="emoji">🕊️</div>
+    <div><div class="sub">Where the second door opens</div><h2>Closing Reflection</h2></div>
+  </div>
+  <div class="closing">
+    <p>Psalm 2 completes the gateway, and it hands every reader three things to carry into the 148 psalms that follow:</p>
+    <div class="three">
+      <div class="pillar">
+        <div class="p-t">The throne is taken</div>
+        <p>Before the rebellion finishes its sentence, the King is already installed on Zion. The drama of the nations plays out in front of a throne that was never empty and never in doubt.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">Rebellion sells itself as freedom</div>
+        <p>"Break their chains" is the oldest pitch there is — God's rule recast as bondage. Verse 4 answers it not with panic but with the settled laughter of unshaken heaven.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">Refuge is offered to all</div>
+        <p>The same psalm that warns the kings ends by opening a shelter. The closing <em>ashrei</em> is for "all who take refuge" — no nation, no ruler, no reader shut out.</p>
+      </div>
+    </div>
+    <p style="margin-bottom:0">Two doors, one gateway. <a href="../../19-Psalms/Psalms-001/README.md">Psalm 1</a> rooted a single life by the water; Psalm 2 sets that life inside a world in revolt — and shows the throne above it already filled. Together they frame everything that follows with one repeated word: <strong>blessed is the one planted by the water, and blessed are all who take refuge in the King.</strong></p>
+  </div>
+</section>
+
+<!-- NEXT CHAPTER -->
+<div class="next">
+  <div class="label">Next · <a href="../../19-Psalms/Psalms-003/README.md">Psalm 3</a></div>
+  <h3>"Lord, how my haters have increased"</h3>
+  <p>The gateway closes; the singing begins. <a href="../../19-Psalms/Psalms-003/README.md">Psalm 3</a> carries the first superscription in the book — "A Psalm of David, when he went in flight from Absalom his son." From the cosmic throne of Psalm 2 to a hunted king sleeping in the wilderness, trusting the God who is <strong>a shield about him</strong>. The Psalter's prayers start here.</p>
+  <div class="sprout">🛡️</div>
+</div>
+
+<footer>Psalm 2 · A Deep Devotional Study · bible-study</footer>
+
+</div>
+</body>
+</html>

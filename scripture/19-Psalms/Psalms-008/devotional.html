@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Psalm 8 — How Excellent Your Name</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&family=Noto+Serif+Hebrew:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e0c0a;
+    --panel:#171310;
+    --panel2:#1d1813;
+    --ink:#e8e0d2;
+    --ink-dim:#a89a85;
+    --gold:#d4a843;
+    --gold-soft:#b8923a;
+    --ember:#c4543a;
+    --olive:#7c9a5c;
+    --sky:#6da3c4;
+    --line:#2e2620;
+    --serif:'Cormorant Garamond',Georgia,serif;
+    --sans:'Inter',system-ui,sans-serif;
+    --hebrew:'Noto Serif Hebrew',serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:17px;
+    line-height:1.75;
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:0 24px 100px}
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    position:relative;
+    text-align:center;
+    padding:90px 24px 70px;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% -10%, rgba(212,168,67,.20), transparent 60%),
+      radial-gradient(ellipse 60% 50% at 50% 110%, rgba(109,163,196,.12), transparent 60%),
+      var(--bg);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero .kicker{
+    font-size:13px;letter-spacing:.35em;text-transform:uppercase;
+    color:var(--gold);font-weight:600;margin-bottom:22px;
+  }
+  .hero h1{
+    font-family:var(--serif);
+    font-size:clamp(44px,7vw,76px);
+    font-weight:700;line-height:1.05;
+    color:var(--ink);
+  }
+  .hero h1 .accent{color:var(--gold)}
+  .hero .subtitle{
+    font-family:var(--serif);font-style:italic;
+    font-size:clamp(20px,3vw,28px);
+    color:var(--ink-dim);margin-top:18px;
+  }
+  .hero .heb-banner{
+    font-family:var(--hebrew);
+    font-size:clamp(26px,4vw,38px);
+    color:rgba(212,168,67,.60);
+    margin-top:34px;direction:rtl;
+  }
+  .hero .heb-caption{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:6px}
+
+  .hook{
+    margin:48px auto 0;max-width:640px;
+    border:1px solid rgba(212,168,67,.40);
+    background:linear-gradient(180deg, rgba(212,168,67,.10), rgba(212,168,67,.02));
+    border-radius:14px;padding:26px 30px;
+  }
+  .hook .big{
+    font-family:var(--serif);font-weight:700;
+    font-size:clamp(20px,3vw,26px);letter-spacing:.04em;color:var(--gold);
+  }
+  .hook .small{font-size:14px;color:var(--ink-dim);margin-top:8px;font-style:italic}
+
+  /* ---------- SECTIONS ---------- */
+  section{margin-top:72px}
+  .sec-head{display:flex;align-items:center;gap:16px;margin-bottom:26px}
+  .sec-head .emoji{
+    flex:0 0 auto;width:54px;height:54px;border-radius:14px;
+    display:flex;align-items:center;justify-content:center;
+    font-size:26px;background:var(--panel2);border:1px solid var(--line);
+  }
+  .sec-head h2{
+    font-family:var(--serif);font-size:clamp(28px,4vw,36px);
+    font-weight:700;line-height:1.15;
+  }
+  .sec-head .sub{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:2px}
+  p{margin-bottom:18px;color:var(--ink)}
+  p.dim{color:var(--ink-dim)}
+  strong{color:#f3ead7}
+  em{color:var(--ink)}
+
+  /* verse blockquote */
+  .verse{
+    border-left:3px solid var(--gold);
+    background:linear-gradient(90deg, rgba(212,168,67,.07), transparent 70%);
+    padding:22px 26px;margin:26px 0;border-radius:0 12px 12px 0;
+  }
+  .verse .text{font-family:var(--serif);font-size:22px;font-style:italic;line-height:1.6;color:#efe6d4}
+  .verse .ref{margin-top:10px;font-size:13px;letter-spacing:.15em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  .verse.ember{border-left-color:var(--ember);background:linear-gradient(90deg, rgba(196,84,58,.08), transparent 70%)}
+  .verse.ember .ref{color:var(--ember)}
+  .verse.olive{border-left-color:var(--olive);background:linear-gradient(90deg, rgba(124,154,92,.08), transparent 70%)}
+  .verse.olive .ref{color:var(--olive)}
+  .verse.sky{border-left-color:var(--sky);background:linear-gradient(90deg, rgba(109,163,196,.08), transparent 70%)}
+  .verse.sky .ref{color:var(--sky)}
+
+  /* hebrew word cards */
+  .word-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin:28px 0}
+  .word-card{
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:26px;position:relative;overflow:hidden;
+  }
+  .word-card::before{
+    content:'';position:absolute;inset:0 0 auto 0;height:3px;
+    background:linear-gradient(90deg,var(--gold),transparent);
+  }
+  .word-card .heb{font-family:var(--hebrew);font-size:38px;color:var(--gold);direction:rtl;line-height:1.3}
+  .word-card .translit{font-style:italic;font-family:var(--serif);font-size:20px;color:var(--ink);margin-top:4px}
+  .word-card .gloss{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-dim);font-weight:600;margin-top:2px;margin-bottom:12px}
+  .word-card p{font-size:15px;line-height:1.65;color:var(--ink-dim);margin-bottom:0}
+  .word-card p strong{color:var(--ink)}
+
+  /* featured verse mega-card */
+  .featured{
+    background:
+      radial-gradient(ellipse 90% 100% at 50% 0%, rgba(212,168,67,.12), transparent 55%),
+      var(--panel);
+    border:1px solid rgba(212,168,67,.45);
+    border-radius:20px;padding:46px 42px;margin-top:10px;
+  }
+  .featured .label{
+    display:inline-block;font-size:12px;letter-spacing:.3em;text-transform:uppercase;
+    color:var(--bg);background:var(--gold);font-weight:700;
+    padding:6px 14px;border-radius:999px;margin-bottom:24px;
+  }
+  .featured .heb-line{
+    font-family:var(--hebrew);font-size:clamp(28px,5vw,42px);
+    color:var(--gold);direction:rtl;text-align:center;
+    margin:18px 0 6px;line-height:1.5;
+  }
+  .featured .heb-translit{text-align:center;font-family:var(--serif);font-style:italic;font-size:19px;color:var(--ink-dim);margin-bottom:26px}
+
+  /* descent / ascent ladder */
+  .ladder{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:28px 0}
+  .rung{
+    background:var(--panel2);border:1px solid var(--line);border-radius:14px;
+    padding:18px 16px;text-align:center;
+  }
+  .rung .face{font-size:30px}
+  .rung .who{font-family:var(--serif);font-size:16px;color:var(--ink);margin-top:8px;line-height:1.3}
+  .rung .who em{color:var(--sky);font-style:normal}
+  .rung .v{display:block;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:6px}
+  .rung.gold .who em{color:var(--gold)}
+  .rung.olive .who em{color:var(--olive)}
+
+  /* teacher callouts */
+  .teacher{
+    display:flex;gap:18px;align-items:flex-start;
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;
+    padding:22px 26px;margin:24px 0;
+  }
+  .teacher .avatar{
+    flex:0 0 auto;width:46px;height:46px;border-radius:50%;
+    background:linear-gradient(135deg,var(--gold),var(--olive));
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--serif);font-weight:700;font-size:18px;color:var(--bg);
+  }
+  .teacher .name{font-weight:700;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+  .teacher p{font-size:15.5px;color:var(--ink-dim);margin:6px 0 0}
+  .teacher p strong{color:var(--ink)}
+
+  /* divider */
+  .divider{display:flex;align-items:center;gap:18px;margin:70px 0 0;color:var(--gold)}
+  .divider::before,.divider::after{content:'';flex:1;height:1px;background:var(--line)}
+  .divider span{font-size:20px}
+
+  /* name highlight */
+  .remnant-name{text-align:center;margin:34px 0}
+  .remnant-name .heb{font-family:var(--hebrew);font-size:46px;color:var(--gold);direction:rtl}
+  .remnant-name .t{font-family:var(--serif);font-style:italic;font-size:22px;color:var(--ink)}
+  .remnant-name .d{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-dim);margin-top:4px}
+
+  /* closing */
+  .closing{
+    background:
+      radial-gradient(ellipse 80% 100% at 50% 100%, rgba(212,168,67,.12), transparent 60%),
+      var(--panel);
+    border:1px solid var(--line);border-radius:20px;padding:44px 42px;
+  }
+  .closing .three{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin:26px 0}
+  .closing .pillar{
+    background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:20px;
+  }
+  .closing .pillar .p-t{font-family:var(--serif);font-weight:700;font-size:20px;color:var(--gold);margin-bottom:6px}
+  .closing .pillar p{font-size:14.5px;color:var(--ink-dim);margin:0}
+
+  /* next chapter */
+  .next{
+    margin-top:60px;text-align:center;
+    border:1px dashed rgba(212,168,67,.5);border-radius:16px;
+    padding:40px 30px;
+    background:linear-gradient(180deg, rgba(212,168,67,.06), transparent);
+  }
+  .next .label{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:12px}
+  .next h3{font-family:var(--serif);font-size:30px;font-weight:700;color:var(--ink)}
+  .next p{color:var(--ink-dim);font-size:16px;max-width:560px;margin:12px auto 0}
+  .next .sprout{font-size:34px;margin-top:14px}
+
+  footer{margin-top:70px;text-align:center;font-size:13px;color:var(--ink-dim);letter-spacing:.08em}
+  @media (max-width:600px){
+    .featured{padding:32px 22px}
+    .closing{padding:32px 22px}
+  }
+  /* TOC-CSS-START */
+  .toc{margin:46px 0 8px;border:1px solid var(--line);background:var(--panel);border-radius:16px;padding:24px 28px}
+  .toc .toc-h{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:16px}
+  .toc ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:4px 24px}
+  .toc a{display:flex;gap:12px;align-items:baseline;color:var(--ink-dim);text-decoration:none;padding:8px 10px;border-radius:9px;font-family:var(--serif);font-size:18px;line-height:1.3;transition:background .15s ease,color .15s ease}
+  .toc a:hover{background:var(--panel2);color:var(--ink)}
+  .toc a .n{font-family:var(--sans);font-size:12px;font-weight:700;color:var(--gold);min-width:22px}
+  .toc a .e{font-size:17px;flex:0 0 auto}
+  section{scroll-margin-top:24px}
+  /* TOC-CSS-END */
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="kicker">A Deep Devotional Study · Psalm 8 of 150</div>
+  <h1>Psalm 8<br><span class="accent">"How Excellent Your Name"</span></h1>
+  <div class="subtitle">The Psalter's first pure hymn of praise — the night sky overhead, the smallness of man, and the crown God sets on a mortal head</div>
+  <div class="heb-banner">יְהוָה אֲדֹנֵינוּ</div>
+  <div class="heb-caption">YHWH Adoneinu — "O LORD, our Lord"</div>
+  <div class="hook">
+    <div class="big">🌌 THE FIRST SONG THAT IS ALL PRAISE</div>
+    <div class="small">After a gateway of wisdom and a storm of raging nations, the Psalter finally lifts its head and simply sings — and the song is bracketed top and bottom by one astonished line about a Name.</div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<nav class="toc">
+  <div class="toc-h">In This Study</div>
+  <ol>
+    <li><a href="#s-a-song-bracketed-by-a-name"><span class="n">01</span><span class="e">🌌</span><span class="t">A Song Bracketed by a Name</span></a></li>
+    <li><a href="#s-the-name-higher-than-the-heavens"><span class="n">02</span><span class="e">✨</span><span class="t">The Name Higher Than the Heavens</span></a></li>
+    <li><a href="#s-strength-from-infants-glory-from-silence"><span class="n">03</span><span class="e">👶</span><span class="t">Strength From Infants, Glory From Silence</span></a></li>
+    <li><a href="#s-what-is-man-that-you-keep-him-in-mind"><span class="n">04</span><span class="e">⭐</span><span class="t">&quot;What Is Man, That You Keep Him in Mind?&quot;</span></a></li>
+    <li><a href="#s-crowned-to-rule-eden-sung-again"><span class="n">05</span><span class="e">👑</span><span class="t">Crowned to Rule — Eden Sung Again</span></a></li>
+    <li><a href="#s-the-man-the-psalm-was-waiting-for"><span class="n">06</span><span class="e">🜔</span><span class="t">The Man the Psalm Was Waiting For</span></a></li>
+    <li><a href="#s-back-to-the-wall-where-we-began"><span class="n">07</span><span class="e">🔁</span><span class="t">Back to the Wall Where We Began</span></a></li>
+    <li><a href="#s-closing-reflection"><span class="n">08</span><span class="e">🕊️</span><span class="t">Closing Reflection</span></a></li>
+  </ol>
+</nav>
+
+
+<!-- SECTION 1 — THE MAJESTY PSALM -->
+<section id="s-a-song-bracketed-by-a-name">
+  <div class="sec-head">
+    <div class="emoji">🌌</div>
+    <div><div class="sub">Psalm 8 · The Frame</div><h2>A Song Bracketed by a Name</h2></div>
+  </div>
+  <p><a href="../../19-Psalms/Psalms-001/README.md">Psalms 1</a>–7 have set the table — the two ways, the raging kings, laments and pleas and cries for rescue. Psalm 8 is the <strong>first psalm that is praise from start to finish</strong>, with no complaint, no enemy at the door asking to be answered, no petition to be granted. It is a hymn, and it knows exactly how it wants to begin and end.</p>
+  <p>Read verses 1 and 9 back to back and you'll see it: <em>"O Lord, our Lord, how noble is your name in all the earth!"</em> The psalm opens and closes on the <strong>identical line</strong>. Scholars call this an <em>inclusio</em> — a bracket that wraps the whole poem so that everything inside is held within one sentence of wonder. Whatever the song says about stars and babies and the dignity of man, it says <strong>between two walls that both read: Your name fills the earth.</strong></p>
+
+  <div class="verse">
+    <div class="text">"O Lord, our Lord, whose glory is higher than the heavens, how noble is your name in all the earth!"</div>
+    <div class="ref">Psalm 8:1 · BBE</div>
+  </div>
+  <p>The superscription assigns it "to David" and sets it <em>al ha-gittith</em> — an obscure musical direction, perhaps a tune or an instrument named for Gath, perhaps a winepress melody. The detail matters less than the shape: this is a <strong>congregation's song</strong>. Notice the "our" — <em>Adoneinu</em>, "<strong>our</strong> Lord." One voice looks up at the night sky, but it speaks for everyone standing under it.</p>
+
+  <div class="teacher">
+    <div class="avatar">BC</div>
+    <div>
+      <div class="name">Dr. Bill Creasy</div>
+      <p>Reads the Bible as one unified literary work and would name the genre first: Psalm 8 is a <strong>hymn</strong>, the purest form of praise psalm — call to worship, body, and a returning refrain. The matching first and last lines are a deliberate literary device, an envelope. Knowing that changes how you read the inside: the daring middle question, <em>"what is man?"</em>, is never a doubt. It is sung <strong>inside the brackets of God's glory</strong>, and the brackets are what hold it up.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 2 — THE NAME -->
+<section id="s-the-name-higher-than-the-heavens">
+  <div class="sec-head">
+    <div class="emoji">✨</div>
+    <div><div class="sub">The opening line, word by word</div><h2>The Name Higher Than the Heavens</h2></div>
+  </div>
+  <p>The first line stacks two titles for God that English flattens into one word, "Lord." In Hebrew they are different words doing different work — and the song's whole posture lives in the gap between them.</p>
+
+  <div class="word-grid">
+    <div class="word-card">
+      <div class="heb">יְהוָה אֲדֹנֵינוּ</div>
+      <div class="translit">YHWH Adoneinu</div>
+      <div class="gloss">the personal name · our master</div>
+      <p>The first "Lord" is <strong>YHWH</strong> — the covenant name God gave at the burning bush, His own personal name, which English Bibles print as <em>Lord</em> in small capitals. The second is <em>Adon</em> with the ending <em>-einu</em>: "<strong>our</strong> Lord, our Master." The line pairs God's intimate self-given name with His sovereign claim on a people. <strong>The unutterable Name is also "ours."</strong></p>
+    </div>
+    <div class="word-card">
+      <div class="heb">אַדִּיר</div>
+      <div class="translit">addir</div>
+      <div class="gloss">majestic · mighty · noble</div>
+      <p>"How noble" (BBE), "how majestic" (WEB), "how excellent" (KJV) all translate <em>addir</em> — splendor that commands awe. It shares a root with <em>adderet</em>, the <strong>noble mantle</strong>, the prophet's robe Elijah threw over Elisha. The Name is pictured as a <strong>royal garment thrown across the whole earth</strong>: not a label, but a glory you can see draped over creation.</p>
+    </div>
+  </div>
+  <p>And the glory does not stay close. It is <em>"higher than the heavens"</em> (v.1) — set <strong>above</strong> the very sky the psalm is about to gaze into. Before a single star is named, the song has already pointed past the stars to the One whose splendor outranks them all.</p>
+</section>
+
+<!-- SECTION 3 — BABES AND THE NIGHT SKY -->
+<section id="s-strength-from-infants-glory-from-silence">
+  <div class="sec-head">
+    <div class="emoji">👶</div>
+    <div><div class="sub">Psalm 8:2–3</div><h2>Strength From Infants, Glory From Silence</h2></div>
+  </div>
+  <div class="verse sky">
+    <div class="text">"You have made clear your strength even out of the mouths of babies at the breast… so that you may put to shame the cruel and violent man."</div>
+    <div class="ref">Psalm 8:2 · BBE</div>
+  </div>
+  <p>It is a startling turn. God's defense against <em>the enemy and the avenger</em> is not an army but <strong>the cooing of nursing infants</strong>. The Hebrew says God has "founded <em>oz</em>" — <em>strength, a stronghold</em> — out of the weakest, wordless mouths there are. The proud are silenced not by greater force but by the smallest voices, the ones with no power at all. <strong>God's strength is so total He can wage it through a baby's breath.</strong></p>
+  <p>This verse travels a long way. The Greek Old Testament (the Septuagint) renders the Hebrew "strength" as <em>"praise"</em> — and that is the line Jesus quotes in the Temple when the children cry out and the chief priests are indignant (<a href="../../40-Matthew/Matthew-21/README.md">Matthew 21</a>:16). The babies of Psalm 8 become the children of Palm Sunday, and their praise is the strength that shames the powerful all over again.</p>
+
+  <div class="verse">
+    <div class="text">"When I see your heavens, the work of your fingers, the moon and the stars, which you have put in their places…"</div>
+    <div class="ref">Psalm 8:3 · BBE</div>
+  </div>
+  <p>Now the psalmist looks up. And notice the scale of the image: the heavens, the moon, the galaxies of stars — all of it is the <strong>work of God's fingers</strong>. Not His arm, not His mighty hand; His <em>fingers</em>, as if the entire cosmos were fine needlework, a bit of embroidery done in an idle moment. The bigger the sky gets, the smaller the effort that made it — and the more crushing the question that is coming.</p>
+</section>
+
+<div class="divider"><span>🌙</span></div>
+
+<!-- FEATURED VERSE -->
+<section id="s-what-is-man-that-you-keep-him-in-mind">
+  <div class="sec-head">
+    <div class="emoji">⭐</div>
+    <div><div class="sub">The verse the whole psalm turns on</div><h2>"What Is Man, That You Keep Him in Mind?"</h2></div>
+  </div>
+  <div class="featured">
+    <span class="label">Featured Verse · Psalm 8:4–5</span>
+    <div class="heb-line">מָה־אֱנוֹשׁ כִּי־תִזְכְּרֶנּוּ</div>
+    <div class="heb-translit">mah-enosh ki tizkerennu — "what is frail man, that you remember him?"</div>
+
+    <div class="verse">
+      <div class="text">"What is man, that you keep him in mind? the son of man, that you take him into account? For you have made him only a little lower than the gods, crowning him with glory and honour."</div>
+      <div class="ref">Psalm 8:4–5 · BBE</div>
+    </div>
+
+    <p>Under that vast sky, the question is almost an ache: with all of <em>this</em> to attend to, why would the Maker of galaxies give a single thought to <strong>us</strong>? And the words the psalmist chooses for "man" are deliberately humble.</p>
+
+    <div class="word-grid">
+      <div class="word-card">
+        <div class="heb">אֱנוֹשׁ</div>
+        <div class="translit">enosh</div>
+        <div class="gloss">man — the frail, mortal kind</div>
+        <p>Of the Hebrew words for "man," <em>enosh</em> is the one that leans on <strong>weakness and mortality</strong> — fragile, sick-prone, fading humanity. It is the smallest, neediest word for our kind. Set beside the moon and stars, it is almost nothing.</p>
+      </div>
+      <div class="word-card">
+        <div class="heb">בֶּן־אָדָם</div>
+        <div class="translit">ben-adam</div>
+        <div class="gloss">son of man · son of Adam · son of earth</div>
+        <p>Literally "<strong>son of Adam</strong>" — and <em>adam</em> is tied to <em>adamah</em>, the <strong>ground</strong>. The phrase says: creature of dust, child of the dirt you were dug from. The very title the New Testament will lift to its highest meaning — <em>the</em> Son of Man — starts here, at the bottom, meaning simply "a human being."</p>
+      </div>
+    </div>
+
+    <p>Then the answer arrives, and it is breathtaking. God's response to our smallness is not pity but <strong>coronation</strong>.</p>
+
+    <div class="word-grid">
+      <div class="word-card">
+        <div class="heb">פָּקַד</div>
+        <div class="translit">paqad</div>
+        <div class="gloss">to visit · attend to · take account of</div>
+        <p>"Take him into account" (BBE), "visit" (KJV). <em>Paqad</em> is no glance from a distance — it means <strong>to come near, to inspect, to attend to with intent</strong>. God doesn't merely <em>remember</em> man (v.4a, <em>zakar</em>); He <strong>shows up</strong> for him. It's the warm verb of a ruler who personally visits the least of his subjects.</p>
+      </div>
+      <div class="word-card">
+        <div class="heb">מְעַט</div>
+        <div class="translit">me'at</div>
+        <div class="gloss">a little · a little lower</div>
+        <p>"A little lower than the gods" — Hebrew <em>me-Elohim</em>. The Greek Old Testament softens it to "lower than the <strong>angels</strong>," and that is the reading <a href="../../58-Hebrews/Hebrews-02/README.md">Hebrews 2</a>:7 follows. The two traditions agree on the shock: man is set <strong>just below the divine</strong>, a hair beneath heaven, not lost in the dust after all.</p>
+      </div>
+      <div class="word-card">
+        <div class="heb">כָּבוֹד</div>
+        <div class="translit">kavod</div>
+        <div class="gloss">glory · weight · honor</div>
+        <p>God <strong>crowns</strong> the dust-creature with <em>kavod</em> and <em>hadar</em> — glory and majesty, the very words used for royalty and for God Himself. The root of <em>kavod</em> means <strong>weight</strong>. The light husk of mortal man (v.4) is given <strong>weight, splendor, a crown</strong>. The smallest thing under the sky wears royal honor.</p>
+      </div>
+    </div>
+
+    <p style="margin-bottom:0">This is the hinge of the whole psalm: it drops to the lowest word for man — frail, dust-born, a thought beneath notice — and then lifts him to <strong>a crown one notch below God's own.</strong> The astonishment isn't that we are small. It's that the One whose glory outranks the stars <em>stooped to crown the dust.</em></p>
+  </div>
+</section>
+
+<!-- SECTION 5 — DOMINION -->
+<section id="s-crowned-to-rule-eden-sung-again">
+  <div class="sec-head">
+    <div class="emoji">👑</div>
+    <div><div class="sub">Psalm 8:6–8</div><h2>Crowned to Rule — Eden Sung Again</h2></div>
+  </div>
+  <p>A crown is not just an honor; it's an office. Having crowned man, God hands him a kingdom — and the inventory that follows is no accident.</p>
+  <div class="verse olive">
+    <div class="text">"You have made him ruler over the works of your hands; you have put all things under his feet; all sheep and oxen… the birds of the air and the fish of the sea…"</div>
+    <div class="ref">Psalm 8:6–8 · BBE</div>
+  </div>
+  <p>Anyone who knows the Bible's first page hears the echo at once. The flocks and herds, the birds of the air, the fish of the sea — this is the roll call of <strong><a href="../../01-Genesis/Genesis-01/README.md">Genesis 1</a></strong>, the day God made humanity in His image and gave them charge over every living thing. Psalm 8 is <strong><a href="../../01-Genesis/Genesis-01/README.md">Genesis 1</a> set to music</strong>: the creation mandate, sung back to God as praise.</p>
+
+  <div class="word-card" style="max-width:420px;margin:28px auto">
+    <div class="heb">רָדָה</div>
+    <div class="translit">radah</div>
+    <div class="gloss">to have dominion · to rule</div>
+    <p>The word God speaks over humanity in <a href="../../01-Genesis/Genesis-01/README.md">Genesis 1</a>:26–28 — <em>radah</em>, "<strong>have dominion</strong>." Psalm 8 sings the same commission (its own verb is <em>mashal</em>, "to rule") and adds a vivid image: <strong>"all things under his feet."</strong> Dominion here is not exploitation but <strong>stewardship under a crown</strong> — a king answerable to the King whose name fills the earth.</p>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">JC</div>
+    <div>
+      <div class="name">Jonathan Cahn</div>
+      <p>Teaches from the Hebrew under the English, and would press on <em>ben-adam</em>, "son of Adam, son of the ground." The dignity of Psalm 8 is not that man <strong>earned</strong> a crown but that the dust was <strong>chosen</strong> to wear one. The same God who knit the stars with His fingers reached down to the dirt, named it <em>ruler</em>, and set the works of His hands beneath its feet. <strong>Glory was placed on the ground.</strong></p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 6 — CROSS REFERENCES -->
+<section id="s-the-man-the-psalm-was-waiting-for">
+  <div class="sec-head">
+    <div class="emoji">🜔</div>
+    <div><div class="sub">Psalm 8 across the New Testament</div><h2>The Man the Psalm Was Waiting For</h2></div>
+  </div>
+  <p>Few psalms are quoted as often in the New Testament as this one — and the apostles read it with a question hanging in the air. <em>All things under his feet?</em> Anyone can see they are not. Death, disease, and chaos still run loose. So where is the man Psalm 8 describes?</p>
+
+  <p><strong>Hebrews picks up the psalm and finds the answer in a person.</strong> It quotes Psalm 8:4–6 in full, admits that we do not <em>yet</em> see everything subject to man — and then turns:</p>
+  <div class="verse sky">
+    <div class="text">"But we see Jesus, who was made a little lower than the angels… crowned with glory and honour because of the death he undertook."</div>
+    <div class="ref"><a href="../../58-Hebrews/Hebrews-02/README.md">Hebrews 2</a>:9 · paraphrase</div>
+  </div>
+  <p>Read this way, the psalm's <em>ben-adam</em> — "son of man" — finds its fullest meaning in the one Jesus called Himself: the <strong>true Man</strong> who went <em>lower</em> than all of us into death, and was raised and <strong>crowned with glory and honour</strong>, the very phrase of Psalm 8:5. The dominion Adam lost, Jesus wins back as the second Adam. (Note: Hebrews follows the Greek "lower than the <em>angels</em>"; the Hebrew reads "lower than <em>Elohim</em>." Both are in the verse's range.)</p>
+
+  <p>The image of <strong>"all things under his feet"</strong> (Psalm 8:6) becomes a refrain for Christ's reign:</p>
+  <div class="word-grid">
+    <div class="word-card">
+      <div class="heb" style="font-size:24px;direction:ltr">1 Cor 15:27</div>
+      <div class="gloss" style="margin-top:8px">all things subjected</div>
+      <p>Paul cites Psalm 8:6 to describe the risen Christ reigning until <strong>every enemy, even death, is put under His feet</strong> — the dominion of Psalm 8 completed at the end of the age.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb" style="font-size:24px;direction:ltr">Eph 1:22</div>
+      <div class="gloss" style="margin-top:8px">head over all things</div>
+      <p>Again Psalm 8:6: God "put all things under his feet" and gave Christ as <strong>head over everything for the church</strong> — the crowned Man ruling on behalf of His people.</p>
+    </div>
+    <div class="word-card">
+      <div class="heb" style="font-size:24px;direction:ltr">Matt 21:16</div>
+      <div class="gloss" style="margin-top:8px">out of the mouth of babes</div>
+      <p>Jesus quotes Psalm 8:2 (in its Greek form, "<strong>praise</strong>") as children shout in the Temple — the strength-from-infants of verse 2, playing out in front of the indignant priests.</p>
+    </div>
+  </div>
+
+  <div class="teacher">
+    <div class="avatar">CM</div>
+    <div>
+      <div class="name">Chuck Missler</div>
+      <p>Loved tracing a single thread through the whole library, and Psalm 8 was a favorite knot. He'd point out that the New Testament writers read <em>"son of man… crowned with glory"</em> not as flattery of humanity in general but as a <strong>portrait fulfilled in one Man</strong> — the title <em>ben-adam</em> rising from "creature of dust" in Psalm 8 to "the Son of Man" coming on the clouds in the Gospels. <strong>The psalm asks "what is man?" — and the rest of the Bible answers by pointing to a person.</strong></p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 7 — THE RETURN -->
+<section id="s-back-to-the-wall-where-we-began">
+  <div class="sec-head">
+    <div class="emoji">🔁</div>
+    <div><div class="sub">Psalm 8:9</div><h2>Back to the Wall Where We Began</h2></div>
+  </div>
+  <div class="verse">
+    <div class="text">"O Lord, our Lord, how noble is your name in all the earth!"</div>
+    <div class="ref">Psalm 8:9 · BBE</div>
+  </div>
+  <p>The song ends exactly where it started — the same nine words, the second wall of the bracket. But the line lands differently now. In verse 1 it was wonder at a Name <em>before</em> the stars were named. By verse 9 the singer has walked the whole arc: <strong>up to the heavens, down to the dust, and back up to a crown.</strong> The refrain hasn't changed; the singer has.</p>
+  <p>And notice what the psalm <em>doesn't</em> end on. It rises through the dignity of man, the crown, the dominion — and then refuses to stop there. The last word is not about us at all. It is about <strong>His name.</strong> Every honor handed to humanity in the middle of the song is gathered up and laid back down at the feet of the One whose glory is higher than the heavens. The praise of man circles home to the praise of God.</p>
+</section>
+
+<!-- CLOSING -->
+<section id="s-closing-reflection">
+  <div class="sec-head">
+    <div class="emoji">🕊️</div>
+    <div><div class="sub">What the song leaves in your hands</div><h2>Closing Reflection</h2></div>
+  </div>
+  <div class="closing">
+    <p>Psalm 8 is the Psalter's first full breath of praise, and it sends three things home with whoever sings it:</p>
+    <div class="three">
+      <div class="pillar">
+        <div class="p-t">Look up first</div>
+        <p>The song begins by gazing at a sky stitched by God's fingers. Wonder, not worry, is the doorway — and it puts everything else, including you, in its true scale.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">Crowned dust</div>
+        <p>The smallest word for man is given the heaviest word for honor. Human dignity here is not earned but <em>bestowed</em> — a crown the Maker stooped to set on the ground.</p>
+      </div>
+      <div class="pillar">
+        <div class="p-t">It all returns</div>
+        <p>Every honor in the middle of the psalm is carried back to the Name in the last line. The crown on man only makes sense pointing up to the One who gave it.</p>
+      </div>
+    </div>
+    <p style="margin-bottom:0">A frail creature stands under a sky too big to count, asks the oldest question — <em>what is man?</em> — and hears, against all odds, that he is remembered, visited, crowned, and given a kingdom. And he answers the only way the song allows: not by boasting in the crown, but by lifting it back up. <strong>How excellent is your name in all the earth.</strong></p>
+  </div>
+</section>
+
+<!-- NEXT CHAPTER -->
+<div class="next">
+  <div class="label">Next · <a href="../../19-Psalms/Psalms-009/README.md">Psalm 9</a></div>
+  <h3>"I will give praise with all my heart"</h3>
+  <p>From the wonder of the heavens to the justice of the Judge. Psalm 8 crowned man and handed him the earth; <a href="../../19-Psalms/Psalms-009/README.md">Psalm 9</a> turns to the God who <strong>sits enthroned to judge it</strong> — thanking Him for righteous rule, for the cause of the oppressed upheld, and for a Name that is, again, a refuge. The praise keeps climbing.</p>
+  <div class="sprout">⚖️</div>
+</div>
+
+<footer>Psalm 8 · A Deep Devotional Study · bible-study</footer>
+
+</div>
+</body>
+</html>
