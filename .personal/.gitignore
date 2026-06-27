@@ -1,0 +1,10 @@
+# Every real person's study space is their OWN private repo, hosted on THEIR
+# git (Forgejo, a private GitHub, a NAS, or local-only). The PUBLIC repo must
+# never carry a personal folder OR an email address. So: ignore every
+# subfolder in here, except the shareable starter kit.
+
+/*/
+!_template/
+
+# (README.md, setup.sh, and this .gitignore are files, not folders, so they
+#  stay tracked and travel with the public repo on purpose.)

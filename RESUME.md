@@ -20,7 +20,7 @@ Rolling 7-day session log. Add `<!-- pin -->` to any entry to keep it permanentl
 **Files changed:** `scripts/{fetch_scripture,build_readme_index,word_study}.py` + `scripts/README.md`; `scripture/**/{BBE,WEB,KJV,ASV}.md` (4,756) + `scripture/**/README.md` (1,189); `people/biblical-figures/David.md`; `words/hebrew/{esher,towrah,hagah}.md`; `.personal/darren@neese.us/readme-options-demo.html`; 3 memory files; VS Code user settings (gitdoc + font).
 
 **Not done / next:**
-- **Fully stop GitDoc** — "GitDoc: Disable" / reload VS Code, or uninstall `vsls-contrib.gitdoc` (config disable doesn't stop the live instance).
+- **GitDoc uninstalled** ✅ (`vsls-contrib.gitdoc`) — reload VS Code once ("Developer: Reload Window") to evict the still-running copy from memory.
 - **Word-study concordance** — add a Strong's-tagged Bible so `word_study.py` lists every occurrence.
 - Fill "At a glance" + study notes across chapters via `_chapter_readme_fill` / `linguist` as studies happen.
 - (Carried) Isaiah 12; Isaiah 1–10 README backfill; dedup overlapping planning docs.

@@ -5,7 +5,7 @@
 - **Topic:** Populate the repo with public-domain scripture text + build the tooling, README front-page design, and a Greek/Hebrew word-study engine
 - **Tool:** Claude Code
 - **Project:** bible-study
-- **Exchange Count:** ~22
+- **Exchange Count:** 16 (logged)
 
 ## 💡 Conversation Summary
 
@@ -60,7 +60,7 @@ A long, multi-day build session that took the repo from "stub READMEs" to a **fu
 
 ## ⏭️ Next Steps
 
-1. **Fully stop GitDoc** — user runs "GitDoc: Disable" / reloads VS Code, or have Claude uninstall `vsls-contrib.gitdoc`.
+1. **GitDoc uninstalled** (`vsls-contrib.gitdoc`, exchange 15) — reload VS Code once ("Developer: Reload Window") to evict the still-running copy from memory.
 2. **Word-study concordance** — add a Strong's-tagged Bible so `word_study.py` can list every occurrence (the noted next increment).
 3. **Fill scholarship** — "At a glance" + study-notes are placeholders across all 1,189 chapters; fill via `_chapter_readme_fill` / `linguist` as studies happen.
 4. Optional: on-demand interlinear artifact generator; book-level README index pages.
@@ -82,3 +82,6 @@ A long, multi-day build session that took the repo from "stub READMEs" to a **fu
 - [11 — Remember all decisions and why](./Opus-4.8--11.md)
 - [12 — Do A then B then C (GitDoc / word-study engine / whole Bible)](./Opus-4.8--12.md)
 - [13 — Wrap up per AI-Chats Protocol v3.2](./Opus-4.8--13.md)
+- [14 — What is GitDoc and why is it interfering?](./Opus-4.8--14.md)
+- [15 — Uninstall GitDoc](./Opus-4.8--15.md)
+- [16 — Wrap up (continuation)](./Opus-4.8--16.md)

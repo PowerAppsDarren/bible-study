@@ -1,66 +1,59 @@
-# `.personal/` — Multi-User Shared Personal Layer
+# `.personal/` — your own private study space
 
-This folder is **intentionally tracked in git**, not gitignored. It's the shared-personal layer of the repo: each user has their own email-named subfolder, and notes are shared via git push/pull. Privacy is by convention.
+This folder is the on-ramp for making this Bible study part of your daily life
+— **without ever putting your private notes, or even your email address, on the
+public repo.**
 
-## Convention
+Here's the whole idea in one breath: the *shared* material everyone studies
+(`scripture/`, `topics/`, `words/`, …) lives in this public repo on GitHub.
+Your *personal* journal — reflections, prayer lists, teaching prep — lives in a
+folder named by your email **right here inside `.personal/`**, but that folder
+is **its own separate, private repo** on **your own** git. The public repo is
+told to look away from it (see `.gitignore` in this folder), so your space never
+travels to GitHub.
 
-Every user has a folder named by their **email address**:
+The public repo ships the *instructions and a generator* — never anyone's actual
+folder. A folder only ever appears on the machine of the person who made it.
+
+## Set up your space — one command
+
+From the repo root:
 
 ```
-.personal/
-├── darren@neese.us/        ← one user's space
-├── sarah@church.org/       ← another user's space
-├── pastor@firstchurch.org/
-└── ...
+bash .personal/setup.sh
 ```
 
-Inside your own folder, organize however you like. The recommended convention mirrors the repo root layout for easy navigation — book studies nest under a `scripture/` subfolder (so 66 book folders don't pile up at your root), and raw inputs that fed a study go in a `sources/` folder inside the book:
+It asks your email, builds `.personal/<your-email>/` from the starter kit
+(`_template/`), turns it into its own private repo, and (optionally) links it to
+your private git so you can push. Works in Git Bash (Windows), WSL, Linux, and
+macOS.
 
-```
-.personal/<your-email>/
-├── journal/
-│   └── YYYY-MM-DD.md
-├── scripture/               ← book studies, mirroring the repo's scripture/ layout
-│   └── 01-Genesis/
-│       ├── Genesis-01/
-│       │   └── notes.md
-│       └── sources/         ← raw inputs: transcripts, chat exports, scans
-├── topics/
-│   └── prayer.md
-├── words/
-│   └── hesed.md
-├── prayer/
-│   └── lists/
-└── teaching/                ← if you lead a group
-    └── 2026-05-15-discussion.md
-```
+Prefer to do it by hand? Copy `_template/` to `.personal/<your-email>/`, then
+inside it: `git init -b main`, commit, and add your own remote.
 
-But that's only a recommendation. Some people do dated journals only. Some people mirror the entire repo. Some keep a single flat folder. Your space, your call.
+## What's shared vs. what's private
 
-## How sharing works
+- **Private (your repo):** your reflections, application, prayer, journal,
+  teaching prep, speculative connections. Everything is welcome here.
+- **Shared (this public repo, via Pull Request):** the *factual* half — what the
+  text says, means, and connects to — but only the lines that clear the bar in
+  the main `CONTRIBUTING.md`. Offer those back so everyone benefits.
 
-When you commit and push files inside `.personal/<your-email>/`, everyone in the group can pull and read them. There's no permission system — sharing is opt-in by what you choose to commit.
+## Why it's built this way
 
-If you don't want something shared:
+- Your private study and even your email stay off the public repo — privacy is
+  real, not just a convention.
+- The public repo stays a clean, inviting front door: clone it, run one command,
+  and you're studying — your daily notes flow to *your* git, never to GitHub.
+- Each person owns and controls their own history, on whatever host they trust.
 
-1. **Don't commit it** — keep it as an uncommitted file in your working tree, or
-2. **Use `.gitignore` patterns scoped to your folder** — e.g., add `.personal/<your-email>/private/` to a `.gitignore` you maintain, or
-3. **Mark it with `# private` or `do-not-share` in the file's frontmatter** — the `compare-notes` skill respects these markers.
+## What's in this folder (and travels with the public repo)
 
-The repo deliberately doesn't enforce privacy in code. The two-layer model is honesty plus convention: members extend the trust they want extended.
+- `README.md` — this explainer.
+- `setup.sh` — the one-command generator.
+- `_template/` — the starter kit your space is copied from.
+- `.gitignore` — the rule that makes the public repo ignore every real person's
+  folder.
 
-## Skills that write here
-
-Skills that produce personal output (`personal-reflection`, `prayer-from-passage`) always write to `.personal/<user-email>/`. They never write to the shared layer.
-
-Skills that read across the multi-user space (`compare-notes`) enumerate `.personal/*/` and preserve attribution.
-
-## What does NOT go here
-
-- **Factual reference content** (book overviews, key verses, cross-references, people / places / topics that are widely accepted) belongs in the shared layer at the repo root: `scripture/`, `topics/`, `words/`, `people/`, `places/`, `commentary/`, `theology/`, `resources/`.
-- **Denominational position papers and copyrighted-translation extended quotes** don't belong in *either* layer per `CONTRIBUTING.md`.
-- **Other people's reflections** — only ever write inside *your own* email folder. Other users' folders are read-only by convention.
-
-## A note on sensitive content
-
-Notes about other people in the group, pastoral observations, prayer requests with names — these can be appropriate in personal study but are sensitive in a shared-personal layer. Default to caution: if you wouldn't say it in front of the named person, don't commit it. Pastoral notes that name names probably belong in a `private/` subfolder you keep gitignored, or outside the repo entirely.
+Everything else you see here on *your* machine (an email-named folder) is your
+own private repo and is invisible to the public repo.
