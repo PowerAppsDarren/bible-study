@@ -12,14 +12,26 @@ guard="$root/.claude/skills/_bible_dual_home_guard/guard.py"
 # Nothing to do if the guard script isn't present.
 [ -f "$guard" ] || exit 0
 
-if command -v python3 >/dev/null 2>&1; then
-  PY=python3
-elif command -v python >/dev/null 2>&1; then
-  PY=python
+# Pick a REAL Python. On Windows the 'py' launcher is the reliable one; the bare
+# `python3`/`python` names are often a Microsoft Store stub (a WindowsApps shim
+# that only prints an "install from the Store" message and exits non-zero), so
+# skip anything that resolves under WindowsApps.
+PY=""
+if command -v py >/dev/null 2>&1; then
+  PY="py -3"
 else
-  echo "[bible-dual-home-guard] python not found - skipping ~/.claude sync"
+  for c in python3 python; do
+    p="$(command -v "$c" 2>/dev/null)" || continue
+    case "$p" in *[Ww]indows[Aa]pps*) continue ;; esac
+    PY="$c"
+    break
+  done
+fi
+
+if [ -z "$PY" ]; then
+  echo "[bible-dual-home-guard] no real python found - skipping ~/.claude sync"
   exit 0
 fi
 
-"$PY" "$guard" || true
+$PY "$guard" || true
 exit 0
