@@ -1,8 +1,8 @@
 # AI-Chats Master Index
 
-**Last Updated:** 2026-06-22
-**Total Sessions:** 26
-**Total Files:** 144 (session logs) + raw/ history
+**Last Updated:** 2026-06-27
+**Total Sessions:** 27
+**Total Files:** 158 (session logs) + raw/ history
 
 ## 📋 Quick Navigation
 
@@ -17,6 +17,7 @@
 
 | Date       | Session | Model    | Topic                                              | Status      |
 |------------|---------|----------|----------------------------------------------------|-------------|
+| 2026-06-27 | 01      | Opus-4.8 | Whole-Bible scripture rollout — all 1,189 chapters × BBE/WEB/KJV/ASV (4,756 files) + BBE-primary README front pages; `scripts/` (fetch w/ `--bulk` + 117-translation catalog, README index builder, Strong's word-study engine); BBE set as default version; David character study; found + disabled the GitDoc auto-committer | ✅ Complete |
 | 2026-06-22 | 03      | Opus-4.8 | claude_design MCP connector connectivity check (`/v1/design/mcp`) *(reconstructed — system/MCP session)* | ✅ Complete |
 | 2026-06-22 | 02      | Opus-4.8 | Windows tuneup via `/_windows_tuneup` + made the skill host-aware (per-host scripts) *(reconstructed — system session)* | ✅ Complete |
 | 2026-06-22 | 01      | Opus-4.8 | Isaiah 11 devotional ("The Branch the Axe Couldn't Touch" — netzer/sevenfold Spirit) + new `_email_study_guide` skill (email-safe HTML via Mailgun) + sent study to Special Mom addresses | ✅ Complete |
@@ -77,6 +78,7 @@
 
 | Date       | Model    | Description                                                          |
 |------------|----------|----------------------------------------------------------------------|
+| 2026-06-27 | Opus-4.8 | Scripture-population tooling under `scripts/`: `fetch_scripture.py` (getbible v2, per-verse anchors, `--bulk` whole-translation mode, 117-translation catalog), `build_readme_index.py` (BBE-primary README front pages: YAML header + 66-book genre map + prev/next nav + verse table), `word_study.py` (Strong's / OpenScriptures word-study engine → `words/<lang>/`); BBE set as the default version (memory); **GitDoc** extension identified as the silent auto-committer and disabled |
 | 2026-06-12 | Fable-5  | New **global** skill `_output_as_html` (`~/.claude/skills/`) — re-renders prior conversation content as a polished self-contained HTML page (full content preserved, content-appropriate save location, SendUserFile delivery); born from the Isaiah 10 "TUI is hard to read" request |
 | 2026-06-12 | Opus-4.8 | 8th teacher agent (Jamie Winship) + `resources/teachers/<slug>/` library convention; built `_visualize_this` skill (shape→diagram rubric, Mermaid-in-markdown, standalone HTML sheet with vendored UMD Mermaid, per-repo `.claude/_visualize_this.json` config), installed in repo + global; Obsidian vault-as-repo wiring (`visuals/` home, Canvas moved in, `.obsidian/` shared, `workspace.json` → `.personal/<email>/` hardlink + relink script); VS Code terminal `lineHeight` 1.2→1.6 |
 | 2026-05-17 | Opus-4.7 | Personal info scaffolding under `.personal/darren@neese.us/` — profile, reading-plan, prayer-list (tracked) + contacts (gitignored `private/` per `.personal/README.md` convention); `.gitignore` updated for per-user opt-in |
